@@ -1,15 +1,34 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Home from './pages/home-trend'
+import "./../src/index.css"
+import Home from "./pages/home-trend/home-trend" 
+import Favoraterec from "./pages/favouraterec/favouraterec"
+import Login from "./pages/login/login"
+import RecipeDesc from "./pages/recipedesc/recipedesc"
+import RecipeSelector from "./pages/recipeselect/recipeselect"
+import Search from "./pages/searchHome/search-home"
+import SignUp from "./pages/signup/signup"
+
+
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
-      <Home/>
+      
+      <Router>
+          <Home/>
+        <Routes>
+          <Route path="/" element={<Home-Trend />}/>
+          <Route path="/Favorites" element={<Favoraterec/>}/>
+          <Route path="/Login" element={<Login/>}/>
+          <Route path="/RecipeDesc" element={<RecipeDesc/>}/>
+          <Route path="/RecipeSelector" element={<RecipeSelector/>}/>
+          <Route path="/Search" element={<Search/>}/>
+          <Route path="/SignUp" element={<SignUp/>}/>
+        </Routes>
+      </Router>
     </>
   )
 }
