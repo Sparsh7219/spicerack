@@ -4,10 +4,16 @@ from scrapy.linkextractors import LinkExtractor
 class CrawlingSpider(CrawlSpider):
     name="food"
     allowed_domains=["food.com"]
-    start_urls=["https://www.food.com/",
+    start_urls=["https://www.food.com/" ,
                 "https://www.food.com/ideas/top-recipes-for-kids-6975?ref=nav#c-811546",
                 "https://www.food.com/ideas/summer-cocktails-drinks-6268?ref=nav#c-517255"
                 "https://www.food.com/ideas/best-instant-pot-recipes-6928?ref=nav#c-789324"
+                "https://www.food.com/ideas/best-air-fryer-recipes-6847?ref=nav#c-920461"
+                "https://www.food.com/ideas/slow-cooker-recipes-and-crock-pot-recipes-6017?ref=nav#c-638628"
+                "https://www.food.com/ideas/skillet-recipes-6130?ref=nav#c-443712"
+                "https://www.food.com/ideas/ways-to-cook-with-ground-chicken-6027?ref=nav#c-540576"
+                "https://www.food.com/ideas/pizza-flavored-snacks-6292?ref=nav#c-723448"
+                "https://www.food.com/ideas/5-ingredient-dinners-6023?ref=nav#c-806698"
                 ]
 
     rules=(
