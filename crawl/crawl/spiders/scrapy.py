@@ -20,7 +20,6 @@ class CrawlingSpider(CrawlSpider):
         Rule(LinkExtractor(allow=r"/recipe/[^/]+$"), callback="parse_item"),
     )
     
-
     def parse_item(self,response):
         # Extracting ingredients with quantity and link
        
@@ -31,9 +30,8 @@ class CrawlingSpider(CrawlSpider):
             quantity = item.css("span.ingredient-quantity.svelte-1dqq0pw::text").get()
             ingredient_text = ' '.join(item.css("span.ingredient-text::text").getall())
             ingredient_name = item.css("span.ingredient-text.svelte-1dqq0pw a::text").get()
-            ingredient = f"{quantity} {ingredient_text} {ingredient_name}".strip().replace("\n", '').replace('  ', '')
+            ingredient = f"{quantity} {ingredient_text} {ingredient_name}".strip().replace("\n", '').replace('  ', '').replace('None', '')
             ingredients.append(ingredient)
-
 
         # Cleaning up the ingredients list
         ingredients = [ingredient.strip() for ingredient in ingredients if ingredient.strip()]
@@ -42,21 +40,13 @@ class CrawlingSpider(CrawlSpider):
         # Cleaning up the directions list
         directions = [direction.strip() for direction in directions if direction.strip()]
 
-        
         # Extract the src attribute value of the img tag
-        
         image_url = response.css('img.only-desktop::attr(src)').get()
 
         yield{            
-            
             "title":response.css(".title h1::text").get(),
             "ingredients":ingredients,
             "direction":directions,
             'image_url': image_url
-
         }
-	
 
-
-
-	
