@@ -1,10 +1,10 @@
 import json
 
-# Load the JSON data
-recipes = [
-    {"title": "South African Ginger Cookies", "ingredients": ["a","b","c","d"], "direction": ["Mix the golden syrup (or corn syrup), butter, eggs, vinegar, ginger, cinnamon and cloves in a large mixing bowl.", "Stir in the sugar.", "Sift the flour, baking soda and salt into a bowl.", "Mix into the syrup-sugar mixture to make a dough or batter.", "Cover and put in fridge for a few hours.", "Heat oven to 200 deg C/400 deg F. Grease baking tins.", "Roll the dough between your palms into little balls the size of walnuts. Place these balls with space between them on greased baking tins.", "Press each cookie just slightly flatter with the tines of a fork.", "Bake about 12 - 15 mins or until nicely browned, in centre of oven.", "Cool slightly in the tins, then cool completely on wire racks.", "Keep in airtight tins. About 15 doz cookies."], "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/18/93/81/picbSjt7D.jpg"},
-    {"title": "Lasagna in a Skillet - in About 30 Minutes!", "ingredients": ["a","b","c"], "direction": ["Cook meat in a large nonstick skillet over medium-high heat, breaking it into pieces with a wooden spoon, for about 5 minutes (until cooked through).", "Drain meat and return to skillet.", "Stir in garlic, red pepper flakes and 1/2 t. salt and cook over medium-high heat until fragrant (about 30 seconds --  do not burn garlic).", "Sprinkle broken lasagna noodles into the skillet, then pour in marinara sauce and water over the top.", "Cover and cook, stirring often and adjusting heat as necessary to maintain a vigorous simmer, until noodles are tender (about 20 minutes).", "Take the skillet off the heat source and stir in half of the mozzarella and half of the parmesan. Season with salt and pepper.", "Dot heaping tablespoons of ricotta over the noodles, then sprinkle with remaining mozzarella and parmesan.", "Cover and let stand off heat until the cheeses melt (about 3-5 minutes).", "Sprinkle with basil before serving."], "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/32/15/29/vRr7V21qRWGhlZH5h68W_skillet-lasagna-1.jpg"}
-]
+# Function to load recipes from a JSON file
+def load_recipes_from_file(file_path):
+    with open(r'tool\output.json', 'r') as file:
+        recipes = json.load(file)
+    return recipes
 
 # Function to search recipes by ingredients
 def search_recipes_by_ingredients(recipes, user_ingredients):
@@ -14,17 +14,23 @@ def search_recipes_by_ingredients(recipes, user_ingredients):
             matching_recipes.append(recipe)
     return matching_recipes
 
-
 # Example usage:
-ingredients_to_search = input("Enter ingredients separated by commas to search for recipes: ").split(',')
-matching_recipes = search_recipes_by_ingredients(recipes, ingredients_to_search)
-if matching_recipes:
-    print(f"Recipes containing {', '.join(ingredients_to_search)} only:")
-    for recipe in matching_recipes:
-        print("Title:", recipe['title'])
-        print("Ingredients:", recipe['ingredients'])
-        print("Directions:", recipe['direction'])
-        print("Image URL:", recipe['image_url'])
-        print()
-else:
-    print("No recipes found containing only those ingredients.")
+def main():
+    recipes = load_recipes_from_file('recipes.json')
+
+    ingredients_to_search = input("Enter ingredients separated by commas to search for recipes: ").split(',')
+    matching_recipes = search_recipes_by_ingredients(recipes, ingredients_to_search)
+
+    if matching_recipes:
+        print(f"Recipes containing {', '.join(ingredients_to_search)} only:")
+        for recipe in matching_recipes:
+            print("Title:", recipe['title'])
+            print("Ingredients:", recipe['ingredients'])
+            print("Directions:", recipe['direction'])
+            print("Image URL:", recipe['image_url'])
+            print()
+    else:
+        print("No recipes found containing only those ingredients.")
+
+if __name__ == "__main__":
+    main()
