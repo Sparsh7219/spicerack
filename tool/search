@@ -15,7 +15,8 @@ def search_recipes_by_ingredients(recipes, user_ingredients):
     return len(matching_recipes), matching_recipes
 
 # Defalut ingredients
-DEFAULT_INGREDIENTS = ['salt', 'pepper', 'oil', 'onion', 'garlic','butter']
+DEFAULT_INGREDIENTS = ['salt', 'pepper', 'oil', 'onion', 'garlic','butter','sugar','tomato','water','garam masala'
+                       ]
 
 def main():
     recipes = load_recipes_from_file('recipes.json')
