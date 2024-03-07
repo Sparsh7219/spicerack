@@ -2,7 +2,7 @@ import json
 
 # Function to load recipes from a JSON file
 def load_recipes_from_file(file_path):
-    with open(r'tool\output.json', 'r') as file:
+    with open(r'crawl\recipes.json', 'r', encoding='utf-8') as file:
         recipes = json.load(file)
     return recipes
 
