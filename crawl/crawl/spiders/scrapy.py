@@ -4,19 +4,39 @@ from scrapy.linkextractors import LinkExtractor
 class CrawlingSpider(CrawlSpider):
     name="food"
     allowed_domains=["food.com"]
-    start_urls=["https://www.food.com/",
-                "https://www.food.com/ideas/top-recipes-for-kids-6975?ref=nav#c-811546"
+    start_urls=[
+                "https://www.food.com/ideas/quick-easy-pasta-recipes-6078#c-626634"
                 ]
 
     rules=(
         Rule(LinkExtractor(allow=r"/recipe/[^/]+$"), callback="parse_item"),
-        Rule(LinkExtractor(allow=r"/recipes/\?pn=\d+"), follow=True),
     )
     
-
     def parse_item(self,response):
-        yield{
+        # Extracting ingredients with quantity and link
+       
+        ingredients = []
+        ingredient_items = response.css("ul.ingredient-list.svelte-1dqq0pw li")
+
+        for item in ingredient_items:
+            ingredient_name = item.css("span.ingredient-text.svelte-1dqq0pw a::text").get()
+            ingredient = f"{ingredient_name}".strip().replace("\n", '').replace('  ', '').replace('None', '')
+            ingredients.append(ingredient)
+
+        # Cleaning up the ingredients list
+        ingredients = [ingredient.strip() for ingredient in ingredients if ingredient.strip()]
+
+        directions = response.css("ul.direction-list.svelte-1dqq0pw li.direction.svelte-1dqq0pw::text").getall()
+        # Cleaning up the directions list
+        directions = [direction.strip() for direction in directions if direction.strip()]
+
+        # Extract the src attribute value of the img tag
+        image_url = response.css('img.only-desktop::attr(src)').get()
+
+        yield{            
             "title":response.css(".title h1::text").get(),
-            "direction":response.css(".directions__title::text").get(),
-            "ingredients":response.css(".ingredients__title::text").get()
+            "ingredients":ingredients,
+            "direction":directions,
+            'image_url': image_url
         }
+

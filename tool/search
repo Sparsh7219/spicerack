@@ -1,0 +1,43 @@
+import json
+
+# Function to load recipes from a JSON file
+def load_recipes_from_file(file_path):
+    with open(r'crawl\recipes.json', 'r', encoding='utf-8') as file:
+        recipes = json.load(file)
+    return recipes
+
+# Function to search recipes by ingredients
+def search_recipes_by_ingredients(recipes, user_ingredients):
+    matching_recipes = []
+    for recipe in recipes:
+        if set(user_ingredients).issuperset(set(recipe['ingredients'])):
+            matching_recipes.append(recipe)
+    return len(matching_recipes), matching_recipes
+
+# Defalut ingredients
+DEFAULT_INGREDIENTS = ['salt', 'pepper', 'oil', 'onion', 'garlic','butter','sugar','tomato','water','garam masala'
+                       ]
+
+def main():
+    recipes = load_recipes_from_file('recipes.json')
+
+    ingredients_to_search = input("Enter ingredients separated by commas to search for recipes: ").split(',')
+    ingredients_to_search.extend(DEFAULT_INGREDIENTS)  # Add default ingredients
+
+    count, matching_recipes = search_recipes_by_ingredients(recipes, ingredients_to_search)
+
+    if count > 0:
+        print(f"Number of recipes found: {count}")
+        print(f"Recipes containing {', '.join(ingredients_to_search)}:")
+        for recipe in matching_recipes:
+            print("Title:", recipe['title'])
+            print("Ingredients:", recipe['ingredients'])
+            print("Directions:", recipe['direction'])
+            print("Image URL:", recipe['image_url'])
+            print()
+    else:
+        print("No recipes found containing those ingredients.")
+
+if __name__ == "__main__":
+    main()
+
