@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import logo from "./../../assets/logo.png";
 import styles from "./navbar.module.css"
-import { NavLink } from "react-router-dom"
+import { NavLink,Link } from "react-router-dom"
 import HomeRoundedIcon from '@mui/icons-material/HomeRounded';
 import SearchRoundedIcon from '@mui/icons-material/SearchRounded';
 import FavoriteBorderRoundedIcon from '@mui/icons-material/FavoriteBorderRounded';
@@ -18,11 +18,13 @@ const Navbar = () => {
     <>
       <div className={styles.navbar}>
         <div className={styles.navbar-logo}>
+        <Link to="/">
           <img className={styles.logo} src={logo} alt="Logo" />
+          </Link>
         </div>
         <ul>
           <li className='nav-item'>
-            <NavLink to="/Home" onClick={() => handleTabClick('Home')} className={activeTab === 'Home' ? 'active' : ''}>
+            <NavLink to="/" onClick={() => handleTabClick('Home')} className={activeTab === 'Home' ? 'active' : ''}>
               <HomeRoundedIcon />
               {activeTab === 'Home' && <span>Home</span>}
             </NavLink>
