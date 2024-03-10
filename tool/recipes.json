@@ -453,7 +453,7 @@
     "id": 17,
     "title": "Torta Salata Di Farro - Savory Farro Pie",
     "ingredients": [
-      "fresh ricotta",
+      " ricotta",
       "egg",
       "parmigiano",
       "parsley",
@@ -2690,7 +2690,7 @@
     "ingredients": [
       "mustard",
       "garlic",
-      "chicken breasts",
+      "chicken breast",
       "mushroom",
       "chicken broth",
       "thyme lettuce"
@@ -2712,7 +2712,7 @@
     "id": 107,
     "title": "Tarragon Chicken Casserole",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "onion",
       "tarragon",
       "poultry seasoning",
@@ -3063,7 +3063,7 @@
       "tomato",
       "pork chops",
       "lemon-pepper seasoning",
-      "fresh oregano"
+      " oregano"
     ],
     "direction": [
       "In a small bowl combine tomato and salad dressing, set aside.",
@@ -3130,7 +3130,8 @@
       "cilantro",
       "tomato",
       "chilies",
-      "monterey jack and cheddar cheese",
+      "monterey jack",
+      "cheddar cheese",
       "sour cream"
     ],
     "direction": [
@@ -3210,7 +3211,7 @@
     "id": 127,
     "title": "Loaded Cauliflower (As Seen on Facebook)",
     "ingredients": [
-      "head cauliflower",
+      "cauliflower",
       "chives",
       "mayonnaise",
       "sour cream",
@@ -3262,7 +3263,7 @@
       "salt",
       "pepper",
       "ground pepper",
-      "fresh chives"
+      "chives"
     ],
     "direction": [
       "Place the turnips and the garlic in a saucepan with a tight-fitting lid.",
@@ -3286,7 +3287,7 @@
       "pepper",
       "salt",
       "pepper",
-      "head cauliflower",
+      "cauliflower",
       "egg",
       "parsley",
       "lemon"
@@ -3350,7 +3351,7 @@
     "ingredients": [
       "zucchini",
       "butter",
-      "fresh oregano",
+      "oregano",
       "parmesan cheese"
     ],
     "direction": [
@@ -3367,7 +3368,7 @@
     "id": 134,
     "title": "Oven Roasted Brussels Sprouts",
     "ingredients": [
-      " Brussels sprouts",
+      "Brussels sprouts",
       "olive oil",
       "salt"
     ],
@@ -3385,10 +3386,10 @@
     "ingredients": [
       "onion",
       "clove",
-      "crushed pepper",
-      "seasoning salt",
       "pepper",
-      "light sugar"
+      "salt",
+      "pepper",
+      "sugar"
     ],
     "direction": [
       "In a deep pot brown bacon add onion and garlic and optional sugar to fried bacon.",
@@ -3426,7 +3427,7 @@
     "ingredients": [
       "zucchini",
       "olive oil",
-      "seasoning salt",
+      "salt",
       "parmesan cheese"
     ],
     "direction": [
@@ -3446,7 +3447,7 @@
       "garlic",
       "parsley",
       "olive oil",
-      "fresh asparagus",
+      "asparagus",
       "bacon"
     ],
     "direction": [
@@ -3526,7 +3527,7 @@
     "id": 142,
     "title": "Garlic Roasted Asparagus With Parmesan",
     "ingredients": [
-      "fresh asparagus",
+      "asparagus",
       "clove",
       "olive oil",
       "salt",
@@ -3635,7 +3636,7 @@
       "kale",
       "soy sauce",
       "water",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "In a medium skillet, cook the ginger root in oil, stirring, over medium heat for 1 minute.",
@@ -3655,7 +3656,7 @@
       "beans",
       "pine nuts",
       "feta cheese",
-      "flat leaf parsley",
+      "parsley",
       "olive oil",
       "clove",
       "chili powder"
@@ -3805,7 +3806,7 @@
       "water",
       "mustard",
       "Brussels sprout",
-      "cider vinegar"
+      "vinegar"
     ],
     "direction": [
       "Cook bacon in a large skillet over medium heat until crisp (5 to 7 minutes); drain on paper towels, then crumble.",
@@ -3880,7 +3881,7 @@
       "stevia",
       "cinnamon",
       "salt",
-      "coconut flakes",
+      "coconut",
       "cayenne"
     ],
     "direction": [
@@ -3895,7 +3896,7 @@
     "id": 159,
     "title": "Low Carb Breakfast Balls",
     "ingredients": [
-      "bulk pork sausage",
+      "pork sausage",
       "beef",
       "egg",
       "black pepper",
@@ -3932,17 +3933,15 @@
     "id": 161,
     "title": "Low Carb Stuffed Bell Peppers",
     "ingredients": [
-      "peppers",
+      "pepper",
       "olive oil",
       "onion",
       "clove",
-      "onion",
-      "peppers",
       "ground turkey",
       "tomato",
       "parsley",
-      "seasoning salt",
-      "pre-shredded mozzarella cheese",
+      "salt",
+      "mozzarella cheese",
       "cheese"
     ],
     "direction": [
@@ -3987,7 +3986,7 @@
     "ingredients": [
       "chicken breast",
       "clove",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "cumin",
       "chili powder",
       "paprika",
@@ -4015,7 +4014,6 @@
       "cream cheese",
       "egg",
       "heavy cream",
-      "cheddar cheese",
       "beef",
       "tomato sauce",
       "chilies",
@@ -4063,7 +4061,7 @@
     "id": 166,
     "title": "Bouillabaisse",
     "ingredients": [
-      "dry sherry",
+      "sherry",
       "saffron",
       "trout",
       "scallops",
@@ -4082,9 +4080,6 @@
       "salt",
       "thyme",
       "basil",
-      "parsley",
-      "pepper",
-      "garlic-infused olive oil",
       "parsley",
       "pepper"
     ],
@@ -4113,7 +4108,7 @@
       "chicken broth",
       "heavy cream",
       "Fontina cheese",
-      "sharp white cheddar cheese",
+      "cheddar cheese",
       "olive oil"
     ],
     "direction": [
@@ -4130,12 +4125,12 @@
     "id": 168,
     "title": "Low Carb Crock Pot Pizza Soup",
     "ingredients": [
-      "crushed tomato",
+      "tomato",
       "beef broth",
       "mushroom",
       "pepper",
       "onion",
-      "Italian sausage",
+      "sausage",
       "garlic powder",
       "oregano",
       "mozzarella cheese",
@@ -4154,7 +4149,7 @@
     "id": 169,
     "title": "Easy Baked Chicken Parmesan (No Breading)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "garlic",
       "parmesan cheese",
@@ -4167,7 +4162,7 @@
       "salt",
       "black pepper",
       "bay leaf",
-      "2% mozzarella cheese"
+      "mozzarella cheese"
     ],
     "direction": [
       "The morning or the night before serving, combine italian dressing, ranch dressing, 3 tablespoons minced garlic and 2 tablespoons olive oil in a large zip lock bag. Squish bag around to combine all ingredients. Add chicken breasts to bag, close and squish until they are well coated in the dressing mixture. Put the bag in bowl (to prevent spills) and refrigerate all day or overnight up 24 hours.",
@@ -4188,7 +4183,7 @@
     "id": 170,
     "title": "Crock Pot Thai Chicken Thighs",
     "ingredients": [
-      "skinless chicken thighs",
+      "chicken thighs",
       "cilantro salsa",
       "peanut butter",
       "ginger",
@@ -4233,7 +4228,7 @@
       "butter",
       "cream cheese",
       "chicken broth",
-      "heavy whipping cream",
+      "whipping cream",
       "cheddar cheese"
     ],
     "direction": [
@@ -4294,7 +4289,7 @@
       "chili powder",
       "garlic powder",
       "lime juice",
-      "chicken breasts"
+      "chicken breast"
     ],
     "direction": [
       "Combine first all ingredients for marinade.",
@@ -4310,7 +4305,7 @@
       "celery",
       "mayonnaise",
       "mustard",
-      "fresh chives"
+      "chives"
     ],
     "direction": [
       "Prepare whole chicken breast;grilled is tastier.",
@@ -4326,7 +4321,7 @@
     "id": 177,
     "title": "Baked Pesto Chicken",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "basil pesto",
       "tomato",
       "mozzarella cheese"
@@ -4356,7 +4351,7 @@
       "salt",
       "turmeric",
       "pepper",
-      "chicken breasts"
+      "chicken breast"
     ],
     "direction": [
       "Combine oil, scallions, parsley, cilantro, garlic, paprika, cumin, salt, turmeric and cayenne pepper in the container of a food processor.",
@@ -4378,7 +4373,7 @@
       "paprika",
       "oregano",
       "black pepper",
-      "whole chickens",
+      "chicken",
       "lime"
     ],
     "direction": [
@@ -4426,12 +4421,12 @@
       "onion",
       "clove",
       "olive oil",
-      "Mexican oregano",
+      "oregano",
       "cumin",
       "salt",
       "black pepper",
       "paprika",
-      "limes, juice of",
+      "lime",
       "cilantro leaf"
     ],
     "direction": [
@@ -4490,9 +4485,9 @@
     "id": 184,
     "title": "Easy Lemon Chicken -Gluten Free",
     "ingredients": [
-      "chicken breast fillets",
+      "chicken breast",
       "butter",
-      "gluten-free cornflour",
+      "cornflour",
       "sugar",
       "lemon juice",
       "ginger"
@@ -4512,7 +4507,7 @@
     "ingredients": [
       "olive oil",
       "onion",
-      "cauliflower florets",
+      "cauliflower",
       "water",
       "salt",
       "parsley"
@@ -4530,17 +4525,17 @@
     "id": 186,
     "title": "Gluten-Free Pizza Crust",
     "ingredients": [
-      "dry yeast",
-      "gram flour",
+      "yeast",
+      "flour",
       "tapioca flour",
       "powdered milk",
       "xanthan gum",
       "salt",
-      "unflavored gelatin",
+      "gelatin",
       "water",
       "honey",
       "olive oil",
-      "cider vinegar"
+      "vinegar"
     ],
     "direction": [
       "Preheat oven to 425 degrees F.",
@@ -4561,7 +4556,7 @@
     "id": 187,
     "title": "Zesty Low-Fat Chicken Breasts",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "ketchup",
       "salsa",
       "honey",
@@ -4676,7 +4671,7 @@
     "id": 192,
     "title": "Gluten-Free Pancakes",
     "ingredients": [
-      "Gluten-Free Flour Blend",
+      "flour",
       "xanthan gum",
       "baking powder",
       "salt",
@@ -4707,7 +4702,7 @@
       "lemon juice",
       "dry wine",
       "butter",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Put olive oil and garlic in a large skillet over medium heat and cook slowly to infuse the oil with the garlic, but do not burn garlic.",
@@ -4734,7 +4729,7 @@
       "baking powder",
       "xanthan gum",
       "salt",
-      "cider vinegar"
+      "vinegar"
     ],
     "direction": [
       "Preheat oven to 375\u00b0F  and put a pot of salted water on to boil.",
@@ -4861,7 +4856,7 @@
       "salt",
       "paprika",
       "onion powder",
-      "chicken breasts",
+      "chicken breast",
       "mayonnaise"
     ],
     "direction": [
@@ -4875,17 +4870,16 @@
     "id": 200,
     "title": "Low Carb Stuffed Bell Peppers",
     "ingredients": [
-      "peppers",
+      "pepper",
       "olive oil",
-      "onion",
       "clove",
       "onion",
-      "peppers",
+      "pepper",
       "ground turkey",
       "tomato",
       "parsley",
-      "seasoning salt",
-      "pre-shredded mozzarella cheese",
+      "salt",
+      "mozzarella cheese",
       "cheese"
     ],
     "direction": [
@@ -4969,7 +4963,7 @@
       "Worcestershire sauce",
       "egg",
       "milk",
-      "minced beef",
+      "beef",
       "pork sausage",
       "onion",
       "clove",
@@ -4997,18 +4991,18 @@
     "title": "Low Fat White Chicken Chili",
     "ingredients": [
       "olive oil",
-      "skinless chicken",
+      "chicken",
       "onion",
       "clove",
       "great northern beans",
-      "fat free chicken broth",
-      "diced chilies",
+      "chicken broth",
+      "chilies",
       "salt",
       "oregano",
       "cumin",
       "pepper",
       "black pepper",
-      "fat free sour cream"
+      "sour cream"
     ],
     "direction": [
       "Saute the 1st 4 ingredients together.",
@@ -5028,8 +5022,7 @@
       "egg substitute",
       "sugar",
       "water",
-      "fast rise yeast",
-      "butter",
+      "yeast",
       "vinegar",
       "butter"
     ],
@@ -5050,9 +5043,8 @@
     "id": 206,
     "title": "Gluten-Free Potato Kneidlach / Non-Gebrokts Soup Dumplings",
     "ingredients": [
-      "russet potato",
+      "potato",
       "egg",
-      "potato starch",
       "potato starch",
       "salt",
       "white pepper",
@@ -5070,7 +5062,7 @@
     "id": 207,
     "title": "Low Carb Scotch Eggs",
     "ingredients": [
-      "bulk pork sausage",
+      "pork sausage",
       "cheddar cheese",
       "garlic powder",
       "banana pepper"
@@ -5089,7 +5081,7 @@
     "ingredients": [
       "water",
       "sugar",
-      "active dry yeast",
+      "yeast",
       "buckflour",
       "salt",
       "xanthan gum",
@@ -5198,7 +5190,7 @@
     "id": 212,
     "title": "Gluten Free Soft Pretzel",
     "ingredients": [
-      "active dry yeast",
+      "yeast",
       "water",
       "water",
       "sugar",
@@ -5332,7 +5324,7 @@
       "cilantro",
       "lime juice",
       "lime zest",
-      "fat free tortillas",
+      "tortillas",
       "corn",
       "tomato",
       "scallion",
@@ -5429,7 +5421,7 @@
       "onion",
       "clove",
       "pepper",
-      "chicken breasts",
+      "chicken breast",
       "corn",
       "dry wine",
       "cumin",
@@ -5478,7 +5470,7 @@
       "quinoa",
       "onion",
       "minced clove",
-      "peppers",
+      "pepper",
       "black beans",
       "tomato",
       "salsa",
@@ -5568,7 +5560,7 @@
       "salt",
       "black pepper",
       "salmon fillets",
-      "fresh blueberries",
+      " blueberries",
       "lemon slice",
       "basil sprig",
       "paprika"
@@ -5598,7 +5590,7 @@
       "milk",
       "beef",
       "onion",
-      "pre-shredded mozzarella cheese"
+      "mozzarella cheese"
     ],
     "direction": [
       "Preheat oven to 400 degrees.",
@@ -5618,7 +5610,7 @@
     "id": 228,
     "title": "Kathy #1 - Chicken Corn Soup (Zwt - Asia)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "salt",
       "black pepper",
       "cornstarch",
@@ -5663,7 +5655,7 @@
       "ginger",
       "garlic",
       "curry powder",
-      "skinless chicken breast",
+      "chicken breast",
       "parsley",
       "peanuts"
     ],
@@ -5693,7 +5685,7 @@
       "vanilla extract",
       "butter",
       "Splenda granular",
-      "fat free cream cheese",
+      "cream cheese",
       "vanilla extract",
       "strawberry"
     ],
@@ -5732,7 +5724,7 @@
       "basil",
       "oregano lettuce",
       "bread flour",
-      "fast-rising active dry yeast"
+      "fast-rising yeast"
     ],
     "direction": [
       "Add all the ingredients in the bread pan of bread machine. Process according to manufacturer's instructions for a dough setting.",
@@ -5762,7 +5754,7 @@
       "no-salt-added tomato sauce",
       "sugar",
       "yellow mustard",
-      "cider vinegar"
+      "vinegar"
     ],
     "direction": [
       "Saute onion, celery and carrot in olive oil until tender; cool slightly.",
@@ -5787,7 +5779,7 @@
       "oregano",
       "pepper",
       "water",
-      "fresh tomato",
+      " tomato",
       "zucchini",
       "lemon juice"
     ],
@@ -5815,7 +5807,7 @@
       "basil",
       "thyme",
       "salt",
-      "skinless chicken breast",
+      "chicken breast",
       "clove",
       "olive oil",
       "onion",
@@ -5870,7 +5862,7 @@
       "parsley",
       "black pepper",
       "salt",
-      "chicken breasts",
+      "chicken breast",
       "penne pasta",
       "parmesan cheese"
     ],
@@ -5896,7 +5888,7 @@
       "onion",
       "celery",
       "chili powder",
-      " whole kernel corn",
+      " kernel corn",
       "Worcestershire sauce",
       "no-salt-added tomato",
       "water",
@@ -5919,7 +5911,7 @@
     "id": 239,
     "title": "Grilled Chicken Breast with Spicy Pineapple Mango Salsa",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "thyme",
       "olive oil",
@@ -5928,7 +5920,7 @@
       "chipotle chile",
       "garlic",
       "cilantro",
-      "crushed pineapple",
+      "pineapple",
       "mango",
       "lime juice",
       "ginger",
@@ -5954,7 +5946,7 @@
     "id": 240,
     "title": "Chicken and Sprouts Stir Fry",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "beans sprouts",
       "gingerroot",
       "clove",
@@ -6056,7 +6048,7 @@
       "chili powder",
       "salt",
       "black pepper",
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "onion",
       "clove",
@@ -6106,15 +6098,15 @@
       "spaghetti",
       "cornstarch",
       "reduced sodium soy sauce",
-      "skinless chicken breast",
+      "chicken breast",
       "vinegar",
       "sugar",
       "canola oil",
-      "fresh snow peas",
+      " snow peas",
       "carrot",
       "onion",
       "ginger",
-      "crushed pepper"
+      "pepper"
     ],
     "direction": [
       "Cook pasta according to package directions.",
@@ -6202,7 +6194,7 @@
       "mustard",
       "olive oil",
       "thyme",
-      "skinless chicken breast halves",
+      "chicken breast",
       "parmesan cheese",
       "water",
       "arugula",
@@ -6235,7 +6227,7 @@
       "olive oil",
       "onion",
       "apple",
-      "fresh cranberries",
+      " cranberries",
       "sage sprig"
     ],
     "direction": [
@@ -6290,9 +6282,9 @@
       "sugar",
       "clove",
       "ginger",
-      "crushed pepper",
+      "pepper",
       "black pepper",
-      "chicken breasts",
+      "chicken breast",
       "angel hair pasta",
       "nectarines",
       "baby bok choy",
@@ -6313,7 +6305,7 @@
     "id": 254,
     "title": "Tuscan Chicken Stew",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "dried rosemary",
       "olive oil",
       "garlic",
@@ -6340,7 +6332,7 @@
       "spinach",
       "onion",
       "clove",
-      "skinless chicken breast",
+      "chicken breast",
       "tomato",
       "tomato paste",
       "basil",
@@ -6459,8 +6451,8 @@
     "ingredients": [
       "chicken broth",
       "water",
-      "fresh asparagus",
-      "skinless chicken breast",
+      " asparagus",
+      "chicken breast",
       "lemon juice",
       "olive oil",
       "dried dill weed",
@@ -6491,7 +6483,7 @@
       "beef",
       "black beans",
       "tomato",
-      "diced chilies",
+      "chilies",
       "onion",
       "garlic",
       "cheese",
@@ -6576,7 +6568,7 @@
     "id": 263,
     "title": "Grilled Orange Chicken Breasts",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "lime juice",
       "clove",
@@ -6611,7 +6603,7 @@
     "title": "Mexican Casserole - 6.5 Weight Watcher Points",
     "ingredients": [
       "onion",
-      "fresh tomato",
+      " tomato",
       "kernel corn",
       "black beans",
       "corn tortillas",
@@ -6664,7 +6656,7 @@
     "id": 267,
     "title": "Gluten-Free Pancakes",
     "ingredients": [
-      "Gluten-Free Flour Blend",
+      "flour",
       "xanthan gum",
       "baking powder",
       "salt",
@@ -6692,7 +6684,7 @@
       "salt",
       "oregano",
       "olive oil",
-      "chicken breasts",
+      "chicken breast",
       "mozzarella cheese"
     ],
     "direction": [
@@ -6712,7 +6704,7 @@
     "id": 269,
     "title": "Mediterranean Chicken Breasts With Avocado Tapenade",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "lemon peel",
       "lemon juice",
       "olive oil",
@@ -6743,7 +6735,7 @@
       "kale",
       "soy sauce",
       "water",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "In a medium skillet, cook the ginger root in oil, stirring, over medium heat for 1 minute.",
@@ -6849,7 +6841,7 @@
     "id": 275,
     "title": "Tarragon Chicken Casserole",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "onion",
       "tarragon",
       "poultry seasoning",
@@ -6942,7 +6934,7 @@
     "title": "Baked-Up Fried Chicken, Low Fat",
     "ingredients": [
       "low-fat buttermilk",
-      "chicken breasts",
+      "chicken breast",
       "flour",
       "salt",
       "garlic powder",
@@ -7212,7 +7204,7 @@
     "id": 292,
     "title": "Low Carb Scotch Eggs",
     "ingredients": [
-      "bulk pork sausage",
+      "pork sausage",
       "cheddar cheese",
       "garlic powder",
       "banana pepper"
@@ -7370,7 +7362,7 @@
       "onion",
       "ginger",
       "clove",
-      "chicken breasts",
+      "chicken breast",
       "carrot",
       "sweet potato",
       "currants",
@@ -7432,7 +7424,7 @@
       "sugar",
       "ginger",
       "clove",
-      "skinless chicken thighs",
+      "chicken thighs",
       "bell pepper",
       "scallions",
       "rice"
@@ -7731,7 +7723,7 @@
       "olive",
       "tomato",
       "olive oil",
-      "flat leaf parsley",
+      "parsley",
       "lemon juice",
       "salt",
       "black pepper",
@@ -7911,7 +7903,7 @@
     "ingredients": [
       "flour",
       "water",
-      "dry active yeast",
+      "dry yeast",
       "water",
       "flour",
       "flour",
@@ -8232,7 +8224,7 @@
     "title": "Sauteed Chicken With Cherry Tomatoes",
     "ingredients": [
       "olive oil",
-      "chicken breasts",
+      "chicken breast",
       "clove",
       "shallots",
       "tomato",
@@ -8366,7 +8358,7 @@
       "asparagus",
       "lemon",
       "black pepper",
-      "seasoning salt",
+      "salt",
       "lemon wedge"
     ],
     "direction": [
@@ -8437,7 +8429,7 @@
       "lemon juice",
       "dry wine",
       "butter",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Put olive oil and garlic in a large skillet over medium heat and cook slowly to infuse the oil with the garlic, but do not burn garlic.",
@@ -8494,7 +8486,7 @@
       "fat-free cool whip",
       "apples",
       "pineapple tidbits",
-      "fat free sugar-free instant butterscotch pudding mix",
+      "sugar-free instant butterscotch pudding mix",
       "peanuts"
     ],
     "direction": [
@@ -8569,7 +8561,7 @@
       "vanilla extract",
       "butter",
       "maple syrup",
-      "fresh strawberries"
+      " strawberries"
     ],
     "direction": [
       "Spread the cream cheese on all 4 slices of bread.",
@@ -8613,7 +8605,7 @@
     "title": "Garlic Soup That Cures What Ails You (Aka Hangover Soup)",
     "ingredients": [
       "heads of garlic",
-      "whole clove",
+      "clove",
       "dried sage",
       "dried leaf thyme",
       "parsley",
@@ -8638,7 +8630,7 @@
     "id": 347,
     "title": "Quinoa Crusted Chicken Fingers",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "salt",
       "garlic powder",
       "black pepper",
@@ -8697,7 +8689,7 @@
       "black pepper",
       "clove",
       "basil",
-      "chicken breasts",
+      "chicken breast",
       "tomato",
       "onion",
       "clove",
@@ -8831,7 +8823,7 @@
       "orange, juice and zest of",
       "honey",
       "avocado",
-      "fresh blueberries"
+      " blueberries"
     ],
     "direction": [
       "Variations-Instead of blueberries and pepitas try any of the following: blackberries and walnuts, sliced strawberries and pecans, raspberries and sliced almonds, marionberries and hazelnuts (<<--Oregon style!). I chose blackberry and walnut. There is a blackberry bush down the street that now is producing and I had to act quickly before the deer devoured my secret stash.",
@@ -8884,7 +8876,7 @@
       "parsley",
       "garlic powder",
       "ground pepper",
-      "skinless chicken breast"
+      "chicken breast"
     ],
     "direction": [
       "Preheat oven to 400 degrees.",
@@ -9135,7 +9127,7 @@
       "tomato",
       "flour",
       "egg",
-      "fresh mint lettuce",
+      " mint lettuce",
       "cilantro lettuce",
       "sugar",
       "limes",
@@ -9187,7 +9179,7 @@
     "id": 367,
     "title": "Onion  Bhaji",
     "ingredients": [
-      "gram flour",
+      "flour",
       "chili powder",
       "turmeric",
       "baking powder",
@@ -9285,7 +9277,7 @@
     "title": "Delicious Homemade Instant Jalebis!",
     "ingredients": [
       "flour",
-      "gram flour",
+      "flour",
       "yogurt",
       "water",
       "baking soda",
@@ -9332,7 +9324,7 @@
       "clove",
       "onion",
       "clove",
-      "chicken breast halves",
+      "chicken breast",
       "salt",
       "cinnamon",
       "ground cardamom",
@@ -9430,7 +9422,7 @@
       "tomato",
       "yogurt",
       "chili powder",
-      "whole clove",
+      "clove",
       "green cardamom pods",
       "black cardamom pods",
       "black peppercorns",
@@ -9442,7 +9434,7 @@
       "salt",
       "bay lettuce",
       "dried plums",
-      "fresh chilies",
+      " chilies",
       "cilantro",
       "saffron",
       "rice",
@@ -9770,7 +9762,7 @@
     "id": 388,
     "title": "My Addictive Besan(Gram flour) Ladoo- will leave u licking ur fingers clean!",
     "ingredients": [
-      "gram flour",
+      "flour",
       "cashew",
       "ghee",
       "cardamom",
@@ -9800,8 +9792,8 @@
       "apples",
       "red chilies",
       "mustard seed",
-      "cider vinegar",
-      "light sugar",
+      "vinegar",
+      "sugar",
       "salt"
     ],
     "direction": [
@@ -9911,7 +9903,7 @@
       "water",
       "ghee",
       "cinnamon sticks",
-      "whole clove",
+      "clove",
       "onion",
       "minced clove",
       "salt",
@@ -10019,7 +10011,7 @@
       "black cardamom pod",
       "cinnamon sticks",
       "peppercorns",
-      "whole clove",
+      "clove",
       "onion",
       "ginger paste",
       "garlic",
@@ -10099,7 +10091,7 @@
     "ingredients": [
       "rice",
       "olive oil",
-      "whole cumin seed",
+      "cumin seed",
       "onion",
       "chili pepper",
       "tomato",
@@ -10123,7 +10115,7 @@
     "ingredients": [
       "water",
       "sugar",
-      "active dry yeast",
+      "yeast",
       "salt",
       "flour"
     ],
@@ -10225,7 +10217,7 @@
     "id": 403,
     "title": "Papadams",
     "ingredients": [
-      "gram flour",
+      "flour",
       "black pepper",
       "cumin",
       "salt",
@@ -10560,9 +10552,9 @@
       "water",
       "water",
       "stewing beef",
-      "whole cardamom pods",
+      "cardamom pods",
       "bay lettuce",
-      "whole clove",
+      "clove",
       "peppercorns",
       "cinnamon sticks",
       "onion",
@@ -10681,9 +10673,9 @@
       "cumin",
       "salt",
       "black pepper",
-      "crushed pepper",
+      "pepper",
       "tomato paste",
-      "crushed tomato",
+      "tomato",
       "heavy cream",
       "cilantro leaf",
       "rice"
@@ -10744,7 +10736,7 @@
       "ginger",
       "five-spice powder",
       "salt",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "Make a couple of slashes ?on each drumstick, ready ?for marinating.",
@@ -10795,7 +10787,7 @@
       "mustard seed",
       "onion",
       "turmeric powder",
-      "chili peppers",
+      "chili pepper",
       "cilantro",
       "flour"
     ],
@@ -10914,7 +10906,7 @@
       "chili powder",
       "ground turmeric",
       "cinnamon",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "sugar",
       "salt",
@@ -10967,7 +10959,7 @@
     "title": "Gordon Ramsay's Tikka Masala",
     "ingredients": [
       "onion",
-      "fresh green chile",
+      " green chile",
       "ginger",
       "clove",
       "chili powder",
@@ -10976,7 +10968,7 @@
       "soft sugar",
       "tomato",
       "tomato",
-      "chicken breasts",
+      "chicken breast",
       "dried curry lettuce",
       "yogurt",
       "coriander"
@@ -11025,7 +11017,7 @@
       "pepper",
       "cinnamon",
       "clove",
-      "skinless chicken thighs"
+      "chicken thighs"
     ],
     "direction": [
       "Stir together lime juice, yogurt, minced chiles, salt, turmeric, coriander, cumin, ginger, garlic, cayenne, cinnamon, cloves, and 1 tbsp of oil in a mixing bowl.",
@@ -11301,7 +11293,7 @@
       "pepper",
       "salt",
       "black pepper",
-      "skinless chicken thighs",
+      "chicken thighs",
       "garam masala",
       "pepper",
       "cornstarch",
@@ -11476,14 +11468,14 @@
       "garlic",
       "carrot",
       "celery",
-      "sweet Italian sausage links",
+      "sweet sausage links",
       "dry oregano",
       "dry basil",
       "pepper",
       "tomato",
       "cannellini beans",
       "small shell pasta",
-      "flat leaf parsley",
+      "parsley",
       "parmesan cheese"
     ],
     "direction": [
@@ -11564,7 +11556,7 @@
       "parmesan cheese",
       "garlic",
       "parsley",
-      "seasoning salt",
+      "salt",
       "black pepper",
       "mozzarella cheese",
       "egg",
@@ -11589,7 +11581,7 @@
     "id": 451,
     "title": "My Chicken Parmigiana",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "egg",
       "margarine",
       "mozzarella cheese",
@@ -11611,7 +11603,7 @@
     "id": 452,
     "title": "Zuppa Di Salsiccia Italiana (Italian Sausage Soup)",
     "ingredients": [
-      "hot Italian sausage",
+      "hot sausage",
       "chicken broth",
       "clove",
       "shallot",
@@ -11646,7 +11638,7 @@
       "beef",
       "onion",
       "olive oil",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "water",
       "parsley",
@@ -11713,7 +11705,7 @@
     "id": 456,
     "title": "Chicken Parmesan",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "egg",
       "olive oil",
       "chicken broth",
@@ -11879,7 +11871,7 @@
       "tomato",
       "capers",
       "black olives",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Preheat the oven to 425 degrees. Have ready a flameproof baking dish or roasting pan large enough to hold the fish in a single layer.",
@@ -11915,7 +11907,7 @@
     "id": 464,
     "title": "Chicken Parmesan (Low-Carb, Keto)",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "flour",
       "parmesan cheese",
       "egg",
@@ -11940,7 +11932,7 @@
     "id": 465,
     "title": "Olive Garden Stuffed Chicken Parmigiana",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "cheese",
       "cheese",
       "parmesan cheese",
@@ -11995,7 +11987,7 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "fresh tomato",
+      " tomato",
       "cucumber",
       "onion",
       "green olives",
@@ -12056,7 +12048,7 @@
     "id": 469,
     "title": "Mozzato Salad (Aka Caprese)",
     "ingredients": [
-      "fresh mozzarella cheese",
+      " mozzarella cheese",
       "tomato",
       "basil",
       "olive oil",
@@ -12212,7 +12204,7 @@
     "ingredients": [
       "water",
       "sugar",
-      "active dry yeast",
+      "yeast",
       "bread flour",
       "salt",
       "vegetable shortening",
@@ -12280,7 +12272,7 @@
       "sultana",
       "dark rum",
       "water",
-      "active dry yeast",
+      "yeast",
       "water",
       "unbleached flour",
       "sugar",
@@ -12309,7 +12301,7 @@
     "id": 478,
     "title": "Blackberry Gelato",
     "ingredients": [
-      "fresh blackberries",
+      " blackberries",
       "sugar",
       "heavy cream",
       "salt"
@@ -12357,7 +12349,7 @@
     "id": 480,
     "title": "Basil and Lime Granita",
     "ingredients": [
-      "limes, juice of",
+      "lime",
       "basil",
       "sugar",
       "water",
@@ -12503,7 +12495,7 @@
       "sugar",
       "pine nuts",
       "basil",
-      "fresh oregano"
+      " oregano"
     ],
     "direction": [
       "In a large hot pan heat oil and stir fry eggplant till golden brown about 10 minutes add celery, onions, garlic, and tomatoes cook till tender about 5 minutes.",
@@ -12530,7 +12522,7 @@
       "capers",
       "dry wine",
       "flour",
-      "flat leaf parsley",
+      "parsley",
       "lemon, zest of",
       "clove",
       "flour"
@@ -12617,8 +12609,8 @@
     "id": 489,
     "title": "Almond Panna Cotta With Cherry Compote",
     "ingredients": [
-      "unflavored gelatin",
-      "heavy whipping cream",
+      "gelatin",
+      "whipping cream",
       "sugar",
       "bing cherries",
       "sugar"
@@ -12633,11 +12625,11 @@
     "id": 490,
     "title": "Ciabatta (Italian Slipper Bread)",
     "ingredients": [
-      "active dry yeast",
+      "yeast",
       "water",
       "water",
       "bread flour",
-      "active dry yeast",
+      "yeast",
       "milk",
       "water",
       "olive oil",
@@ -12774,7 +12766,7 @@
     "id": 494,
     "title": "Rosemary - Garlic Focaccia",
     "ingredients": [
-      "active dry yeast",
+      "yeast",
       "sugar",
       "flour",
       "salt",
@@ -12831,7 +12823,7 @@
     "id": 496,
     "title": "Chicken Agrodolce (an Italian Sweet and Sour Chicken)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "flour",
       "olive oil",
       "garlic",
@@ -12874,7 +12866,7 @@
     "id": 498,
     "title": "Boneless Breast of Chicken Saltimbocca",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "flour",
       "flour",
       "prosciutto ham",
@@ -12886,7 +12878,7 @@
       "chicken broth",
       "thyme",
       "oregano lettuce",
-      "dry sherry"
+      "sherry"
     ],
     "direction": [
       "Dip chicken in flour; brown in butter.",
@@ -12963,7 +12955,7 @@
     "title": "Neapolitan Meat Sauce - Ragu Napoletano Alla Anna Galasso",
     "ingredients": [
       "top round steaks",
-      "flat leaf parsley",
+      "parsley",
       "olive oil",
       "onion",
       "celery rib",
@@ -12997,7 +12989,7 @@
     "id": 502,
     "title": "Chicken Piccata - Giada De Laurentiis",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "flour",
       "butter",
       "olive oil",
@@ -13129,7 +13121,7 @@
       "onion",
       "bell pepper",
       "garlic",
-      "crushed pepper",
+      "pepper",
       "oregano",
       "basil",
       "tomato paste",
@@ -13137,7 +13129,7 @@
       "chicken broth",
       "dry wine",
       "green olives",
-      "seasoning salt",
+      "salt",
       "black pepper",
       "bay leaf"
     ],
@@ -13346,17 +13338,17 @@
       "cheese",
       "egg",
       "cheese",
-      "flat leaf parsley",
+      "parsley",
       "cinnamon",
       "beef",
       "butter",
       "garlic",
       "spinach",
-      "flat leaf parsley",
+      "parsley",
       "egg",
       "cheese",
       "pepper",
-      "sweet Italian sausage link",
+      "sweet sausage link",
       "egg",
       "cheese"
     ],
@@ -13395,7 +13387,7 @@
       "celery",
       "bay leaf",
       "parsley",
-      "crushed tomato",
+      "tomato",
       "potato",
       "water",
       "pepper",
@@ -13477,7 +13469,7 @@
       "garlic",
       "onion",
       "oregano",
-      "crushed pepper",
+      "pepper",
       "celery",
       "carrot",
       "tomato paste",
@@ -13492,7 +13484,7 @@
       "onion",
       "egg",
       "parmesan cheese",
-      "seasoning salt",
+      "salt",
       "black pepper"
     ],
     "direction": [
@@ -13541,7 +13533,7 @@
       "part-skim cheese",
       "mozzarella cheese",
       "parmesan cheese",
-      "crushed pepper",
+      "pepper",
       "clove",
       "olive oil",
       "parmesan cheese"
@@ -13629,7 +13621,7 @@
     "id": 523,
     "title": "Taralli Baresi",
     "ingredients": [
-      "dry yeast",
+      "yeast",
       "water",
       "dry wine",
       "flour",
@@ -13695,7 +13687,7 @@
     "id": 525,
     "title": "Pad Thai (Thai Stir-Fried Noodles)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "shallot",
       "egg",
@@ -13805,8 +13797,8 @@
     "title": "Tom Kha Gai",
     "ingredients": [
       "coconut milk",
-      "fresh galangal root",
-      "chicken breasts",
+      " galangal root",
+      "chicken breast",
       "tomato",
       "lemongrass",
       "kaffir lime lettuce",
@@ -13837,7 +13829,7 @@
     "ingredients": [
       "red curry paste",
       "sambal oelek",
-      "chicken breasts",
+      "chicken breast",
       "coconut milk",
       "fish sauce",
       "sugar",
@@ -13891,7 +13883,7 @@
       "clove",
       "cooked rice",
       "egg",
-      "fresh tomato",
+      " tomato",
       "chili sauce",
       "light soy sauce",
       "lime",
@@ -13922,7 +13914,7 @@
       "water",
       "salt",
       "sugar",
-      "crushed pepper",
+      "pepper",
       "turmeric",
       "ginger",
       "crystallized ginger"
@@ -13967,7 +13959,7 @@
     "id": 535,
     "title": "Chicken Satay",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "black pepper",
       "cumin",
       "ground coriander",
@@ -14058,7 +14050,7 @@
       "lemongrass",
       "fish sauce",
       "sugar",
-      "chicken breasts",
+      "chicken breast",
       "pineapple chunks",
       "onion"
     ],
@@ -14127,7 +14119,7 @@
     "id": 541,
     "title": "Bangkok Chicken Curry",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "rice",
       "clove",
       "bell pepper",
@@ -14189,7 +14181,7 @@
       "fish sauce",
       "mint leaf",
       "coriander lettuce",
-      "fresh chili pepper",
+      " chili pepper",
       "rice powder",
       "lettuce",
       "peanuts",
@@ -14333,7 +14325,7 @@
     "id": 548,
     "title": "Thai Coconut Grilled Chicken Thighs",
     "ingredients": [
-      "skinless chicken thighs",
+      "chicken thighs",
       "coconut milk",
       "blackstrap molasses",
       "seasoned vinegar",
@@ -14466,7 +14458,7 @@
       "ground chicken",
       "ground pork",
       "beans sprouts",
-      "light sugar",
+      "sugar",
       "Thai fish sauce",
       "seasoned vinegar",
       "lime",
@@ -14585,7 +14577,7 @@
     "id": 557,
     "title": "Crock Pot Thai Chicken Thighs",
     "ingredients": [
-      "skinless chicken thighs",
+      "chicken thighs",
       "cilantro salsa",
       "peanut butter",
       "ginger",
@@ -14613,7 +14605,7 @@
       "chicken breast",
       "garlic",
       "egg",
-      "fresh beans sprout",
+      " beans sprout",
       "onion",
       "cilantro"
     ],
@@ -14721,7 +14713,7 @@
       "garlic",
       "coconut milk",
       "chicken broth",
-      "chicken breasts",
+      "chicken breast",
       "ginger",
       "onion",
       "bell pepper",
@@ -14756,7 +14748,7 @@
       "olive oil",
       "vinegar",
       "honey",
-      "chicken breasts",
+      "chicken breast",
       "broccoli",
       "onion",
       "carrot"
@@ -14786,10 +14778,10 @@
       "ginger",
       "garlic",
       "basil",
-      "fresh mint lettuce",
+      " mint lettuce",
       "cilantro lettuce",
       "black pepper",
-      "toasted sesame seed",
+      "sesame seed",
       "ground coriander",
       "salt"
     ],
@@ -14811,7 +14803,7 @@
       "tofu",
       "salt",
       "lemon juice",
-      "fresh beans",
+      " beans",
       "pepper",
       "peanut butter",
       "water",
@@ -14835,12 +14827,12 @@
     "id": 567,
     "title": "Gaeng Keow Wan Gai - Thai Green Curry Chicken",
     "ingredients": [
-      "skinless chicken",
+      "chicken",
       "coconut milk",
       "fish sauce",
       "green curry paste",
-      "fresh sweet basil",
-      "fresh lime lettuce",
+      " sweet basil",
+      " lime lettuce",
       "green peas",
       "chilies"
     ],
@@ -14894,7 +14886,7 @@
       "salt",
       "black pepper",
       "lemongrass",
-      "skinless chicken thighs",
+      "chicken thighs",
       "flaked coconut",
       "cilantro",
       "scallions",
@@ -14953,7 +14945,7 @@
       "fish sauce",
       "tomato",
       "cilantro",
-      "hot chili peppers"
+      "hot chili pepper"
     ],
     "direction": [
       "In medium saucepan, heat vegetable broth to a simmer with lemongrass and lime leaves if desired.",
@@ -15007,7 +14999,7 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "chicken breasts",
+      "chicken breast",
       "onion",
       "sugar",
       "fish sauce",
@@ -15060,7 +15052,7 @@
       "onion",
       "onion",
       "tomato",
-      "skinless chicken breasts",
+      "chicken breast",
       "mushroom",
       "lemongrass",
       "kaffir lime lettuce",
@@ -15093,7 +15085,7 @@
       "curry powder",
       "coconut milk",
       "chicken broth",
-      "skinless chicken thighs",
+      "chicken thighs",
       "fish sauce",
       "palm sugar",
       "onion"
@@ -15200,8 +15192,8 @@
       "pork",
       "clove",
       "sesame seed",
-      "whole clove",
-      "cider vinegar",
+      "clove",
+      "vinegar",
       "cumin",
       "black peppercorns",
       "salt",
@@ -15213,7 +15205,7 @@
       "cinnamon",
       "corn tortilla",
       "onion",
-      "dried Mexican oregano",
+      "dried oregano",
       "limes"
     ],
     "direction": [
@@ -15237,13 +15229,13 @@
       "salt",
       "black pepper",
       "oregano",
-      "chili peppers",
-      "chili peppers",
+      "chili pepper",
+      "chili pepper",
       "hominy",
       "onion",
       "cilantro",
       "lime wedges",
-      "crushed pepper",
+      "pepper",
       "oregano",
       "corn tortillas"
     ],
@@ -15328,7 +15320,7 @@
       "garlic powder",
       "cayenne",
       "dry mustard",
-      "Mexican oregano",
+      "oregano",
       "salt",
       "black pepper",
       "beer",
@@ -15402,7 +15394,7 @@
     "id": 589,
     "title": "Mexican Style Meat and Vegetable Stew - Azteca's Molcajete",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "beef",
       "bacon",
       "water",
@@ -15415,8 +15407,8 @@
       "dried ancho chile powder",
       "cumin",
       "cocoa powder",
-      "cider vinegar",
-      "dry sherry",
+      "vinegar",
+      "sherry",
       "butter",
       "Tabasco sauce",
       "cheese",
@@ -15610,7 +15602,7 @@
       "chili powder",
       "garlic powder",
       "cumin",
-      "skinless chicken",
+      "chicken",
       "flour tortillas",
       "colby-cheese"
     ],
@@ -15720,9 +15712,9 @@
       "peppercorn",
       "cinnamon",
       "salt",
-      "whole clove",
       "clove",
-      "fresh oregano",
+      "clove",
+      " oregano",
       "habanero pepper",
       "limes",
       "olive oil",
@@ -15815,7 +15807,7 @@
     "title": "Pickled Red Onions",
     "ingredients": [
       "onion",
-      "cider vinegar",
+      "vinegar",
       "salt"
     ],
     "direction": [
@@ -15876,8 +15868,8 @@
     "id": 607,
     "title": "Yucatan Marinade",
     "ingredients": [
-      "oranges, juice of",
-      "limes, juice of",
+      "oranges",
+      "lime",
       "clove",
       "jalapeno chile",
       "cumin",
@@ -15938,7 +15930,7 @@
       "chicken",
       "onion",
       "clove",
-      "fresh tomato",
+      " tomato",
       "lemon juice",
       "sugar",
       "salt",
@@ -16156,7 +16148,7 @@
       "habanero pepper",
       "onion",
       "clove",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "lime",
       "parsley"
     ],
@@ -16172,11 +16164,11 @@
     "ingredients": [
       "canola oil",
       "clove",
-      "fresh tuna",
+      " tuna",
       "onion",
       "poblano chile",
       "tomato",
-      "fresh oregano",
+      " oregano",
       "tortilla",
       "lime wedge"
     ],
@@ -16307,7 +16299,7 @@
       "anise seed",
       "cumin seed",
       "black peppercorns",
-      "whole clove",
+      "clove",
       "cinnamon stick",
       "clove",
       "onion",
@@ -16333,7 +16325,7 @@
       "red wine vinegar",
       "cumin seed",
       "clove",
-      "fresh oregano",
+      " oregano",
       "ancho chili",
       "salt",
       "ground pepper",
@@ -16361,10 +16353,10 @@
       "tomato",
       "coarse salt",
       "cumin seed",
-      "whole allspice",
-      "whole clove",
+      "allspice",
       "clove",
-      "fresh oregano",
+      "clove",
+      " oregano",
       "turkey",
       "beef",
       "clove",
@@ -16391,7 +16383,7 @@
     "ingredients": [
       "clove",
       "olive oil",
-      "chipotle peppers",
+      "chipotle pepper",
       "cilantro",
       "purple onion",
       "avocados",
@@ -16401,7 +16393,7 @@
       "onion",
       "clove",
       "bell pepper",
-      "chipotle peppers",
+      "chipotle pepper",
       "salt",
       "olive oil",
       "cilantro",
@@ -16472,14 +16464,14 @@
     "title": "Tacos Al Pastor",
     "ingredients": [
       "ancho chilies",
-      "fresh pineapple",
+      " pineapple",
       "honey",
       "vinegar",
       "salt",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "adobo sauce",
       "clove",
-      "fresh oregano",
+      " oregano",
       "onion",
       "white corn tortilla",
       "onion",
@@ -16516,7 +16508,7 @@
       "onion",
       "banana",
       "bonito flakes",
-      "whole allspice",
+      "allspice",
       "canola oil"
     ],
     "direction": [
@@ -16622,7 +16614,7 @@
       "sesame seed",
       "clove",
       "ancho chili",
-      "whole clove",
+      "clove",
       "onion",
       "cinnamon stick",
       "cilantro lettuce",
@@ -16818,7 +16810,7 @@
     "id": 642,
     "title": "Aguachiles",
     "ingredients": [
-      "fresh shrimp",
+      " shrimp",
       "chilies",
       "limes",
       "cilantro",
@@ -17046,7 +17038,7 @@
       "soy sauce",
       "onion",
       "clove",
-      "toasted sesame seed",
+      "sesame seed",
       "scallions",
       "red leaf lettuce",
       "scallions",
@@ -17142,7 +17134,7 @@
       "black pepper",
       "onion",
       "mushroom",
-      "chili peppers",
+      "chili pepper",
       "tofu",
       "water",
       "soy sauce",
@@ -17197,7 +17189,7 @@
       "sambal oelek",
       "clove",
       "cellophane noodles",
-      "crushed pepper",
+      "pepper",
       "clove",
       "onion",
       "carrot",
@@ -17220,7 +17212,7 @@
     "id": 659,
     "title": "Korean Fried Chicken (Yangnyeom Dak)",
     "ingredients": [
-      "skinless chicken",
+      "chicken",
       "onion",
       "clove",
       "cornstarch",
@@ -17232,7 +17224,7 @@
       "ketchup",
       "lemon juice",
       "water",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "Toss together the chicken pieces with the onion and garlic and let marinate in the refrigerator at least 30 minutes.",
@@ -17414,9 +17406,9 @@
     "ingredients": [
       "soy sauce",
       "clove",
-      "toasted sesame seed",
+      "sesame seed",
       "clove",
-      "toasted sesame seed",
+      "sesame seed",
       "flour",
       "glutinous-rice flour",
       "egg",
@@ -17443,7 +17435,7 @@
       "soy sauce",
       "garlic",
       "scallions",
-      "toasted sesame seed",
+      "sesame seed",
       "sugar"
     ],
     "direction": [
@@ -17462,7 +17454,7 @@
       "flour",
       "salt",
       "sugar",
-      "fast rise yeast",
+      "yeast",
       "water",
       "tomato sauce",
       "garlic powder",
@@ -17705,7 +17697,7 @@
       "ginger",
       "salt",
       "sugar",
-      "crushed pepper",
+      "pepper",
       "scallions",
       "carrot"
     ],
@@ -17845,7 +17837,7 @@
       "soy sauce",
       "chili powder",
       "sugar",
-      "toasted sesame seed",
+      "sesame seed",
       "lettuce",
       "clove"
     ],
@@ -17883,7 +17875,7 @@
       "soy sauce",
       "Tabasco sauce",
       "cucumbers",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "In a small glass bowl (just easier to clean up than plastic) mix together vinegar, sesame oil, mustard, soy sauce and tabasco sauce.",
@@ -17953,7 +17945,7 @@
     "id": 690,
     "title": "Crisp Panko Chicken Cutlets w/Tonkatsu Sauce",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "salt",
       "black pepper",
       "flour",
@@ -17995,7 +17987,7 @@
       "rice",
       "mayonnaise",
       "smelt",
-      "toasted sesame seed",
+      "sesame seed",
       "soy sauce",
       "wasabi",
       "pickled ginger",
@@ -18041,7 +18033,7 @@
     "title": "Japanese Curry (Wafuu)",
     "ingredients": [
       "canola oil",
-      "skinless chicken",
+      "chicken",
       "butter",
       "ginger",
       "onion",
@@ -18049,7 +18041,7 @@
       "clove",
       "flour",
       "curry powder",
-      "crushed tomato",
+      "tomato",
       "bay leaf",
       "carrot",
       "potato",
@@ -18378,7 +18370,7 @@
       "salt",
       "cooked rice",
       "nori",
-      "toasted sesame seed",
+      "sesame seed",
       "soy sauce",
       "wasabi"
     ],
@@ -18511,7 +18503,7 @@
       "cooked rice",
       "sesame seed",
       "nori",
-      "chicken breasts",
+      "chicken breast",
       "wasabi"
     ],
     "direction": [
@@ -19169,7 +19161,7 @@
     "id": 737,
     "title": "Tori No Kara-age (deep Fried Chicken Nuggets)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "soy sauce",
       "gingerroot",
       "clove",
@@ -19470,7 +19462,7 @@
       "clove",
       "salt",
       "dry wine",
-      "mixed fresh herbs"
+      "mixed  herbs"
     ],
     "direction": [
       "Rinse and scrub mussels under cold water.",
@@ -19563,7 +19555,7 @@
     "id": 750,
     "title": "Julia Child Supremes De Volaille Aux Champignons (Chicken Breast",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemon juice",
       "salt",
       "white pepper",
@@ -19801,7 +19793,7 @@
     "title": "Choucroute Garnie",
     "ingredients": [
       "garlic sausage",
-      "fresh sauerkraut",
+      " sauerkraut",
       "clove",
       "onion",
       "dry wine",
@@ -19854,7 +19846,7 @@
       "garlic",
       "onion",
       "salt",
-      "fresh sage",
+      " sage",
       "croutons",
       "gruyere cheese"
     ],
@@ -20074,9 +20066,9 @@
       "thyme",
       "ginger",
       "lemon",
-      "whole chicken",
+      "chicken",
       "tasso",
-      "chili peppers",
+      "chili pepper",
       "bell pepper",
       "yellow bell pepper",
       "tomato",
@@ -20099,7 +20091,7 @@
     "id": 769,
     "title": "Baba au Rhum",
     "ingredients": [
-      "dry yeast",
+      "yeast",
       "milk",
       "flour",
       "butter",
@@ -20235,7 +20227,7 @@
       "mustard",
       "onion",
       "celery",
-      "fresh flat-leaf parsley"
+      " flat-leaf parsley"
     ],
     "direction": [
       "Cook 6 slices bacon in heavy large saucepan over medium heat until brown and crisp. Transfer bacon to paper towels, crumble. Drain off all but about three tablespoons of bacon fat.Add onion to drippings; saut\u00e9 until tender, about 10 minutes.",
@@ -20421,7 +20413,7 @@
       "celery ribs",
       "gelatin",
       "wine vinegar",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Place the ham hocks in a large saucepan and cover with water.",
@@ -20479,7 +20471,7 @@
     "title": "Raisin Breakfast Bread (Cramique)",
     "ingredients": [
       "flour",
-      "active dry yeast",
+      "yeast",
       "milk",
       "butter",
       "sugar",
@@ -20576,7 +20568,7 @@
     "id": 785,
     "title": "Auberge Roast Chicken Rillettes With Armagnac, Thyme and Garlic",
     "ingredients": [
-      "whole chickens",
+      "chicken",
       "thyme leave",
       "clove",
       "shallot",
@@ -20701,7 +20693,7 @@
     "id": 789,
     "title": "Roasted Lemon Chicken",
     "ingredients": [
-      "whole chicken",
+      "chicken",
       "garlic",
       "olive oil",
       "parsley",
@@ -20774,7 +20766,7 @@
     "id": 792,
     "title": "Stuffed Chicken Cordon Bleu",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "salt",
       "black pepper",
       "deli ham",
@@ -20865,7 +20857,7 @@
     "id": 795,
     "title": "Bouillabaisse",
     "ingredients": [
-      "dry sherry",
+      "sherry",
       "saffron",
       "trout",
       "scallops",
@@ -20927,7 +20919,7 @@
     "id": 797,
     "title": "Brioche",
     "ingredients": [
-      "active dry yeast",
+      "yeast",
       "egg",
       "unbleached flour",
       "sugar",
@@ -21011,7 +21003,7 @@
       "sugar",
       "heavy cream",
       "vanilla beans",
-      "light sugar"
+      "sugar"
     ],
     "direction": [
       "Preheat the oven to 275\u00baF.  In a medium bowl, whisk the egg yolks with half of the granulated sugar.  In a small saucepan, warm the cream with the vanilla scrapings and the remaining granulated sugar until steaming.  Gradually whisk the hot cream into the egg yolks until blended.  Strain the custard and pour it into 5-ounce ramekins or shallow gratin dishes.",
@@ -21161,12 +21153,12 @@
       "clove",
       "zucchini",
       "bell pepper",
-      "fresh tomato",
+      " tomato",
       "tomato",
       "tomato paste",
       "basil",
-      "crushed pepper",
-      "fresh oregano",
+      "pepper",
+      " oregano",
       "pepper"
     ],
     "direction": [
@@ -21186,7 +21178,7 @@
       "clove",
       "pepper",
       "wine",
-      "russet potato",
+      "potato",
       "zucchini",
       "tomato",
       "lemon juice",
@@ -21287,7 +21279,7 @@
     "ingredients": [
       "olive oil",
       "onion",
-      "peppers",
+      "pepper",
       "red ripe tomato",
       "clove",
       "bay leaf",
@@ -21602,7 +21594,7 @@
       "paprika",
       "egg",
       "salt",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Heat the olive oil in a medium saucepan over medium heat.",
@@ -21664,7 +21656,7 @@
     "title": "Vegetarian Spanish Rice",
     "ingredients": [
       "rice",
-      "crushed tomato",
+      "tomato",
       "clove",
       "onion",
       "vegetable broth",
@@ -21757,7 +21749,7 @@
       "lemon juice",
       "paprika",
       "pepper",
-      "flat leaf parsley",
+      "parsley",
       "salt",
       "ground pepper"
     ],
@@ -21891,7 +21883,7 @@
     "ingredients": [
       "olive oil",
       "long grain rice",
-      "skinless chicken breast",
+      "chicken breast",
       "chickpeas",
       "clove",
       "tomato",
@@ -21920,7 +21912,7 @@
       "long grain rice",
       "saffron",
       "clove",
-      "flat leaf parsley",
+      "parsley",
       "black pepper",
       "salt",
       "tomato",
@@ -22115,7 +22107,7 @@
     "ingredients": [
       "chorizo sausage",
       "black peppercorns",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Prick the sausages all over and place into a dish.",
@@ -22162,7 +22154,7 @@
     "ingredients": [
       "granny smith apple",
       "manchego cheese",
-      "fresh chives",
+      " chives",
       "walnut",
       "olive oil",
       "vinegar",
@@ -22416,7 +22408,7 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "crushed pepper",
+      "pepper",
       "shrimp",
       "lemon",
       "salt"
@@ -22471,7 +22463,7 @@
       "sugar",
       "flour",
       "cinnamon",
-      "active dry yeast",
+      "yeast",
       "lemon, zest of"
     ],
     "direction": [
@@ -22838,7 +22830,7 @@
     "id": 873,
     "title": "Conchas (Mexican Sweet-Topped Buns)",
     "ingredients": [
-      "active dry yeast",
+      "yeast",
       "water",
       "milk",
       "sugar",
@@ -23072,7 +23064,7 @@
       "chicken pieces",
       "onion",
       "wine",
-      "cider vinegar",
+      "vinegar",
       "Worcestershire sauce",
       "salt",
       "garlic powder",
@@ -23141,7 +23133,7 @@
     "id": 885,
     "title": "Honey Chicken, Panama",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "carrot",
       "onion",
       "honey",
@@ -23364,14 +23356,14 @@
     "id": 893,
     "title": "Pollo En Escabeche - Uruguayan Marinated Chicken",
     "ingredients": [
-      "whole chickens",
+      "chicken",
       "olive oil",
       "carrot",
       "clove",
       "onion",
       "thyme",
       "marjoram",
-      "whole black peppercorns",
+      "black peppercorns",
       "salt",
       "vinegar",
       "olive oil"
@@ -23572,7 +23564,7 @@
     "title": "Spaghetti Con Pollo (Central American Chicken and Spaghetti)",
     "ingredients": [
       "spaghetti",
-      "chicken breasts",
+      "chicken breast",
       "butter",
       "sour cream",
       "bell pepper",
@@ -23805,14 +23797,14 @@
     "id": 909,
     "title": "Arroz Imperial Con Pollo - Imperial Rice With Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "bacon",
       "olive oil",
       "onion",
       "bell pepper",
       "onion",
       "oregano",
-      "whole bay leaf",
+      "bay leaf",
       "clove",
       "tomato sauce",
       "sherry wine",
@@ -23918,7 +23910,7 @@
       "water",
       "cornstarch",
       "soy sauce",
-      "light sugar",
+      "sugar",
       "hoisin sauce",
       "vinegar",
       "Chinese five spice powder",
@@ -23948,7 +23940,7 @@
     "ingredients": [
       "soy sauce",
       "oyster sauce",
-      "light sugar",
+      "sugar",
       "vinegar",
       "scallions",
       "clove",
@@ -24070,7 +24062,7 @@
       "cornstarch",
       "cooked rice",
       "scallion",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "For the meatballs: Preheat the oven to 375 degrees F and line a sheet tray with parchment paper.",
@@ -24088,7 +24080,7 @@
     "ingredients": [
       "soy sauce",
       "vinegar",
-      "light sugar",
+      "sugar",
       "hoisin sauce",
       "garlic powder",
       "ginger",
@@ -24164,7 +24156,7 @@
       "water",
       "soy sauce",
       "vinegar",
-      "light sugar",
+      "sugar",
       "cornstarch",
       "garlic powder",
       "pepper",
@@ -24185,11 +24177,11 @@
     "id": 921,
     "title": "Kung Pao Chicken",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "cornstarch",
       "onion",
       "clove",
-      "crushed pepper",
+      "pepper",
       "powdered ginger",
       "soy sauce",
       "sugar",
@@ -24335,7 +24327,7 @@
     "id": 926,
     "title": "Chinese Take-Out: Orange Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "cornstarch",
       "cornstarch",
       "water",
@@ -24452,8 +24444,8 @@
       "bell pepper",
       "oyster sauce",
       "soy sauce",
-      "dry sherry",
-      "fresh pineapple",
+      "sherry",
+      " pineapple",
       "ham"
     ],
     "direction": [
@@ -24510,7 +24502,7 @@
     "title": "Egg Foo Yung",
     "ingredients": [
       "egg",
-      "fresh beans sprout",
+      " beans sprout",
       "scallion",
       "celery",
       "water chestnuts",
@@ -24637,7 +24629,7 @@
       "garlic",
       "soy sauce",
       "sugar",
-      "dry sherry",
+      "sherry",
       "ketchup",
       "hoisin sauce",
       "five-spice powder",
@@ -24747,7 +24739,7 @@
       "cucumbers",
       "vinegar",
       "sugar",
-      "crushed pepper",
+      "pepper",
       "salt",
       "cilantro"
     ],
@@ -24797,7 +24789,7 @@
     "ingredients": [
       "rice",
       "water",
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "ginger",
       "oyster sauce",
@@ -24921,7 +24913,7 @@
     "ingredients": [
       "instant chicken bouillon granules",
       "water",
-      "chicken breasts",
+      "chicken breast",
       "dry wine",
       "soy sauce",
       "cornstarch",
@@ -25046,7 +25038,7 @@
     "id": 951,
     "title": "Sweet and Sour Chicken (or Pork)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "flour",
       "cornstarch",
       "salt",
@@ -25165,7 +25157,7 @@
     "ingredients": [
       "chicken broth",
       "ginger",
-      "fresh chives",
+      " chives",
       "salt",
       "cornstarch",
       "egg"
@@ -25241,13 +25233,13 @@
       "salt",
       "black pepper",
       "cornstarch",
-      "skinless chicken thighs",
+      "chicken thighs",
       "dark soy sauce",
       "garlic",
       "ginger",
       "hoisin sauce",
       "sugar",
-      "dry sherry",
+      "sherry",
       "cornstarch",
       "onion",
       "broccoli"
@@ -25386,7 +25378,7 @@
       "ginger",
       "clove",
       "soy sauce",
-      "unflavored gelatin",
+      "gelatin",
       "ground pork",
       "shrimp",
       "onion",
@@ -25418,14 +25410,14 @@
     "id": 964,
     "title": "Sesame Chicken",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "honey",
       "soy sauce",
       "water",
       "cornstarch",
       "ginger",
       "pepper",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "Cut chicken breast into 1 inch strips or bite size pieces.",
@@ -25607,7 +25599,7 @@
     "id": 973,
     "title": "Mojito Shrimp Taco Cups",
     "ingredients": [
-      "fresh mint lettuce",
+      " mint lettuce",
       "rum",
       "sugar",
       "olive oil",
@@ -25617,12 +25609,12 @@
       "wonton wrappers",
       "canola oil",
       "mango",
-      "fresh mint lettuce",
+      " mint lettuce",
       "lime juice",
       "onion",
       "rum",
       "avocado",
-      "fresh mint lettuce",
+      " mint lettuce",
       "queso fresco",
       "lime"
     ],
@@ -25804,7 +25796,7 @@
       "black pepper",
       "pepper",
       "tomato",
-      "whole chili",
+      "chili",
       "cheddar cheese",
       "cheese",
       "chorizo sausage",
@@ -25865,9 +25857,9 @@
     "id": 984,
     "title": "Marinated Cocktail Shrimp",
     "ingredients": [
-      "dry sherry",
+      "sherry",
       "lime juice",
-      "seasoning salt",
+      "salt",
       "black pepper",
       "dried ancho chile powder"
     ],
@@ -25980,7 +25972,7 @@
     "ingredients": [
       "butter",
       "parmesan cheese",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "Preheat oven to 400 degrees.",
@@ -26034,7 +26026,7 @@
       "black pepper",
       "thyme lettuce",
       "oregano",
-      "crushed pepper",
+      "pepper",
       "spinach",
       "Worcestershire sauce",
       "chicken broth",
@@ -26057,7 +26049,7 @@
     "ingredients": [
       "egg",
       "mayonnaise",
-      "fresh chives",
+      " chives",
       "butter"
     ],
     "direction": [
@@ -26113,7 +26105,7 @@
       "pimentos",
       "olive oil",
       "clove",
-      "dry sherry"
+      "sherry"
     ],
     "direction": [
       "Heat the oven to 220C/fan 200C/gas 7.",
@@ -26254,11 +26246,11 @@
     "id": 1001,
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "blue cheese",
       "butter",
       "celery ribs",
-      "fresh chives",
+      " chives",
       "parsley"
     ],
     "direction": [
@@ -26284,7 +26276,7 @@
     "ingredients": [
       "butter",
       "Worcestershire sauce",
-      "seasoning salt",
+      "salt",
       "garlic powder",
       "onion powder",
       "garlic bagel chips"
@@ -26321,7 +26313,7 @@
     "title": "Easy Apricot Bites",
     "ingredients": [
       "cream cheese",
-      "fresh apricots",
+      " apricots",
       "pistachios"
     ],
     "direction": [
@@ -26422,7 +26414,7 @@
     "ingredients": [
       "Velveeta Mexican cheese",
       "cream cheese",
-      "fresh tomato",
+      " tomato",
       "onion",
       "clove",
       "cilantro",
@@ -26525,7 +26517,7 @@
     "title": "Died & Went to Pimento Cheese Heaven (Pimiento)",
     "ingredients": [
       "cream cheese",
-      "sharp white cheddar cheese",
+      "cheddar cheese",
       "cheddar cheese",
       "cheese",
       "mayonnaise",
@@ -26612,10 +26604,10 @@
       "chicken",
       "small shrimp",
       "cilantro lettuce",
-      "fresh mint lettuce",
+      " mint lettuce",
       "lettuce",
       "cucumber",
-      "fresh beans sprout",
+      " beans sprout",
       "hoisin sauce",
       "peanuts",
       "nuoc nam"
@@ -26752,7 +26744,7 @@
       "salt",
       "pepper",
       "parsley flakes",
-      "fresh large mushroom"
+      " large mushroom"
     ],
     "direction": [
       "Pour about 3 inches (more if needed to cover the mushrooms) of oil into a large pot.",
@@ -26781,7 +26773,7 @@
       "black pepper",
       "olive oil",
       "wine vinegar",
-      "diced pimentos",
+      "pimentos",
       "parsley",
       "onion",
       "clove"
@@ -26890,7 +26882,7 @@
     "ingredients": [
       "sea bass fillets",
       "limes",
-      "fresh tomato",
+      " tomato",
       "pepper",
       "parsley",
       "salt",
@@ -26926,7 +26918,7 @@
       "cumin",
       "salt",
       "olive oil",
-      "fresh flat-leaf parsley"
+      " flat-leaf parsley"
     ],
     "direction": [
       "Prepare a medium-hot fire in a charcoal grill.",
@@ -26954,7 +26946,7 @@
       "egg",
       "flour",
       "milk",
-      "seasoning salt",
+      "salt",
       "salt"
     ],
     "direction": [
@@ -27036,7 +27028,7 @@
     "ingredients": [
       "chicken wings",
       "pepper",
-      "crushed pepper",
+      "pepper",
       "salt",
       "margarine"
     ],
@@ -27071,7 +27063,7 @@
     "title": "Guacamole - Real Authentic Mexican \"Guac\"",
     "ingredients": [
       "Hass avocadoes",
-      "limes, juice of",
+      "lime",
       "cilantro",
       "tomato",
       "salt"
@@ -27155,14 +27147,14 @@
     "id": 1037,
     "title": "Deviled Eggs With Candied Bacon",
     "ingredients": [
-      "light sugar",
+      "sugar",
       "pepper",
       "cinnamon",
       "bacon",
       "egg",
       "mayonnaise",
       "dill",
-      "cider vinegar",
+      "vinegar",
       "Worcestershire sauce",
       "scallions",
       "salt",
@@ -27198,8 +27190,8 @@
       "garlic powder",
       "sugar",
       "water",
-      "chicken breasts",
-      "seasoning salt"
+      "chicken breast",
+      "salt"
     ],
     "direction": [
       "To make the sweet and sour sauce sauce; in a saucepan combine the first 5 ingredients until combined.",
@@ -27220,7 +27212,7 @@
     "id": 1039,
     "title": "Buffalo Chicken Wing Dip",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "cream cheese",
       "celery",
       "monterey jack and cheddar cheese"
@@ -27298,7 +27290,7 @@
     "title": "Cheese and Herb Bites",
     "ingredients": [
       "mascarpone cheese",
-      "mixed fresh herbs",
+      "mixed  herbs",
       "black pepper",
       "havarti cheese",
       "parmesan cheese"
@@ -27357,7 +27349,7 @@
     "id": 1046,
     "title": "Sweet Chicken Bacon Wraps (Paula Deen)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "bacon",
       "sugar",
       "chili powder"
@@ -27509,7 +27501,7 @@
       "olive oil",
       "basil",
       "salt",
-      "fresh cracked pepper",
+      " cracked pepper",
       "parmigiano-reggiano cheese"
     ],
     "direction": [
@@ -27912,7 +27904,7 @@
       "garlic powder",
       "cayenne",
       "dry mustard",
-      "Mexican oregano",
+      "oregano",
       "salt",
       "black pepper",
       "beer",
@@ -28114,13 +28106,13 @@
     "id": 1076,
     "title": "Ww Grilled Salmon With Teriyaki Sauce - 4 Points",
     "ingredients": [
-      "dry sherry",
+      "sherry",
       "soy sauce",
       "sugar",
       "garlic powder",
       "pepper",
       "ginger",
-      "skinless salmon fillet"
+      "salmon fillet"
     ],
     "direction": [
       "Combine first 7 ingredients in a shallow dish; stir well. Add fish; cover, and marinate in refrigerator 30 minutes.",
@@ -28188,11 +28180,11 @@
     "ingredients": [
       "canola oil",
       "clove",
-      "fresh tuna",
+      " tuna",
       "onion",
       "poblano chile",
       "tomato",
-      "fresh oregano",
+      " oregano",
       "tortilla",
       "lime wedge"
     ],
@@ -28406,7 +28398,7 @@
       "tomato",
       "capers",
       "black olives",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Preheat the oven to 425 degrees. Have ready a flameproof baking dish or roasting pan large enough to hold the fish in a single layer.",
@@ -29176,7 +29168,7 @@
       "asparagus",
       "lemon",
       "black pepper",
-      "seasoning salt",
+      "salt",
       "lemon wedge"
     ],
     "direction": [
@@ -29236,7 +29228,7 @@
     "ingredients": [
       "large shrimp",
       "lump crabmeat",
-      "fresh lemon",
+      " lemon",
       "salt",
       "black pepper",
       "cucumbers",
@@ -29246,7 +29238,7 @@
       "onion",
       "tomato",
       "limes",
-      "fresh lemon",
+      " lemon",
       "garlic powder",
       "lemon pepper",
       "avocados"
@@ -29274,7 +29266,7 @@
       "cilantro",
       "lemon",
       "garlic",
-      "chili peppers"
+      "chili pepper"
     ],
     "direction": [
       "Combine all the ingredients for the salsa in a bowl. Lightly macerating some of the grapes to release its juices. Season to taste with salt and pepper. Cover and refrigerate until ready to serve.",
@@ -29401,7 +29393,7 @@
       "butter",
       "flour",
       "white pepper",
-      "2% low-fat milk",
+      "low-fat milk",
       "wine",
       "cheese",
       "baby shrimp",
@@ -29504,7 +29496,7 @@
       "mayonnaise",
       "lime juice",
       "cilantro",
-      "crushed pepper",
+      "pepper",
       "salt",
       "butter",
       "iceberg lettuce"
@@ -29598,7 +29590,7 @@
       "butter",
       "mayonnaise",
       "onion",
-      "seasoning salt",
+      "salt",
       "basil",
       "black pepper"
     ],
@@ -29646,7 +29638,7 @@
       "water",
       "soy sauce",
       "vinegar",
-      "light sugar",
+      "sugar",
       "cornstarch",
       "garlic powder",
       "pepper",
@@ -29695,7 +29687,7 @@
     "title": "Cajun Seafood Pasta",
     "ingredients": [
       "dry linguine",
-      "heavy whipping cream",
+      "whipping cream",
       "basil",
       "thyme",
       "salt",
@@ -29911,7 +29903,7 @@
       "celery rib",
       "onion",
       "parsley",
-      "seasoning salt",
+      "salt",
       "lemon pepper",
       "tomato",
       "swiss cheese"
@@ -29984,7 +29976,7 @@
       "celery",
       "bay leaf",
       "parsley",
-      "crushed tomato",
+      "tomato",
       "potato",
       "water",
       "pepper",
@@ -30030,7 +30022,7 @@
       "celery",
       "onion",
       "baby shrimp",
-      "fresh crabmeat",
+      " crabmeat",
       "mayonnaise",
       "parsley"
     ],
@@ -30220,7 +30212,7 @@
     "id": 1164,
     "title": "Aguachiles",
     "ingredients": [
-      "fresh shrimp",
+      " shrimp",
       "chilies",
       "limes",
       "cilantro",
@@ -30273,7 +30265,7 @@
       "garlic powder",
       "black pepper",
       "sugar",
-      "crushed pepper",
+      "pepper",
       "olive oil",
       "medium shrimp"
     ],
@@ -30318,13 +30310,13 @@
       "mahi mahi fillets",
       "canola oil",
       "Dry Jerk Seasoning",
-      "fresh pineapple",
-      "fresh mango",
+      " pineapple",
+      " mango",
       "papaya",
       "cilantro",
       "grapefruit juice",
       "white rum",
-      "scotch bonnet peppers",
+      "scotch bonnet pepper",
       "onion",
       "honey",
       "clove",
@@ -30366,7 +30358,7 @@
       "clove",
       "salt",
       "dry wine",
-      "mixed fresh herbs"
+      "mixed  herbs"
     ],
     "direction": [
       "Rinse and scrub mussels under cold water.",
@@ -30488,7 +30480,7 @@
     "id": 1175,
     "title": "Mojito Shrimp Taco Cups",
     "ingredients": [
-      "fresh mint lettuce",
+      " mint lettuce",
       "rum",
       "sugar",
       "olive oil",
@@ -30498,12 +30490,12 @@
       "wonton wrappers",
       "canola oil",
       "mango",
-      "fresh mint lettuce",
+      " mint lettuce",
       "lime juice",
       "onion",
       "rum",
       "avocado",
-      "fresh mint lettuce",
+      " mint lettuce",
       "queso fresco",
       "lime"
     ],
@@ -30554,11 +30546,11 @@
     "id": 1177,
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "blue cheese",
       "butter",
       "celery ribs",
-      "fresh chives",
+      " chives",
       "parsley"
     ],
     "direction": [
@@ -30786,7 +30778,7 @@
     "ingredients": [
       "cream cheese",
       "sugar",
-      "fresh strawberries",
+      " strawberries",
       "sugar"
     ],
     "direction": [
@@ -31078,7 +31070,7 @@
       "cumin",
       "salt",
       "olive oil",
-      "fresh flat-leaf parsley"
+      " flat-leaf parsley"
     ],
     "direction": [
       "Prepare a medium-hot fire in a charcoal grill.",
@@ -31141,7 +31133,7 @@
       "celery seed",
       "prepared yellow mustard",
       "salt",
-      "chicken breast halves"
+      "chicken breast"
     ],
     "direction": [
       "In a saucepan, saute the garlic in butter until tender.",
@@ -31213,7 +31205,7 @@
     "title": "Absolute Best Ever Lasagna",
     "ingredients": [
       "beef",
-      "Italian sausage",
+      "sausage",
       "onion",
       "clove",
       "salt",
@@ -31294,7 +31286,7 @@
       "egg",
       "milk",
       "flour",
-      "chili peppers",
+      "chili pepper",
       "cheese",
       "olive oil",
       "corn kernels",
@@ -31377,7 +31369,7 @@
       "water",
       "strawberry ice cream",
       "strawberry",
-      "fresh strawberries"
+      " strawberries"
     ],
     "direction": [
       "Preheat the oven to the temperature required according to the directions on the cake mix box. Grease and line the bottom of two 9-inch cake tins with baking paper.",
@@ -31478,7 +31470,7 @@
     "title": "Peach & Tomato Salsa",
     "ingredients": [
       "lime juice",
-      "fresh tomato",
+      " tomato",
       "bell pepper",
       "bell pepper",
       "onion",
@@ -31487,7 +31479,7 @@
       "clove",
       "pepper",
       "honey",
-      "crushed pepper"
+      "pepper"
     ],
     "direction": [
       "Peel, pit, and chop peaches, and mix with lime juice.",
@@ -31586,7 +31578,7 @@
       "chili powder",
       "cumin",
       "clove",
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "lime juice",
       "sugar",
@@ -31614,7 +31606,7 @@
     "title": "Chicken, Shrimp and Andouille Jambalaya",
     "ingredients": [
       "olive oil",
-      "skinless chicken thighs",
+      "chicken thighs",
       "andouille sausage",
       "onion",
       "celery ribs",
@@ -31667,12 +31659,12 @@
     "id": 1222,
     "title": "Zucchini Tart With Gruyere Cheese and Herbs",
     "ingredients": [
-      "fresh zucchini",
+      " zucchini",
       "onion",
       "olive oil",
       "clove",
       "Herbes De Napa",
-      "fresh flat-leaf parsley",
+      " flat-leaf parsley",
       "pesto sauce",
       "egg",
       "gruyere cheese"
@@ -31839,7 +31831,7 @@
     "id": 1229,
     "title": "Cannoli Pie Bites",
     "ingredients": [
-      "whole milk cheese",
+      "milk cheese",
       "mascarpone cheese",
       "vanilla extract",
       "sugar",
@@ -31907,7 +31899,7 @@
     "title": "Pepperoni Pizza Casserole",
     "ingredients": [
       "spiral shaped pasta",
-      "Italian sausage",
+      "sausage",
       "mushroom",
       "parmesan cheese",
       "mozzarella cheese"
@@ -31952,7 +31944,7 @@
       "mozzarella cheese",
       "basil",
       "parsley",
-      "fresh chives",
+      " chives",
       "honey",
       "mustard",
       "olive oil"
@@ -32083,8 +32075,8 @@
       "tomato",
       "grape tomato",
       "grape tomato",
-      "fresh mozzarella balls",
-      "fresh mozzarella balls",
+      " mozzarella balls",
+      " mozzarella balls",
       "basil pesto",
       "basil",
       "flaked salt"
@@ -32162,7 +32154,7 @@
       "heavy cream",
       "salt",
       "pepper",
-      "fresh herb"
+      " herb"
     ],
     "direction": [
       "About 1 hour before roasting, remove the prime rib from the refrigerator and let come to room temperature.  Preheat oven to 500 degrees. Place rib roast, fat side up, on rack in 14x10-inch roasting pan.",
@@ -32209,7 +32201,7 @@
     "title": "Deliciously Cheesy Baked Ziti",
     "ingredients": [
       "ziti pasta",
-      "Italian sausage",
+      "sausage",
       "cheese",
       "egg",
       "parsley",
@@ -32416,7 +32408,7 @@
     "ingredients": [
       "butter",
       "Worcestershire sauce",
-      "seasoning salt",
+      "salt",
       "garlic powder",
       "onion powder",
       "garlic bagel chips"
@@ -32551,7 +32543,7 @@
       "half-and-half cream",
       "salt",
       "pepper",
-      "bulk pork sausage",
+      "pork sausage",
       "Canadian bacon",
       "bacon",
       "cheddar cheese",
@@ -32622,7 +32614,7 @@
     "id": 1260,
     "title": "Chicken Roll-Ups",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "deli ham",
       "provolone cheese",
       "cheese",
@@ -32730,7 +32722,7 @@
     "title": "Scrumptious Strawberry Lemonade Cupcakes",
     "ingredients": [
       "strawberry gelatin",
-      "fresh strawberries",
+      " strawberries",
       "buttermilk",
       "egg",
       "shortening",
@@ -32876,11 +32868,11 @@
     "ingredients": [
       " cauliflower",
       "margarine",
-      "chicken breasts",
+      "chicken breast",
       "margarine",
       "flour",
       "cheddar cheese",
-      "2% low-fat milk",
+      "low-fat milk",
       "black pepper",
       "salt"
     ],
@@ -32909,7 +32901,7 @@
       "Ragu tomato sauce",
       "lean ground turkey",
       "part-skim cheese",
-      "fat free mozzarella cheese",
+      "mozzarella cheese",
       "parmesan cheese",
       "Egg Beaters egg substitute"
     ],
@@ -33007,7 +32999,7 @@
     "title": "Baked-Up Fried Chicken, Low Fat",
     "ingredients": [
       "low-fat buttermilk",
-      "chicken breasts",
+      "chicken breast",
       "flour",
       "salt",
       "garlic powder",
@@ -33139,7 +33131,7 @@
     "title": "Nif's Healthy Baked Beef Burritos",
     "ingredients": [
       "water",
-      "fat free sour cream",
+      "sour cream",
       "salsa",
       "tomato",
       "tortillas",
@@ -33167,7 +33159,7 @@
       "sweet potato",
       "celery root",
       "parsnip",
-      "skinless chicken breast",
+      "chicken breast",
       "flour",
       "nonfat milk",
       "parsley",
@@ -33199,7 +33191,7 @@
       "deli ham",
       "process American cheese",
       "mozzarella cheese",
-      "bulk Italian sausage",
+      "bulk sausage",
       "parmesan cheese",
       "oregano",
       "garlic powder",
@@ -33216,11 +33208,11 @@
     "id": 1284,
     "title": "Crock Pot Chicken Fajitas",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lime juice",
       "clove",
       "cumin",
-      "seasoning salt",
+      "salt",
       "chili powder",
       "bell pepper",
       "flour tortillas",
@@ -33289,7 +33281,7 @@
     "id": 1287,
     "title": "Easy Arroz Con Pollo",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "minced clove",
       "chicken broth",
       "tomato sauce",
@@ -33309,7 +33301,7 @@
     "id": 1288,
     "title": "Low Calorie yet   Delicious Chicken and Baby Dumplings",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "flour",
       "onion",
       "carrot",
@@ -33349,7 +33341,7 @@
       "scallions",
       "garlic",
       "pepper",
-      "skinless chicken breast",
+      "chicken breast",
       "rice"
     ],
     "direction": [
@@ -33432,7 +33424,7 @@
     "id": 1293,
     "title": "Egg-White French Toast",
     "ingredients": [
-      "2% low-fat milk",
+      "low-fat milk",
       "cinnamon",
       "vanilla extract"
     ],
@@ -33597,7 +33589,7 @@
     "title": "Easy Parmesan Garlic Chicken",
     "ingredients": [
       "parmesan cheese",
-      "chicken breasts",
+      "chicken breast",
       "garlic powder"
     ],
     "direction": [
@@ -33617,7 +33609,7 @@
       "halibut fillets",
       "cabbage",
       "cabbage",
-      "cider vinegar",
+      "vinegar",
       "sour cream",
       "onion",
       "salt",
@@ -33643,11 +33635,11 @@
       "unbleached flour",
       "salt",
       "black pepper",
-      "skinless chicken breast halves",
+      "chicken breast",
       "reduced sodium soy sauce",
       "sugar",
       "sesame seed",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "In a gallon-size plastic bag, combine flour, salt and pepper.",
@@ -33711,7 +33703,7 @@
       "tomato sauce",
       "mild chilies",
       "cheddar cheese",
-      "fat free tortillas"
+      "tortillas"
     ],
     "direction": [
       "Preheat the oven to 400 degrees F.",
@@ -33985,8 +33977,8 @@
       "Worcestershire sauce",
       "sugar",
       "clove",
-      "skinless chicken breast",
-      "fresh shrimp",
+      "chicken breast",
+      " shrimp",
       "pepper",
       "egg",
       "beans sprouts",
@@ -34022,7 +34014,7 @@
     "id": 1315,
     "title": "Healthy Quesadillas",
     "ingredients": [
-      "whole wheat tortillas",
+      "wheat tortillas",
       "cheese",
       "tomato",
       "pepper",
@@ -34074,7 +34066,7 @@
       "salt",
       "water",
       "unsweetened applesauce",
-      "cider vinegar",
+      "vinegar",
       "margarine",
       "vanilla extract"
     ],
@@ -34199,7 +34191,7 @@
       "fat-free cool whip",
       "apples",
       "pineapple tidbits",
-      "fat free sugar-free instant butterscotch pudding mix",
+      "sugar-free instant butterscotch pudding mix",
       "peanuts"
     ],
     "direction": [
@@ -34215,7 +34207,7 @@
     "title": "Cheryl's Bar Cookies (From a White Cake Mix) - Weight Watchers=4",
     "ingredients": [
       "butter",
-      "light sugar",
+      "sugar",
       "water",
       "egg"
     ],
@@ -34269,7 +34261,7 @@
     "title": "Lemon Bar/Square Renovation - Ww 2-3 Pts Each",
     "ingredients": [
       "flour",
-      "light sugar",
+      "sugar",
       "butter",
       "egg",
       "vanilla extract",
@@ -34389,7 +34381,7 @@
       "sugar",
       "salt",
       "olive oil",
-      "active dry yeast"
+      "yeast"
     ],
     "direction": [
       "Place dry ingredients in mixer bowl.",
@@ -34415,7 +34407,7 @@
       "onion",
       "pinto beans",
       "hot chili beans",
-      "whole kernel corn",
+      "kernel corn",
       "stewed tomato",
       "stewed tomato"
     ],
@@ -34538,7 +34530,7 @@
     "id": 1340,
     "title": "Blueberry Cobblers for Two - 4 Ww Points",
     "ingredients": [
-      "fresh blueberries",
+      " blueberries",
       "sugar",
       "crystallized ginger",
       "lemon",
@@ -34712,7 +34704,7 @@
     "id": 1349,
     "title": "Lower Fat Chicken Pot Pie With Phyllo",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "phyllo dough",
       "onion",
       "celery",
@@ -34761,7 +34753,7 @@
     "id": 1351,
     "title": "Chocolate Chip Cookies (With Special Ingredient)",
     "ingredients": [
-      "light sugar",
+      "sugar",
       "butter",
       "pure vanilla extract",
       "chickpeas",
@@ -34978,7 +34970,7 @@
     "id": 1361,
     "title": "Baked Chicken W/ Dried Apricots & Cherries",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "orange marmalade",
       "dried cherries",
       "oregano"
@@ -35095,7 +35087,7 @@
     "ingredients": [
       "sweet potato",
       "olive oil",
-      "light sugar",
+      "sugar",
       "salt",
       "black pepper"
     ],
@@ -35116,7 +35108,7 @@
     "title": "Sweet and Sour Meatballs",
     "ingredients": [
       "sugar",
-      "cider vinegar",
+      "vinegar",
       "catsup",
       "flour",
       "soy sauce"
@@ -35135,7 +35127,7 @@
     "id": 1368,
     "title": "Golden Chicken Nuggets",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "milk",
       "flour"
     ],
@@ -35254,7 +35246,7 @@
     "ingredients": [
       "potato",
       "nonfat milk",
-      "fat free cream cheese",
+      "cream cheese",
       "onion powder",
       "salt",
       "pepper",
@@ -35451,7 +35443,7 @@
       "onion",
       "clove",
       "bell pepper",
-      "chili peppers",
+      "chili pepper",
       "tomato",
       "flour tortillas",
       "low-fat cheddar cheese",
@@ -35479,7 +35471,7 @@
     "title": "Spaghetti Skillet",
     "ingredients": [
       "beef",
-      "bulk Italian sausage",
+      "bulk sausage",
       "no-salt-added tomato sauce",
       "stewed tomato",
       "water",
@@ -35500,7 +35492,7 @@
       "parmesan cheese",
       "garlic powder",
       "black pepper",
-      "chicken breasts",
+      "chicken breast",
       "butter"
     ],
     "direction": [
@@ -35791,8 +35783,8 @@
     "title": "Mulled Apple Cider",
     "ingredients": [
       "apple cider",
-      "whole allspice",
-      "whole clove",
+      "allspice",
+      "clove",
       "cinnamon sticks",
       "cinnamon stick"
     ],
@@ -35842,7 +35834,7 @@
       "sugar",
       "apple cider",
       "allspice",
-      "whole clove",
+      "clove",
       "cinnamon sticks"
     ],
     "direction": [
@@ -35912,7 +35904,7 @@
       "dark rum",
       "lime",
       "honey",
-      "whole clove",
+      "clove",
       "ginger",
       "cinnamon stick"
     ],
@@ -36109,7 +36101,7 @@
     "id": 1425,
     "title": "Yoda Soda",
     "ingredients": [
-      "limes, juice of",
+      "lime",
       "sugar",
       "sparkling water"
     ],
@@ -36389,7 +36381,7 @@
       "black pepper",
       "pepper",
       "tomato",
-      "whole chili",
+      "chili",
       "cheddar cheese",
       "cheese",
       "chorizo sausage",
@@ -36440,7 +36432,7 @@
     "id": 1442,
     "title": "Buffalo Potato Basketballs",
     "ingredients": [
-      "russet potato",
+      "potato",
       "butter",
       "salt",
       "black pepper",
@@ -36584,7 +36576,7 @@
     "title": "Peanut Butter Cookies With Cayenne",
     "ingredients": [
       "butter",
-      "light sugar",
+      "sugar",
       "chunky peanut butter",
       "vanilla extract",
       "pepper",
@@ -36688,7 +36680,7 @@
     "title": "Buffalo Chicken Jalapeno Poppers",
     "ingredients": [
       "butter",
-      "chicken breasts",
+      "chicken breast",
       "celery rib",
       "cheese",
       "blue cheese"
@@ -36813,7 +36805,7 @@
       "pepper",
       "garlic powder",
       "onion powder",
-      "seasoning salt",
+      "salt",
       "chicken wings"
     ],
     "direction": [
@@ -36908,7 +36900,7 @@
     "ingredients": [
       "barbecue sauce",
       "mayonnaise",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "chicken",
       "onion",
       "bell pepper",
@@ -37010,10 +37002,10 @@
     "title": "Baked Hot Wings",
     "ingredients": [
       "butter",
-      "fresh cracked pepper",
+      " cracked pepper",
       "cayenne",
       "cumin",
-      "cider vinegar",
+      "vinegar",
       "salt"
     ],
     "direction": [
@@ -37032,7 +37024,7 @@
     "ingredients": [
       "alfredo sauce with parmesan cheese",
       "mozzarella cheese",
-      "chicken breasts",
+      "chicken breast",
       "mushroom",
       "black olives",
       "onion",
@@ -37126,7 +37118,7 @@
       "cheddar cheese",
       "avocado",
       "sour cream",
-      "fresh tomato",
+      " tomato",
       "lemon juice"
     ],
     "direction": [
@@ -37152,13 +37144,13 @@
       "bacon",
       "beef",
       "kidney beans",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "onion",
       "chili powder",
       "pepper",
       "beef broth",
-      "fresh tomato",
+      " tomato",
       "clove",
       "cumin",
       "oregano",
@@ -37304,7 +37296,7 @@
     "title": "Best  Mexican Cheese Corn Dip Ever",
     "ingredients": [
       "cheddar cheese",
-      "diced chilies",
+      "chilies",
       "onion",
       "cumin",
       "black pepper",
@@ -37351,9 +37343,9 @@
       "salt",
       "cumin",
       "paprika",
-      "skinless chicken thighs",
+      "chicken thighs",
       "honey",
-      "cider vinegar"
+      "vinegar"
     ],
     "direction": [
       "Preheat broiler.",
@@ -37679,7 +37671,7 @@
       "chili powder",
       "cumin",
       "ground coriander",
-      "dried Mexican oregano",
+      "dried oregano",
       "garlic powder",
       "onion powder",
       "cayenne",
@@ -37703,8 +37695,8 @@
     "id": 1493,
     "title": "Oven Potato Slice Nachos",
     "ingredients": [
-      "russet potato",
-      "seasoning salt",
+      "potato",
+      "salt",
       "black pepper",
       "onion",
       "chili",
@@ -37874,11 +37866,11 @@
     "id": 1500,
     "title": "Chicken Enchilada Dip",
     "ingredients": [
-      "skinless chicken breast half",
+      "chicken breast half",
       "cream cheese",
       "mayonnaise",
       "colby-cheese",
-      "chili peppers"
+      "chili pepper"
     ],
     "direction": [
       "Place shredded chicken in a medium bowl, and mix in cream cheese, mayonnaise, shredded cheese, green chile peppers and jalapeno pepper.",
@@ -37959,7 +37951,7 @@
     "id": 1503,
     "title": "Slow Cooker Buffalo Chicken Chili",
     "ingredients": [
-      "skinless chicken thighs",
+      "chicken thighs",
       "onion",
       "celery",
       "carrot",
@@ -37984,7 +37976,7 @@
     "ingredients": [
       "tomato",
       "onion",
-      "peppers",
+      "pepper",
       "clove",
       "cumin",
       "pepper",
@@ -38027,7 +38019,7 @@
     "id": 1506,
     "title": "Buffalo Chicken Wraps",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "salt",
       "Tabasco sauce",
       "celery",
@@ -38048,7 +38040,7 @@
     "title": "Buffalo Chicken Mac-N-Cheese",
     "ingredients": [
       "macaroni",
-      "chicken breasts",
+      "chicken breast",
       "low-fat milk",
       "flour",
       "cheddar cheese",
@@ -38164,7 +38156,7 @@
       "olive oil",
       "clove",
       "ginger",
-      "crushed pepper",
+      "pepper",
       "black pepper",
       "chicken wings"
     ],
@@ -38259,7 +38251,7 @@
     "id": 1516,
     "title": "Loaded Potato and Buffalo Chicken Casserole",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "potato",
       "olive oil",
       "salt",
@@ -38474,7 +38466,7 @@
     "id": 1524,
     "title": "Potato Nachos",
     "ingredients": [
-      "russet potato",
+      "potato",
       "garlic powder",
       "black beans",
       "lime juice",
@@ -38501,7 +38493,7 @@
     "id": 1525,
     "title": "Crock Pot Chicken Tacos",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "chives",
       "cilantro",
       "clove",
@@ -38531,7 +38523,7 @@
       "butter",
       "mozzarella cheddar blend cheese",
       "water",
-      "chicken breasts",
+      "chicken breast",
       "cilantro salsa"
     ],
     "direction": [
@@ -38713,7 +38705,7 @@
       "gumbo file",
       "thyme",
       "salt",
-      "crushed tomato",
+      "tomato",
       "chicken broth",
       "Worcestershire sauce",
       " shrimp",
@@ -38740,7 +38732,7 @@
     "title": "Chi-Chi's Chile Con Queso",
     "ingredients": [
       "processed cheese",
-      "diced chilies",
+      "chilies",
       "pepper"
     ],
     "direction": [
@@ -38873,7 +38865,7 @@
     "ingredients": [
       "corn",
       "salt",
-      "fresh cracked pepper",
+      " cracked pepper",
       "lemon"
     ],
     "direction": [
@@ -39041,7 +39033,7 @@
     "title": "Redskins Tailgate Chili",
     "ingredients": [
       "beef",
-      "Italian sausage",
+      "sausage",
       "onion",
       "bell pepper",
       "clove",
@@ -39121,7 +39113,7 @@
       "chicken wings",
       "sugar",
       "butter",
-      "cider vinegar",
+      "vinegar",
       "sugar",
       "dried rosemary",
       "chili powder",
@@ -39186,7 +39178,7 @@
     "title": "Hot Lemon Rum Toddy",
     "ingredients": [
       "water",
-      "fresh lemon",
+      " lemon",
       "pepper",
       "cinnamon stick",
       "ginger",
@@ -39311,7 +39303,7 @@
     "id": 1560,
     "title": "Houdini Burgers",
     "ingredients": [
-      "cider vinegar",
+      "vinegar",
       "sugar",
       "salt",
       "celery seed",
@@ -39416,7 +39408,7 @@
     "id": 1565,
     "title": "Super Simple Sausage Sliders",
     "ingredients": [
-      "Italian sausage",
+      "sausage",
       "basil",
       "egg",
       "corn",
@@ -39459,7 +39451,7 @@
     "id": 1567,
     "title": "Golden Chicken Nuggets",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "milk",
       "flour"
     ],
@@ -39562,7 +39554,7 @@
       "egg",
       "milk",
       "barbecue sauce",
-      "skinless chicken breast",
+      "chicken breast",
       "barbecue sauce"
     ],
     "direction": [
@@ -39650,7 +39642,7 @@
     "id": 1576,
     "title": "Buffalo Chicken Wraps",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "salt",
       "Tabasco sauce",
       "celery",
@@ -39894,10 +39886,10 @@
       "onion",
       "carrot",
       "celery ribs",
-      "light sugar",
+      "sugar",
       "thyme",
       "clove",
-      "whole allspice",
+      "allspice",
       "sugar"
     ],
     "direction": [
@@ -40218,7 +40210,7 @@
     "title": "Died & Went to Pimento Cheese Heaven (Pimiento)",
     "ingredients": [
       "cream cheese",
-      "sharp white cheddar cheese",
+      "cheddar cheese",
       "cheddar cheese",
       "cheese",
       "mayonnaise",
@@ -40279,7 +40271,7 @@
     "id": 1602,
     "title": "Cinnamon Rolls",
     "ingredients": [
-      "active dry yeast",
+      "yeast",
       "water",
       "milk",
       "sugar",
@@ -40318,7 +40310,7 @@
       "salt",
       "chili powder",
       "clove",
-      "crushed pepper",
+      "pepper",
       "hickory flavored barbecue sauce",
       "beer",
       "molasses",
@@ -40368,7 +40360,7 @@
     "ingredients": [
       "pineapple chunks",
       "sugar",
-      "cider vinegar",
+      "vinegar",
       "soy sauce",
       "catsup",
       "ginger",
@@ -40399,7 +40391,7 @@
       "flour",
       "baking soda",
       "salt",
-      "light sugar",
+      "sugar",
       "butter",
       "egg",
       "vanilla extract",
@@ -40500,7 +40492,7 @@
     "id": 1610,
     "title": "\" Go Bears!\" Party Ryes",
     "ingredients": [
-      "bulk pork sausage",
+      "pork sausage",
       "Velveeta cheese",
       "Worcestershire sauce",
       "oregano",
@@ -40725,7 +40717,7 @@
     "id": 1626,
     "title": "Fresh Herb Pasta Dough",
     "ingredients": [
-      "fresh herbs",
+      " herbs",
       "salt",
       "flour",
       "egg",
@@ -41003,7 +40995,7 @@
       "bell pepper",
       "celery ribs",
       "clove",
-      "diced chilies",
+      "chilies",
       "kidney beans",
       "corn",
       "dark beer",
@@ -41096,7 +41088,7 @@
       "kidney beans",
       "pinto beans",
       "onion",
-      "chili peppers",
+      "chili pepper",
       "celery",
       "tomato",
       "cumin powder",
@@ -41192,7 +41184,7 @@
       "lemon pepper seasoning",
       "cumin",
       "olive oil",
-      "skinless chicken breast halves",
+      "chicken breast",
       "garlic",
       "onion",
       "white shoepeg corn",
@@ -41246,7 +41238,7 @@
       "ground pork",
       "water",
       "cornstarch",
-      "Wondra Flour",
+      "Wondra flour",
       "tomato paste",
       "vinegar",
       "chili powder",
@@ -41304,7 +41296,7 @@
       "bell pepper",
       "celery",
       "carrot",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "clove",
       "dark chocolate",
@@ -41394,8 +41386,8 @@
       "Libby's pumpkin",
       "tomato sauce",
       "kidney beans",
-      "diced chilies",
-      " whole kernel corn",
+      "chilies",
+      " kernel corn",
       "chili powder",
       "cumin",
       "black pepper"
@@ -41433,7 +41425,7 @@
       "onion",
       "chili pepper",
       "flour",
-      "crushed tomato",
+      "tomato",
       "no-added-salt tomato paste",
       "beef broth",
       "black beans",
@@ -41470,7 +41462,7 @@
       "water",
       "tomato",
       "onion",
-      "peppers",
+      "pepper",
       "garlic",
       "parsley",
       "butter",
@@ -41501,13 +41493,13 @@
       "bacon",
       "beef",
       "kidney beans",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "onion",
       "chili powder",
       "pepper",
       "beef broth",
-      "fresh tomato",
+      " tomato",
       "clove",
       "cumin",
       "oregano",
@@ -41539,7 +41531,7 @@
       "beer",
       "tortilla chips",
       "cilantro lettuce",
-      "limes, juice of"
+      "lime"
     ],
     "direction": [
       "Heat oil over medium-high in a heavy pot.",
@@ -41562,7 +41554,7 @@
     "ingredients": [
       "lentils",
       "vegetable broth",
-      "crushed tomato",
+      "tomato",
       "bell pepper",
       "onion",
       "clove",
@@ -41570,7 +41562,7 @@
       "cumin",
       "allspice",
       "tomato sauce",
-      "whole kernel corn"
+      "kernel corn"
     ],
     "direction": [
       "Combine everything (except tomato sauce and corn) in 2 1/2 quart pot and boil over high heat.",
@@ -41617,7 +41609,7 @@
       "garlic",
       "flour",
       "tomato",
-      "diced chilies",
+      "chilies",
       "water",
       "chili powder",
       "salt",
@@ -41649,7 +41641,7 @@
     "ingredients": [
       "onion",
       "celery",
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "chili powder",
       "oregano",
@@ -41692,7 +41684,7 @@
       "onion",
       "chili powder",
       "oregano",
-      "peppers",
+      "pepper",
       "salt"
     ],
     "direction": [
@@ -41774,7 +41766,7 @@
     "id": 1664,
     "title": "Weight Watchers Crock Pot Chicken Chili",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "tomato",
       "kidney beans",
       "bell pepper",
@@ -41824,7 +41816,7 @@
     "id": 1666,
     "title": "Crock Pot White Chicken Chili",
     "ingredients": [
-      "skinless chicken",
+      "chicken",
       "great northern beans",
       "hominy",
       "chilies",
@@ -41849,7 +41841,7 @@
     "ingredients": [
       "onion",
       "clove",
-      "chili peppers",
+      "chili pepper",
       "cumin",
       "oregano",
       "ground pepper",
@@ -41879,7 +41871,7 @@
       "garbanzo beans",
       "vegetarian baked beans",
       "tomato",
-      "whole kernel corn",
+      "kernel corn",
       "onion",
       "bell pepper",
       "zucchini",
@@ -41912,7 +41904,7 @@
       "beef broth",
       "tomato",
       "tomato sauce",
-      "chili peppers",
+      "chili pepper",
       "chili powder",
       "chipotle chile",
       "cumin",
@@ -42028,9 +42020,9 @@
       "minced clove",
       "salt",
       "chili powder",
-      "crushed pepper",
+      "pepper",
       "tomato paste",
-      "crushed tomato"
+      "tomato"
     ],
     "direction": [
       "Cook the ground beef and sausage.",
@@ -42175,7 +42167,7 @@
       "cumin",
       "paprika",
       "clove",
-      "Mexican oregano",
+      "oregano",
       "salt",
       "pepper",
       "masa harina flour",
@@ -42323,13 +42315,13 @@
       "bacon",
       "beef",
       "kidney beans",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "onion",
       "chili powder",
       "pepper",
       "beef broth",
-      "fresh tomato",
+      " tomato",
       "clove",
       "cumin",
       "oregano",
@@ -42444,14 +42436,14 @@
       "bell pepper",
       "bell pepper",
       "dark kidney beans",
-      "crushed tomato",
+      "tomato",
       "chili powder",
       "ground pepper",
       "salt",
       "cumin",
       "ground pepper",
       "garlic powder",
-      "light sugar"
+      "sugar"
     ],
     "direction": [
       "Add olive oil to bottom of a large cooking pot and turn heat on medium-low.",
@@ -42528,7 +42520,7 @@
     "title": "Lean White Chicken Chili",
     "ingredients": [
       "olive oil",
-      "skinless chicken breast",
+      "chicken breast",
       "onion",
       "garlic",
       "dry wine",
@@ -42588,7 +42580,7 @@
     "ingredients": [
       "anaheim chilies",
       "pork shoulder",
-      "whole cumin seed",
+      "cumin seed",
       "onion",
       "cilantro",
       "clove",
@@ -42699,7 +42691,7 @@
     "title": "Hawaiian Chicken Chili",
     "ingredients": [
       "chunk pineapple",
-      "chicken breasts",
+      "chicken breast",
       "butter",
       "clove",
       "onion",
@@ -42732,7 +42724,7 @@
     "ingredients": [
       "beef",
       "no-salt-added pinto beans",
-      "low-sodium crushed tomato",
+      "low-sodium tomato",
       "low-sodium tomato",
       "oregano",
       "paprika",
@@ -42745,7 +42737,7 @@
       "cumin",
       "garlic",
       "onion",
-      "peppers"
+      "pepper"
     ],
     "direction": [
       "Brown ground beef, rinse under water.",
@@ -42854,7 +42846,7 @@
       "cayenne",
       "salt",
       "kidney beans",
-      "chili peppers"
+      "chili pepper"
     ],
     "direction": [
       "Heat oil.",
@@ -42875,7 +42867,7 @@
       "chili powder",
       "cumin",
       "salt",
-      "skinless chicken thighs",
+      "chicken thighs",
       "tortilla chips",
       "onion",
       "pepper",
@@ -42935,7 +42927,7 @@
       "tomato",
       "salt",
       "limes",
-      "fresh tomato",
+      " tomato",
       "avocado",
       "scallion",
       "onion",
@@ -42962,7 +42954,7 @@
     "ingredients": [
       "onion",
       "garlic",
-      "chili peppers",
+      "chili pepper",
       "cumin",
       "oregano",
       "ground pepper",
@@ -42986,10 +42978,10 @@
     "title": "Baked Hot Wings",
     "ingredients": [
       "butter",
-      "fresh cracked pepper",
+      " cracked pepper",
       "cayenne",
       "cumin",
-      "cider vinegar",
+      "vinegar",
       "salt"
     ],
     "direction": [
@@ -43296,7 +43288,7 @@
       "butter",
       "tomato sauce",
       "garlic powder",
-      "cider vinegar",
+      "vinegar",
       "Worcestershire sauce",
       "dried ancho chile powder"
     ],
@@ -43505,7 +43497,7 @@
     "title": "Aloha Chicken Wings",
     "ingredients": [
       "chicken wings",
-      "dry sherry",
+      "sherry",
       "soy sauce",
       "sugar",
       "garlic powder",
@@ -43533,12 +43525,12 @@
       "chicken wings",
       "dark sugar",
       "soy sauce",
-      "fresh pineapple",
+      " pineapple",
       "sake",
       "wine vinegar",
       "clove",
       "water",
-      "toasted sesame seed"
+      "sesame seed"
     ],
     "direction": [
       "Place brown sugar, soy sauce, sake or sherry, and garlic in a large resealable plastic bag and stir to combine.",
@@ -43603,7 +43595,7 @@
     "title": "Hot & Cool Teriyaki Wings",
     "ingredients": [
       "chicken wings",
-      "crushed pepper",
+      "pepper",
       "Tabasco sauce",
       "sour cream",
       "mayonnaise",
@@ -43626,7 +43618,7 @@
     "id": 1735,
     "title": "Cambodian Wings",
     "ingredients": [
-      "light sugar",
+      "sugar",
       "honey",
       "oyster sauce",
       "chicken wings",
@@ -43700,7 +43692,7 @@
       "garlic powder",
       "apple",
       "onion",
-      "peppers",
+      "pepper",
       "pepper",
       "paprika",
       "chili powder",
@@ -43727,7 +43719,7 @@
       "water",
       "honey",
       "vinegar",
-      "light sugar",
+      "sugar",
       "mustard",
       "Worcestershire sauce",
       "soy sauce",
@@ -43760,7 +43752,7 @@
       "vinegar",
       "salt",
       "black pepper",
-      "toasted sesame seed",
+      "sesame seed",
       "onion"
     ],
     "direction": [
@@ -43871,7 +43863,7 @@
       "olive oil",
       "clove",
       "ginger",
-      "crushed pepper",
+      "pepper",
       "black pepper",
       "chicken wings"
     ],
@@ -44136,7 +44128,7 @@
       "cheddar cheese",
       "mozzarella cheese",
       "garlic powder",
-      "seasoning salt",
+      "salt",
       "butter"
     ],
     "direction": [
@@ -44207,7 +44199,7 @@
     "title": "Queso Blanco Dip",
     "ingredients": [
       "American cheese",
-      "diced chilies",
+      "chilies",
       "heavy cream"
     ],
     "direction": [
@@ -44326,7 +44318,7 @@
     "id": 1764,
     "title": "Cheesy Chicken & Veggie Mac",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "macaroni",
       "milk",
       "processed cheese",
@@ -44366,7 +44358,7 @@
       "salt",
       "black pepper",
       "olive oil",
-      "crushed tomato",
+      "tomato",
       "salsa",
       "pico de gallo",
       "cilantro"
@@ -44557,7 +44549,7 @@
       "onion",
       "butter",
       "mushroom",
-      "dry sherry",
+      "sherry",
       "pepper",
       "puff pastry sheets",
       "egg"
@@ -45275,7 +45267,7 @@
     "id": 1803,
     "title": "French Vanilla Coffee Mousse",
     "ingredients": [
-      "heavy whipping cream",
+      "whipping cream",
       "instant coffee",
       "vanilla extract",
       "sugar"
@@ -45322,7 +45314,7 @@
     "id": 1806,
     "title": "Death by Caramel Bars",
     "ingredients": [
-      "light sugar",
+      "sugar",
       "butter",
       "egg",
       "vanilla extract",
@@ -45353,7 +45345,7 @@
       "sugar",
       "cinnamon",
       "butter",
-      "light sugar",
+      "sugar",
       "water"
     ],
     "direction": [
@@ -45488,7 +45480,7 @@
     "id": 1813,
     "title": "How to Cook an Oven-Roasted Beer Can Chicken",
     "ingredients": [
-      "whole chicken",
+      "chicken",
       "beer",
       "olive oil",
       "thyme",
@@ -45632,7 +45624,7 @@
       "shallots",
       "beer",
       "lemon",
-      "flat leaf parsley"
+      "parsley"
     ],
     "direction": [
       "Stir the fresh blue mussels in a colander while rinsing in tap water. Set aside for a few minutes. Tap any that are open and discard those that don't close in response to the tap.",
@@ -45669,8 +45661,8 @@
     "ingredients": [
       "beer",
       "onion",
-      "whole black peppercorns",
-      "whole clove",
+      "black peppercorns",
+      "clove",
       "clove",
       "sweet dark mustard"
     ],
@@ -45689,7 +45681,7 @@
     "title": "Beer-Can Chicken",
     "ingredients": [
       "chicken",
-      "seasoning salt",
+      "salt",
       "garlic",
       "lemon juice",
       "beer"
@@ -45839,11 +45831,11 @@
       "salt",
       "flour",
       "yellow cornmeal",
-      "seasoning salt",
+      "salt",
       "baking powder",
       "baking soda",
       "beer",
-      "cider vinegar",
+      "vinegar",
       "Kiwi and Tomatillo Pico De Gallo",
       "Carrot Habanero Hot Sauce",
       "Mexican-Style Pickled Vegetables",
@@ -45891,7 +45883,7 @@
       "chili powder",
       "yellow bell pepper",
       "beer",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "sour cream",
       "cilantro leaf"
     ],
@@ -45914,7 +45906,7 @@
       "Worcestershire sauce",
       "chili powder",
       "onion powder",
-      "crushed pepper",
+      "pepper",
       "salt",
       "pepper",
       "beef"
@@ -45969,7 +45961,7 @@
     "ingredients": [
       "anaheim chilies",
       "pork shoulder",
-      "whole cumin seed",
+      "cumin seed",
       "onion",
       "cilantro",
       "clove",
@@ -46261,7 +46253,7 @@
     "title": "Bacon Explosion!",
     "ingredients": [
       "bacon",
-      "Italian sausage",
+      "sausage",
       "barbecue sauce"
     ],
     "direction": [
@@ -46533,7 +46525,7 @@
       "baking soda",
       "butter",
       "sugar",
-      "light sugar",
+      "sugar",
       "egg",
       "creamy peanut butter",
       "mini marshmallows",
@@ -46605,7 +46597,7 @@
     "title": "Butterscotch Blondies",
     "ingredients": [
       "butter",
-      "light sugar",
+      "sugar",
       "sugar",
       "egg",
       "flour",
@@ -47170,7 +47162,7 @@
     "id": 1883,
     "title": "Those Pretzel Things ( Pecan Rollo Bites)",
     "ingredients": [
-      "whole pecans"
+      "pecans"
     ],
     "direction": [
       "Place pretzel pieces on a baking sheet.",
@@ -47523,7 +47515,7 @@
     "id": 1900,
     "title": "Chimichurri",
     "ingredients": [
-      "flat leaf parsley",
+      "parsley",
       "garlic",
       "olive oil",
       "red wine vinegar",
@@ -47577,7 +47569,7 @@
       "salt",
       "vinegar",
       "olive oil",
-      "whole chicken",
+      "chicken",
       "lemon juice",
       "parsley"
     ],
@@ -47654,7 +47646,7 @@
     "ingredients": [
       "prosciutto",
       "tomato",
-      "fresh asparagus",
+      " asparagus",
       "parmesan cheese",
       "onion",
       "herbs",
@@ -47712,7 +47704,7 @@
     "ingredients": [
       "baking potato",
       "garlic powder",
-      "seasoning salt",
+      "salt",
       "paprika",
       "parmesan cheese",
       "butter"
@@ -47829,9 +47821,9 @@
     "id": 1914,
     "title": "Grilled Bourbon Buffalo Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemon juice",
-      "seasoning salt",
+      "salt",
       "romaine lettuce",
       "cucumber",
       "celery",
@@ -47877,7 +47869,7 @@
       "eggplant",
       "canola oil",
       "bell pepper",
-      "fresh mozzarella cheese",
+      " mozzarella cheese",
       "basil leaf",
       "baby arugula"
     ],
@@ -47923,7 +47915,7 @@
     "id": 1918,
     "title": "Grilled Chicken Breast with Spicy Pineapple Mango Salsa",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "thyme",
       "olive oil",
@@ -47932,7 +47924,7 @@
       "chipotle chile",
       "garlic",
       "cilantro",
-      "crushed pineapple",
+      "pineapple",
       "mango",
       "lime juice",
       "ginger",
@@ -47962,7 +47954,7 @@
       "lime juice",
       "lemon juice",
       "honey",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "medium shrimp",
       "lime wedge"
     ],
@@ -48009,7 +48001,7 @@
       "olive oil",
       "mushroom",
       "feta cheese",
-      "fresh tomato"
+      " tomato"
     ],
     "direction": [
       "Stir together pesto and olive oil, set aside.",
@@ -48166,7 +48158,7 @@
     "id": 1928,
     "title": "Chicken Satay Kabobs",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "creamy peanut butter",
       "soy sauce",
       "sugar",
@@ -48225,7 +48217,7 @@
     "title": "Delicious Raspberry Glazed Grilled Chicken",
     "ingredients": [
       "mustard",
-      "chicken breasts",
+      "chicken breast",
       "raspberry"
     ],
     "direction": [
@@ -48250,7 +48242,7 @@
       "salt",
       "soy sauce",
       "sake",
-      "light sugar",
+      "sugar",
       "ginger",
       "garlic",
       "mahi mahi fillets"
@@ -48280,7 +48272,7 @@
       "sugar",
       "garlic",
       "salt",
-      "chicken breasts",
+      "chicken breast",
       "tap water",
       "vinegar",
       "sugar",
@@ -48306,7 +48298,7 @@
     "id": 1934,
     "title": "Grilled Chicken Breast With Barbecue Glaze",
     "ingredients": [
-      "chicken breast fillets",
+      "chicken breast",
       "barbecue sauce",
       "honey",
       "mayonnaise",
@@ -48352,7 +48344,7 @@
       "clove",
       "shallot",
       "parsley",
-      "chicken breasts"
+      "chicken breast"
     ],
     "direction": [
       "Mix all ingredients together (except meat) and whisk thoroughly.",
@@ -48412,7 +48404,7 @@
       "clove",
       "thyme",
       "rosemary",
-      "fresh sage",
+      " sage",
       "salt",
       "black pepper"
     ],
@@ -48432,7 +48424,7 @@
     "id": 1940,
     "title": "Grilled Beer Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "butter",
       "lemon juice",
       "beer",
@@ -48635,7 +48627,7 @@
       "chili powder",
       "cumin",
       "clove",
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "lime juice",
       "sugar",
@@ -48667,7 +48659,7 @@
       "clove",
       "chickpeas",
       "cilantro leaf",
-      "flat leaf parsley",
+      "parsley",
       "rice",
       "curry powder",
       "pepper",
@@ -48709,7 +48701,7 @@
     "id": 1951,
     "title": "Grilled Bruschetta Chicken",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "tomato",
       "mozzarella cheese",
       "basil"
@@ -48730,7 +48722,7 @@
       "parsley",
       "garlic",
       "black pepper",
-      "crushed pepper",
+      "pepper",
       "shrimp"
     ],
     "direction": [
@@ -48769,7 +48761,7 @@
     "id": 1954,
     "title": "Chicken Parmesan Foil Packets",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "zucchini",
       "parmesan cheese",
       "mozzarella cheese"
@@ -48839,7 +48831,7 @@
     "id": 1957,
     "title": "Bun Ga Nuong (Grilled Chicken and Vermicelli Salad)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "shallots",
       "iceberg lettuce",
@@ -48852,7 +48844,7 @@
       "fish sauce",
       "sugar",
       "garlic",
-      "crushed pepper",
+      "pepper",
       "olive oil"
     ],
     "direction": [
@@ -48895,7 +48887,7 @@
       "salt",
       "turmeric",
       "pepper",
-      "chicken breasts"
+      "chicken breast"
     ],
     "direction": [
       "Combine oil, scallions, parsley, cilantro, garlic, paprika, cumin, salt, turmeric and cayenne pepper in the container of a food processor.",
@@ -48932,7 +48924,7 @@
     "title": "Cuban Spiced Pork Chops",
     "ingredients": [
       "pork chops",
-      "limes, juice of",
+      "lime",
       "cumin",
       "clove",
       "onion powder",
@@ -48981,12 +48973,12 @@
     "id": 1962,
     "title": "Grilled Buttermilk Ranch Marinated Chicken Breast",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemon, juice and zest of",
       "clove",
       "olive oil",
       "ground pepper",
-      "fresh savory"
+      " savory"
     ],
     "direction": [
       "Wash and dry the chicken breasts and set aside.",
@@ -49078,7 +49070,7 @@
       "onion",
       "clove",
       "coriander",
-      "flat leaf parsley",
+      "parsley",
       "paprika",
       "pepper",
       "saffron",
@@ -49206,9 +49198,9 @@
     "id": 1972,
     "title": "Grilled Chipotle-Chicken Quesadillas",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "olive oil",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "sour cream",
       "mayonnaise",
       "lime juice",
@@ -49239,7 +49231,7 @@
       "celery seed",
       "prepared yellow mustard",
       "salt",
-      "chicken breast halves"
+      "chicken breast"
     ],
     "direction": [
       "In a saucepan, saute the garlic in butter until tender.",
@@ -49274,7 +49266,7 @@
     "id": 1975,
     "title": "Lemon and Herb Chicken With Peach and Prosciutto Salad",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "wine",
       "lemon juice",
       "olive oil",
@@ -49460,7 +49452,7 @@
     "id": 1983,
     "title": "Grilled Chicken Tikka",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemon juice",
       "yogurt",
       "garlic",
@@ -49614,7 +49606,7 @@
       "bacon",
       "parsley",
       "dill",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "Grease a 24 x 18 inch piece of heavy duty foil with 1 tablespoon of the butter.",
@@ -49749,7 +49741,7 @@
     "id": 1994,
     "title": "Grilled Basil Lemon Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemons",
       "clove",
       "olive oil",
@@ -49835,7 +49827,7 @@
     "id": 1998,
     "title": "Thai-Style Grilled Chicken Thighs",
     "ingredients": [
-      "skinless chicken thighs",
+      "chicken thighs",
       "basil",
       "coriander",
       "garlic",
@@ -49859,7 +49851,7 @@
     "ingredients": [
       "lime juice",
       "olive oil",
-      "fresh oregano",
+      " oregano",
       "parsley",
       "cumin",
       "clove",
@@ -49905,7 +49897,7 @@
     "id": 2001,
     "title": "Grilled Balsamic Asparagus",
     "ingredients": [
-      "fresh asparagus",
+      " asparagus",
       "lemon juice",
       "olive oil",
       "soy sauce",
@@ -50385,7 +50377,7 @@
     "ingredients": [
       "hamburger",
       "pico de gallo",
-      "crushed pepper"
+      "pepper"
     ],
     "direction": [
       "Using your hands, squeeze excess liquid from pico de gallo.",
@@ -50412,7 +50404,7 @@
       "onion powder",
       "garlic",
       "egg",
-      "seasoning salt",
+      "salt",
       "onion",
       "cheddar cheese",
       "cheese"
@@ -50492,7 +50484,7 @@
       "salt",
       "black pepper",
       "ground lamb",
-      "fresh mint lettuce"
+      " mint lettuce"
     ],
     "direction": [
       "Heat the olive oil over low heat.",
@@ -50607,7 +50599,7 @@
       "salt",
       "lemon juice",
       "egg",
-      "fresh crabmeat",
+      " crabmeat",
       "butter",
       "cheddar cheese",
       "onion",
@@ -50644,7 +50636,7 @@
       "black pepper",
       "mustard",
       "ketchup",
-      "whole berry cranberry sauce",
+      "berry cranberry sauce",
       "red leaf lettuce"
     ],
     "direction": [
@@ -50713,7 +50705,7 @@
       "salsa",
       "egg",
       "mayonnaise",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "tomato",
       "cilantro",
       "onion",
@@ -50783,13 +50775,13 @@
       "beef",
       "tomato",
       "sour cream",
-      "fresh lemon rind",
+      " lemon rind",
       "gingerroot",
       "ketchup",
       "lemon pepper",
       "curry powder",
       "thyme",
-      "fresh herb",
+      " herb",
       "hoisin sauce"
     ],
     "direction": [
@@ -50813,7 +50805,7 @@
     "ingredients": [
       "lean hamburger",
       "garlic powder",
-      "seasoning salt",
+      "salt",
       "Worcestershire sauce",
       "egg",
       "cheese"
@@ -50858,7 +50850,7 @@
       "shallots",
       "egg",
       "cheese",
-      "fresh flat-leaf parsley"
+      " flat-leaf parsley"
     ],
     "direction": [
       "Take Shrimp and dice in to small pieces, chopped shallots, add seasoned bread crumbs, eggs, parsley and grated cheese.",
@@ -50951,7 +50943,7 @@
       "ginger",
       "black pepper",
       "clove",
-      "crushed pepper",
+      "pepper",
       "ground turkey",
       "scallions",
       "cilantro",
@@ -50989,7 +50981,7 @@
       "beefsteak tomato",
       "olive oil",
       "salt",
-      "fresh chives",
+      " chives",
       "bacon",
       "rosemary",
       "black pepper",
@@ -51087,7 +51079,7 @@
       "egg",
       "paprika",
       "pepper",
-      "seasoning salt",
+      "salt",
       "cooked ham",
       "low-fat swiss cheese"
     ],
@@ -51191,7 +51183,7 @@
     "ingredients": [
       "beef",
       "parsley flakes",
-      "seasoning salt",
+      "salt",
       "cheese",
       "tomato",
       "dill pickle slices"
@@ -51410,7 +51402,7 @@
     "id": 2062,
     "title": "Grilled Chicken Breast With Barbecue Glaze",
     "ingredients": [
-      "chicken breast fillets",
+      "chicken breast",
       "barbecue sauce",
       "honey",
       "mayonnaise",
@@ -51459,7 +51451,7 @@
       "chili powder",
       "cumin",
       "clove",
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "lime juice",
       "sugar",
@@ -51513,7 +51505,7 @@
     "id": 2066,
     "title": "Grilled Beer Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "butter",
       "lemon juice",
       "beer",
@@ -51559,7 +51551,7 @@
     "title": "Delicious Raspberry Glazed Grilled Chicken",
     "ingredients": [
       "mustard",
-      "chicken breasts",
+      "chicken breast",
       "raspberry"
     ],
     "direction": [
@@ -51578,7 +51570,7 @@
     "ingredients": [
       "chicken legs-thighs",
       "sugar",
-      "seasoning salt",
+      "salt",
       "paprika",
       "pepper",
       "garlic powder",
@@ -51608,7 +51600,7 @@
       "garlic",
       "salt",
       "pepper",
-      "skinless chicken breast halves"
+      "chicken breast"
     ],
     "direction": [
       "Mix first seven ingredients.",
@@ -51622,13 +51614,13 @@
     "id": 2071,
     "title": "Lynn's Favorite Jerk Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "canola oil",
       "chili powder",
       "garlic powder",
       "basil",
       "thyme",
-      "crushed pepper",
+      "pepper",
       "cumin",
       "ginger",
       "black pepper",
@@ -51657,11 +51649,11 @@
       "lemon",
       "lemon juice",
       "butter",
-      "fresh parmesan cheese",
+      " parmesan cheese",
       "basil",
       "butter",
       "clove",
-      "skinless chicken breast halves"
+      "chicken breast"
     ],
     "direction": [
       "Preheat outdoor grill.",
@@ -51680,7 +51672,7 @@
     "id": 2073,
     "title": "Grilled Cajun Chicken Sandwich",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "olive oil",
       "monterey jack pepper cheese",
       "lettuce"
@@ -51732,7 +51724,7 @@
     "id": 2075,
     "title": "Caesar Grilled Chicken",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "olive oil",
       "garlic powder",
       "lemon juice",
@@ -51757,7 +51749,7 @@
       "parsley",
       "clove",
       "oregano",
-      "skinless chicken breast halves"
+      "chicken breast"
     ],
     "direction": [
       "Combine lemon juice, olive oil, parsley, garlic, and oregano in large plastic food storage bag.",
@@ -51774,7 +51766,7 @@
     "title": "Marinated Grilled Chicken With White Wine, Garlic and Lemon",
     "ingredients": [
       "Italian parsley",
-      "fresh oregano",
+      " oregano",
       "dry wine",
       "olive oil",
       "lemon, juice and zest of",
@@ -51782,7 +51774,7 @@
       "black olives",
       "salt",
       "black pepper",
-      "chicken breasts",
+      "chicken breast",
       "yogurt",
       "sour cream",
       "parsley",
@@ -51799,7 +51791,7 @@
     "id": 2078,
     "title": "Thai-Style Grilled Chicken Thighs",
     "ingredients": [
-      "skinless chicken thighs",
+      "chicken thighs",
       "basil",
       "coriander",
       "garlic",
@@ -51821,7 +51813,7 @@
     "id": 2079,
     "title": "Asian Grilled Chicken",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "vinegar",
       "soy sauce",
       "sugar",
@@ -51863,7 +51855,7 @@
     "id": 2081,
     "title": "Easy-Grilled-Chicken-Teriyaki",
     "ingredients": [
-      "skinless chicken breast half",
+      "chicken breast half",
       "lemon juice",
       "garlic"
     ],
@@ -51880,7 +51872,7 @@
     "id": 2082,
     "title": "Grilled Balsamic Chicken",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "chicken broth",
       "Worcestershire sauce",
       "scallion",
@@ -51908,8 +51900,8 @@
       "thyme lettuce",
       "clove",
       "tomato",
-      "chicken breasts",
-      "fresh mozzarella cheese",
+      "chicken breast",
+      " mozzarella cheese",
       "basil"
     ],
     "direction": [
@@ -51934,7 +51926,7 @@
       "vinegar",
       "soy sauce",
       "lime juice",
-      "whole chickens"
+      "chicken"
     ],
     "direction": [
       "In a food processor, combine all of the ingredients up through the oil; process to a paste.",
@@ -51956,12 +51948,12 @@
       "onion",
       "clove",
       "olive oil",
-      "Mexican oregano",
+      "oregano",
       "cumin",
       "salt",
       "black pepper",
       "paprika",
-      "limes, juice of",
+      "lime",
       "cilantro leaf"
     ],
     "direction": [
@@ -51996,7 +51988,7 @@
     "id": 2087,
     "title": "Grilled Chicken Pesto Panini",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "garlic",
       "provolone cheese",
@@ -52024,7 +52016,7 @@
     "id": 2088,
     "title": "Ginger Marmalade Grilled Chicken Salad",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "orange marmalade",
       "ginger",
       "clove",
@@ -52059,7 +52051,7 @@
     "id": 2090,
     "title": "Grilled Lemon Chicken Wrap With Chilli Mayonnaise",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "clove",
       "cinnamon",
       "ground allspice",
@@ -52071,7 +52063,7 @@
       "tomato",
       "radishes",
       "mayonnaise",
-      "fresh green chile",
+      " green chile",
       "coriander",
       "lime juice"
     ],
@@ -52128,7 +52120,7 @@
       "mayonnaise",
       "honey",
       "mustard",
-      "chicken breasts",
+      "chicken breast",
       "lettuce",
       "bacon",
       "swiss cheese"
@@ -52158,7 +52150,7 @@
       "clove",
       "shallot",
       "parsley",
-      "chicken breasts"
+      "chicken breast"
     ],
     "direction": [
       "Mix all ingredients together (except meat) and whisk thoroughly.",
@@ -52176,7 +52168,7 @@
       "ginger",
       "honey",
       "red wine vinegar",
-      "skinless chicken breast halves",
+      "chicken breast",
       "mustard",
       "Worcestershire sauce"
     ],
@@ -52195,9 +52187,9 @@
     "id": 2095,
     "title": "Grilled Bourbon Buffalo Chicken",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemon juice",
-      "seasoning salt",
+      "salt",
       "romaine lettuce",
       "cucumber",
       "celery",
@@ -52221,7 +52213,7 @@
     "id": 2096,
     "title": "Grilled Bruschetta Chicken",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "tomato",
       "mozzarella cheese",
       "basil"
@@ -52237,9 +52229,9 @@
     "id": 2097,
     "title": "Grilled Chipotle-Chicken Quesadillas",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "olive oil",
-      "chipotle chile in adobo",
+      "chipotle chile",
       "sour cream",
       "mayonnaise",
       "lime juice",
@@ -52261,7 +52253,7 @@
     "id": 2098,
     "title": "Lemon and Herb Chicken With Peach and Prosciutto Salad",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "wine",
       "lemon juice",
       "olive oil",
@@ -52318,12 +52310,12 @@
     "id": 2100,
     "title": "Grilled Buttermilk Ranch Marinated Chicken Breast",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemon, juice and zest of",
       "clove",
       "olive oil",
       "ground pepper",
-      "fresh savory"
+      " savory"
     ],
     "direction": [
       "Wash and dry the chicken breasts and set aside.",
@@ -52338,7 +52330,7 @@
     "id": 2101,
     "title": "Grilled Chicken Tikka",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "lemon juice",
       "yogurt",
       "garlic",
@@ -52371,8 +52363,8 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "chicken breasts",
-      "seasoning salt",
+      "chicken breast",
+      "salt",
       "flour tortillas",
       "mozzarella cheese",
       "tomato",
@@ -52394,7 +52386,7 @@
       "sugar",
       "garlic",
       "salt",
-      "chicken breasts",
+      "chicken breast",
       "tap water",
       "vinegar",
       "sugar",
@@ -52443,8 +52435,8 @@
     "ingredients": [
       "low-fat mayonnaise",
       "mustard",
-      "fresh tarragon",
-      "chicken breasts"
+      " tarragon",
+      "chicken breast"
     ],
     "direction": [
       "Mix together the mayonnaise, mustard and tarragon in a shallow bowl.",
@@ -52481,7 +52473,7 @@
     "id": 2107,
     "title": "Bun Ga Nuong (Grilled Chicken and Vermicelli Salad)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "shallots",
       "iceberg lettuce",
@@ -52494,7 +52486,7 @@
       "fish sauce",
       "sugar",
       "garlic",
-      "crushed pepper",
+      "pepper",
       "olive oil"
     ],
     "direction": [
@@ -52545,7 +52537,7 @@
     "id": 2109,
     "title": "Chili's  Margarita Grilled Chicken and Belinda's Mexican Rice",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "garlic",
       "pepper",
       "rice",
@@ -52567,7 +52559,7 @@
     "id": 2110,
     "title": "Chicken Satay Kabobs",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "creamy peanut butter",
       "soy sauce",
       "sugar",
@@ -52585,8 +52577,8 @@
     "id": 2111,
     "title": "Nif's Grilled Hawaiian Chicken Skewers",
     "ingredients": [
-      "skinless chicken breast",
-      "fresh pineapple",
+      "chicken breast",
+      " pineapple",
       "soy sauce",
       "vinegar",
       "canola oil",
@@ -52631,7 +52623,7 @@
     "id": 2113,
     "title": "Original Carrabba's Chicken Bryan (Not Copycat!)",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "salt",
       "ground pepper",
       "olive oil",
@@ -52687,7 +52679,7 @@
     "id": 2115,
     "title": "Grilled Chicken With Cilantro Marinade",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "cilantro",
       "clove",
       "lime, zest of",
@@ -52731,7 +52723,7 @@
       "chili powder",
       "garlic powder",
       "lime juice",
-      "chicken breasts"
+      "chicken breast"
     ],
     "direction": [
       "Combine first all ingredients for marinade.",
@@ -52744,7 +52736,7 @@
     "id": 2118,
     "title": "Bacon Wrapped Grilled Chicken Sandwich",
     "ingredients": [
-      "chicken breast halves",
+      "chicken breast",
       "bacon",
       "lime juice",
       "lemon juice",
@@ -52762,7 +52754,7 @@
     "title": "Kraft Grilled Greek Chicken Kabobs",
     "ingredients": [
       "mayonnaise",
-      "chicken breasts",
+      "chicken breast",
       "onion",
       "lemon"
     ],
@@ -52785,7 +52777,7 @@
       "oregano",
       "salt",
       "pepper",
-      "skinless chicken breast halves",
+      "chicken breast",
       "flour tortillas",
       "lettuce",
       "tomato",
@@ -53018,7 +53010,7 @@
       "ginger",
       "lime juice",
       "salt",
-      "chicken breasts",
+      "chicken breast",
       "flour",
       "baking powder",
       "baking soda"
@@ -53089,7 +53081,7 @@
     "title": "Scrumptious Strawberry Lemonade Cupcakes",
     "ingredients": [
       "strawberry gelatin",
-      "fresh strawberries",
+      " strawberries",
       "buttermilk",
       "egg",
       "shortening",
@@ -53118,7 +53110,7 @@
       "olive oil",
       "basil",
       "salt",
-      "fresh cracked pepper",
+      " cracked pepper",
       "parmigiano-reggiano cheese"
     ],
     "direction": [
@@ -53180,7 +53172,7 @@
     "id": 2137,
     "title": "Chicken Garlic Bites",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "clove",
       "pepper",
@@ -53402,11 +53394,11 @@
     "id": 2148,
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "blue cheese",
       "butter",
       "celery ribs",
-      "fresh chives",
+      " chives",
       "parsley"
     ],
     "direction": [
@@ -53578,7 +53570,7 @@
       "olive oil",
       "lemon, juice and zest of",
       "rosemary lettuce",
-      "flat leaf parsley",
+      "parsley",
       "tomato packed in oil",
       "rosemary sprig"
     ],
@@ -53638,7 +53630,7 @@
       "cheese",
       "sugar",
       "vanilla extract",
-      "fresh strawberries"
+      " strawberries"
     ],
     "direction": [
       "For cannoli cream, in a medium bowl, stir together ricotta cheese, sugar, and vanilla.",
@@ -53886,7 +53878,7 @@
     "id": 2171,
     "title": "Mojito Shrimp Taco Cups",
     "ingredients": [
-      "fresh mint lettuce",
+      " mint lettuce",
       "rum",
       "sugar",
       "olive oil",
@@ -53896,12 +53888,12 @@
       "wonton wrappers",
       "canola oil",
       "mango",
-      "fresh mint lettuce",
+      " mint lettuce",
       "lime juice",
       "onion",
       "rum",
       "avocado",
-      "fresh mint lettuce",
+      " mint lettuce",
       "queso fresco",
       "lime"
     ],
@@ -54018,7 +54010,7 @@
     "ingredients": [
       "butter",
       "Worcestershire sauce",
-      "seasoning salt",
+      "salt",
       "garlic powder",
       "onion powder",
       "garlic bagel chips"
@@ -54076,7 +54068,7 @@
       "butter",
       "salt",
       "black pepper",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "Note- If using salted butter, lower amount of salt used or omit.",
@@ -54191,7 +54183,7 @@
     "id": 2183,
     "title": "Beignets",
     "ingredients": [
-      "active dry yeast",
+      "yeast",
       "water",
       "sugar",
       "salt",
@@ -54568,7 +54560,7 @@
       "pimentos",
       "olive oil",
       "clove",
-      "dry sherry"
+      "sherry"
     ],
     "direction": [
       "Heat the oven to 220C/fan 200C/gas 7.",
@@ -54692,7 +54684,7 @@
     "id": 2206,
     "title": "Chicken Roll-Ups",
     "ingredients": [
-      "skinless chicken breast halves",
+      "chicken breast",
       "deli ham",
       "provolone cheese",
       "cheese",
@@ -54732,7 +54724,7 @@
     "id": 2208,
     "title": "Quick and Easy Chicken Satay",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "clove",
       "water",
       "satay sauce",
@@ -54796,7 +54788,7 @@
       "Pizza DoughBread Machine",
       "olive oil",
       "onion",
-      "fresh figs",
+      " figs",
       "rosemary",
       "mozzarella cheese",
       "olive oil",
@@ -54827,7 +54819,7 @@
       "onion with top",
       "parsley",
       "clove",
-      "fresh parmesan cheese",
+      " parmesan cheese",
       "part-skim cheese",
       "egg",
       "butter",
@@ -55092,7 +55084,7 @@
     "title": "Lean White Chicken Chili",
     "ingredients": [
       "olive oil",
-      "skinless chicken breast",
+      "chicken breast",
       "onion",
       "garlic",
       "dry wine",
@@ -55150,7 +55142,7 @@
     "title": "Bacon Explosion!",
     "ingredients": [
       "bacon",
-      "Italian sausage",
+      "sausage",
       "barbecue sauce"
     ],
     "direction": [
@@ -55268,7 +55260,7 @@
       "flour",
       "chicken broth",
       "sour cream",
-      "diced chilies"
+      "chilies"
     ],
     "direction": [
       "Preheat oven to 350 degrees. Grease a 9x13 pan.",
@@ -55316,9 +55308,9 @@
     "id": 2233,
     "title": "Kittencal's Best Juicy Whole Roasted Chicken",
     "ingredients": [
-      "whole chickens",
+      "chicken",
       "butter",
-      "seasoning salt",
+      "salt",
       "garlic powder",
       "black pepper",
       "butter",
@@ -55375,11 +55367,11 @@
       "water",
       "sugar",
       "salt",
-      "active dry yeast",
+      "yeast",
       "flour",
       "mozzarella cheese",
-      "Italian sausage",
-      "crushed tomato",
+      "sausage",
+      "tomato",
       "cheese"
     ],
     "direction": [
@@ -55417,7 +55409,7 @@
       "raisin",
       "sugar",
       "mayonnaise",
-      "cider vinegar",
+      "vinegar",
       "red wine vinegar"
     ],
     "direction": [
@@ -55436,7 +55428,7 @@
       "Worcestershire sauce",
       "chili powder",
       "onion powder",
-      "crushed pepper",
+      "pepper",
       "salt",
       "pepper",
       "beef"
@@ -55551,7 +55543,7 @@
       "carrot",
       "beef broth",
       "brandy",
-      "whole mushroom",
+      "mushroom",
       "parsley"
     ],
     "direction": [
@@ -55569,7 +55561,7 @@
     "id": 2243,
     "title": "Cheddar Cheese Bacon Wrapped Chicken Breast at Its Best",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "bacon",
       "salt",
       "pepper",
@@ -55813,7 +55805,7 @@
     "id": 2254,
     "title": "Potato Nachos",
     "ingredients": [
-      "russet potato",
+      "potato",
       "garlic powder",
       "black beans",
       "lime juice",
@@ -55980,7 +55972,7 @@
     "title": "Low Fat Crock Pot Chicken Taco Soup",
     "ingredients": [
       "chicken broth",
-      "chicken breasts",
+      "chicken breast",
       "pinto beans",
       "kidney beans",
       "black beans",
@@ -56205,9 +56197,9 @@
       "salt",
       "sugar",
       "beer",
-      "whole chicken",
+      "chicken",
       "paprika",
-      "seasoning salt",
+      "salt",
       "onion powder",
       "garlic powder",
       "pepper",
@@ -56358,7 +56350,7 @@
     "id": 2276,
     "title": "Beth's Melt in Your Mouth Barbecue Ribs (Oven)",
     "ingredients": [
-      "light sugar",
+      "sugar",
       "hickory smoke salt",
       "paprika",
       "garlic powder",
@@ -56588,7 +56580,7 @@
       "gumbo file",
       "thyme",
       "salt",
-      "crushed tomato",
+      "tomato",
       "chicken broth",
       "Worcestershire sauce",
       " shrimp",
@@ -56703,7 +56695,7 @@
     "id": 2290,
     "title": "Chicken and Teriyaki  Sauce",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "sesame seed",
       "soy sauce",
       "water",
@@ -56946,7 +56938,7 @@
       "flour",
       "salt",
       "sugar",
-      "fast rise yeast",
+      "yeast",
       "water",
       "tomato sauce",
       "garlic powder",
@@ -56977,7 +56969,7 @@
     "id": 2301,
     "title": "Chicken Salad for Sandwiches",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "celery",
       "onion",
       "celery",
@@ -57384,7 +57376,7 @@
       "water",
       "egg",
       "lemon rind",
-      "crushed pineapple",
+      "pineapple",
       "butter",
       "unsifted flour",
       "sugar"
@@ -57522,7 +57514,7 @@
       "sugar",
       "heavy cream",
       "vanilla beans",
-      "light sugar"
+      "sugar"
     ],
     "direction": [
       "Preheat the oven to 275\u00baF.  In a medium bowl, whisk the egg yolks with half of the granulated sugar.  In a small saucepan, warm the cream with the vanilla scrapings and the remaining granulated sugar until steaming.  Gradually whisk the hot cream into the egg yolks until blended.  Strain the custard and pour it into 5-ounce ramekins or shallow gratin dishes.",
@@ -57754,11 +57746,11 @@
       "butter",
       "wine",
       "shortening",
-      "whole milk cheese",
+      "milk cheese",
       "powdered sugar",
       "vanilla extract",
       "maraschino cherry",
-      "heavy whipping cream"
+      "whipping cream"
     ],
     "direction": [
       "To make shells, mix flour, sugar and salt in a bowl.",
@@ -57849,7 +57841,7 @@
     "ingredients": [
       "Jello gelatin",
       "cottage cheese",
-      "crushed pineapple"
+      "pineapple"
     ],
     "direction": [
       "Empty whipped topping into a medium sized bowl.",
@@ -58547,7 +58539,7 @@
     "title": "Blackberry Dump Cake",
     "ingredients": [
       "oats",
-      "fresh blackberries",
+      " blackberries",
       "white sugar",
       "cinnamon",
       "butter"
@@ -58592,7 +58584,7 @@
     "title": "Individual Baked Alaska",
     "ingredients": [
       "bittersweet chocolate",
-      "heavy whipping cream",
+      "whipping cream",
       " raspberry",
       "sugar",
       "lemon juice",
@@ -58673,7 +58665,7 @@
       "carrot",
       "flaked coconut",
       "walnut",
-      "crushed pineapple",
+      "pineapple",
       "cream cheese",
       "butter",
       "icing sugar"
@@ -58767,7 +58759,7 @@
       "salt",
       "egg",
       "brewed coffee",
-      "cider vinegar",
+      "vinegar",
       "vanilla extract",
       "butter",
       "sugar",
@@ -58920,7 +58912,7 @@
     "id": 2373,
     "title": "Decadent Krispies Bar",
     "ingredients": [
-      "light sugar",
+      "sugar",
       "butter",
       "cinnamon",
       "miniature marshmallows",
@@ -58952,7 +58944,7 @@
     "ingredients": [
       "water",
       "instant banana pudding mix",
-      "heavy whipping cream",
+      "whipping cream",
       "banana"
     ],
     "direction": [
@@ -59148,15 +59140,15 @@
       "baking soda",
       "salt",
       "butter",
-      "light sugar",
+      "sugar",
       "white sugar",
       "egg",
       "oats",
       "butter",
-      "light sugar",
+      "sugar",
       "salt",
       "white sugar",
-      "light sugar",
+      "sugar",
       "salt",
       "powdered milk",
       "butter",
@@ -59226,7 +59218,7 @@
       "water",
       "light rum",
       "egg",
-      "crushed pineapple",
+      "pineapple",
       "coconut",
       "Cool Whip"
     ],
@@ -60593,7 +60585,7 @@
     "title": "Soft and Chewy M&m Cookies",
     "ingredients": [
       "Crisco shortening",
-      "light sugar",
+      "sugar",
       "sugar",
       "egg",
       "vanilla",
@@ -60888,7 +60880,7 @@
       "egg",
       "molasses",
       "honey",
-      "light sugar"
+      "sugar"
     ],
     "direction": [
       "Preheat oven to 375 degrees F.",
@@ -61035,7 +61027,7 @@
     "title": "Chewy Chocolate Chip Oatmeal Cookies",
     "ingredients": [
       "butter",
-      "light sugar",
+      "sugar",
       "white sugar",
       "egg",
       "vanilla extract",
@@ -61067,7 +61059,7 @@
       "baking soda",
       "salt",
       "butter",
-      "light sugar",
+      "sugar",
       "molasses",
       "egg"
     ],
@@ -61657,7 +61649,7 @@
       "cinnamon",
       "old fashioned oats",
       "butter",
-      "light sugar",
+      "sugar",
       "sugar",
       "egg",
       "honey",
@@ -62102,7 +62094,7 @@
       "salt",
       "dry wine",
       "olive oil",
-      "crushed pepper"
+      "pepper"
     ],
     "direction": [
       "Place onions in bottom of crock pot.",
@@ -62176,7 +62168,7 @@
     "title": "Chicken, Shrimp and Andouille Jambalaya",
     "ingredients": [
       "olive oil",
-      "skinless chicken thighs",
+      "chicken thighs",
       "andouille sausage",
       "onion",
       "celery ribs",
@@ -62352,7 +62344,7 @@
       "parmesan cheese",
       "alfredo sauce",
       "chicken broth",
-      "dry sherry",
+      "sherry",
       "ground pepper"
     ],
     "direction": [
@@ -62429,7 +62421,7 @@
       "olive oil",
       "heavy cream",
       "boursin cheese",
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "parsley",
       "rosemary",
@@ -62475,13 +62467,13 @@
     "title": "Chicken Alfredo With Crispy Bacon (Paula Deen)",
     "ingredients": [
       "bacon",
-      "chicken breasts",
+      "chicken breast",
       "pepper",
       "salt",
       "chicken broth",
       "onion",
       "clove",
-      "heavy whipping cream",
+      "whipping cream",
       "parmesan cheese",
       "parsley",
       "fettuccine pasta",
@@ -62502,7 +62494,7 @@
       "beef",
       "ketchup",
       "sugar",
-      "peppers"
+      "pepper"
     ],
     "direction": [
       "Brown meat in frying pan and drain. Add the rest of the ingredients and heat through."
@@ -62515,7 +62507,7 @@
     "ingredients": [
       "clove",
       "Lea & Perrins Worcestershire Sauce",
-      "light sugar",
+      "sugar",
       "salt",
       "black pepper"
     ],
@@ -62577,7 +62569,7 @@
     "id": 2515,
     "title": "Crock Pot Chicken & Dumplings",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "onion"
     ],
     "direction": [
@@ -62649,14 +62641,14 @@
     "id": 2518,
     "title": "Kittencal's Sausage Sawmill Gravy (With Biscuits)",
     "ingredients": [
-      "bulk pork sausage",
+      "pork sausage",
       "onion",
-      "crushed pepper",
+      "pepper",
       "flour",
       "flour",
       "half-and-half cream",
       "Worcestershire sauce",
-      "seasoning salt",
+      "salt",
       "black pepper"
     ],
     "direction": [
@@ -62698,7 +62690,7 @@
       "onion",
       "butter",
       "sugar",
-      "cider vinegar"
+      "vinegar"
     ],
     "direction": [
       "Heat meat and gravy in a saucepan.",
@@ -62826,7 +62818,7 @@
     "title": "Chicken Parmesan Express",
     "ingredients": [
       "angel hair pasta",
-      "skinless chicken breast halves",
+      "chicken breast",
       "egg",
       "butter",
       "mozzarella cheese",
@@ -63014,7 +63006,7 @@
     "id": 2533,
     "title": "Pammy's Crock Pot Chicken Breast and Gravy",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "olive oil",
       "onion powder",
       "garlic powder",
@@ -63141,7 +63133,7 @@
       "garlic powder",
       "salt",
       "pepper",
-      "seasoning salt",
+      "salt",
       "water"
     ],
     "direction": [
@@ -63293,7 +63285,7 @@
       "vinegar",
       "salt",
       "sugar",
-      "whole coriander seed",
+      "coriander seed",
       "black peppercorns",
       "clove",
       "bay lettuce"
@@ -63352,7 +63344,7 @@
     "id": 2547,
     "title": "Buffalo Chicken Grilled Cheese",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "scallion",
       "cheese",
       "celery ribs",
@@ -63521,12 +63513,12 @@
     "ingredients": [
       "clove",
       "rosemary",
-      "fresh chives",
+      " chives",
       "black pepper",
-      "fresh crab",
-      "roasted sweet peppers",
+      " crab",
+      "roasted sweet pepper",
       "French baguettes",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "In food processor, combine goat cheese, garlic, rosemary, chives and pepper. Stir in crab and peppers.",
@@ -63602,7 +63594,7 @@
     "id": 2560,
     "title": "Italian Grilled Cheese",
     "ingredients": [
-      "fresh mozzarella cheese",
+      " mozzarella cheese",
       "olive oil",
       "clove"
     ],
@@ -63744,7 +63736,7 @@
       "lemon juice",
       "cumin",
       "salt",
-      "fresh Italian parsley",
+      " Italian parsley",
       "cheese",
       "tomato",
       "mayonnaise"
@@ -63867,7 +63859,7 @@
     "id": 2574,
     "title": "Grilled Chile-Cheese Toasts",
     "ingredients": [
-      "whole milk mozzarella",
+      "milk mozzarella",
       "onion",
       "tomato",
       "cilantro",
@@ -64088,7 +64080,7 @@
       "honey",
       "cornstarch",
       "butter",
-      "fresh strawberries",
+      " strawberries",
       "flour",
       "baking powder",
       "salt",
@@ -64159,7 +64151,7 @@
       "onion powder",
       "salt",
       "black pepper",
-      "active dry yeast",
+      "yeast",
       "parmesan cheese",
       "flour",
       "olive oil",
@@ -64262,7 +64254,7 @@
     "id": 2590,
     "title": "Low Carb Breakfast Balls",
     "ingredients": [
-      "bulk pork sausage",
+      "pork sausage",
       "beef",
       "egg",
       "black pepper",
@@ -64329,7 +64321,7 @@
     "title": "Instant Pot Cauliflower Hash Brown Casserole",
     "ingredients": [
       "egg",
-      "cauliflower florets",
+      "cauliflower",
       " hash brown potato",
       "salt",
       "black pepper",
@@ -64533,7 +64525,7 @@
       "Bisquick baking mix",
       "milk",
       "egg",
-      "fresh blueberries",
+      " blueberries",
       "maple syrup"
     ],
     "direction": [
@@ -64590,7 +64582,7 @@
       "buttermilk",
       "sugar",
       "white flour",
-      "whole wheat pastry flour",
+      "wheat pastry flour",
       "egg",
       "yellow cornmeal",
       "butter",
@@ -64640,7 +64632,7 @@
     "ingredients": [
       "plain flour",
       "egg",
-      "2% low-fat milk",
+      "low-fat milk",
       "salt",
       "malt vinegar",
       "sausages",
@@ -64866,7 +64858,7 @@
       "margarine",
       "water",
       "egg",
-      "fresh blueberries"
+      " blueberries"
     ],
     "direction": [
       "Sift flour, sugar, baking powder, and salt together into medium mixing bowl.",
@@ -64939,7 +64931,7 @@
       "butter",
       "flour",
       "ground pepper",
-      "seasoning salt",
+      "salt",
       "basil",
       "half-and-half"
     ],
@@ -64964,7 +64956,7 @@
       "egg",
       "flour",
       "milk",
-      "light sugar",
+      "sugar",
       "cottage cheese",
       "sugar",
       "sugar",
@@ -65192,7 +65184,7 @@
     "title": "Quick California-Style Ham and Eggs Benedict",
     "ingredients": [
       "butter",
-      "fresh chives",
+      " chives",
       "milk",
       "lemon juice",
       "cooked ham",
@@ -65233,7 +65225,7 @@
       "rosemary",
       "salt",
       "black pepper",
-      "active dry yeast",
+      "yeast",
       "flour",
       "olive oil",
       "honey",
@@ -65605,7 +65597,7 @@
     "id": 2644,
     "title": "Ro-tel Chicken Spaghetti",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "chicken broth",
       "Ro-Tel tomato",
       "Velveeta cheese",
@@ -65660,7 +65652,7 @@
     "title": "Absolute Best Ever Lasagna",
     "ingredients": [
       "beef",
-      "Italian sausage",
+      "sausage",
       "onion",
       "clove",
       "salt",
@@ -65745,7 +65737,7 @@
       "clove",
       "ground turkey",
       "pepper",
-      "sharp white cheddar cheese"
+      "cheddar cheese"
     ],
     "direction": [
       "In a large sautee pan, fry pancetta. Cook till done, but not crisp. When done, pull out, pat with paper towel to blot off excess grease, hold pancetta to side.",
@@ -65938,7 +65930,7 @@
     "title": "Mexican Casserole - 6.5 Weight Watcher Points",
     "ingredients": [
       "onion",
-      "fresh tomato",
+      " tomato",
       "kernel corn",
       "black beans",
       "corn tortillas",
@@ -65959,7 +65951,7 @@
     "id": 2659,
     "title": "Poppy Seed Chicken Casserole",
     "ingredients": [
-      "skinless chicken",
+      "chicken",
       "sour cream",
       "poppy seed",
       "butter"
@@ -66090,7 +66082,7 @@
     "id": 2665,
     "title": "Delicious Blue Cheese Broccoli Casserole",
     "ingredients": [
-      "fresh broccoli",
+      " broccoli",
       "butter",
       "flour",
       "cream cheese",
@@ -66129,7 +66121,7 @@
       "pepper",
       "salt",
       "butter",
-      "light sugar",
+      "sugar",
       "pecans",
       "light corn syrup",
       "cinnamon",
@@ -66250,14 +66242,14 @@
       "onion",
       "bell pepper",
       "clove",
-      "seasoning salt",
+      "salt",
       "black pepper",
-      "russet potato",
+      "potato",
       "onion",
       "sour cream",
       "parmesan cheese",
       "garlic powder",
-      "seasoning salt",
+      "salt",
       "black pepper"
     ],
     "direction": [
@@ -66277,7 +66269,7 @@
     "title": "Southwest Tortellini Casserole",
     "ingredients": [
       "black beans",
-      "diced chilies",
+      "chilies",
       "tomato",
       "cumin",
       "low-fat sour cream",
@@ -66372,7 +66364,7 @@
       "onion",
       "bell pepper",
       "clove",
-      "fresh small shrimp",
+      " small shrimp",
       "tomato and chilies",
       "salt",
       "pepper"
@@ -66423,7 +66415,7 @@
     "ingredients": [
       "zucchini",
       "onion",
-      "fresh tomato",
+      " tomato",
       "clove",
       "tomato sauce",
       "mozzarella cheese",
@@ -66491,7 +66483,7 @@
     "id": 2680,
     "title": "Loaded Baked Potato & Chicken Casserole",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "potato",
       "olive oil",
       "salt",
@@ -66522,7 +66514,7 @@
     "id": 2681,
     "title": "Hamburger Potato Cheese Casserole",
     "ingredients": [
-      "russet potato",
+      "potato",
       "onion",
       "beef",
       "milk",
@@ -66634,7 +66626,7 @@
       "parmesan cheese",
       "milk",
       "sour cream",
-      "seasoning salt",
+      "salt",
       "black pepper",
       "onion",
       "pimiento",
@@ -66694,7 +66686,7 @@
       "sour cream",
       "butter",
       "garlic powder",
-      "seasoning salt",
+      "salt",
       "black pepper",
       "onion",
       "onion",
@@ -66846,7 +66838,7 @@
       "garlic powder",
       "onion",
       "cheddar cheese",
-      "seasoning salt",
+      "salt",
       "black pepper",
       "mayonnaise",
       "cheddar cheese"
@@ -67034,7 +67026,7 @@
     "id": 2700,
     "title": "Fig, Pine Nuts and Feta Stuffed Pork Loin",
     "ingredients": [
-      "fresh figs",
+      " figs",
       "honey",
       "pine nuts",
       "basil",
@@ -67056,10 +67048,10 @@
     "id": 2701,
     "title": "Herbed Chicken with Grapes",
     "ingredients": [
-      "fat free chicken broth",
+      "chicken broth",
       "lemon pepper seasoning",
       "couscous",
-      "skinless chicken breast halves",
+      "chicken breast",
       "dry wine",
       "cornstarch",
       "thyme lettuce",
@@ -67105,7 +67097,7 @@
     "id": 2703,
     "title": "SAUTEED CHICKEN with CURRIED APPLES",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "curry powder",
       "butter",
       "apples",
@@ -67197,7 +67189,7 @@
       "dried cranberries",
       "mandarin oranges",
       "pecans",
-      "chicken breasts",
+      "chicken breast",
       "blue cheese"
     ],
     "direction": [
@@ -67212,7 +67204,7 @@
     "title": "Gnocchi With Sherried Shallots",
     "ingredients": [
       "shallots",
-      "dry sherry",
+      "sherry",
       "nonfat sour cream",
       "chicken broth",
       "parsley",
@@ -67266,7 +67258,7 @@
     "id": 2709,
     "title": "Loaded Cauliflower (As Seen on Facebook)",
     "ingredients": [
-      "head cauliflower",
+      "cauliflower",
       "chives",
       "mayonnaise",
       "sour cream",
@@ -67319,7 +67311,7 @@
       "onion",
       "clove",
       "tomato",
-      "crushed pepper",
+      "pepper",
       "beef",
       "cooked rice",
       "water",
@@ -67353,7 +67345,7 @@
       "honey",
       "cinnamon",
       "pepper",
-      "fresh pear",
+      " pear",
       "ham",
       "baby swiss cheese",
       "butter"
@@ -67475,7 +67467,7 @@
       "carrot",
       "leek",
       "cranberries",
-      "skinless chicken thighs",
+      "chicken thighs",
       "chicken broth",
       "salt",
       "ground pepper",
@@ -67674,7 +67666,7 @@
     "id": 2724,
     "title": "Crock Pot White Chicken Chili",
     "ingredients": [
-      "skinless chicken",
+      "chicken",
       "great northern beans",
       "hominy",
       "chilies",
@@ -67764,7 +67756,7 @@
       "black cardamom pod",
       "cinnamon sticks",
       "peppercorns",
-      "whole clove",
+      "clove",
       "onion",
       "ginger paste",
       "garlic",
@@ -67828,7 +67820,7 @@
       "pepper",
       "half-and-half cream",
       "cheddar cheese",
-      "fresh chives",
+      " chives",
       "sour cream",
       "bacon",
       "cheese"
@@ -68060,7 +68052,7 @@
     "title": "Pumpkin Ravioli With Sage Butter Sauce",
     "ingredients": [
       "butter",
-      "fresh sage lettuce",
+      " sage lettuce",
       "pepper",
       "parmesan cheese",
       "amaretti cookies",
@@ -68086,11 +68078,11 @@
     "ingredients": [
       "peanut butter",
       "water",
-      "cider vinegar",
+      "vinegar",
       "tamari",
       "blackstrap molasses",
       "pepper",
-      "fresh broccoli",
+      " broccoli",
       "garlic",
       "tofu",
       "salt",
@@ -68188,7 +68180,7 @@
     "title": "Maple Glazed Delicata Squash",
     "ingredients": [
       "maple syrup",
-      "fresh sage leaf",
+      " sage leaf",
       "olive oil",
       "salt"
     ],
@@ -68209,7 +68201,7 @@
       "sugar",
       "salt",
       "tomato paste",
-      "crushed pepper",
+      "pepper",
       "black pepper",
       "coconut milk",
       "bell pepper",
@@ -68334,13 +68326,13 @@
     "id": 2747,
     "title": "Ww Grilled Salmon With Teriyaki Sauce - 4 Points",
     "ingredients": [
-      "dry sherry",
+      "sherry",
       "soy sauce",
       "sugar",
       "garlic powder",
       "pepper",
       "ginger",
-      "skinless salmon fillet"
+      "salmon fillet"
     ],
     "direction": [
       "Combine first 7 ingredients in a shallow dish; stir well. Add fish; cover, and marinate in refrigerator 30 minutes.",
@@ -68357,7 +68349,7 @@
     "title": "Baked Seasoned Salmon",
     "ingredients": [
       "salmon fillet",
-      "cider vinegar",
+      "vinegar",
       "Worcestershire sauce",
       "lemon juice",
       "salt",
@@ -68665,7 +68657,7 @@
       "asparagus",
       "lemon",
       "black pepper",
-      "seasoning salt",
+      "salt",
       "lemon wedge"
     ],
     "direction": [
@@ -68791,7 +68783,7 @@
       "lemon",
       "onion",
       "capers",
-      "fresh tarragon sprigs",
+      " tarragon sprigs",
       "salt",
       "black pepper"
     ],
@@ -68875,7 +68867,7 @@
       "salmon fillets",
       "scallions",
       "garlic",
-      "crushed tomato",
+      "tomato",
       "capers",
       "butter"
     ],
@@ -68952,7 +68944,7 @@
     "title": "Guacamole-Smoked Salmon Bruschetta",
     "ingredients": [
       "avocados",
-      "fresh tomato",
+      " tomato",
       "carrot",
       "smoked salmon",
       "fennel seed",
@@ -69188,7 +69180,7 @@
       "mayonnaise",
       "garlic powder",
       "parmesan cheese",
-      "fresh chives",
+      " chives",
       "lemon juice",
       "salmon fillet"
     ],
@@ -69205,7 +69197,7 @@
     "title": "Roasted Salmon Fillets With Irish Whiskey",
     "ingredients": [
       "honey",
-      "cider vinegar",
+      "vinegar",
       "thyme",
       "lemon",
       "salmon fillets"
@@ -69245,7 +69237,7 @@
     "ingredients": [
       "salmon",
       "onion",
-      "toasted sesame seed",
+      "sesame seed",
       "light soy sauce",
       "vinegar",
       "chili sauce",
@@ -69274,8 +69266,8 @@
       "olive oil",
       "salmon fillets",
       "olive oil",
-      "limes, juice of",
-      "fresh Italian parsley",
+      "lime",
+      " Italian parsley",
       "cilantro",
       "dill"
     ],
@@ -69365,7 +69357,7 @@
       "water",
       "sour cream",
       "lime juice",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "Evenly spread saffron threads at the bottom of a small glass and top with 1 teaspoon of water.",
@@ -69437,7 +69429,7 @@
     "title": "Sesame Salmon Fillet",
     "ingredients": [
       "salmon fillets",
-      "cider vinegar",
+      "vinegar",
       "soy sauce",
       "honey",
       "spicy brown mustard",
@@ -69546,7 +69538,7 @@
       "sour cream",
       "lemon juice",
       "smoked salmon",
-      "fresh chives",
+      " chives",
       "dill",
       "white pepper"
     ],
@@ -69602,7 +69594,7 @@
     "title": "Grilled Cedar Plank Salmon With Lemon-Dill Topping",
     "ingredients": [
       "salmon fillets",
-      "seasoning salt",
+      "salt",
       "black pepper",
       "dill",
       "parsley",
@@ -69765,7 +69757,7 @@
     "id": 2807,
     "title": "Simply Delicious Grilled Salmon",
     "ingredients": [
-      "fresh salmon",
+      " salmon",
       "butter",
       "garlic",
       "salt",
@@ -69861,8 +69853,8 @@
     "ingredients": [
       "leeks",
       "olive oil",
-      "russet potato",
-      "skinless salmon fillet",
+      "potato",
+      "salmon fillet",
       "mustard",
       "baby arugula"
     ],
@@ -69905,7 +69897,7 @@
       "flour",
       "salt",
       "pepper",
-      "2% low-fat milk",
+      "low-fat milk",
       "salmon fillet",
       "peas",
       "swiss cheese",
@@ -69972,7 +69964,7 @@
       "butter",
       "halibut fillet",
       "cornstarch",
-      "seasoning salt",
+      "salt",
       "sugar",
       "shallot"
     ],
@@ -70105,7 +70097,7 @@
       "butter",
       "capers",
       "lemon",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "Mix flour, salt, and pepper on a large plate and then dredge each cut of halibut. Shake off any excess flour.",
@@ -70285,7 +70277,7 @@
     "ingredients": [
       "butter",
       "clove",
-      "fresh tarragon",
+      " tarragon",
       "lemon",
       "salt",
       "black pepper",
@@ -70474,7 +70466,7 @@
       "ginger",
       "black pepper",
       "clove",
-      "crushed pepper",
+      "pepper",
       "ground turkey",
       "scallions",
       "cilantro",
@@ -70693,7 +70685,7 @@
     "id": 2848,
     "title": "Slow Cooker Cilantro Lime Chicken Tacos",
     "ingredients": [
-      "chicken breasts",
+      "chicken breast",
       "salsa",
       "lime",
       "cilantro",
@@ -70836,7 +70828,7 @@
     "title": "Spinach, Strawberry, Mandarin Salad With Poppy Seed Dressing",
     "ingredients": [
       "spinach",
-      "fresh strawberries",
+      " strawberries",
       "mandarin orange sections",
       "kiwi",
       "white sugar",
@@ -70885,8 +70877,8 @@
     "ingredients": [
       "egg",
       "celery",
-      "fresh chives",
-      "fresh Italian parsley",
+      " chives",
+      " Italian parsley",
       "coarse black pepper",
       "mayonnaise"
     ],
@@ -70987,7 +70979,7 @@
       "salt",
       "egg",
       "sugar",
-      "light sugar",
+      "sugar",
       "vanilla",
       "walnut"
     ],
@@ -71752,7 +71744,7 @@
     "title": "Caramel Apple Cookies",
     "ingredients": [
       "vegetable shortening",
-      "light sugar",
+      "sugar",
       "egg",
       "flour",
       "baking soda",
@@ -71761,7 +71753,7 @@
       "clove",
       "apple",
       "margarine",
-      "light sugar",
+      "sugar",
       "water",
       "powdered sugar",
       "milk",
@@ -71907,7 +71899,7 @@
     "id": 2897,
     "title": "Caramel Apple Salad",
     "ingredients": [
-      "crushed pineapple",
+      "pineapple",
       "Red Delicious apples",
       "sugar-free fat-free butterscotch pudding",
       "fat-free cool whip"
@@ -72197,7 +72189,7 @@
     "title": "Weight Watchers \"caramel Apple Fluff\"",
     "ingredients": [
       "sugar-free fat-free butterscotch pudding",
-      "crushed pineapple",
+      "pineapple",
       "apples",
       "fat-free cool whip"
     ],
@@ -72331,7 +72323,7 @@
       "milk",
       "cooking apples",
       "sugar",
-      "light sugar",
+      "sugar",
       "vanilla",
       "milk"
     ],
@@ -72399,7 +72391,7 @@
       "butter",
       "granny smith apples",
       "sugar",
-      "light sugar",
+      "sugar",
       "flour",
       "pepper",
       "cinnamon",
@@ -72469,7 +72461,7 @@
       "lemon juice",
       "sugar",
       "Amaretto",
-      "heavy whipping cream",
+      "whipping cream",
       "sugar",
       "vanilla",
       "pecans"
@@ -72676,7 +72668,7 @@
     "title": "Cinnamon Swirled Apple Bread",
     "ingredients": [
       "flour",
-      "active dry yeast",
+      "yeast",
       "milk",
       "sugar",
       "butter",
@@ -72835,7 +72827,7 @@
     "ingredients": [
       "butter",
       "butter",
-      "light sugar",
+      "sugar",
       "egg",
       "flour",
       "baking soda",
@@ -72844,7 +72836,7 @@
       "light sour cream",
       "pure vanilla extract",
       "apples",
-      "light sugar",
+      "sugar",
       "flour",
       "cinnamon",
       "butter"
@@ -73168,13 +73160,13 @@
       "xanthan gum",
       "butter",
       "egg",
-      "gluten-free vanilla extract",
+      "vanilla extract",
       "apples",
       "sugar",
       "cinnamon",
       "ground pepper",
       "salt",
-      "light sugar",
+      "sugar",
       "ground pepper",
       "butter"
     ],
@@ -73234,8 +73226,8 @@
       "butter",
       "asparagus",
       "pepper",
-      "seasoning salt",
-      "crushed pepper",
+      "salt",
+      "pepper",
       "onion"
     ],
     "direction": [
@@ -73256,7 +73248,7 @@
       "scallions",
       "olive oil",
       "Worcestershire sauce",
-      "sharp white cheddar cheese",
+      "cheddar cheese",
       "mayonnaise",
       "cumin",
       "romaine lettuce"
@@ -73367,7 +73359,7 @@
     "title": "Unstuffed Green Pepper Soup",
     "ingredients": [
       "celery",
-      "peppers",
+      "pepper",
       "beef",
       "tomato",
       "vegetable broth",
@@ -73393,8 +73385,8 @@
     "ingredients": [
       "beans",
       "pine nuts",
-      "fresh flat-leaf parsley",
-      "fresh lemon",
+      " flat-leaf parsley",
+      " lemon",
       "olive oil"
     ],
     "direction": [
@@ -73631,7 +73623,7 @@
       "sugar",
       "real vanilla extract",
       "heavy cream",
-      "fresh blueberries"
+      " blueberries"
     ],
     "direction": [
       "Whisk together egg yolks, sugar and vanilla by hand or with a mixer for 1-2 minutes, until smooth and the colour lightens.",
@@ -73931,7 +73923,7 @@
       "water",
       "strawberry ice cream",
       "strawberry",
-      "fresh strawberries"
+      " strawberries"
     ],
     "direction": [
       "Preheat the oven to the temperature required according to the directions on the cake mix box. Grease and line the bottom of two 9-inch cake tins with baking paper.",
@@ -74172,7 +74164,7 @@
       "water",
       "butter",
       "Kahlua",
-      "heavy whipping cream",
+      "whipping cream",
       "vanilla",
       "pecans"
     ],
@@ -74207,7 +74199,7 @@
     "title": "Dairy Free Peach Ice Cream",
     "ingredients": [
       "light vanilla soymilk",
-      "light sugar",
+      "sugar",
       "lemon juice",
       "vanilla extract",
       "salt"
@@ -74469,7 +74461,7 @@
     "title": "Traditional Lasagna",
     "ingredients": [
       "beef",
-      "bulk pork sausage",
+      "pork sausage",
       "tomato sauce",
       "tomato paste",
       "clove",
@@ -74635,7 +74627,7 @@
     "ingredients": [
       "beef",
       "ground pork",
-      "Italian sausage",
+      "sausage",
       "mushroom",
       "onion",
       "clove",
@@ -74650,7 +74642,7 @@
       "black olives",
       "mozzarella cheese",
       "parmesan cheese",
-      "crushed tomato",
+      "tomato",
       "hunts tomato paste",
       "stewed tomato",
       "olive oil",
@@ -74699,7 +74691,7 @@
     "id": 3016,
     "title": "Sausage Potato Lasagna",
     "ingredients": [
-      "bulk Italian sausage",
+      "bulk sausage",
       "mushroom",
       "potato",
       "spinach",
@@ -74768,7 +74760,7 @@
     "id": 3018,
     "title": "Jo Mama's World Famous Spaghetti",
     "ingredients": [
-      "Italian sausage",
+      "sausage",
       "onion",
       "clove",
       "tomato",
@@ -74779,7 +74771,7 @@
       "parsley flakes",
       "sugar",
       "salt",
-      "crushed pepper",
+      "pepper",
       "black pepper",
       "red wine",
       "parmesan cheese"
@@ -74804,7 +74796,7 @@
       "beef",
       "onion",
       "clove",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "tomato sauce",
       "water",
@@ -74917,7 +74909,7 @@
       "spinach",
       "artichokes",
       "tomato",
-      "fresh parmesan cheese"
+      " parmesan cheese"
     ],
     "direction": [
       "Preheat oven to 350 degrees.",
@@ -74943,7 +74935,7 @@
       "tomato",
       "tomato sauce",
       "tomato juice",
-      "peppers",
+      "pepper",
       "pimento pepper",
       "mushroom"
     ],
@@ -75077,7 +75069,7 @@
     "id": 3028,
     "title": "Favorite Lasagna",
     "ingredients": [
-      "Italian sausage",
+      "sausage",
       "beef",
       "onion",
       "garlic",
@@ -75125,7 +75117,7 @@
     "id": 3029,
     "title": "Awesome Lasagna (No-Boil, Easy)",
     "ingredients": [
-      "Italian sausage",
+      "sausage",
       "tomato",
       "water",
       "clove",
@@ -75157,7 +75149,7 @@
     "title": "\"you'll Never Miss the Noodles\" Lasagna",
     "ingredients": [
       "beef",
-      "sweet Italian sausage link",
+      "sweet sausage link",
       "onion",
       "bell pepper",
       "clove",
@@ -75167,7 +75159,7 @@
       "oregano",
       "dried rosemary",
       "water",
-      "whole milk cheese",
+      "milk cheese",
       "egg",
       "parsley",
       "mushroom",
@@ -75209,9 +75201,9 @@
       "spinach",
       "cheese",
       "feta cheese",
-      "fresh parmesan cheese",
+      " parmesan cheese",
       "cheddar cheese",
-      "fresh parmesan cheese"
+      " parmesan cheese"
     ],
     "direction": [
       "Place the vegetables in a roasting dish, cover in the olive oil and brown sugar and season well with salt and pepper. Tear the basil over the top of the vegies.",
@@ -75237,7 +75229,7 @@
       "mozzarella cheese",
       "parmesan cheese",
       "black pepper",
-      "whole milk cheese",
+      "milk cheese",
       "basil"
     ],
     "direction": [
@@ -75259,7 +75251,7 @@
       "ground pork",
       "beef",
       "tomato sauce",
-      "crushed tomato",
+      "tomato",
       "parsley",
       "clove",
       "oregano",
@@ -75320,7 +75312,7 @@
     "id": 3035,
     "title": "Giada's Lasagna Rolls",
     "ingredients": [
-      "whole milk cheese",
+      "milk cheese",
       "spinach",
       "parmesan cheese",
       "parmesan cheese",
@@ -75413,10 +75405,10 @@
       "minced clove",
       "onion",
       "mozzarella cheese",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "sugar",
-      "crushed pepper",
+      "pepper",
       "salt",
       "wine"
     ],
@@ -75587,9 +75579,9 @@
       "beef",
       "onion",
       "celery",
-      "crushed tomato",
+      "tomato",
       "tomato sauce",
-      "diced chilies",
+      "chilies",
       "Bulk Taco Seasoning Mix",
       "cumin",
       "cream-style cottage cheese",
@@ -75743,7 +75735,7 @@
       "flour",
       "chicken broth",
       "medium shrimp",
-      "fresh Italian parsley",
+      " Italian parsley",
       "cheese",
       "parmesan cheese",
       "egg",
@@ -75766,7 +75758,7 @@
     "title": "Easy Black Bean Lasagna",
     "ingredients": [
       "black beans",
-      "crushed tomato",
+      "tomato",
       "onion",
       "bell pepper",
       "salsa",
@@ -75799,7 +75791,7 @@
     "id": 3052,
     "title": "Asparagus Lasagna",
     "ingredients": [
-      "fresh asparagus",
+      " asparagus",
       "olive oil",
       "salt",
       "butter",
@@ -75858,7 +75850,7 @@
     "title": "Italian-Style Lasagna-My Way",
     "ingredients": [
       "beef",
-      "Italian sausage",
+      "sausage",
       "onion",
       "celery",
       "clove",
@@ -76098,7 +76090,7 @@
       "garlic",
       "thyme",
       "chicken broth",
-      "fresh parmesan cheese"
+      " parmesan cheese"
     ],
     "direction": [
       "In a large pot, heat the butter until melted.",
@@ -76240,14 +76232,14 @@
       "carrot",
       "onion",
       "clove",
-      "flat leaf parsley",
+      "parsley",
       "water",
       "celery ribs",
       "carrot",
       "clove",
       "peppercorns",
       "onion",
-      "flat leaf parsley",
+      "parsley",
       "flour",
       "egg",
       "olive oil",
@@ -76310,7 +76302,7 @@
       "butter beans",
       "white beans",
       "chili powder",
-      "seasoning salt"
+      "salt"
     ],
     "direction": [
       "Saute  cut- up chicken, onion, peppers and celery in 4 qt saucepan or soup pot with olive oil until celery is soft.",
@@ -76388,7 +76380,7 @@
     "title": "Spicy Healthy Taco Bean Soup",
     "ingredients": [
       "onion",
-      "whole kernel corn",
+      "kernel corn",
       "reduced-sodium chicken broth",
       "black beans",
       "great northern beans",
@@ -76474,7 +76466,7 @@
       "egg",
       "olive oil",
       "water",
-      "fresh oregano",
+      " oregano",
       "parmesan cheese",
       "salt",
       "chicken broth",
@@ -76557,7 +76549,7 @@
       "celery",
       "carrot",
       "rosemary",
-      "fresh tarragon",
+      " tarragon",
       "thyme",
       "flat-leaf Italian parsley"
     ],
@@ -76699,11 +76691,11 @@
       "cornstarch",
       "water",
       "chicken bouillon cubes",
-      "fresh asparagus",
+      " asparagus",
       "milk",
       "lemon, rind of",
       "ground pepper",
-      "seasoning salt"
+      "salt"
     ],
     "direction": [
       "In med saucepan, saute onion and celery in butter until tender.",
@@ -76771,13 +76763,13 @@
     "id": 3088,
     "title": "Hearty and Healthy Potato Soup",
     "ingredients": [
-      "russet potato",
+      "potato",
       "butter",
       "cabbage",
       "onion",
       "ham",
       "carrot",
-      "2% low-fat milk",
+      "low-fat milk",
       "chicken broth",
       "sour cream",
       "onion",
@@ -76804,7 +76796,7 @@
       "broccoli",
       "onion",
       "clove",
-      "fresh tarragon",
+      " tarragon",
       "flour",
       "cheddar cheese"
     ],
@@ -76916,7 +76908,7 @@
       "tomato",
       "macaroni",
       "borlotti beans",
-      "flat leaf parsley",
+      "parsley",
       "parmesan cheese"
     ],
     "direction": [
@@ -76983,7 +76975,7 @@
       "water",
       "pasta",
       "tomato",
-      "sweet whole kernel corn",
+      "sweet kernel corn",
       " carrot",
       "celery hearts",
       "bell pepper",
@@ -77006,7 +76998,7 @@
     "ingredients": [
       "chicken broth",
       "potato",
-      "seasoning salt",
+      "salt",
       "white pepper",
       "cream cheese"
     ],
@@ -77030,7 +77022,7 @@
       "red chile",
       "ginger",
       "onion",
-      "chicken breasts",
+      "chicken breast",
       "snow peas",
       "udon noodles",
       "onion"
@@ -77077,7 +77069,7 @@
     "id": 3100,
     "title": "La Madeleine's Tomato-Basil Soup",
     "ingredients": [
-      "fresh tomato",
+      " tomato",
       "tomato juice",
       "basil",
       "heavy cream",
@@ -77159,7 +77151,7 @@
       "chicken broth",
       "water",
       "broccoli",
-      "chicken breasts",
+      "chicken breast",
       "white pepper",
       "salt",
       "pepper",
@@ -77182,7 +77174,7 @@
       "clove",
       "olive oil",
       "pepper",
-      "crushed pepper",
+      "pepper",
       "bell pepper",
       "salt",
       "pepper"
@@ -77205,7 +77197,7 @@
     "ingredients": [
       "chicken broth",
       "bay leaf",
-      "fresh tomato",
+      " tomato",
       "tomato paste",
       "basil",
       "clove",
@@ -77360,14 +77352,14 @@
       "chicken broth",
       "tomato",
       "salsa",
-      "diced chilies",
+      "chilies",
       "onion",
       "cilantro",
       "clove",
       "red chili powder",
       "salt",
       "pepper",
-      "chicken breasts"
+      "chicken breast"
     ],
     "direction": [
       "Add all to large pot.                   Bring to a boil and simmer 1 hour.       Can be topped with:.",
@@ -77439,7 +77431,7 @@
     "ingredients": [
       "water",
       "bamboo shoot",
-      "chicken breasts",
+      "chicken breast",
       "mushroom",
       "onion",
       "soy sauce",
@@ -77516,7 +77508,7 @@
     "title": "Black Bean and Chicken Soup",
     "ingredients": [
       "black beans",
-      "skinless chicken breast",
+      "chicken breast",
       "cumin powder",
       "garlic powder",
       "black pepper",
@@ -77549,7 +77541,7 @@
       "onion",
       "celery",
       "carrot",
-      "russet potato",
+      "potato",
       "garlic",
       "cabbage",
       "corn",
@@ -77601,7 +77593,7 @@
       "salt",
       "black pepper",
       "chili powder",
-      "whole kernel corn",
+      "kernel corn",
       "Mexican-style tomato",
       "tomato",
       "water"
@@ -77684,7 +77676,7 @@
       "paprika",
       "green lentils",
       "water",
-      "crushed tomato",
+      "tomato",
       "tomato paste",
       "salt"
     ],
@@ -77811,7 +77803,7 @@
       "salt",
       "black pepper",
       "oregano",
-      "fresh chives",
+      " chives",
       "pepper"
     ],
     "direction": [
@@ -77951,13 +77943,13 @@
     "id": 3132,
     "title": "Mediterranean Kale & White Bean Soup With Sausage",
     "ingredients": [
-      "mild Italian sausage",
+      "mild sausage",
       "olive oil",
       "onion",
       "carrot",
       "celery rib",
       "clove",
-      "crushed pepper",
+      "pepper",
       "salt",
       "black pepper",
       "chicken broth",
@@ -77989,7 +77981,7 @@
       "tomato",
       "heavy cream",
       "vodka",
-      "crushed pepper",
+      "pepper",
       "penne pasta",
       "parmigiano-reggiano cheese"
     ],
@@ -78011,13 +78003,13 @@
     "id": 3134,
     "title": "Quick and Easy Baked Ziti",
     "ingredients": [
-      "mild Italian sausage",
+      "mild sausage",
       "onion",
       "bell pepper",
       "clove",
       "ziti pasta",
       "mozzarella cheese",
-      "fresh parmesan cheese"
+      " parmesan cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00baF. Lightly grease a 9x13\" baking dish; set aside.",
@@ -78055,7 +78047,7 @@
     "id": 3136,
     "title": "Lemon Chicken Linguine",
     "ingredients": [
-      "skinless chicken breast",
+      "chicken breast",
       "linguine",
       "onion",
       "clove",
@@ -78086,7 +78078,7 @@
       "butter",
       "half-and-half",
       "black pepper",
-      "fresh chives"
+      " chives"
     ],
     "direction": [
       "In a medium pot, bring 4 quarts of water to a boil. Add a pinch of salt and the macaroni. Cook until tender, about 8 to 10 minutes.",
@@ -78480,7 +78472,7 @@
       "linguine",
       "butter",
       "onion",
-      "heavy whipping cream",
+      "whipping cream",
       "tomato",
       "salt",
       "basil",
@@ -79441,7 +79433,7 @@
       "linguine",
       "butter",
       "onion",
-      "heavy whipping cream",
+      "whipping cream",
       "tomato",
       "salt",
       "basil",
@@ -80024,7 +80016,7 @@
     "id": 3225,
     "title": "Baked Cavatelli",
     "ingredients": [
-      "Italian sausage",
+      "sausage",
       "onion",
       "garlic",
       "mozzarella cheese",
