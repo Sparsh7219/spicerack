@@ -4,3 +4,6 @@
     border-radius: 2rem;
     display: inline-block;
 }
+*, *::before, *::after {
+    box-sizing: border-box
+}

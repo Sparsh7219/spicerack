@@ -18,9 +18,8 @@ function App() {
     <>
       
       <Router>
-          <Home/>
         <Routes>
-          <Route path="/" element={<Home-Trend />}/>
+          <Route path="/" element={<Home/>}/>
           <Route path="/Favorites" element={<Favoraterec/>}/>
           <Route path="/Login" element={<Login/>}/>
           <Route path="/RecipeDesc" element={<RecipeDesc/>}/>

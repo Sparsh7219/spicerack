@@ -1,0 +1,58 @@
+/* styles.css */
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    padding: 24px 0;
+    max-width: 100%;
+    margin: 0 auto;
+    border-top-left-radius: 50px;
+    position: relative;
+    overflow: hidden; /* To clip the shadow that goes beyond the borders */
+  }
+  
+  .footer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background-color: transparent;
+    filter: drop-shadow(7px 6px 6px #65127b);
+    border-top-left-radius: 50px;
+    z-index: -1;
+  }
+  
+  .footerContent {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footerSection {
+    flex: 1;
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+  
+  .sectionTitle {
+    color: black;
+    margin-bottom: 8px;
+  }
+  
+  .sectionText {
+    color: grey;
+    margin-bottom: 4px;
+  }
+  
+  .iconSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .socialIcon {
+    color: black !important;
+    margin-right: 8px;
+    transition: color 0.3s ease-in-out; /* Add a smooth color transition on hover */
+  }
+  
