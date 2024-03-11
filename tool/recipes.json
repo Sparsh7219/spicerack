@@ -361,7 +361,7 @@
       "sour cream",
       "salsa",
       "lettuce",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "onion"
     ],
     "direction": [
@@ -477,7 +477,7 @@
     "title": "Baked Stuffed Pasta Shells",
     "ingredients": [
       "shells",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "cheese",
       "egg",
@@ -566,7 +566,7 @@
       "egg",
       "zucchini",
       "mushroom",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -1253,7 +1253,7 @@
       "vegetable broth",
       "rosemary",
       "spinach",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 350 degrees F (175 degrees C).",
@@ -2771,7 +2771,7 @@
       "pepper",
       "egg",
       "cottage cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "flour"
     ],
     "direction": [
@@ -2825,9 +2825,9 @@
       "parmesan cheese",
       "chives",
       "garlic",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "tomato sauce",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375 degrees F.",
@@ -3062,7 +3062,7 @@
     "ingredients": [
       "tomato",
       "pork chops",
-      "lemon-pepper seasoning",
+      "lemon pepper seasoning",
       " oregano"
     ],
     "direction": [
@@ -3862,7 +3862,7 @@
       "bell pepper",
       "mushroom",
       "black olives",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheddar cheese",
       "parmesan cheese"
     ],
@@ -3941,7 +3941,7 @@
       "tomato",
       "parsley",
       "salt",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheese"
     ],
     "direction": [
@@ -4133,7 +4133,7 @@
       "sausage",
       "garlic powder",
       "oregano",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -4162,7 +4162,7 @@
       "salt",
       "black pepper",
       "bay leaf",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "The morning or the night before serving, combine italian dressing, ranch dressing, 3 tablespoons minced garlic and 2 tablespoons olive oil in a large zip lock bag. Squish bag around to combine all ingredients. Add chicken breasts to bag, close and squish until they are well coated in the dressing mixture. Put the bag in bowl (to prevent spills) and refrigerate all day or overnight up 24 hours.",
@@ -4324,7 +4324,7 @@
       "chicken breast",
       "basil pesto",
       "tomato",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 400 degrees F.",
@@ -4402,7 +4402,7 @@
       "olive oil",
       "lemon juice",
       "onion",
-      "lemon wedge",
+      "lemon",
       "cabbage"
     ],
     "direction": [
@@ -4879,7 +4879,7 @@
       "tomato",
       "parsley",
       "salt",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheese"
     ],
     "direction": [
@@ -5328,7 +5328,7 @@
       "tomato",
       "scallion",
       "black beans",
-      "lemon wedge",
+      "lemon",
       "cilantro",
       "lettuce"
     ],
@@ -5370,7 +5370,7 @@
       "spinach",
       "bell pepper",
       "onion",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "tomato sauce",
       "pasta",
       "parmesan cheese",
@@ -5554,13 +5554,13 @@
       "maple syrup",
       "lemon juice",
       "salt",
-      "lemon peel",
+      "lemon",
       "cumin",
       "salt",
       "black pepper",
       "salmon fillets",
       "blueberries",
-      "lemon slice",
+      "lemon",
       "basil sprig",
       "paprika"
     ],
@@ -5589,7 +5589,7 @@
       "milk",
       "beef",
       "onion",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 400 degrees.",
@@ -5860,7 +5860,7 @@
       "black pepper",
       "salt",
       "chicken breast",
-      "penne pasta",
+      "pasta",
       "parmesan cheese"
     ],
     "direction": [
@@ -6006,7 +6006,7 @@
       "coriander",
       "cod fish fillet",
       "salt",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Put the lentils in a saucepan with the turmeric and stock.  Bring to the boil, cover with a tight-fitting lid and simmer for 20-25 minutes, until the lentils are just tender.  Remove from the heat and add salt.",
@@ -6271,7 +6271,7 @@
     "id": 253,
     "title": "Asian Chicken and Pasta Salad",
     "ingredients": [
-      "reduced-sodium chicken broth",
+      "chicken",
       "soy sauce",
       "hoisin sauce",
       "sugar",
@@ -6680,7 +6680,7 @@
       "oregano",
       "olive oil",
       "chicken breast",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Set the air fryer to 350\u00b0F (It will need about three minutes to preheat.).",
@@ -6700,7 +6700,7 @@
     "title": "Mediterranean Chicken Breasts With Avocado Tapenade",
     "ingredients": [
       "chicken breast",
-      "lemon peel",
+      "lemon",
       "lemon juice",
       "olive oil",
       "olive oil",
@@ -6859,14 +6859,14 @@
     "id": 276,
     "title": "Baked Honey-Lime Chicken Wings",
     "ingredients": [
-      "lemons",
+      "lemon",
       "honey",
       "clove",
       "coriander",
       "salt",
       "black pepper",
       "chicken",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat over to 450 degrees. From limes, grate 2 tsp peel and squeeze 1/4 cup juice.",
@@ -7522,7 +7522,7 @@
       "lentils",
       "egg",
       "cottage cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a 2-qt. non- stick saucepan, melt butter over medium heat.",
@@ -7650,7 +7650,7 @@
       "cumin",
       "ground fennel",
       "olive oil",
-      "pork shoulder",
+      "pork",
       "tomato paste",
       "vinegar",
       "mustard",
@@ -8150,7 +8150,7 @@
       "pepper",
       "egg",
       "cottage cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "flour"
     ],
     "direction": [
@@ -8354,7 +8354,7 @@
       "lemon",
       "black pepper",
       "salt",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat oven to 450 degrees.",
@@ -8508,7 +8508,7 @@
       "pepper",
       "pepper",
       "parsley",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Heat a small heavy-bottomed pot over medium heat. Add 2 tablespoon butter and let melt.  Add shrimp and season with salt and pepper. Stir occasionally with a wooden spoon and cook until just cooked through, about 5-7 minutes. Transfer cooked shrimp to a plate, cover with aluminum foil and set aside.",
@@ -8753,7 +8753,7 @@
     "title": "Portobello Pizzas",
     "ingredients": [
       "mushroom",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil",
       "olive oil",
       "salt",
@@ -8814,7 +8814,7 @@
       "kale",
       "olive oil",
       "salt",
-      "lemon, juice and zest of",
+      "lemon",
       "orange, juice and zest of",
       "honey",
       "avocado",
@@ -9020,7 +9020,6 @@
       "cumin seed",
       "paprika",
       "garam masala",
-      "dried fenugreek lettuce",
       "salt",
       "ghee",
       "cinnamon sticks",
@@ -9040,10 +9039,10 @@
       "tomato paste",
       "honey",
       "cheese slice",
-      "dried fenugreek lettuce",
+      "lettuce",
       "garam masala",
       "salt",
-      "coriander lettuce"
+      "coriander"
     ],
     "direction": [
       "Mix ingredients for the first marinade. Add chicken pieces and marinate for 25-30 minutes. Dry-roast coriander seeds in frying pan over a medium-high heat for 2 minutes. Add cumin seeds and dry-roast for 30 seconds. Grind these spices in blender, or mortar & pestle, then mix them in non-metallic bowl with other ingredients for second marinade. Salt to taste, and add chicken pieces. Marinate in the refrigerator for at least 6 hours or overnight.",
@@ -9093,7 +9092,7 @@
       "mangoes",
       "curry powder",
       "honey",
-      "wine vinegar",
+      "vinegar",
       "water",
       "lemon",
       "mint"
@@ -9108,7 +9107,7 @@
     "id": 365,
     "title": "Oven Baked  Vegetarian Samosas",
     "ingredients": [
-      "idaho potato",
+      "potato",
       "salt",
       "olive oil",
       "onion",
@@ -9122,12 +9121,11 @@
       "tomato",
       "flour",
       "egg",
-      " mint lettuce",
+      "mint",
       "cilantro lettuce",
       "sugar",
-      "lemons",
-      "olive oil",
-      "clove"
+      "lemon",
+      "olive oil"
     ],
     "direction": [
       "Preheat oven to 400*F.",
@@ -9182,7 +9180,7 @@
       "cumin seed",
       "onion",
       "chilies",
-      "coriander lettuce",
+      "coriander",
       "water"
     ],
     "direction": [
@@ -9228,7 +9226,7 @@
     "ingredients": [
       "water",
       "sugar",
-      "rock salt",
+      "salt",
       "ginger",
       "cumin",
       "lemon juice",
@@ -9250,7 +9248,6 @@
       "water",
       "salt",
       "ghee",
-      "ghee",
       "sugar",
       "green cardamom pods",
       "saffron strands",
@@ -9271,7 +9268,6 @@
     "id": 371,
     "title": "Delicious Homemade Instant Jalebis!",
     "ingredients": [
-      "flour",
       "flour",
       "yogurt",
       "water",
@@ -9391,7 +9387,6 @@
       "salt",
       "semolina",
       "onion",
-      "salt",
       "chili pepper"
     ],
     "direction": [
@@ -9429,7 +9424,7 @@
       "salt",
       "bay lettuce",
       "dried plums",
-      " chilies",
+      "chilies",
       "cilantro",
       "saffron",
       "rice",
@@ -9493,14 +9488,13 @@
     "id": 378,
     "title": "Fragrant Rice Pudding With Pistachios (Kheerni)",
     "ingredients": [
-      "milk",
       "rice",
       "milk",
       "banana",
       "sugar",
       "cardamom",
       "saffron",
-      "unsalted pistachio nuts"
+      "pistachio nuts"
     ],
     "direction": [
       "Bring 6 cups milk to boil in heavy shallow 5-quart saucepan.  Rinse rice with cold water until water runs clear.  Drain.  Stir rice into milk.  Reduce heat and simmer until pudding thickens and rice is very tender, stirring frequently, about 1-1/4 hours.",
@@ -9651,10 +9645,8 @@
     "title": "Chapati (Indian Flat Bread)",
     "ingredients": [
       "flour",
-      "flour",
       "salt",
       "water",
-      "flour",
       "ghee"
     ],
     "direction": [
@@ -9674,7 +9666,6 @@
     "title": "Gajar Halva (Carrot Pudding  -  an Indian Dessert)",
     "ingredients": [
       "carrot",
-      "half-and-half",
       "sugar",
       "golden raisin",
       "butter",
@@ -9698,9 +9689,7 @@
     "ingredients": [
       "milk",
       "flour",
-      "powdered milk",
       "self-rising flour",
-      "milk",
       "ghee",
       "sugar",
       "water",
@@ -9924,7 +9913,7 @@
     "id": 393,
     "title": "Plain Raita",
     "ingredients": [
-      "yoghurt",
+      "yogurt",
       "cumin seed",
       "salt",
       "black pepper",
@@ -10047,7 +10036,7 @@
       "garam masala",
       "potato",
       "sultana",
-      " baby peas",
+      "peas",
       "coriander lettuce",
       "onion",
       "egg",
@@ -10163,7 +10152,7 @@
     "id": 401,
     "title": "Egg Curry",
     "ingredients": [
-      "hard-boiled egg",
+      "egg",
       "onion",
       "garlic",
       "ginger",
@@ -10217,7 +10206,6 @@
       "cumin",
       "salt",
       "garlic",
-      "water",
       "water",
       "cayenne"
     ],
@@ -10396,7 +10384,6 @@
       "sriracha sauce",
       "water",
       "spring onion",
-      "spring onion",
       "ginger paste",
       "garlic paste",
       "soy sauce",
@@ -10526,7 +10513,7 @@
       "spinach",
       "cumin seed",
       "salt",
-      "canola oil"
+      "oil"
     ],
     "direction": [
       "1) In a medium sized skillet or frying pan, heat up the canola oil on medium heat.",
@@ -10878,7 +10865,7 @@
     "ingredients": [
       "tomato",
       "clove",
-      "chilies",
+      "chili",
       "salt",
       "sugar"
     ],
@@ -10908,7 +10895,8 @@
       "black pepper",
       "sour cream",
       "cilantro",
-      "rice"
+      "rice",
+      "chicken"
     ],
     "direction": [
       "Melt butter in a deep, 10-inch skillet over medium heat; add onions and garlic; cook slowly, stirring often, until onions are tender - about five minutes.",
@@ -10935,7 +10923,7 @@
       "ground pepper",
       "tomato",
       "water",
-      " green peas",
+      "green peas",
       "cilantro"
     ],
     "direction": [
@@ -10954,7 +10942,7 @@
     "title": "Gordon Ramsay's Tikka Masala",
     "ingredients": [
       "onion",
-      " green chile",
+      "green chile",
       "ginger",
       "clove",
       "chili powder",
@@ -11283,7 +11271,6 @@
       "cumin",
       "bay leaf",
       "yogurt",
-      "half-and-half",
       "tomato",
       "pepper",
       "salt",
@@ -11344,8 +11331,8 @@
     "id": 441,
     "title": "Easy Kulfi (Ice Cream Without an Ice Cream Freezer!)",
     "ingredients": [
-      "fat-free milk",
-      "cottagecondensed milk"
+      "milk",
+      "condensed milk"
     ],
     "direction": [
       "In a large bowl, stir together well the evaporated milk, condensed milk, cream, and optional other flavor.",
@@ -11388,7 +11375,7 @@
       "salt",
       "olive oil",
       "tomato sauce",
-      "buffalo mozzarella cheese",
+      "buffalo mozzarella",
       "basil",
       "olive oil",
       "salt"
@@ -11494,7 +11481,7 @@
     "title": "Braciola - Braciole (Italian Stuffed Beef Rolls)",
     "ingredients": [
       "top round steak",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "garlic powder",
       "olive oil"
@@ -11553,7 +11540,7 @@
       "parsley",
       "salt",
       "black pepper",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "egg",
       "flour"
     ],
@@ -11579,7 +11566,7 @@
       "chicken breast",
       "egg",
       "margarine",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "parsley"
     ],
@@ -11643,7 +11630,7 @@
       "black pepper",
       "oregano",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -11704,7 +11691,7 @@
       "egg",
       "olive oil",
       "chicken broth",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "angel hair pasta"
     ],
@@ -11881,7 +11868,7 @@
     "title": "Parmesan Meat Patty Casserole",
     "ingredients": [
       "flour",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "oregano",
       "tomato sauce",
@@ -11906,7 +11893,7 @@
       "flour",
       "parmesan cheese",
       "egg",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "1. Preheat oven to 350\u00b0F.",
@@ -12043,7 +12030,7 @@
     "id": 469,
     "title": "Mozzato Salad (Aka Caprese)",
     "ingredients": [
-      " mozzarella cheese cheese",
+      " mozzarella",
       "tomato",
       "basil",
       "olive oil",
@@ -12121,7 +12108,7 @@
     "ingredients": [
       "pork cutlets",
       "flour",
-      "lemon, zest of",
+      "lemon",
       "garlic powder",
       "egg",
       "milk",
@@ -12414,7 +12401,7 @@
       "polenta",
       "black pepper",
       "butter",
-      "parmigiano-reggiano cheese"
+      "cheese"
     ],
     "direction": [
       "Bring 3 cups water to a full boil in a heavy pot. Simmer the remaining water close by.",
@@ -12518,7 +12505,7 @@
       "wine",
       "flour",
       "parsley",
-      "lemon, zest of",
+      "lemon",
       "clove",
       "flour"
     ],
@@ -12678,7 +12665,7 @@
       "kale",
       "tomato",
       "Worcestershire sauce",
-      "lemon, zest of",
+      "lemon",
       "saffron",
       "salt",
       "black pepper",
@@ -13006,7 +12993,7 @@
       "olive oil",
       "flour",
       "parsley",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "Cut  soaked, skinless and boneless Cod into into bite size pieces so they can cook all together quickly in the pan.",
@@ -13152,7 +13139,7 @@
       "thyme",
       "garlic powder",
       "pork",
-      "lemons",
+      "lemon",
       "salt"
     ],
     "direction": [
@@ -13176,7 +13163,7 @@
       "pepper",
       "wine",
       "salt",
-      "penne pasta",
+      "pasta",
       "parmesan cheese"
     ],
     "direction": [
@@ -13321,7 +13308,7 @@
     "id": 513,
     "title": "Ravioli (Dough and Choice of 4 Fillings)",
     "ingredients": [
-      "unbleached white flour",
+      "unbleached flour",
       "salt",
       "egg",
       "water",
@@ -13500,7 +13487,7 @@
     "id": 518,
     "title": "Limoncello , Lemoncella",
     "ingredients": [
-      "lemons",
+      "lemon",
       "100 proof vodka",
       "sugar",
       "water"
@@ -13526,7 +13513,7 @@
     "ingredients": [
       "sausage",
       "part-skim cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "pepper",
       "clove",
@@ -13556,7 +13543,7 @@
       "honey",
       "hazelnuts",
       "sugar",
-      "lemon, rind of"
+      "lemon"
     ],
     "direction": [
       "Pour honey into a large double boiler and cook for 1-1/2 hours, stirring.",
@@ -13657,7 +13644,7 @@
       "chicken broth",
       "wine",
       "basil",
-      "penne pasta",
+      "pasta",
       "parmesan cheese"
     ],
     "direction": [
@@ -13753,7 +13740,7 @@
       "water",
       "coconut milk",
       "medium shrimp",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Cook green beans in large pot of boiling salted water until crisp-tender, about 3 minutes.  Drain.  Cut 2 inches from bottom of each lemongrass stalk; discard tops.  Thinly slice bottom pieces; place in processor.  Add next five ingredients, chopped basil, and 1/4 cup water.  Blend until paste forms.",
@@ -14328,7 +14315,7 @@
       "onion",
       "clove",
       "onion",
-      "Thai basil",
+      "basil",
       "black pepper"
     ],
     "direction": [
@@ -14432,7 +14419,7 @@
       "oyster sauce",
       "fish sauce",
       "soy sauce",
-      "Thai basil"
+      "basil"
     ],
     "direction": [
       "Slice peeled ginger thinly, stack slices then slice again into thin slivers.",
@@ -14591,7 +14578,7 @@
     "title": "Bangkok Style Chicken Pad Thai",
     "ingredients": [
       "salted peanuts",
-      "lemon peel",
+      "lemon",
       "fish sauce",
       "lemon juice",
       "sugar",
@@ -14625,7 +14612,7 @@
       "jaggery",
       "peanuts",
       "lemon juice",
-      "lemons",
+      "lemon",
       "fish sauce",
       "papayas"
     ],
@@ -14857,7 +14844,7 @@
       "broccoli",
       "onion",
       "beans sprouts",
-      "Thai basil"
+      "basil"
     ],
     "direction": [
       "Soak noodles for 15 minutes in warm water.",
@@ -15141,7 +15128,7 @@
     "title": "Quick & Easy Shrimp Pad Thai",
     "ingredients": [
       "peanut butter",
-      "lemon, zest of",
+      "lemon",
       "fish sauce",
       "dark sugar",
       "shrimp",
@@ -15149,7 +15136,7 @@
       "beans sprouts",
       "cilantro",
       "peanuts",
-      "lemon slice"
+      "lemon"
     ],
     "direction": [
       "Place rice noodles in a large bowl. Cover with very hot tap water, stir and set aside until tender, 20 minutes. Do not over soak. Drain and reserve 1 cup soaking liquid.",
@@ -15168,7 +15155,7 @@
       "Crock Pot Machaca Burrito Meat",
       "egg",
       "grape tomato",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "tortillas"
     ],
     "direction": [
@@ -15201,7 +15188,7 @@
       "corn tortilla",
       "onion",
       "oregano",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "PREPARE THE MEAT: Trim the fat from the meat; cut into 2 large pieces. Put meat into a large non-corrosive baking dish or pan.",
@@ -15229,7 +15216,7 @@
       "hominy",
       "onion",
       "cilantro",
-      "lemon wedges",
+      "lemon",
       "pepper",
       "oregano",
       "corn tortillas"
@@ -15260,7 +15247,7 @@
       "tomato",
       "onion",
       "cilantro",
-      "lemons",
+      "lemon",
       "salt"
     ],
     "direction": [
@@ -15325,7 +15312,7 @@
       "garlic",
       "cilantro",
       "corn tortilla",
-      "lemon wedge",
+      "lemon",
       "cabbage",
       "pico de gallo",
       "cilantro leaf"
@@ -15561,7 +15548,7 @@
       "cabbage",
       "onion",
       "cilantro leaf",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "In a food processor, mix together the avocados, lime zest and juice, jalapeno pepper and hot sauce. Season with salt and pepper. Keep in the refrigerator.",
@@ -15711,14 +15698,14 @@
       "clove",
       " oregano",
       "habanero pepper",
-      "lemons",
+      "lemon",
       "olive oil",
       "cilantro lettuce",
       "habanero pepper",
       "onion",
       "seville oranges",
       "tomato",
-      "lemons",
+      "lemon",
       "cilantro lettuce",
       "onion",
       "baguette"
@@ -15752,7 +15739,7 @@
       "chipotle pepper",
       "black beans",
       "clams",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Put the mayonnaise, mustard, cilantro, onions and jalapeno in the recipient of a blender and pulse until creamy. Season with salt and pepper.",
@@ -16165,7 +16152,7 @@
       "tomato",
       " oregano",
       "tortilla",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Heat the oil in a wok or a nonstick pan. Add the garlic, then add the tuna and cook for 3 to 4 minutes, breaking the pieces as it cooks. Add the onions and poblano chile and continue cooking for 2 minutes. Add the tomatoes and oregano. Season with salt and pepper. Serve warm with tortillas and a squeeze of lime.",
@@ -16472,7 +16459,7 @@
       "onion",
       "salsa",
       "cilantro leaf",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Put the ancho and guajillo chiles in a pot of water and bring to a boil. Turn off the heat and allow the chiles to steep until they are rehydrated, about 30 minutes. Discard the seeds and stems and toss the chiles in a food processor along with the pineapple, honey, smoked paprika, vinegar, salt, chipotle chile, adobo sauce, garlic and oregano.",
@@ -16636,7 +16623,7 @@
       "water",
       "salt",
       "cilantro",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "in one tablespoon olive oil, heat pot on high heat and sear the chicken pieces till brown on all sides.",
@@ -16678,8 +16665,8 @@
     "id": 637,
     "title": "Sopa De Lima (Merida, Yucatan)",
     "ingredients": [
-      "lemons",
-      "lemons",
+      "lemon",
+      "lemon",
       "tortillas",
       "chicken breast",
       "chicken broth",
@@ -16807,7 +16794,7 @@
     "ingredients": [
       " shrimp",
       "chilies",
-      "lemons",
+      "lemon",
       "cilantro",
       "salt",
       "onion",
@@ -16843,7 +16830,7 @@
     "id": 644,
     "title": "3-Ingredient Carnitas",
     "ingredients": [
-      "pork shoulder",
+      "pork",
       "water",
       "cumin",
       "clove",
@@ -16881,7 +16868,7 @@
       "radishes",
       "scallions",
       "oregano",
-      "lemons",
+      "lemon",
       "tortilla chips"
     ],
     "direction": [
@@ -17455,7 +17442,7 @@
       "garlic powder",
       "salt",
       "pepper",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheese",
       "parmesan cheese"
     ],
@@ -19162,7 +19149,7 @@
       "clove",
       "cornflour",
       "plain flour",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "In a medium sized bowl, mix together the soy sauce, garlic, ginger, salt and pepper.",
@@ -19750,7 +19737,7 @@
       "bay lettuce",
       "thyme",
       "red wine",
-      "mushroom caps",
+      "mushroom",
       "butter",
       "parsley"
     ],
@@ -19820,7 +19807,7 @@
       "butter",
       "basil",
       "garlic",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "heat oven to 400 *F.",
@@ -20665,13 +20652,13 @@
       "butter",
       "egg",
       "sugar",
-      "lemon, juice and zest of",
+      "lemon",
       "vanilla extract",
       "flour",
       "baking powder",
       "lemon",
       "sugar",
-      "lemon, juice and zest of"
+      "lemon"
     ],
     "direction": [
       "Melt the butter in a small saucepan over low heat.",
@@ -20692,7 +20679,7 @@
       "garlic",
       "olive oil",
       "parsley",
-      "lemons",
+      "lemon",
       "butter"
     ],
     "direction": [
@@ -21528,7 +21515,7 @@
       "thyme",
       "paprika",
       "saffron",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "It's best to have all of your ingredients prepared before you start cooking.",
@@ -21558,7 +21545,7 @@
       "sugar",
       "cornstarch",
       "cinnamon stick",
-      "lemon, rind of",
+      "lemon",
       "milk"
     ],
     "direction": [
@@ -22003,7 +21990,7 @@
       "milk",
       "butter",
       "sugar",
-      "lemon, rind of",
+      "lemon",
       "orange, rind of",
       "egg",
       "brandy",
@@ -22120,7 +22107,7 @@
     "ingredients": [
       "egg",
       "sugar",
-      "lemons, zest of",
+      "lemon",
       "self raising flour",
       "baking powder",
       "anise seed",
@@ -22156,7 +22143,7 @@
       "salt",
       "black pepper",
       "romaine lettuce",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "Toast the walnuts in a cast iron skillet until lightly toasted and fragrant. Set aside to cool.",
@@ -22459,7 +22446,7 @@
       "flour",
       "cinnamon",
       "yeast",
-      "lemon, zest of"
+      "lemon"
     ],
     "direction": [
       "First, preheat your oven to 375\u00b0F.",
@@ -22581,7 +22568,7 @@
       "sugar",
       "vanilla extract",
       "cinnamon sticks",
-      "lemon peel",
+      "lemon",
       "raisin"
     ],
     "direction": [
@@ -22654,7 +22641,7 @@
       "onion",
       "salt",
       "water",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "bell pepper",
       "chile",
       "masa corn flour",
@@ -22904,7 +22891,7 @@
       "sugar",
       "egg",
       "vanilla",
-      "lemon rind",
+      "lemon",
       "cornstarch",
       "flour",
       "baking powder",
@@ -22919,21 +22906,6 @@
       "Sandwich the cookies together with (dulce de leche) sweet milk dessert."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/24/15/78/VF95r0FiQpOrvG5MQJYh_Screen%2520Shot%25202016-11-14%2520at%25205.47.00%2520PM.png"
-  },
-  {
-    "id": 876,
-    "title": "Frescavena-Like Oatmeal Drink Mix",
-    "ingredients": [
-      "sugar"
-    ],
-    "direction": [
-      "Empty 8 oz box of infant cereal into food processor. Using this cereal instead of rolled oats produces a finer grain that more easily dissolves in liquid, plus it is fortified with more vitamins and minerals.",
-      "Blend until the flakes are no longer visible and it becomes a fine powder (3-5 minutes).",
-      "Add sugar and blend again until it is mixed thoroughly and all the same fine powder consistency.",
-      "Add 2 tablespoons (add more or less to taste) of mixture to 8 ounces of milk or water and blend in a blender or shaker cup with 2 ice cubes and enjoy!",
-      "Optional additions:  add vanilla, cinnamon or strawberry quick to final beverage.  Can be served as a warm beverage as well."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/gk-static/gk/img/recipe-default-images/image-02.svg"
   },
   {
     "id": 877,
@@ -23184,7 +23156,7 @@
       "black pepper",
       "cilantro",
       "habanero pepper",
-      "lemons",
+      "lemon",
       "onion"
     ],
     "direction": [
@@ -24210,7 +24182,7 @@
       "clove",
       "onion",
       "onion",
-      "cabbage coleslaw blend",
+      "cabbage",
       "powdered ginger",
       "soy sauce",
       "salt",
@@ -25504,7 +25476,7 @@
       "flour",
       "egg",
       "milk",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Whisk eggs and milk together.",
@@ -25655,7 +25627,7 @@
     "ingredients": [
       "egg",
       "beef",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a bowl, combine the egg, pizza sauce, bread crumbs and Italian seasoning.",
@@ -25757,7 +25729,7 @@
     "id": 980,
     "title": "Cheesy Fried Chicken Parm Balls",
     "ingredients": [
-      "mozzarella cheese string cheese",
+      "mozzarella",
       "chicken",
       "salt",
       "pepper",
@@ -25834,7 +25806,7 @@
       "olive oil",
       "clove",
       "pepper",
-      "lemon, zest of",
+      "lemon",
       "lemon juice",
       "parsley"
     ],
@@ -25987,7 +25959,7 @@
     "ingredients": [
       "water-packed artichoke hearts",
       "spinach",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "feta cheese",
       "bell pepper",
       "mayonnaise",
@@ -26063,7 +26035,7 @@
     "title": "Pizza Bouquet",
     "ingredients": [
       "parmesan cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -26141,7 +26113,7 @@
     "title": "Sun-Dried Tomato, Mozzarella and Basil Rice Balls",
     "ingredients": [
       "rice",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "plain flour",
       "tomato paste",
       "basil",
@@ -26289,7 +26261,7 @@
     "ingredients": [
       "rice",
       "egg",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "flour",
       "egg"
     ],
@@ -26354,7 +26326,7 @@
       "milk",
       "milk",
       "cheese spread",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "black pepper",
       "egg",
       "yellow cornmeal"
@@ -26876,7 +26848,7 @@
     "title": "Mexican Ceviche",
     "ingredients": [
       "sea bass fillets",
-      "lemons",
+      "lemon",
       " tomato",
       "pepper",
       "parsley",
@@ -27041,7 +27013,7 @@
     "title": "Mozzarella, Tomato and Basil Salad",
     "ingredients": [
       "tomato",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil",
       "olive oil"
     ],
@@ -27073,22 +27045,6 @@
       "a side note: this is to make a chunky, yet creamy guacamole. Some people prefer to use a food processor with all the ingredients to make for a VERY creamy dip."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/13/50/48/0AX5KN91TnOQX6IUswKd_untitled-8206.jpg"
-  },
-  {
-    "id": 1035,
-    "title": "Mini Pigs-In-A-Blanket",
-    "ingredients": [
-      "parmesan cheese"
-    ],
-    "direction": [
-      "Preheat oven according to directions on crescent roll package.",
-      "Unroll but leave intact 2 triangles of crescent rolls.",
-      "Pinch seam together and cut lengthwise into 5 strips and then cross-wise to make 10 strips.",
-      "Roll each strip around one sausage and place in baking pan that has been sprayed with non-stick cooking oil.",
-      "Sprinkle each pig with parmesan and garlic salt.",
-      "Bake according to crescent roll package directions."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/79/71/5/picOcpHe6.jpg"
   },
   {
     "id": 1036,
@@ -27390,7 +27346,7 @@
       "salt",
       "sugar",
       "soy sauce",
-      "cabbage and carrot coleslaw mix",
+      "cabbage",
       "onion",
       "egg",
       "water"
@@ -27497,7 +27453,7 @@
       "basil",
       "salt",
       " cracked pepper",
-      "parmigiano-reggiano cheese"
+      "cheese"
     ],
     "direction": [
       "Whisk together chopped garlic, vinegar, salt, pepper, and basil.",
@@ -27614,7 +27570,7 @@
       "cream cheese",
       "garlic",
       "Worcestershire sauce",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Set oven to 350 degrees.",
@@ -27837,7 +27793,7 @@
       "basil",
       "mushroom",
       "chicken",
-      "lemon, zest of",
+      "lemon",
       "egg",
       "parsley",
       "phyllo pastry",
@@ -27870,7 +27826,7 @@
       "lobster tails",
       "butter",
       "garlic",
-      "lemon, rind of",
+      "lemon",
       "onion",
       "lemon"
     ],
@@ -27909,7 +27865,7 @@
       "garlic",
       "cilantro",
       "corn tortilla",
-      "lemon wedge",
+      "lemon",
       "cabbage",
       "pico de gallo",
       "cilantro leaf"
@@ -28126,7 +28082,7 @@
       "olive oil",
       "flour",
       "parsley",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "Cut  soaked, skinless and boneless Cod into into bite size pieces so they can cook all together quickly in the pan.",
@@ -28181,7 +28137,7 @@
       "tomato",
       " oregano",
       "tortilla",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Heat the oil in a wok or a nonstick pan. Add the garlic, then add the tuna and cook for 3 to 4 minutes, breaking the pieces as it cooks. Add the onions and poblano chile and continue cooking for 2 minutes. Add the tomatoes and oregano. Season with salt and pepper. Serve warm with tortillas and a squeeze of lime.",
@@ -28335,7 +28291,7 @@
     "title": "Quick & Easy Shrimp Pad Thai",
     "ingredients": [
       "peanut butter",
-      "lemon, zest of",
+      "lemon",
       "fish sauce",
       "dark sugar",
       "shrimp",
@@ -28343,7 +28299,7 @@
       "beans sprouts",
       "cilantro",
       "peanuts",
-      "lemon slice"
+      "lemon"
     ],
     "direction": [
       "Place rice noodles in a large bowl. Cover with very hot tap water, stir and set aside until tender, 20 minutes. Do not over soak. Drain and reserve 1 cup soaking liquid.",
@@ -28366,7 +28322,7 @@
       "onion",
       "cheese",
       "salsa",
-      "lemon slice"
+      "lemon"
     ],
     "direction": [
       "In a nonstick pan, heat over medium high heat the oil and then add the tilapia.",
@@ -28439,7 +28395,7 @@
       "shallot",
       "chives",
       "lobster tails",
-      "lemon slice"
+      "lemon"
     ],
     "direction": [
       "Combine mayonnaise, lemon zest, lemon juice, salt and pepper, celery, shallot, tarragon and chives in a bowl.",
@@ -28758,7 +28714,7 @@
       "parsley lettuce",
       "black pepper",
       "salt",
-      "lemon wedges",
+      "lemon",
       "wine vinegar"
     ],
     "direction": [
@@ -28856,7 +28812,7 @@
       "butter",
       "olive oil",
       "parsley",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Use whole small (bay) scallops or sliced large (sea) scallops.",
@@ -28876,7 +28832,7 @@
       "olive oil",
       "clove",
       "pepper",
-      "lemon, zest of",
+      "lemon",
       "lemon juice",
       "parsley"
     ],
@@ -28898,7 +28854,7 @@
       "white pepper",
       "catfish fillets",
       "lemon juice",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Combine first 4 ingredients; rub the seasoning on catfish.  Sprinkle lemon juice on both sides of fish.",
@@ -29164,7 +29120,7 @@
       "lemon",
       "black pepper",
       "salt",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat oven to 450 degrees.",
@@ -29232,7 +29188,7 @@
       "cilantro",
       "onion",
       "tomato",
-      "lemons",
+      "lemon",
       " lemon",
       "garlic powder",
       "lemon pepper",
@@ -29361,7 +29317,7 @@
     "id": 1132,
     "title": "Almond Crusted Cod With Apricot Chutney",
     "ingredients": [
-      "lemon peel",
+      "lemon",
       "olive oil",
       "wine vinegar",
       "black pepper",
@@ -29564,7 +29520,7 @@
     "ingredients": [
       "parsley",
       "clove",
-      "lemon, zest of",
+      "lemon",
       "coarse salt",
       "cod fish",
       "olive oil"
@@ -29743,7 +29699,7 @@
       "coriander",
       "cod fish fillet",
       "salt",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Put the lentils in a saucepan with the turmeric and stock.  Bring to the boil, cover with a tight-fitting lid and simmer for 20-25 minutes, until the lentils are just tender.  Remove from the heat and add salt.",
@@ -29951,7 +29907,7 @@
       "cabbage",
       "onion",
       "cilantro leaf",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "In a food processor, mix together the avocados, lime zest and juice, jalapeno pepper and hot sauce. Season with salt and pepper. Keep in the refrigerator.",
@@ -29998,7 +29954,7 @@
       "mayonnaise",
       "tomato",
       "onion",
-      "cheddar cheese cube",
+      "cheddar cheese",
       "pepper"
     ],
     "direction": [
@@ -30046,7 +30002,7 @@
       "water",
       "coconut milk",
       "medium shrimp",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Cook green beans in large pot of boiling salted water until crisp-tender, about 3 minutes.  Drain.  Cut 2 inches from bottom of each lemongrass stalk; discard tops.  Thinly slice bottom pieces; place in processor.  Add next five ingredients, chopped basil, and 1/4 cup water.  Blend until paste forms.",
@@ -30062,7 +30018,7 @@
       "scallions",
       "egg",
       "black pepper",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "Preheat oven to 450 degrees; generously coat a 12-cup nonstick muffin pan with cooking spray.",
@@ -30156,7 +30112,7 @@
       "tomato",
       "scallion",
       "feta cheese",
-      "lemon, rind of",
+      "lemon",
       "lemon juice",
       "salt",
       "ground pepper",
@@ -30209,7 +30165,7 @@
     "ingredients": [
       " shrimp",
       "chilies",
-      "lemons",
+      "lemon",
       "cilantro",
       "salt",
       "onion",
@@ -30459,7 +30415,7 @@
     "title": "Eggplant (Aubergine) Parmesan Pizza",
     "ingredients": [
       "eggplant",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -30569,7 +30525,7 @@
     "id": 1178,
     "title": "Cheesy Fried Chicken Parm Balls",
     "ingredients": [
-      "mozzarella cheese string cheese",
+      "mozzarella",
       "chicken",
       "salt",
       "pepper",
@@ -30647,7 +30603,7 @@
       "cheese",
       "parmesan cheese",
       "parsley",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil",
       "canola oil",
       "salt",
@@ -31039,7 +30995,7 @@
       "cheese",
       "spinach",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In large saucepan over medium heat, heat olive oil and add onions and garlic.  Cook over medium heat until tender, about 3 minutes.  Add mushrooms, oregano, salt and pepper to taste and cook for another 3 minutes, stirring often.",
@@ -31215,7 +31171,7 @@
       "pepper",
       "parsley",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Brown ground meat, onion and garlic.",
@@ -31414,7 +31370,7 @@
     "ingredients": [
       "egg",
       "beef",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a bowl, combine the egg, pizza sauce, bread crumbs and Italian seasoning.",
@@ -31897,7 +31853,7 @@
       "sausage",
       "mushroom",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 350 degrees.",
@@ -31936,7 +31892,7 @@
       "tomato",
       "bell pepper",
       "tomato",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil",
       "parsley",
       " chives",
@@ -32070,8 +32026,8 @@
       "tomato",
       "grape tomato",
       "grape tomato",
-      " mozzarella cheese balls",
-      " mozzarella cheese balls",
+      " mozzarella balls",
+      " mozzarella balls",
       "basil pesto",
       "basil",
       "flaked salt"
@@ -32173,7 +32129,7 @@
       "cream cheese",
       "garlic",
       "Worcestershire sauce",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Set oven to 350 degrees.",
@@ -32200,7 +32156,7 @@
       "cheese",
       "egg",
       "parsley",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -32467,7 +32423,7 @@
       "basil",
       "mushroom",
       "chicken",
-      "lemon, zest of",
+      "lemon",
       "egg",
       "parsley",
       "phyllo pastry",
@@ -32595,7 +32551,7 @@
     "title": "Pizza Bouquet",
     "ingredients": [
       "parmesan cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -32794,7 +32750,7 @@
       "medium shrimp",
       "cornmeal",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "thyme",
       "chives",
@@ -32814,7 +32770,7 @@
     "ingredients": [
       "tomato paste",
       "clove",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "mushroom",
       "tomato",
       "broccoli",
@@ -32896,9 +32852,9 @@
       "Ragu tomato sauce",
       "lean turkey",
       "part-skim cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
-      "Egg Beaters egg substitute"
+      "egg substitute"
     ],
     "direction": [
       "In a large saucepan, cook ground turkey, onion& garlic in a combination of the oil and nonstick cooking spray. Add sauce and simmer 15 minutes.",
@@ -33185,7 +33141,7 @@
       "olive oil",
       "deli ham",
       "process American cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "bulk sausage",
       "parmesan cheese",
       "oregano",
@@ -33246,13 +33202,13 @@
       "red capsicum",
       "zucchini",
       "eggplant",
-      "Italian-style tomato",
+      "tomato",
       "tomato paste",
       "water",
       "salt",
       "flour",
       "skim milk",
-      "cottage mozzarella cheese",
+      "cottage mozzarella",
       "cheese"
     ],
     "direction": [
@@ -33398,7 +33354,7 @@
     "title": "Easy Cheese Lasagna(WW)",
     "ingredients": [
       "fat-free cheese",
-      "lowfat mozzarella cheese cheese"
+      "lowfat mozzarella"
     ],
     "direction": [
       "Spray 11x7 baking dish with cooking spray.",
@@ -33523,14 +33479,14 @@
     "id": 1298,
     "title": "Baked Honey-Lime Chicken Wings",
     "ingredients": [
-      "lemons",
+      "lemon",
       "honey",
       "clove",
       "coriander",
       "salt",
       "black pepper",
       "chicken",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat over to 450 degrees. From limes, grate 2 tsp peel and squeeze 1/4 cup juice.",
@@ -33547,7 +33503,7 @@
       "fat-free chicken broth",
       "egg",
       "clove",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheese",
       "beef",
       "spinach",
@@ -33609,7 +33565,7 @@
       "onion",
       "salt",
       "flour tortillas",
-      "lemon wedge",
+      "lemon",
       "salsa"
     ],
     "direction": [
@@ -33725,7 +33681,7 @@
     "ingredients": [
       "oregano",
       "basil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "pepper"
     ],
@@ -33902,7 +33858,7 @@
       "basil",
       "salt",
       "water",
-      "reduced-fat mozzarella cheese cheese"
+      "reduced-fat mozzarella"
     ],
     "direction": [
       "Cook pasta in boiling salted water for 1-2 minutes less than the package directions say (so it's still quite firm and little undercooked).",
@@ -33979,7 +33935,7 @@
       "beans sprouts",
       "onion",
       "cilantro",
-      "lemons",
+      "lemon",
       "peanuts"
     ],
     "direction": [
@@ -34224,7 +34180,7 @@
     "title": "Weight Watchers Low-Fat Chocolate Crunch Bars (2pts)",
     "ingredients": [
       "margarine",
-      "large marshmallows"
+      "marshmallows"
     ],
     "direction": [
       "Spray a 13 x 9-inch baking dish with non-stick cooking spray.",
@@ -34684,7 +34640,7 @@
       "double-acting baking powder",
       "egg substitute",
       "skim milk",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven - 350\u00b0F   Spray a 9\" pie plate with cooking spray.",
@@ -34704,7 +34660,7 @@
       "onion",
       "celery",
       "fat-free chicken broth",
-      "white flour",
+      "flour",
       "olive oil",
       "clove",
       "parsley",
@@ -34872,7 +34828,7 @@
       "bell pepper",
       "onion",
       "chicken",
-      "cottage mozzarella cheese"
+      "cottage mozzarella"
     ],
     "direction": [
       "Pre-heat oven to 360\u00b0F.",
@@ -34948,7 +34904,7 @@
     "id": 1360,
     "title": "Pita Pizza",
     "ingredients": [
-      "reduced-fat mozzarella cheese cheese",
+      "reduced-fat mozzarella",
       "onion",
       "pepper"
     ],
@@ -35169,7 +35125,7 @@
     "ingredients": [
       "seltzer water",
       "lemon juice",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Mix juices and water.",
@@ -35281,7 +35237,7 @@
       "chocolate chips",
       "skim milk",
       "water",
-      "Egg Beaters egg substitute",
+      "egg substitute",
       "vanilla"
     ],
     "direction": [
@@ -35650,7 +35606,7 @@
       "vodka",
       "water",
       "sugar",
-      "lemon slice"
+      "lemon"
     ],
     "direction": [
       "Mix together everything in a large pitcher and serve."
@@ -35748,7 +35704,7 @@
     "title": "Sewer Water",
     "ingredients": [
       "vodka",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "Fill a glass with ice.",
@@ -36245,7 +36201,7 @@
       "salt",
       "black pepper",
       "water",
-      "lemons",
+      "lemon",
       "cilantro",
       "honey",
       "olive oil",
@@ -36415,7 +36371,7 @@
     "ingredients": [
       "water chestnuts",
       "spinach",
-      "Rotel Tomatoes"
+      "tomato"
     ],
     "direction": [
       "Place all ingredients in a crock pot or on the stove top on low until cheese is melted.",
@@ -36646,7 +36602,7 @@
     "id": 1451,
     "title": "Habanero Penne and Cheese",
     "ingredients": [
-      "penne pasta",
+      "pasta",
       "habanero pepper",
       "butter",
       "flour",
@@ -37017,8 +36973,8 @@
     "id": 1466,
     "title": "Mika's Buffalo Chicken Alfredo Pizza",
     "ingredients": [
-      "alfredo sauce with parmesan cheese",
-      "mozzarella cheese cheese",
+      "parmesan cheese",
+      "mozzarella",
       "chicken breast",
       "mushroom",
       "black olives",
@@ -37316,7 +37272,7 @@
       "tomato",
       "sour cream",
       "cheddar cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "flour tortillas"
     ],
     "direction": [
@@ -37744,7 +37700,7 @@
       "jalapeno chile",
       "dark sugar",
       "mayonnaise",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a large bowl, mix thoroughly by hand the ground beef, the chorizo, the adobo seasoning, the grated onion and the bread crumbs. Form the burgers into 6 patties without pressing them too much or they can become tough. Line a baking pan with waxed paper and put the burgers side-by-side in a single layer. Cover and refrigerate for at least 30 minutes. This will help the burgers hold together. If you make more than you need just separate with waxed paper and insert into a storage freezer bag for future use.",
@@ -38229,7 +38185,7 @@
     "title": "Great Buffalo Chicken Pizza",
     "ingredients": [
       "butter",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat the oven to 400.",
@@ -38313,7 +38269,7 @@
       "macaroni",
       "water",
       "black olives",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Heat oven to 400 degrees.",
@@ -38516,7 +38472,7 @@
       "tomato",
       "onion",
       "butter",
-      "mozzarella cheese cheddar blend cheese",
+      "mozzarella",
       "water",
       "chicken breast",
       "cilantro salsa"
@@ -38673,7 +38629,7 @@
       "wasabi paste",
       "onion",
       "lemon juice",
-      "lemon slice"
+      "lemon"
     ],
     "direction": [
       "Drizzle sesame oil on both sides of each tuna steaks. Season with salt and pepper.",
@@ -38788,7 +38744,7 @@
       "cilantro",
       "onion",
       "queso fresco",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "1. Heat a large nonstick skillet over medium-high heat. Coat pan with cooking spray. Add ground pork to pan; cook 5 minutes or until browned, stirring to slightly crumble. Drain well. Transfer pork to an electric slow cooker.",
@@ -38923,7 +38879,7 @@
     "id": 1543,
     "title": "Mini Pizzas",
     "ingredients": [
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Flatten each biscuit into a 3 inch circle and press into a greased muffin cup.",
@@ -39221,7 +39177,7 @@
     "title": "Mozzarella Puffs",
     "ingredients": [
       "oregano",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Make an indentation in the center of each biscuit.",
@@ -39243,7 +39199,7 @@
       "white rum",
       "white creme de menthe",
       "lemon juice",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "Shake the vodka, gin, tequila, rum, creme de menthe, lemon juice and sugar syrup vigorously over ice cubes until well frosted.",
@@ -39566,7 +39522,7 @@
     "title": "Bea's Buffalo Chicken & Blue Cheese Dip",
     "ingredients": [
       "cream cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "butter",
       "chicken"
     ],
@@ -40165,7 +40121,7 @@
       "soy sauce",
       "coarse salt",
       "white pepper",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "Prepare the ribs and spice paste: If necessary, remove the thin, papery membrane from the back of each rack of ribs some stores sell baby backs with the membrane removed. If you are using the larger racks of ribs, cut each rack in half. Place the ribs in a nonreactive baking dish just large enough to hold them in a single layer.",
@@ -40522,7 +40478,7 @@
       "lemon juice",
       "triple sec",
       "beer",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Mix together tequila, lime juice, triple sec, and crushed ice in a cocktail shaker and shake well.",
@@ -40563,7 +40519,7 @@
     "ingredients": [
       "beer",
       "lemon juice",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Stir together all ingredients and serve in a glass (no ice) with a floating lime wedge as a garnish."
@@ -40588,7 +40544,7 @@
     "ingredients": [
       "lemon juice",
       "Heineken beer",
-      "lemon twist"
+      "lemon"
     ],
     "direction": [
       "Shake the gin, lemon juice, and simple syrup with ice and strain into a champagne flute.",
@@ -40618,7 +40574,7 @@
       "Corona beer",
       "Worcestershire sauce",
       "Tabasco sauce",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Dip rims of 1 tall chilled glass in a saucer of water, shake off excess, then dip moistened rim in a saucer of kosher or margarita salt.",
@@ -40632,7 +40588,7 @@
     "title": "\"radler Mass\" (German Beer Cooler)",
     "ingredients": [
       "beer",
-      "lemon twist"
+      "lemon"
     ],
     "direction": [
       "Take equal parts of beer and lemon lime soda over just a little ice to keep it chilled; be careful it will foam up a lot so take it slow.  As you come to taste it, you can change how much beer or soda - if you really like beer the combination can be 3/4 beer to 1/4 soda (or vice versa if you don't like beer that much but want a taste of it).  In Germany, at least where I lived in the Bavarian area in the south, this is very popular with the young people.  Worth a try!  :)."
@@ -40750,7 +40706,6 @@
     "title": "Simple Syrup",
     "ingredients": [
       "sugar",
-      "sugar",
       "water"
     ],
     "direction": [
@@ -40766,9 +40721,9 @@
       "lemon juice",
       "honey",
       "sparkling water",
-      "lemon, zest of",
+      "lemon",
       "coarse salt",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "Combine lemon juice and honey in a saucepan.",
@@ -42388,7 +42343,7 @@
       "cilantro",
       "onion",
       "queso fresco",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "1. Heat a large nonstick skillet over medium-high heat. Coat pan with cooking spray. Add ground pork to pan; cook 5 minutes or until browned, stirring to slightly crumble. Drain well. Transfer pork to an electric slow cooker.",
@@ -42574,13 +42529,13 @@
     "title": "Tomatillo Chili Verde",
     "ingredients": [
       "anaheim chilies",
-      "pork shoulder",
+      "pork",
       "cumin seed",
       "onion",
       "cilantro",
       "clove",
       "flour",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat the oven to 400 degrees F. Coat the Anaheim chiles in 1 tablespoon of oil and roast in the oven until the skin blisters and the peppers soften, about 20 minutes. Remove the chiles from the oven and allow to cool. Once cooled, stem and seed the chiles, keeping the skin on (if there is some charring on the skin it's ok). Chop.",
@@ -42857,7 +42812,7 @@
     "id": 1703,
     "title": "Slow-Cooked Chicken Chili",
     "ingredients": [
-      "Italian-style tomato",
+      "tomato",
       "clove",
       "chili powder",
       "cumin",
@@ -42921,7 +42876,7 @@
       "tomato",
       "tomato",
       "salt",
-      "lemons",
+      "lemon",
       " tomato",
       "avocado",
       "scallion",
@@ -43414,14 +43369,14 @@
     "id": 1726,
     "title": "Baked Honey-Lime Chicken Wings",
     "ingredients": [
-      "lemons",
+      "lemon",
       "honey",
       "clove",
       "coriander",
       "salt",
       "black pepper",
       "chicken",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat over to 450 degrees. From limes, grate 2 tsp peel and squeeze 1/4 cup juice.",
@@ -43921,7 +43876,7 @@
     "id": 1748,
     "title": "Garlic-Lime Chicken Wings With Chipotle Mayonnaise",
     "ingredients": [
-      "lemon, zest of",
+      "lemon",
       "salt",
       "oregano",
       "cumin seed",
@@ -44046,7 +44001,7 @@
     "id": 1753,
     "title": "Cheesy Bread Recipe",
     "ingredients": [
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheddar cheese",
       "onion",
       "mayonnaise",
@@ -44098,7 +44053,7 @@
       "macaroni",
       "water",
       "black olives",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Heat oven to 400 degrees.",
@@ -44121,7 +44076,7 @@
       "cream cheese",
       "mayonnaise",
       "cheddar cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "garlic powder",
       "salt",
       "butter"
@@ -44206,7 +44161,7 @@
     "id": 1760,
     "title": "Fried Mozzarella Sticks",
     "ingredients": [
-      "mozzarella cheese cheese",
+      "mozzarella",
       "flour",
       "egg"
     ],
@@ -44506,7 +44461,7 @@
     "ingredients": [
       "water chestnuts",
       "spinach",
-      "Rotel Tomatoes"
+      "tomato"
     ],
     "direction": [
       "Place all ingredients in a crock pot or on the stove top on low until cheese is melted.",
@@ -44584,7 +44539,7 @@
       "garlic",
       "onion",
       "olive oil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "egg",
       "flour"
     ],
@@ -44739,7 +44694,7 @@
       "butter",
       "parmesan cheese",
       "provolone cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Stir together butter and parmesan cheese in a small bowl.",
@@ -44789,8 +44744,8 @@
     "id": 1783,
     "title": "Stuffed Crust Pepperoni Pizza",
     "ingredients": [
-      "mozzarella cheese string cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
+      "mozzarella",
       "butter",
       "parmesan cheese"
     ],
@@ -45003,19 +44958,6 @@
       "*Here is a tip from the Cake Doctor: Smaller Cake Mix Fix: Many cooks have been frustrated to watch cake mix package sizes shrink lately. But do not despair! If you are accustomed to baking recipes with 18.25-ounce mixes, there is a simple way that you can add flour to the smaller mixes and still bake Cake Mix Doctor recipes. Pour the cake mix into a large bowl and whisk in 6 tablespoons all-purpose flour. Now proceed as the recipe instructs. Not only will the cake achieve good volume, but it will have a nice structure and slice evenly. I learned this trick years ago before the mixes were downsized. If I added a little flour to the cake mix, then the cake seemed to have more body, and it did not sink or shrink when cooling. I hope you enjoy this simple solution!"
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/19/54/23/0mCRJmH3SOcWcoifRFCb_holycow%20cake-2.jpg"
-  },
-  {
-    "id": 1792,
-    "title": "Arctic Mocha",
-    "ingredients": [
-      "milk"
-    ],
-    "direction": [
-      "Melt york peppermint patties in a saucepan with one of the shots of express, add additional shots one at a time until patties are melted.",
-      "SLOWLY add milk.",
-      "Pour over ice and top with whipped topping and sprinkles."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/24/57/66/d0oG5ZgVRhW1UgMqXVB5_december%2520files-2.jpg"
   },
   {
     "id": 1793,
@@ -45955,13 +45897,13 @@
     "title": "Tomatillo Chili Verde",
     "ingredients": [
       "anaheim chilies",
-      "pork shoulder",
+      "pork",
       "cumin seed",
       "onion",
       "cilantro",
       "clove",
       "flour",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat the oven to 400 degrees F. Coat the Anaheim chiles in 1 tablespoon of oil and roast in the oven until the skin blisters and the peppers soften, about 20 minutes. Remove the chiles from the oven and allow to cool. Once cooled, stem and seed the chiles, keeping the skin on (if there is some charring on the skin it's ok). Chop.",
@@ -46332,7 +46274,7 @@
       "onion powder",
       "bacon",
       "cheddar cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "lettuce",
       "tomato"
     ],
@@ -47495,7 +47437,7 @@
       "olive oil",
       "lemon juice",
       "onion",
-      "lemon wedge",
+      "lemon",
       "cabbage"
     ],
     "direction": [
@@ -47514,7 +47456,7 @@
       "garlic",
       "olive oil",
       "red wine vinegar",
-      "lemon wedge",
+      "lemon",
       "onion",
       "oregano",
       "black pepper",
@@ -47800,7 +47742,7 @@
     "ingredients": [
       "tomato",
       "basil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "salt",
       "black pepper",
       "pepper"
@@ -47864,7 +47806,7 @@
       "eggplant",
       "canola oil",
       "bell pepper",
-      " mozzarella cheese cheese",
+      " mozzarella",
       "basil leaf",
       "baby arugula"
     ],
@@ -47951,7 +47893,7 @@
       "honey",
       "chipotle chile",
       "medium shrimp",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Combine all of the Awesome Margarita ingredients in a large pitcher and stir until the sugar dissolves. Refrigerate.",
@@ -48466,7 +48408,7 @@
       "lobster tails",
       "butter",
       "garlic",
-      "lemon, rind of",
+      "lemon",
       "onion",
       "lemon"
     ],
@@ -48517,7 +48459,7 @@
     "ingredients": [
       "beets",
       "oranges",
-      "lemons",
+      "lemon",
       "olive oil",
       "salt",
       "black pepper",
@@ -48567,7 +48509,7 @@
       "Japanese eggplant",
       "zucchini",
       "onion",
-      "mushroom caps",
+      "mushroom",
       "olive oil",
       "red leaf lettuce",
       "mayonnaise",
@@ -48698,7 +48640,7 @@
     "ingredients": [
       "chicken breast",
       "tomato",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -48738,7 +48680,7 @@
       "ginger",
       "sugar",
       "clove",
-      "lemon, juice and zest of",
+      "lemon",
       "salmon fillets",
       "onion",
       "parsley"
@@ -48759,7 +48701,7 @@
       "chicken breast",
       "zucchini",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat grill to a medium high heat.",
@@ -48788,7 +48730,7 @@
       "onion powder",
       "paprika",
       "pepper",
-      "lemon wedge",
+      "lemon",
       "parsley"
     ],
     "direction": [
@@ -48969,7 +48911,7 @@
     "title": "Grilled Buttermilk Ranch Marinated Chicken Breast",
     "ingredients": [
       "chicken breast",
-      "lemon, juice and zest of",
+      "lemon",
       "clove",
       "olive oil",
       "ground pepper",
@@ -49737,7 +49679,7 @@
     "title": "Grilled Basil Lemon Chicken",
     "ingredients": [
       "chicken breast",
-      "lemons",
+      "lemon",
       "clove",
       "olive oil",
       "basil"
@@ -49880,7 +49822,7 @@
       "white pepper",
       "catfish fillets",
       "lemon juice",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Combine first 4 ingredients; rub the seasoning on catfish.  Sprinkle lemon juice on both sides of fish.",
@@ -50455,7 +50397,7 @@
     "id": 2025,
     "title": "Cheese Stuffed Garlic Rolls",
     "ingredients": [
-      "mozzarella cheese cheese cubes",
+      "mozzarella",
       "butter",
       "clove",
       "parmesan cheese"
@@ -50530,7 +50472,7 @@
       "coconut cream",
       "coriander",
       "cumin",
-      "lemon, juice and zest of",
+      "lemon",
       "clove",
       "coriander",
       "barbecue sauce",
@@ -50770,7 +50712,7 @@
       "beef",
       "tomato",
       "sour cream",
-      " lemon rind",
+      " lemon",
       "gingerroot",
       "ketchup",
       "lemon pepper",
@@ -50905,9 +50847,9 @@
     "id": 2043,
     "title": "Smoky Portabella Burger With Sun-Dried Tomatoes and Basil",
     "ingredients": [
-      "mushroom caps",
+      "mushroom",
       "tomato",
-      "smoked mozzarella cheese cheese",
+      "smoked mozzarella",
       "basil"
     ],
     "direction": [
@@ -51530,7 +51472,7 @@
       "olive oil",
       "lemon juice",
       "onion",
-      "lemon wedge",
+      "lemon",
       "cabbage"
     ],
     "direction": [
@@ -51764,7 +51706,7 @@
       " oregano",
       "wine",
       "olive oil",
-      "lemon, juice and zest of",
+      "lemon",
       "clove",
       "black olives",
       "salt",
@@ -51890,13 +51832,13 @@
     "ingredients": [
       "olive oil",
       "olive oil",
-      "lemon, zest of",
+      "lemon",
       "lemon juice",
       "thyme lettuce",
       "clove",
       "tomato",
       "chicken breast",
-      " mozzarella cheese cheese",
+      " mozzarella",
       "basil"
     ],
     "direction": [
@@ -52210,7 +52152,7 @@
     "ingredients": [
       "chicken breast",
       "tomato",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -52306,7 +52248,7 @@
     "title": "Grilled Buttermilk Ranch Marinated Chicken Breast",
     "ingredients": [
       "chicken breast",
-      "lemon, juice and zest of",
+      "lemon",
       "clove",
       "olive oil",
       "ground pepper",
@@ -52361,7 +52303,7 @@
       "chicken breast",
       "salt",
       "flour tortillas",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "tomato",
       "basil leaf"
     ],
@@ -52516,7 +52458,7 @@
     "ingredients": [
       "tomato",
       "basil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "salt",
       "black pepper",
       "pepper"
@@ -52677,7 +52619,7 @@
       "chicken breast",
       "cilantro",
       "clove",
-      "lemon, zest of",
+      "lemon",
       "lemon juice",
       "olive oil",
       "salt",
@@ -52810,7 +52752,7 @@
     "title": "Mango Fruit Salad",
     "ingredients": [
       "gingerroot",
-      "lemon, juice and zest of",
+      "lemon",
       "honey",
       "mangoes",
       "green grapes",
@@ -52858,7 +52800,7 @@
       "cream cheese",
       "garlic",
       "Worcestershire sauce",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Set oven to 350 degrees.",
@@ -53106,7 +53048,7 @@
       "basil",
       "salt",
       " cracked pepper",
-      "parmigiano-reggiano cheese"
+      "cheese"
     ],
     "direction": [
       "Whisk together chopped garlic, vinegar, salt, pepper, and basil.",
@@ -53303,7 +53245,7 @@
     "title": "Pork Cutlet Parmigiana",
     "ingredients": [
       "egg",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -53421,7 +53363,7 @@
       "clove",
       "cottage cheese",
       "onion",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil leaf"
     ],
     "direction": [
@@ -53460,7 +53402,7 @@
       "basil",
       "mushroom",
       "chicken",
-      "lemon, zest of",
+      "lemon",
       "egg",
       "parsley",
       "phyllo pastry",
@@ -53517,7 +53459,7 @@
     "title": "Gin & Tonic",
     "ingredients": [
       "tonic water",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Fill double old-fashion glass with ice.",
@@ -53534,7 +53476,7 @@
     "title": "Sun-Dried Tomato, Mozzarella and Basil Rice Balls",
     "ingredients": [
       "rice",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "plain flour",
       "tomato paste",
       "basil",
@@ -53563,7 +53505,7 @@
       "cannellini",
       "clove",
       "olive oil",
-      "lemon, juice and zest of",
+      "lemon",
       "rosemary lettuce",
       "parsley",
       "tomato",
@@ -53661,7 +53603,7 @@
     "title": "Pizza Bouquet",
     "ingredients": [
       "parmesan cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -53706,7 +53648,7 @@
     "id": 2163,
     "title": "Cheesy Fried Chicken Parm Balls",
     "ingredients": [
-      "mozzarella cheese string cheese",
+      "mozzarella",
       "chicken",
       "salt",
       "pepper",
@@ -53957,7 +53899,7 @@
       "chilies",
       "cream cheese",
       "sour cream",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheddar cheese",
       "bacon",
       "scallions",
@@ -54057,7 +53999,7 @@
     "id": 2178,
     "title": "Roasted Garlic Cheese Spread",
     "ingredients": [
-      "head of garlic",
+      "garlic",
       "olive oil",
       "cream cheese",
       "butter",
@@ -54090,7 +54032,7 @@
       "egg",
       "small shrimp",
       "canola oil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "pineapple",
       "onion",
       "scallions",
@@ -54114,7 +54056,7 @@
     "title": "Whiskey Old Fashioned",
     "ingredients": [
       "sugar",
-      "lemon slices",
+      "lemon",
       "maraschino cherry",
       "maraschino cherry juice"
     ],
@@ -54344,7 +54286,7 @@
       "lemon juice",
       "water",
       "sugar",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "Combine the first three ingredients and stir until sugar is dissolved, add ice and lemon slices then serve."
@@ -54400,7 +54342,7 @@
       "cheese",
       "parmesan cheese",
       "parsley",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil",
       "canola oil",
       "salt",
@@ -54447,7 +54389,7 @@
       "olive oil",
       "onion",
       "tomato",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "black olives",
       "pesto sauce"
     ],
@@ -54489,7 +54431,7 @@
     "ingredients": [
       "rice",
       "egg",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "flour",
       "egg"
     ],
@@ -54767,7 +54709,7 @@
     "title": "Aperol Spritz",
     "ingredients": [
       "sparkling water",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "Fill a champagne flute with Aperol.",
@@ -54785,7 +54727,7 @@
       "onion",
       " figs",
       "rosemary",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "olive oil",
       "cornmeal"
     ],
@@ -54819,7 +54761,7 @@
       "egg",
       "butter",
       "salt",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "tomato",
       "parsley"
     ],
@@ -55164,7 +55106,7 @@
       "zucchini",
       "mushroom",
       "olive oil",
-      "lemon-pepper seasoning",
+      "lemon pepper seasoning",
       "spinach",
       "tortillas"
     ],
@@ -55201,24 +55143,6 @@
       "Split rolls and fill with burgers, tomato, lettuce and guacamole."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/46/24/05/RruyyRbMTxW1UBgshmz1_Pepper-Popper-Sliders-2.png"
-  },
-  {
-    "id": 2229,
-    "title": "Pizza Grilled Cheese",
-    "ingredients": [
-      "cheese",
-      "butter"
-    ],
-    "direction": [
-      "Butter the bread like you would to make a normal grilled cheese.",
-      "Put a piece of cheese on the butter side down piece of bread.",
-      "Put a generous amount of spaghetti sauce on the piece of cheese.",
-      "Add what ever pizza toppings you like-remember, you have to flip this so too many toppings will make this difficult.",
-      "Add another piece of cheese on top of the toppings.",
-      "Butter the other piece of bread and put it butter side up on top.",
-      "Cook until golden brown on each side. Enjoy!"
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/22/42/76/QHWYwAEyS1eCtNSiWqOH_pizza%2520grilled1.jpg"
   },
   {
     "id": 2230,
@@ -55311,7 +55235,7 @@
       "butter",
       "onion",
       "celery rib",
-      "reduced-sodium chicken broth"
+      "chicken"
     ],
     "direction": [
       "Wash chicken well with cold water inside and out.",
@@ -55364,7 +55288,7 @@
       "salt",
       "yeast",
       "flour",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "sausage",
       "tomato",
       "cheese"
@@ -55486,7 +55410,7 @@
       "garlic",
       "parmesan cheese",
       "oregano",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "swiss cheese",
       "provolone cheese",
       "lettuce",
@@ -55598,7 +55522,7 @@
       "canola oil",
       "clove",
       "cream cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheddar cheese",
       "oregano"
     ],
@@ -55619,7 +55543,7 @@
       "butter",
       "parmesan cheese",
       "provolone cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Stir together butter and parmesan cheese in a small bowl.",
@@ -55682,7 +55606,7 @@
       "lemon juice",
       "triple sec",
       "beer",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Mix together tequila, lime juice, triple sec, and crushed ice in a cocktail shaker and shake well.",
@@ -55862,7 +55786,7 @@
       "onion powder",
       "bacon",
       "cheddar cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "lettuce",
       "tomato"
     ],
@@ -55952,7 +55876,7 @@
       "cilantro",
       "onion",
       "queso fresco",
-      "lemon wedges"
+      "lemon"
     ],
     "direction": [
       "1. Heat a large nonstick skillet over medium-high heat. Coat pan with cooking spray. Add ground pork to pan; cook 5 minutes or until browned, stirring to slightly crumble. Drain well. Transfer pork to an electric slow cooker.",
@@ -56091,7 +56015,7 @@
     "ingredients": [
       "water chestnuts",
       "spinach",
-      "Rotel Tomatoes"
+      "tomato"
     ],
     "direction": [
       "Place all ingredients in a crock pot or on the stove top on low until cheese is melted.",
@@ -56507,7 +56431,7 @@
       "beef",
       "onion",
       "black olives",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "milk",
       "egg",
       "flour",
@@ -56542,7 +56466,7 @@
       "macaroni",
       "water",
       "black olives",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Heat oven to 400 degrees.",
@@ -56908,11 +56832,11 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "parsley",
       "oregano",
-      "part-skim cottage cheese"
+      "cottage cheese"
     ],
     "direction": [
       "Heat olive oil, add garlic and cook until golden.",
@@ -56939,7 +56863,7 @@
       "garlic powder",
       "salt",
       "pepper",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheese",
       "parmesan cheese"
     ],
@@ -57370,7 +57294,7 @@
     "ingredients": [
       "water",
       "egg",
-      "lemon rind",
+      "lemon",
       "pineapple",
       "butter",
       "unsifted flour",
@@ -57597,7 +57521,7 @@
     "id": 2326,
     "title": "Easy Lemon Marble Cheesecake",
     "ingredients": [
-      "lemon, zest of",
+      "lemon",
       "lemon juice",
       "sugar",
       "egg",
@@ -58152,7 +58076,7 @@
       "flour",
       "vanilla",
       "egg",
-      "lemon, rind of"
+      "lemon"
     ],
     "direction": [
       "For crust, combine graham cracker crumbs and melted butter.",
@@ -59340,7 +59264,7 @@
       "egg",
       "zucchini",
       "sugar",
-      "key lemons"
+      "key lemon"
     ],
     "direction": [
       "For the bread: Position an oven rack in the center of the oven and preheat to 350 degrees F. Spray a 9-inch round tube pan with nonstick cooking spray; set aside.",
@@ -62124,7 +62048,7 @@
       "garlic",
       "lemon juice",
       "Tabasco sauce",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Bring first 4 ingredients to a boil in a medium saucepan; gradually whisk in grits; reduce heat and simmer, stirring occasionally, 10 minutes or until thickened; add cheddar cheese and next 4 ingredients; set aside but keep warm.",
@@ -62359,7 +62283,7 @@
       "beef",
       "provolone cheese",
       "sour cream",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -62621,7 +62545,7 @@
       "eggplant",
       "egg",
       "olive oil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -62755,10 +62679,10 @@
       "egg",
       "spinach",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "basil",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Beat eggs with fork in large bowl.",
@@ -62816,7 +62740,7 @@
       "chicken breast",
       "egg",
       "butter",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "parsley"
     ],
@@ -63035,7 +62959,7 @@
       "basil",
       "garlic powder",
       "sugar",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Mix macaroni,cream cheese and cottage cheese put in greased (I use spray) 9\"x 13\" casserole dish.",
@@ -63387,7 +63311,7 @@
     "ingredients": [
       "cream cheese",
       "mayonnaise",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "garlic powder",
       "Season-All salt",
       "butter"
@@ -63589,7 +63513,7 @@
     "id": 2560,
     "title": "Italian Grilled Cheese",
     "ingredients": [
-      " mozzarella cheese cheese",
+      " mozzarella",
       "olive oil",
       "clove"
     ],
@@ -63626,7 +63550,7 @@
     "title": "Baked Grilled Cheese",
     "ingredients": [
       "mild cheddar cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "butter"
     ],
     "direction": [
@@ -63688,7 +63612,7 @@
       "onion",
       "butter",
       "grape tomato",
-      "mushroom caps",
+      "mushroom",
       "wine",
       "thyme sprigs",
       "provolone cheese",
@@ -63767,7 +63691,7 @@
     "title": "Grilled Goat Cheese Sandwiches With Fig and Honey",
     "ingredients": [
       "honey",
-      "lemon rind",
+      "lemon",
       "basil",
       "margarine",
       "powdered sugar"
@@ -63854,7 +63778,7 @@
     "id": 2574,
     "title": "Grilled Chile-Cheese Toasts",
     "ingredients": [
-      "mozzarella cheese",
+      "mozzarella",
       "onion",
       "tomato",
       "cilantro",
@@ -64151,7 +64075,7 @@
       "flour",
       "olive oil",
       "cream cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "pepper",
       "chives",
       "avocados",
@@ -64230,7 +64154,7 @@
       " hash browns",
       "spinach",
       "cheddar cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "chives",
       "salt",
       "black pepper"
@@ -64576,7 +64500,7 @@
     "ingredients": [
       "buttermilk",
       "sugar",
-      "white flour",
+      "flour",
       "wheat pastry flour",
       "egg",
       "yellow cornmeal",
@@ -64826,7 +64750,7 @@
     "title": "Sausage Crescent Breakfast Casserole",
     "ingredients": [
       "pork sausage",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "clove",
       "egg",
       "milk",
@@ -64846,7 +64770,7 @@
     "id": 2615,
     "title": "Blueberry Pancakes, Milk-free, Egg-free",
     "ingredients": [
-      "white flour",
+      "flour",
       "white sugar",
       "baking powder",
       "salt",
@@ -65340,7 +65264,7 @@
       "salt",
       "black pepper",
       "cheddar cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "egg",
       "scallions"
     ],
@@ -65499,7 +65423,7 @@
     "ingredients": [
       "ziti pasta",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -65662,7 +65586,7 @@
       "pepper",
       "parsley",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Brown ground meat, onion and garlic.",
@@ -65802,7 +65726,7 @@
       "cream cheese",
       "mayonnaise",
       "pepper",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "water",
       "clove"
     ],
@@ -65833,7 +65757,7 @@
       "black pepper",
       "oregano",
       "flour",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a large bowl, whisk eggs until blended.",
@@ -65975,7 +65899,7 @@
       "tomato",
       "tomato sauce",
       "macaroni",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -66186,7 +66110,7 @@
     "ingredients": [
       "beef",
       "onion",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "sour cream",
       "parmesan cheese",
       "butter"
@@ -66328,7 +66252,7 @@
       "bow tie pasta",
       "onion",
       "ham",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "garlic powder",
       "oregano"
@@ -66386,7 +66310,7 @@
       "chicken broth",
       "oregano",
       "ziti pasta",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -66413,7 +66337,7 @@
       " tomato",
       "clove",
       "tomato sauce",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "olive oil"
     ],
     "direction": [
@@ -66864,7 +66788,7 @@
       "sour cream",
       "cream cheese",
       "beef",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "The recipe calls for a 9x13 casserole, but I usually split it between two 8x8 pans (increasing the spaghetti, beef, sauce and mozarella slightly if needed) and freeze one of them for another time.",
@@ -66906,7 +66830,7 @@
     "title": "Easy Manicotti",
     "ingredients": [
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "sugar",
       "egg",
@@ -67311,7 +67235,7 @@
       "rice",
       "water",
       "honey",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "There are many ways that you can skin a cat, so let's tackle this cabbage.",
@@ -68376,7 +68300,7 @@
       "pomegranate seed",
       "white cabbage",
       "salmon fillets",
-      "lemon wedges",
+      "lemon",
       "Italian parsley",
       "salt"
     ],
@@ -68498,7 +68422,7 @@
       "salmon fillets",
       "black pepper",
       "salt",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "Preheat oven to 400\u00b0; Line shallow roasting pan with non-stick aluminum foil, or spray with non-stick pan spray.",
@@ -68653,7 +68577,7 @@
       "lemon",
       "black pepper",
       "salt",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat oven to 450 degrees.",
@@ -68713,7 +68637,7 @@
       "salmon",
       "bell pepper",
       "bell pepper",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "For the marinade:  Whisk the yogurt, cilantro, tomato paste, ginger, lemon juice, brown sugar, coriander, cumin, turmeric, cardamom, chili powder, garlic and salt and pepper together until well blended.",
@@ -69311,7 +69235,7 @@
       "clove",
       "lemon pepper seasoning",
       "salmon fillets",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "In a large skillet over medium-high heat, melt butter.",
@@ -69473,7 +69397,7 @@
       "lemongrass",
       "salt",
       "white pepper",
-      "lemons"
+      "lemon"
     ],
     "direction": [
       "In a large pot, combine chicken stock, orange juice, grapefruit juice, white wine, onion, carrots, kaffir lime leaves, garlic and lemon grass.",
@@ -69935,7 +69859,7 @@
     "id": 2815,
     "title": "Roast Salmon With Lime Salsa",
     "ingredients": [
-      "lemons",
+      "lemon",
       "onion",
       "cilantro",
       "canola oil",
@@ -70004,7 +69928,7 @@
     "id": 2818,
     "title": "Steamed Halibut With Chili Lime Dressing",
     "ingredients": [
-      "lemons",
+      "lemon",
       "salt",
       "sugar",
       "oyster sauce",
@@ -70015,7 +69939,7 @@
       "tomato",
       "cucumber",
       "mint",
-      "Thai basil",
+      "basil",
       "cilantro",
       "shallots",
       "red chile"
@@ -70278,7 +70202,7 @@
       "black pepper",
       "halibut fillets",
       "mayonnaise",
-      "lemon wedge"
+      "lemon"
     ],
     "direction": [
       "Preheat oven to 400 degrees.",
@@ -70932,7 +70856,7 @@
       "clove",
       "parsley",
       "basil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "olive oil",
       "salt"
     ],
@@ -71427,7 +71351,7 @@
     "title": "Grandma Geldner's Apfel Kuchen (Apple Kuchen)",
     "ingredients": [
       "baking apples",
-      "white flour",
+      "flour",
       "baking powder",
       "sugar",
       "salt",
@@ -71436,7 +71360,7 @@
       "milk",
       "butter",
       "sugar",
-      "white flour",
+      "flour",
       "cinnamon"
     ],
     "direction": [
@@ -71977,7 +71901,7 @@
       "baking soda",
       "baking powder",
       "butter",
-      "lemon rind",
+      "lemon",
       "vanilla",
       "sugar",
       "egg",
@@ -71987,7 +71911,7 @@
       "salt",
       "water",
       "butter",
-      "lemon rind",
+      "lemon",
       "vanilla"
     ],
     "direction": [
@@ -74031,7 +73955,7 @@
       "butter",
       "sugar",
       "lemon juice",
-      "lemon peel",
+      "lemon",
       "salt",
       "pecans",
       "sugar",
@@ -74330,7 +74254,7 @@
       "salt",
       "milk",
       "chicken broth",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "onion",
       "basil",
       "black pepper",
@@ -74356,7 +74280,7 @@
     "title": "Easy Vegetable Lasagna",
     "ingredients": [
       "cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375 and prepare 9X9 baking dish.",
@@ -74379,7 +74303,7 @@
     "ingredients": [
       "egg",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "beef",
       "parsley"
@@ -74410,7 +74334,7 @@
       "oregano",
       "salt",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Cook lasagna noodles according to package directions, drain and cut to fit pan.",
@@ -74438,7 +74362,7 @@
       "black pepper",
       "cheese",
       "parsley",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -74465,11 +74389,11 @@
       "pepper",
       "egg",
       "parsley",
-      "small curd cottage cheese",
+      "cheese",
       "cheese",
       "parmesan cheese",
       "provolone cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a skillet, cook beef and sausage over medium heat until no longer pink; drain.",
@@ -74495,7 +74419,7 @@
       "basil",
       "oregano",
       "garlic powder",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "feta cheese",
       "spinach",
       "egg",
@@ -74546,7 +74470,7 @@
     "title": "Last-Minute Lasagna",
     "ingredients": [
       "spinach",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -74595,7 +74519,7 @@
     "ingredients": [
       "wonton wrappers",
       "beef",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "cheese",
       "clove"
     ],
@@ -74635,7 +74559,7 @@
       "cheese",
       "parsley flakes",
       "black olives",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "tomato",
       "hunts tomato paste",
@@ -74698,7 +74622,7 @@
       "flour",
       "pepper",
       "milk",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a large skillet, cook sausage and mushrooms over medium heat until meat is browned; drain and set aside.",
@@ -74804,7 +74728,7 @@
       "cheese",
       "egg",
       "salt",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -74833,9 +74757,9 @@
     "id": 3020,
     "title": "Cottage Cheese Spinach Lasagna",
     "ingredients": [
-      "cottage mozzarella cheese",
+      "cottage mozzarella",
       "egg",
-      "small curd cottage cheese",
+      "cheese",
       "spinach",
       "salt",
       "oregano",
@@ -74870,7 +74794,7 @@
       "chicken broth",
       "pepper",
       "basil",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "onion",
       "cottage cheese",
       "shrimp",
@@ -74999,7 +74923,7 @@
       "pepper",
       "parsley",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Brown meat slowly.",
@@ -75032,7 +74956,7 @@
       "cottage cheese",
       "parmesan cheese",
       "egg",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Brown ground chuck in skillet coated with Pam cooking spray. Add chopped green tomato and chopped red tomato. Add salt and pepper to taste. Stir and add remaining ingredients. Let simmer till all is cooked and tender. While this is cooking slice the zucchini long ways into 1/4 inch thicknesses.Lay zucchini on plate and sprinkle with pinch of salt. Top with an upside down plate of same size and plate all in microwave for 2 minutes.",
@@ -75050,7 +74974,7 @@
       "onion",
       "clove",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -75078,7 +75002,7 @@
       "cheese",
       "egg",
       "salt",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -75117,7 +75041,7 @@
       "water",
       "clove",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "egg",
       "parsley",
@@ -75160,7 +75084,7 @@
       "mushroom",
       "zucchini",
       "spinach",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -75221,7 +75145,7 @@
       "pepper",
       "salt",
       "water",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "black pepper",
       "cheese",
@@ -75254,14 +75178,14 @@
       "sugar",
       "basil",
       "salt",
-      "small curd cottage cheese",
+      "cheese",
       "cheese",
       "egg",
       "parmesan cheese",
       "salt",
       "black pepper",
       "lasagna noodles",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375\u00b0F.",
@@ -75316,7 +75240,7 @@
       "salt",
       "black pepper",
       "olive oil",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat the oven to 450\u00b0F.",
@@ -75346,7 +75270,7 @@
       "flour",
       "milk",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Dice zucchini.  Coarsely chop broccoli and spinach.",
@@ -75380,7 +75304,7 @@
       "parsley flakes",
       "egg",
       "pepper",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "For meat sauce: Over medium high heat saut\u00e9 onion and garlic in oil until lightly browned. Add beef and brown. Drain.",
@@ -75399,7 +75323,7 @@
       "beef",
       "clove",
       "onion",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "tomato",
       "tomato paste",
       "sugar",
@@ -75468,7 +75392,7 @@
       "clove",
       "beef",
       "tomato",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "ham",
       "parmesan cheese",
       "oregano",
@@ -75487,7 +75411,7 @@
     "title": "Easy Cheese Lasagna(WW)",
     "ingredients": [
       "fat-free cheese",
-      "lowfat mozzarella cheese cheese"
+      "lowfat mozzarella"
     ],
     "direction": [
       "Spray 11x7 baking dish with cooking spray.",
@@ -75537,7 +75461,7 @@
       "salt",
       "chicken broth",
       "milk",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "basil",
       "oregano",
@@ -75613,7 +75537,7 @@
       "bay leaf",
       "egg",
       "cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a dutch oven over high heat cook ground beef and onions until beef is browned and juices have evaporated. Add the  tomatoes, tomato paste, sugar, salt, oregano leaves, thyme leaves, red pepper flakes, garlic salt, and bay leaf, heat mixture until boiling. Reduce heat and simmer, stirring occasionally, for 30  minutes.",
@@ -75635,7 +75559,7 @@
       "milk",
       "pepper",
       "basil leaf",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375.",
@@ -75659,7 +75583,7 @@
       "black pepper",
       "ground pepper",
       "alfredo sauce",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375 degrees Fahrenheit.",
@@ -75689,7 +75613,7 @@
       "cheese",
       "egg",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375\u00b0F.",
@@ -75707,7 +75631,7 @@
     "title": "Easy Lasagna - No Ricotta",
     "ingredients": [
       "beef",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "water",
       "garlic",
@@ -75734,7 +75658,7 @@
       "cheese",
       "parmesan cheese",
       "egg",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "salt",
       "black pepper"
     ],
@@ -75793,7 +75717,7 @@
       "flour",
       "water",
       "chicken broth",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "lemon",
       "parmesan cheese"
     ],
@@ -75830,7 +75754,7 @@
       "cheese",
       "cream cheese",
       "broccoli",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "In a large skillet, cook ground beef over medium heat until no longer pink; drain.  Transfer to a large bowl; stir in tomaoes and broccoli or spinach if using.  In a small bowl, combine eggs, ricotta cheese and cream cheese.",
@@ -75858,7 +75782,7 @@
       "bay lettuce",
       "parsley",
       "cream cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -76376,7 +76300,7 @@
     "ingredients": [
       "onion",
       "kernel corn",
-      "reduced-sodium chicken broth",
+      "chicken",
       "black beans",
       "great northern beans",
       "tomato",
@@ -76447,7 +76371,7 @@
     "id": 3077,
     "title": "Grandma's Chicken Noodle Soup",
     "ingredients": [
-      "dark chicken",
+      "chicken",
       "chicken breast",
       "water",
       "onion",
@@ -76688,7 +76612,7 @@
       "chicken",
       " asparagus",
       "milk",
-      "lemon, rind of",
+      "lemon",
       "ground pepper",
       "salt"
     ],
@@ -77287,7 +77211,7 @@
       "mint leaf",
       "onion",
       "beans sprouts",
-      "lemons",
+      "lemon",
       "hoisin sauce",
       "sriracha sauce"
     ],
@@ -77977,8 +77901,8 @@
       "heavy cream",
       "vodka",
       "pepper",
-      "penne pasta",
-      "parmigiano-reggiano cheese"
+      "pasta",
+      "cheese"
     ],
     "direction": [
       "In a wide pot big enough to hold all the pasta and sauce, melt the butter.",
@@ -78003,7 +77927,7 @@
       "bell pepper",
       "clove",
       "ziti pasta",
-      "mozzarella cheese cheese",
+      "mozzarella",
       " parmesan cheese"
     ],
     "direction": [
@@ -78020,11 +77944,11 @@
     "title": "Easy Lasagna Rolls",
     "ingredients": [
       "cottage cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "egg",
       "parsley",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Mix cottage cheese, 1-1/2 cup mozzarella and parmesan cheese with eggs and parsley.",
@@ -78050,7 +77974,7 @@
       "butter",
       "thyme",
       "pepper",
-      "lemons",
+      "lemon",
       "parsley",
       "basil"
     ],
@@ -78160,7 +78084,7 @@
     "id": 3141,
     "title": "Delicioso Antipasto Pasta Salad",
     "ingredients": [
-      "mozzarella cheese cheese",
+      "mozzarella",
       "black olives",
       "tomato",
       "mayonnaise",
@@ -78427,7 +78351,7 @@
       "beef",
       "pasta",
       "parmesan cheese",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375\u00b0F.",
@@ -78446,7 +78370,7 @@
       "linguine",
       "broccoli",
       "cornstarch",
-      "lemon-pepper seasoning",
+      "lemon pepper seasoning",
       "chicken breast",
       "olive oil",
       "tarragon"
@@ -78511,7 +78435,7 @@
       "pasta",
       "beef",
       "black pepper",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Prepare the pasta according to the package directions; rinse and drain.",
@@ -78723,7 +78647,7 @@
     "id": 3165,
     "title": "Ravioli and Meatball Bake",
     "ingredients": [
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -78847,7 +78771,7 @@
       "pasta",
       "beef",
       "garlic powder",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Cook pasta as directed on box.",
@@ -78867,7 +78791,7 @@
       "sausage",
       "onion",
       "garlic",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "black pepper"
     ],
     "direction": [
@@ -78926,7 +78850,7 @@
       "beef",
       "pasta",
       "spinach",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "garlic",
       "onion",
@@ -78942,23 +78866,6 @@
       "Pour remaining sauce evenly over all of the shells.  Sprinkle with remaining mozzarella cheese.  Cover tightly with aluminum foil, and bake at 375 for 35-45 minutes.  Take foil off pan, and bake additional 10 minutes."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/19/99/63/ySQBsLCvTYqAWI6q8muz_SS%25205%2520final%2520-%2520stuffed%2520shells%2520meat%2520spinach.jpg"
-  },
-  {
-    "id": 3176,
-    "title": "The Simplest Tomato Sauce Ever  (Marcella Hazan)",
-    "ingredients": [
-      "tomato",
-      "butter",
-      "onion",
-      "salt"
-    ],
-    "direction": [
-      "Combine the tomatoes, their juices, the butter, and the onion halves in a medium saucepan.",
-      "Add a pinch or two of salt. Place over medium heat and bring to a simmer. Cook, uncovered, at a very slow but steady simmer, adjusting the heat as necessary, for about 45 minutes, or until droplets of fat float free from the tomato.",
-      "Stir occasionally, mashing any large pieces of tomato with the back of a wooden spoon. Taste and salt as needed.",
-      "Discard the onion."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/27/39/76/upBlOvG4R8yCfexqjf7g_marcella-hazan-simple-tomato-sauce-0776.jpg"
   },
   {
     "id": 3177,
@@ -78990,7 +78897,7 @@
       "beef",
       "onion",
       "garlic",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parsley",
       "egg",
       "tomato sauce",
@@ -79048,7 +78955,7 @@
       "bell pepper",
       "garlic",
       "pasta",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese"
     ],
     "direction": [
@@ -79157,11 +79064,11 @@
     "id": 3187,
     "title": "Easy Lasagna Rolls",
     "ingredients": [
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "egg",
       "parsley",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Mix cottage cheese, 1-1/2 cup mozzarella and parmesan cheese with eggs and parsley.",
@@ -79387,7 +79294,7 @@
     "ingredients": [
       "beef",
       "pasta",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Preheat oven to 375\u00b0F.",
@@ -79511,7 +79418,7 @@
     "id": 3202,
     "title": "Delicioso Antipasto Pasta Salad",
     "ingredients": [
-      "mozzarella cheese cheese",
+      "mozzarella",
       "black olives",
       "tomato",
       "mayonnaise",
@@ -79534,7 +79441,7 @@
       "broccoli",
       "chicken",
       "cornstarch",
-      "lemon-pepper seasoning",
+      "lemon pepper seasoning",
       "olive oil",
       "tarragon"
     ],
@@ -79553,7 +79460,7 @@
       "pasta",
       "beef",
       "black pepper",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Prepare the pasta according to the package directions; rinse and drain.",
@@ -79621,7 +79528,7 @@
       "pasta",
       "beef",
       "garlic powder",
-      "mozzarella cheese cheese"
+      "mozzarella"
     ],
     "direction": [
       "Cook pasta as directed on box.",
@@ -79742,7 +79649,7 @@
     "id": 3212,
     "title": "Ravioli and Meatball Bake",
     "ingredients": [
-      "mozzarella cheese cheese",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -79973,7 +79880,7 @@
       "shells",
       "spinach",
       "cheese",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parmesan cheese",
       "garlic",
       "onion",
@@ -80014,7 +79921,7 @@
       "sausage",
       "onion",
       "garlic",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "black pepper"
     ],
     "direction": [
@@ -80052,7 +79959,7 @@
       "beef",
       "onion",
       "garlic",
-      "mozzarella cheese cheese",
+      "mozzarella",
       "parsley",
       "egg",
       "tomato sauce",

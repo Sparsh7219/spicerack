@@ -111,8 +111,15 @@
                     recipesDiv.innerHTML = ''; // Clear previous recipes
                     if (data.count > 0) {
                         recipeCountDiv.textContent = `Number of recipes found: ${data.count}`;
-                        const recipes = data.recipes;
-                        recipes.forEach(recipe => {
+                        
+                        // Sort recipes based on the number of common ingredients
+                        data.recipes.sort((a, b) => {
+                            const commonIngredientsA = a.ingredients.filter(ingredient => ingredientList.includes(ingredient));
+                            const commonIngredientsB = b.ingredients.filter(ingredient => ingredientList.includes(ingredient));
+                            return commonIngredientsB.length - commonIngredientsA.length;
+                        });
+
+                        data.recipes.forEach(recipe => {
                             const title = document.createElement('h3');
                             title.textContent = recipe.title;
 
