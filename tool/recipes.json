@@ -1226,7 +1226,7 @@
       "tomato",
       "bell pepper",
       "zucchini",
-      "pasta shells",
+      "pasta",
       "clove",
       "olive oil",
       "tomato paste",
@@ -22166,7 +22166,7 @@
       "ham steak",
       "cabbage",
       "white potato",
-      "pasta shells",
+      "pasta",
       "garbanzo beans"
     ],
     "direction": [
@@ -25532,7 +25532,7 @@
     "title": "Kims Bite Size Sandwiches",
     "ingredients": [
       "beef",
-      "monterey jack pepper cheese",
+      "cheese",
       "butter",
       "Worcestershire sauce"
     ],
@@ -25668,7 +25668,7 @@
       "cilantro",
       "sour cream",
       "cheddar cheese",
-      "monterey jack pepper cheese",
+      "cheese",
       "cornstarch",
       "milk",
       "chile"
@@ -25687,7 +25687,7 @@
     "ingredients": [
       "breakfast sausage",
       "mayonnaise",
-      "monterey jack pepper cheese",
+      "cheese",
       "cheese",
       "wonton wrappers"
     ],
@@ -27143,7 +27143,7 @@
       "chicken",
       "cream cheese",
       "celery",
-      "monterey jack and cheddar cheese"
+      "cheddar cheese"
     ],
     "direction": [
       "Preaheat oven top 350.",
@@ -32548,7 +32548,7 @@
     "ingredients": [
       "breakfast sausage",
       "mayonnaise",
-      "monterey jack pepper cheese",
+      "cheese",
       "cheese",
       "wonton wrappers"
     ],
@@ -33193,7 +33193,7 @@
       "tomato sauce",
       "onion",
       "pepper",
-      "monterey jack pepper cheese"
+      "cheese"
     ],
     "direction": [
       "Spread the rice in a greased 13\" x 9\" baking dish.  Season both sides of chicken with salt and pepper (I use  Goya Adobo seasoning with the pepper generally).  Put the chicken over the rice.",
@@ -35028,25 +35028,6 @@
       "Serve over rice."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/gk-static/gk/img/recipe-default-images/image-01.svg"
-  },
-  {
-    "id": 1368,
-    "title": "Golden Chicken Nuggets",
-    "ingredients": [
-      "chicken",
-      "milk",
-      "flour"
-    ],
-    "direction": [
-      "Heat deep fryer.",
-      "Cut chicken into bite size pieces.",
-      "Soak chicken in milk.",
-      "Mix Flour and seasoning in large bowl.",
-      "Dip chicken into flour.",
-      "Cook about 12 pieces at a time in fryer for 360 degrees for 6 to 9 minutes or until golden.",
-      "Serve with Sweet and Sour sauce or honey mustard!"
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/36/31/6/picc5JhMx.jpg"
   },
   {
     "id": 1369,
@@ -37452,7 +37433,7 @@
       "sugar",
       "shrimp",
       "tortilla chips",
-      "monterey jack pepper cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat broiler.",
@@ -38164,7 +38145,7 @@
       "ground pepper",
       "paprika",
       "garlic powder",
-      "monterey jack and cheddar cheese",
+      "cheddar cheese",
       "onion"
     ],
     "direction": [
@@ -39063,7 +39044,7 @@
     "id": 1553,
     "title": "Deli Melt Bites",
     "ingredients": [
-      "monterey jack pepper cheese",
+      "cheese",
       "tomato",
       "barbecue sauce",
       "onion"
@@ -41880,7 +41861,7 @@
       "tomato",
       "black beans",
       "black beans",
-      "brewed coffee"
+      "coffee"
     ],
     "direction": [
       "Place the red and yellow fresh peppers on the grill and cook until charred. (Can be charred on the stovetop if you have a gas stove.) With tongs, place them in a paper bag to sweat, about 3 minutes. Remove the peppers from the bags, allow to cool, and remove the skins. Core and seed, then cut them into bite-size pieces, about 1/2 inch each, and set aside in a bowl.",
@@ -44258,7 +44239,7 @@
       "chili powder",
       "flour",
       "milk",
-      "monterey jack pepper cheese",
+      "cheese",
       "macaroni",
       "salt",
       "black pepper",
@@ -44287,7 +44268,7 @@
       "cheddar cheese",
       "cheese",
       "parmesan cheese",
-      "medium pasta shells",
+      "medium pasta",
       "butter",
       "flour",
       "salt",
@@ -44340,7 +44321,7 @@
     "ingredients": [
       "cream cheese",
       "cheddar cheese",
-      "monterey jack pepper cheese",
+      "cheese",
       "mayonnaise",
       "sour cream",
       "Worcestershire sauce",
@@ -44514,7 +44495,7 @@
     "title": "Breaded Jalapeno Poppers",
     "ingredients": [
       "cream cheese",
-      "monterey jack pepper cheese",
+      "cheese",
       "milk",
       "flour"
     ],
@@ -44547,7 +44528,7 @@
       "cayenne",
       "salt",
       "white pepper",
-      "monterey jack pepper cheese",
+      "cheese",
       "cheese",
       "cheddar cheese",
       "cream cheese",
@@ -44626,7 +44607,7 @@
       "cheddar cheese",
       "cheese",
       "Fontina cheese",
-      "pasta shells",
+      "pasta",
       "panko breadcrumbs"
     ],
     "direction": [
@@ -44641,23 +44622,6 @@
       "Sprinkle with panko and place dish into your preheated oven and bake for 30 minutes or until sauce is bubbling and panko is golden brown."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/12/39/10/CoGyEIiUQP2bdPUP68dy_mac13.jpg"
-  },
-  {
-    "id": 1780,
-    "title": "Extra Cheesy Grilled Cheese",
-    "ingredients": [
-      "butter",
-      "parmesan cheese",
-      "cheese",
-      "mozzarella"
-    ],
-    "direction": [
-      "Stir together butter and parmesan cheese in a small bowl.",
-      "Spread 1 1/2 teaspoons butter mixture on 1 side of each bread slice.",
-      "Place 4 bread slices, buttered sides down, on wax paper.  Top with provolone and mozzarella cheeses; top with remaining bread slices, buttered sides up.",
-      "Cook sandwiches, in batches, on a hot griddle or in a nonstick skillet over medium heat, gently pressing with a spatula, 4 minutes on each side or until golden brown and cheese is melted."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/33/05/32/picMXNiNm.jpg"
   },
   {
     "id": 1781,
@@ -50600,7 +50564,7 @@
       "tomato",
       "cilantro",
       "onion",
-      "monterey jack pepper cheese"
+      "cheese"
     ],
     "direction": [
       "Combine the beef, 1/2 cup salsa, egg (if using) and the 1/2 packet of taco seasoning.",
@@ -51565,7 +51529,7 @@
     "ingredients": [
       "chicken",
       "olive oil",
-      "monterey jack pepper cheese",
+      "cheese",
       "lettuce"
     ],
     "direction": [
@@ -53025,7 +52989,7 @@
     "ingredients": [
       "breakfast sausage",
       "mayonnaise",
-      "monterey jack pepper cheese",
+      "cheese",
       "cheese",
       "wonton wrappers"
     ],
@@ -58631,12 +58595,12 @@
       "baking soda",
       "salt",
       "egg",
-      "brewed coffee",
+      "coffee",
       "vinegar",
       "vanilla extract",
       "butter",
       "sugar",
-      "brewed coffee"
+      "coffee"
     ],
     "direction": [
       "In a small mixing bowl, combine the flour, sugar, cocoa, baking soda and salt. In a small bowl, mix the eggs, coffee, oil, vinegar and vanilla.",
@@ -66232,7 +66196,7 @@
       "salt",
       "grits",
       "cheddar cheese",
-      "monterey jack pepper cheese",
+      "cheese",
       "butter",
       "onion",
       "bell pepper",
@@ -74606,7 +74570,7 @@
       "beef",
       "water",
       "chive & onion cream cheese",
-      "monterey jack and cheddar cheese",
+      "cheddar cheese",
       "salsa",
       "sour cream",
       "cilantro"
@@ -76540,7 +76504,7 @@
       "olive oil",
       "tomato",
       "water",
-      "pasta shells",
+      "pasta",
       "chicken",
       "kidney beans"
     ],
@@ -77352,7 +77316,7 @@
       "celery",
       "carrot",
       "clove",
-      "pasta shells",
+      "pasta",
       "zucchini",
       "salt",
       "pepper"
@@ -78344,28 +78308,6 @@
       "NOTE: If you want to use only the white meat chicken in this dish (which is what I have to do for my family) and your chickens are small, you may want to purchase two rotisserie chickens to guarantee that you'll have enough meat. Reserve the dark meat for another use. Serve warm, at room temp, or cold."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/14/25/60/SopJlPjSjSYYdLvdxb3w_P8120801.jpg"
-  },
-  {
-    "id": 3157,
-    "title": "Cheesy Mostaccioli",
-    "ingredients": [
-      "pasta",
-      "beef",
-      "black pepper",
-      "mozzarella"
-    ],
-    "direction": [
-      "Prepare the pasta according to the package directions; rinse and drain.",
-      "In a non-stick skillet, cook and stir the beef over medium-high heat until meat is browned; drain.",
-      "Add in spaghetti sauce, soup, pepper, and Italian seasoning; stir to combine.",
-      "In a large bowl, mix together the pasta, sauce, and 2 cups cheese.",
-      "Transfer mixture to a greased 4-quart baking dish.",
-      "Sprinkle remaining 1 cup cheese over the top.",
-      "Bake at 350\u00b0 for 40 minutes or until heated through.",
-      "Note: OAMC instructions--To freeze: Complete recipe through step 6. Seal with foil or place in a zip top bag. Freeze.",
-      "To serve: Thaw in fridge overnight. Bake as directed."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/70/53/4/UcX6pn50RS2VexFOry6V_uploads.jpg"
   },
   {
     "id": 3158,
