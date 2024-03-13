@@ -5,7 +5,7 @@ class CrawlingSpider(CrawlSpider):
     name="food"
     allowed_domains=["food.com"]
     start_urls=[
-                "https://www.food.com/ideas/quick-easy-pasta-recipes-6078#c-626634"
+                "https://www.food.com/recipe/bhel-puri-228242?ic1=suggestedAsset%7Cbhel%20puri"
                 ]
 
     rules=(
