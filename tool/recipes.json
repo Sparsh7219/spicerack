@@ -2690,7 +2690,7 @@
     "ingredients": [
       "mustard",
       "garlic",
-      "chicken breast",
+      "chicken",
       "mushroom",
       "chicken broth",
       "thyme lettuce"
@@ -2712,7 +2712,7 @@
     "id": 107,
     "title": "Tarragon Chicken Casserole",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "onion",
       "tarragon",
       "poultry seasoning",
@@ -3984,7 +3984,7 @@
     "id": 163,
     "title": "Low Carb Taco Soup",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "clove",
       "chipotle chile",
       "cumin",
@@ -4149,7 +4149,7 @@
     "id": 169,
     "title": "Easy Baked Chicken Parmesan (No Breading)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "garlic",
       "parmesan cheese",
@@ -4201,7 +4201,7 @@
     "id": 171,
     "title": "Grilled Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "mustard",
       "olive oil",
       "clove",
@@ -4289,7 +4289,7 @@
       "chili powder",
       "garlic powder",
       "lemon juice",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Combine first all ingredients for marinade.",
@@ -4321,7 +4321,7 @@
     "id": 177,
     "title": "Baked Pesto Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "basil pesto",
       "tomato",
       "mozzarella"
@@ -4351,7 +4351,7 @@
       "salt",
       "turmeric",
       "pepper",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Combine oil, scallions, parsley, cilantro, garlic, paprika, cumin, salt, turmeric and cayenne pepper in the container of a food processor.",
@@ -4391,7 +4391,7 @@
     "id": 180,
     "title": "Pan Grilled Chicken with Avocado and Red Onion Salsa",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "lemon juice",
       "olive oil",
@@ -4485,7 +4485,7 @@
     "id": 184,
     "title": "Easy Lemon Chicken -Gluten Free",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "butter",
       "cornflour",
       "sugar",
@@ -4556,7 +4556,7 @@
     "id": 187,
     "title": "Zesty Low-Fat Chicken Breasts",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "ketchup",
       "salsa",
       "honey",
@@ -4856,7 +4856,7 @@
       "salt",
       "paprika",
       "onion powder",
-      "chicken breast",
+      "chicken",
       "mayonnaise"
     ],
     "direction": [
@@ -5398,7 +5398,7 @@
       "soy sauce",
       "sugar",
       "white pepper",
-      "chicken breast",
+      "chicken",
       "bell pepper",
       "onion",
       "ginger",
@@ -5420,7 +5420,7 @@
       "onion",
       "clove",
       "pepper",
-      "chicken breast",
+      "chicken",
       "corn",
       "wine",
       "cumin",
@@ -5609,7 +5609,7 @@
     "id": 228,
     "title": "Kathy #1 - Chicken Corn Soup (Zwt - Asia)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "black pepper",
       "cornstarch",
@@ -5654,7 +5654,7 @@
       "ginger",
       "garlic",
       "curry powder",
-      "chicken breast",
+      "chicken",
       "parsley",
       "peanuts"
     ],
@@ -5804,7 +5804,7 @@
       "basil",
       "thyme",
       "salt",
-      "chicken breast",
+      "chicken",
       "clove",
       "olive oil",
       "onion",
@@ -5859,7 +5859,7 @@
       "parsley",
       "black pepper",
       "salt",
-      "chicken breast",
+      "chicken",
       "pasta",
       "parmesan cheese"
     ],
@@ -5908,7 +5908,7 @@
     "id": 239,
     "title": "Grilled Chicken Breast with Spicy Pineapple Mango Salsa",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "thyme",
       "olive oil",
@@ -5943,7 +5943,7 @@
     "id": 240,
     "title": "Chicken and Sprouts Stir Fry",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "beans sprouts",
       "gingerroot",
       "clove",
@@ -6043,7 +6043,7 @@
       "chili powder",
       "salt",
       "black pepper",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "onion",
       "clove",
@@ -6093,7 +6093,7 @@
       "spaghetti",
       "cornstarch",
       "soy sauce",
-      "chicken breast",
+      "chicken",
       "vinegar",
       "sugar",
       "canola oil",
@@ -6189,7 +6189,7 @@
       "mustard",
       "olive oil",
       "thyme",
-      "chicken breast",
+      "chicken",
       "parmesan cheese",
       "water",
       "arugula",
@@ -6279,7 +6279,7 @@
       "ginger",
       "pepper",
       "black pepper",
-      "chicken breast",
+      "chicken",
       "angel hair pasta",
       "nectarines",
       "baby bok choy",
@@ -6300,7 +6300,7 @@
     "id": 254,
     "title": "Tuscan Chicken Stew",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "rosemary",
       "olive oil",
       "garlic",
@@ -6327,7 +6327,7 @@
       "spinach",
       "onion",
       "clove",
-      "chicken breast",
+      "chicken",
       "tomato",
       "tomato paste",
       "basil",
@@ -6447,7 +6447,7 @@
       "chicken broth",
       "water",
       " asparagus",
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "olive oil",
       "dried dill weed",
@@ -6563,7 +6563,7 @@
     "id": 263,
     "title": "Grilled Orange Chicken Breasts",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "lemon juice",
       "clove",
@@ -6679,7 +6679,7 @@
       "salt",
       "oregano",
       "olive oil",
-      "chicken breast",
+      "chicken",
       "mozzarella"
     ],
     "direction": [
@@ -6699,7 +6699,7 @@
     "id": 269,
     "title": "Mediterranean Chicken Breasts With Avocado Tapenade",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon",
       "lemon juice",
       "olive oil",
@@ -6836,7 +6836,7 @@
     "id": 275,
     "title": "Tarragon Chicken Casserole",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "onion",
       "tarragon",
       "poultry seasoning",
@@ -6929,7 +6929,7 @@
     "title": "Baked-Up Fried Chicken, Low Fat",
     "ingredients": [
       "buttermilk",
-      "chicken breast",
+      "chicken",
       "flour",
       "salt",
       "garlic powder",
@@ -7357,7 +7357,7 @@
       "onion",
       "ginger",
       "clove",
-      "chicken breast",
+      "chicken",
       "carrot",
       "sweet potato",
       "currants",
@@ -7392,7 +7392,7 @@
     "ingredients": [
       "Worcestershire sauce",
       "key lemon juice",
-      "chicken breast",
+      "chicken",
       "oranges",
       "key lemon juice",
       "scallions",
@@ -8219,7 +8219,7 @@
     "title": "Sauteed Chicken With Cherry Tomatoes",
     "ingredients": [
       "olive oil",
-      "chicken breast",
+      "chicken",
       "clove",
       "shallots",
       "tomato",
@@ -8625,7 +8625,7 @@
     "id": 347,
     "title": "Quinoa Crusted Chicken Fingers",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "garlic powder",
       "black pepper",
@@ -8684,7 +8684,7 @@
       "black pepper",
       "clove",
       "basil",
-      "chicken breast",
+      "chicken",
       "tomato",
       "onion",
       "clove",
@@ -8871,7 +8871,7 @@
       "parsley",
       "garlic powder",
       "ground pepper",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Preheat oven to 400 degrees.",
@@ -9009,7 +9009,7 @@
     "id": 362,
     "title": "Chicken Tikka Tomato Masala",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "red chili powder",
       "yogurt",
@@ -9315,7 +9315,7 @@
       "clove",
       "onion",
       "clove",
-      "chicken breast",
+      "chicken",
       "salt",
       "cinnamon",
       "cardamom",
@@ -10951,7 +10951,7 @@
       "soft sugar",
       "tomato",
       "tomato",
-      "chicken breast",
+      "chicken",
       "curry lettuce",
       "yogurt",
       "coriander"
@@ -11563,7 +11563,7 @@
     "id": 451,
     "title": "My Chicken Parmigiana",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "egg",
       "margarine",
       "mozzarella",
@@ -11687,7 +11687,7 @@
     "id": 456,
     "title": "Chicken Parmesan",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "egg",
       "olive oil",
       "chicken broth",
@@ -11889,7 +11889,7 @@
     "id": 464,
     "title": "Chicken Parmesan (Low-Carb, Keto)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "flour",
       "parmesan cheese",
       "egg",
@@ -11914,7 +11914,7 @@
     "id": 465,
     "title": "Olive Garden Stuffed Chicken Parmigiana",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "cheese",
       "cheese",
       "parmesan cheese",
@@ -12805,7 +12805,7 @@
     "id": 496,
     "title": "Chicken Agrodolce (an Italian Sweet and Sour Chicken)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "flour",
       "olive oil",
       "garlic",
@@ -12848,7 +12848,7 @@
     "id": 498,
     "title": "Boneless Breast of Chicken Saltimbocca",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "flour",
       "flour",
       "prosciutto ham",
@@ -12971,7 +12971,7 @@
     "id": 502,
     "title": "Chicken Piccata - Giada De Laurentiis",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "flour",
       "butter",
       "olive oil",
@@ -13669,7 +13669,7 @@
     "id": 525,
     "title": "Pad Thai (Thai Stir-Fried Noodles)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "shallot",
       "egg",
@@ -13780,7 +13780,7 @@
     "ingredients": [
       "coconut milk",
       " galangal root",
-      "chicken breast",
+      "chicken",
       "tomato",
       "lemongrass",
       "kaffir lemon lettuce",
@@ -13811,7 +13811,7 @@
     "ingredients": [
       "red curry paste",
       "sambal oelek",
-      "chicken breast",
+      "chicken",
       "coconut milk",
       "fish sauce",
       "sugar",
@@ -13941,7 +13941,7 @@
     "id": 535,
     "title": "Chicken Satay",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "black pepper",
       "cumin",
       "coriander",
@@ -14032,7 +14032,7 @@
       "lemongrass",
       "fish sauce",
       "sugar",
-      "chicken breast",
+      "chicken",
       "pineapple chunks",
       "onion"
     ],
@@ -14101,7 +14101,7 @@
     "id": 541,
     "title": "Bangkok Chicken Curry",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "rice",
       "clove",
       "bell pepper",
@@ -14540,7 +14540,7 @@
       "pepper",
       "canola oil",
       "curry powder",
-      "chicken breast",
+      "chicken",
       " sugar snap peas",
       "onion",
       "clove",
@@ -14584,7 +14584,7 @@
       "sugar",
       "vinegar",
       "chili sauce",
-      "chicken breast",
+      "chicken",
       "garlic",
       "egg",
       " beans sprout",
@@ -14695,7 +14695,7 @@
       "garlic",
       "coconut milk",
       "chicken broth",
-      "chicken breast",
+      "chicken",
       "ginger",
       "onion",
       "bell pepper",
@@ -14730,7 +14730,7 @@
       "olive oil",
       "vinegar",
       "honey",
-      "chicken breast",
+      "chicken",
       "broccoli",
       "onion",
       "carrot"
@@ -14981,7 +14981,7 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "chicken breast",
+      "chicken",
       "onion",
       "sugar",
       "fish sauce",
@@ -15034,7 +15034,7 @@
       "onion",
       "onion",
       "tomato",
-      "chicken breast",
+      "chicken",
       "mushroom",
       "lemongrass",
       "kaffir lemon lettuce",
@@ -15376,7 +15376,7 @@
     "id": 589,
     "title": "Mexican Style Meat and Vegetable Stew - Azteca's Molcajete",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "beef",
       "bacon",
       "water",
@@ -16668,7 +16668,7 @@
       "lemon",
       "lemon",
       "tortillas",
-      "chicken breast",
+      "chicken",
       "chicken broth",
       "chicken broth",
       "tomato",
@@ -17225,7 +17225,7 @@
     "id": 660,
     "title": "Spicy Korean Chicken",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "onion",
       "bell pepper",
       "carrot",
@@ -17927,7 +17927,7 @@
     "id": 690,
     "title": "Crisp Panko Chicken Cutlets w/Tonkatsu Sauce",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "black pepper",
       "flour",
@@ -18485,7 +18485,7 @@
       "rice",
       "sesame seed",
       "nori",
-      "chicken breast",
+      "chicken",
       "wasabi"
     ],
     "direction": [
@@ -19143,7 +19143,7 @@
     "id": 737,
     "title": "Tori No Kara-age (deep Fried Chicken Nuggets)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "soy sauce",
       "gingerroot",
       "clove",
@@ -19537,7 +19537,7 @@
     "id": 750,
     "title": "Julia Child Supremes De Volaille Aux Champignons (Chicken Breast",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "salt",
       "white pepper",
@@ -20748,7 +20748,7 @@
     "id": 792,
     "title": "Stuffed Chicken Cordon Bleu",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "black pepper",
       "deli ham",
@@ -21865,7 +21865,7 @@
     "ingredients": [
       "olive oil",
       "long grain rice",
-      "chicken breast",
+      "chicken",
       "chickpeas",
       "clove",
       "tomato",
@@ -23081,7 +23081,7 @@
     "id": 884,
     "title": "Flavorful Chicken for Empanadas, Tacos, Etc...",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "onion",
       "olive oil",
       "clove",
@@ -23100,7 +23100,7 @@
     "id": 885,
     "title": "Honey Chicken, Panama",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "carrot",
       "onion",
       "honey",
@@ -23531,7 +23531,7 @@
     "title": "Spaghetti Con Pollo (Central American Chicken and Spaghetti)",
     "ingredients": [
       "spaghetti",
-      "chicken breast",
+      "chicken",
       "butter",
       "sour cream",
       "bell pepper",
@@ -23764,7 +23764,7 @@
     "id": 909,
     "title": "Arroz Imperial Con Pollo - Imperial Rice With Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "bacon",
       "olive oil",
       "onion",
@@ -24144,7 +24144,7 @@
     "id": 921,
     "title": "Kung Pao Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "cornstarch",
       "onion",
       "clove",
@@ -24294,7 +24294,7 @@
     "id": 926,
     "title": "Chinese Take-Out: Orange Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "cornstarch",
       "cornstarch",
       "water",
@@ -24344,7 +24344,7 @@
     "id": 928,
     "title": "Orange Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "sugar",
       "water",
@@ -24756,7 +24756,7 @@
     "ingredients": [
       "rice",
       "water",
-      "chicken breast",
+      "chicken",
       "garlic",
       "ginger",
       "oyster sauce",
@@ -24880,7 +24880,7 @@
     "ingredients": [
       "instant chicken",
       "water",
-      "chicken breast",
+      "chicken",
       "wine",
       "soy sauce",
       "cornstarch",
@@ -25005,7 +25005,7 @@
     "id": 951,
     "title": "Sweet and Sour Chicken (or Pork)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "flour",
       "cornstarch",
       "salt",
@@ -25377,7 +25377,7 @@
     "id": 964,
     "title": "Sesame Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "honey",
       "soy sauce",
       "water",
@@ -26213,7 +26213,7 @@
     "id": 1001,
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "blue cheese",
       "butter",
       "celery ribs",
@@ -26993,7 +26993,7 @@
     "id": 1032,
     "title": "Unbelievable Baked Buffalo Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "pepper",
       "pepper",
       "salt",
@@ -27141,7 +27141,7 @@
       "garlic powder",
       "sugar",
       "water",
-      "chicken breast",
+      "chicken",
       "salt"
     ],
     "direction": [
@@ -27163,7 +27163,7 @@
     "id": 1039,
     "title": "Buffalo Chicken Wing Dip",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "cream cheese",
       "celery",
       "monterey jack and cheddar cheese"
@@ -27300,7 +27300,7 @@
     "id": 1046,
     "title": "Sweet Chicken Bacon Wraps (Paula Deen)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "bacon",
       "sugar",
       "chili powder"
@@ -30497,7 +30497,7 @@
     "id": 1177,
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "blue cheese",
       "butter",
       "celery ribs",
@@ -31062,7 +31062,7 @@
       "celery seed",
       "prepared mustard",
       "salt",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "In a saucepan, saute the garlic in butter until tender.",
@@ -31321,7 +31321,7 @@
     "id": 1212,
     "title": "Simply Sour Cream Chicken Enchiladas",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "onion",
       "flour tortillas",
       "cheese",
@@ -31507,7 +31507,7 @@
       "chili powder",
       "cumin",
       "clove",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "lemon juice",
       "sugar",
@@ -32543,7 +32543,7 @@
     "id": 1260,
     "title": "Chicken Roll-Ups",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "deli ham",
       "provolone cheese",
       "cheese",
@@ -32797,7 +32797,7 @@
     "ingredients": [
       " cauliflower",
       "margarine",
-      "chicken breast",
+      "chicken",
       "margarine",
       "flour",
       "cheddar cheese",
@@ -32928,7 +32928,7 @@
     "title": "Baked-Up Fried Chicken, Low Fat",
     "ingredients": [
       "buttermilk",
-      "chicken breast",
+      "chicken",
       "flour",
       "salt",
       "garlic powder",
@@ -33088,7 +33088,7 @@
       "sweet potato",
       "celery root",
       "parsnip",
-      "chicken breast",
+      "chicken",
       "flour",
       "milk",
       "parsley",
@@ -33137,7 +33137,7 @@
     "id": 1284,
     "title": "Crock Pot Chicken Fajitas",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "clove",
       "cumin",
@@ -33210,7 +33210,7 @@
     "id": 1287,
     "title": "Easy Arroz Con Pollo",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "clove",
       "chicken broth",
       "tomato sauce",
@@ -33230,7 +33230,7 @@
     "id": 1288,
     "title": "Low Calorie yet   Delicious Chicken and Baby Dumplings",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "flour",
       "onion",
       "carrot",
@@ -33270,7 +33270,7 @@
       "scallions",
       "garlic",
       "pepper",
-      "chicken breast",
+      "chicken",
       "rice"
     ],
     "direction": [
@@ -33518,7 +33518,7 @@
     "title": "Easy Parmesan Garlic Chicken",
     "ingredients": [
       "parmesan cheese",
-      "chicken breast",
+      "chicken",
       "garlic powder"
     ],
     "direction": [
@@ -33564,7 +33564,7 @@
       "unbleached flour",
       "salt",
       "black pepper",
-      "chicken breast",
+      "chicken",
       "soy sauce",
       "sugar",
       "sesame seed",
@@ -33906,7 +33906,7 @@
       "Worcestershire sauce",
       "sugar",
       "clove",
-      "chicken breast",
+      "chicken",
       " shrimp",
       "pepper",
       "egg",
@@ -34633,7 +34633,7 @@
     "id": 1349,
     "title": "Lower Fat Chicken Pot Pie With Phyllo",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "phyllo dough",
       "onion",
       "celery",
@@ -34899,7 +34899,7 @@
     "id": 1361,
     "title": "Baked Chicken W/ Dried Apricots & Cherries",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "orange marmalade",
       "dried cherries",
       "oregano"
@@ -35056,7 +35056,7 @@
     "id": 1368,
     "title": "Golden Chicken Nuggets",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "milk",
       "flour"
     ],
@@ -35421,7 +35421,7 @@
       "parmesan cheese",
       "garlic powder",
       "black pepper",
-      "chicken breast",
+      "chicken",
       "butter"
     ],
     "direction": [
@@ -36226,7 +36226,7 @@
     "id": 1435,
     "title": "Air Fryer Buffalo Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "butter"
     ],
     "direction": [
@@ -36609,7 +36609,7 @@
     "title": "Buffalo Chicken Jalapeno Poppers",
     "ingredients": [
       "butter",
-      "chicken breast",
+      "chicken",
       "celery rib",
       "cheese",
       "blue cheese"
@@ -36735,7 +36735,7 @@
       "garlic powder",
       "onion powder",
       "salt",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "For the sauce; in a small saucepan combine the butter, hot sauce, black pepper, salt and 1/2 teaspoon garlic powder; bring to a simmer over medium-low heat.",
@@ -36953,7 +36953,7 @@
     "ingredients": [
       "parmesan cheese",
       "mozzarella",
-      "chicken breast",
+      "chicken",
       "mushroom",
       "black olive",
       "onion",
@@ -36971,7 +36971,7 @@
     "title": "Chili's Chicken Fajita Nachos  (Copycat)",
     "ingredients": [
       "tortilla chips",
-      "chicken breast",
+      "chicken",
       "bell pepper",
       "cheese",
       "mild cheddar cheese",
@@ -37150,7 +37150,7 @@
     "id": 1474,
     "title": "Applebee's Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "butter",
       "vinegar",
       "Worcestershire sauce",
@@ -37200,7 +37200,7 @@
       "flour",
       "salt",
       "black pepper",
-      "chicken wings",
+      "chicken",
       "canola oil",
       "butter",
       "honey",
@@ -37551,7 +37551,7 @@
     "id": 1490,
     "title": "Creamy Buffalo Chicken Pasta",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "paprika",
       "garlic powder",
       "celery",
@@ -37728,7 +37728,7 @@
     "title": "Chicken Wings... Hot Dawgie Style",
     "ingredients": [
       "chili powder",
-      "chicken wings",
+      "chicken",
       "paprika",
       "garlic powder",
       "flour",
@@ -37751,7 +37751,7 @@
       "paprika",
       "pepper",
       "salt",
-      "chicken wings",
+      "chicken",
       "butter",
       "black pepper",
       "garlic powder"
@@ -37795,7 +37795,7 @@
     "id": 1500,
     "title": "Chicken Enchilada Dip",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "cream cheese",
       "mayonnaise",
       "colby-cheese",
@@ -37819,7 +37819,7 @@
       "long grain rice",
       "water",
       "olive oil",
-      "chicken breast",
+      "chicken",
       "celery",
       "stewed tomato"
     ],
@@ -37948,7 +37948,7 @@
     "id": 1506,
     "title": "Buffalo Chicken Wraps",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "Tabasco sauce",
       "celery",
@@ -37969,7 +37969,7 @@
     "title": "Buffalo Chicken Mac-N-Cheese",
     "ingredients": [
       "macaroni",
-      "chicken breast",
+      "chicken",
       "milk",
       "flour",
       "cheddar cheese",
@@ -38087,7 +38087,7 @@
       "ginger",
       "pepper",
       "black pepper",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "In a medium sized bowl, whisk together soy sauce, vinegar, honey, oil, garlic, red pepper flakes and black pepper.",
@@ -38180,7 +38180,7 @@
     "id": 1516,
     "title": "Loaded Potato and Buffalo Chicken Casserole",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "potato",
       "olive oil",
       "salt",
@@ -38361,7 +38361,7 @@
       "carrot",
       "celery ribs",
       "blue cheese",
-      "chicken breast",
+      "chicken",
       "butter"
     ],
     "direction": [
@@ -38422,7 +38422,7 @@
     "id": 1525,
     "title": "Crock Pot Chicken Tacos",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "chives",
       "cilantro",
       "clove",
@@ -38452,7 +38452,7 @@
       "butter",
       "mozzarella",
       "water",
-      "chicken breast",
+      "chicken",
       "cilantro salsa"
     ],
     "direction": [
@@ -38518,7 +38518,7 @@
       "black pepper",
       "pepper",
       "butter",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "Cut wings at joints.",
@@ -39039,7 +39039,7 @@
     "id": 1551,
     "title": "Grilled Buffalo Wings With a Bite",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "sugar",
       "butter",
       "vinegar",
@@ -39380,7 +39380,7 @@
     "id": 1567,
     "title": "Golden Chicken Nuggets",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "milk",
       "flour"
     ],
@@ -39483,7 +39483,7 @@
       "egg",
       "milk",
       "barbecue sauce",
-      "chicken breast",
+      "chicken",
       "barbecue sauce"
     ],
     "direction": [
@@ -39537,7 +39537,7 @@
     "id": 1574,
     "title": "Garlic- Parmesan Buffalo Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "butter",
       "parmesan cheese",
       "garlic"
@@ -39571,7 +39571,7 @@
     "id": 1576,
     "title": "Buffalo Chicken Wraps",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "Tabasco sauce",
       "celery",
@@ -41089,7 +41089,7 @@
       "black pepper",
       "pepper",
       "butter",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "Cut wings at joints.",
@@ -41112,7 +41112,7 @@
       "lemon pepper seasoning",
       "cumin",
       "olive oil",
-      "chicken breast",
+      "chicken",
       "garlic",
       "onion",
       "white shoepeg corn",
@@ -41569,7 +41569,7 @@
     "ingredients": [
       "onion",
       "celery",
-      "chicken breast",
+      "chicken",
       "garlic",
       "chili powder",
       "oregano",
@@ -41694,7 +41694,7 @@
     "id": 1664,
     "title": "Weight Watchers Crock Pot Chicken Chili",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "tomato",
       "kidney beans",
       "bell pepper",
@@ -42448,7 +42448,7 @@
     "title": "Lean White Chicken Chili",
     "ingredients": [
       "olive oil",
-      "chicken breast",
+      "chicken",
       "onion",
       "garlic",
       "wine",
@@ -42619,7 +42619,7 @@
     "title": "Hawaiian Chicken Chili",
     "ingredients": [
       "chunk pineapple",
-      "chicken breast",
+      "chicken",
       "butter",
       "clove",
       "onion",
@@ -42926,7 +42926,7 @@
     "id": 1708,
     "title": "Air Fryer Buffalo Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "butter"
     ],
     "direction": [
@@ -42944,7 +42944,7 @@
     "title": "Chicken Wings... Hot Dawgie Style",
     "ingredients": [
       "chili powder",
-      "chicken wings",
+      "chicken",
       "paprika",
       "garlic powder",
       "flour",
@@ -42968,7 +42968,7 @@
       "black pepper",
       "pepper",
       "butter",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "Cut wings at joints.",
@@ -42987,7 +42987,7 @@
     "id": 1711,
     "title": "Caesar Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "parmesan cheese",
       "pepper"
     ],
@@ -43003,7 +43003,7 @@
     "id": 1712,
     "title": "Sticky Soy Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "soy sauce",
       "sugar",
       "garlic powder",
@@ -43029,7 +43029,7 @@
       "flour",
       "salt",
       "black pepper",
-      "chicken wings",
+      "chicken",
       "canola oil",
       "butter",
       "honey",
@@ -43097,7 +43097,7 @@
       "paprika",
       "pepper",
       "salt",
-      "chicken wings",
+      "chicken",
       "butter",
       "black pepper",
       "garlic powder"
@@ -43124,7 +43124,7 @@
       "soy sauce",
       "clove",
       "ginger",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "In a bowl whisk together peanut oil, rice vinegar, 2 teaspoons soy sauce, garlic, ginger and chili oil (if using). Place chicken wings in marinade and toss to coat. Cover and refrigerate for at least 1 hour.",
@@ -43139,7 +43139,7 @@
     "id": 1717,
     "title": "Caramelized Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "olive oil",
       "soy sauce",
       "ketchup",
@@ -43165,7 +43165,7 @@
       "clove",
       "white pepper",
       "salt",
-      "chicken wings",
+      "chicken",
       "canola oil",
       "cornstarch",
       "white miso",
@@ -43195,7 +43195,7 @@
       "salt",
       "pepper",
       "butter",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "Preheat oven to 425 degrees.",
@@ -43233,7 +43233,7 @@
     "id": 1721,
     "title": "Oven-Barbecued Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "salt",
       "ground pepper",
       "barbecue sauce"
@@ -43264,7 +43264,7 @@
       "hoisin sauce",
       "honey",
       "cayenne",
-      "chicken wings",
+      "chicken",
       "sesame seed",
       "scallion"
     ],
@@ -43288,7 +43288,7 @@
       "paprika",
       "egg",
       "water",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "In a large resealable plastic bag, combine the bread crumbs, onion powder, basil, garlic salt and paprika.",
@@ -43305,7 +43305,7 @@
     "id": 1724,
     "title": "Chicken Wings in Honey BBQ Sauce",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "honey",
       "soy sauce",
       "barbecue sauce",
@@ -43331,7 +43331,7 @@
       "chili powder",
       "cumin",
       "oregano",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "Preheat the oven to 350\u00b0F.",
@@ -43368,7 +43368,7 @@
     "id": 1727,
     "title": "Spicy Chocolate Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "clove",
       "chili powder",
       "ground allspice",
@@ -43387,7 +43387,7 @@
     "id": 1728,
     "title": "Crock Pot Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "soy sauce",
       "ginger",
       "clove",
@@ -43409,7 +43409,7 @@
       "sugar",
       "garlic powder",
       "ginger",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "Mix all ingredients together.",
@@ -43424,7 +43424,7 @@
     "id": 1730,
     "title": "Aloha Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "sherry",
       "soy sauce",
       "sugar",
@@ -43450,7 +43450,7 @@
       "soy sauce",
       "sake",
       "clove",
-      "chicken wings",
+      "chicken",
       "dark sugar",
       "soy sauce",
       " pineapple",
@@ -43482,7 +43482,7 @@
     "id": 1732,
     "title": "Grilled Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "mustard",
       "olive oil",
       "clove",
@@ -43507,7 +43507,7 @@
       "garlic powder",
       "black pepper",
       "parmesan cheese",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "In a small glass bowl, melt butter in microwave.",
@@ -43522,7 +43522,7 @@
     "id": 1734,
     "title": "Hot & Cool Teriyaki Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "pepper",
       "Tabasco sauce",
       "sour cream",
@@ -43549,7 +43549,7 @@
       "sugar",
       "honey",
       "oyster sauce",
-      "chicken wings",
+      "chicken",
       "soy sauce",
       "fish sauce",
       "salt",
@@ -43575,7 +43575,7 @@
     "id": 1736,
     "title": "Alton Brown's Buffalo Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "butter",
       "clove",
       "salt"
@@ -43597,7 +43597,7 @@
     "id": 1737,
     "title": "Simple Boil and Bake Crispy Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "barbecue sauce"
     ],
     "direction": [
@@ -43642,7 +43642,7 @@
     "id": 1739,
     "title": "Fantastic Hot 'n' Spicy Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "ketchup",
       "water",
       "honey",
@@ -43671,7 +43671,7 @@
     "id": 1740,
     "title": "Guy Fieri's Firecracker Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "water",
       "salt",
       "honey",
@@ -43695,7 +43695,7 @@
     "id": 1741,
     "title": "Original N.y. Buffalo Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "butter",
       "black pepper",
       "flour",
@@ -43726,7 +43726,7 @@
     "id": 1742,
     "title": "Crunchy Devilish Wings (Baked)",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "mustard",
       "butter",
       "salt",
@@ -43767,7 +43767,7 @@
     "id": 1744,
     "title": "Chicken Wings With BBQ Sauce for the Crock Pot!",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "barbecue sauce",
       "honey",
       "prepared mustard",
@@ -43793,7 +43793,7 @@
       "ginger",
       "pepper",
       "black pepper",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "In a medium sized bowl, whisk together soy sauce, vinegar, honey, oil, garlic, red pepper flakes and black pepper.",
@@ -43811,7 +43811,7 @@
     "id": 1746,
     "title": "Caramelized Baked Chicken Party Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "olive oil",
       "soy sauce",
       "ketchup",
@@ -43830,7 +43830,7 @@
     "id": 1747,
     "title": "Hoisin-Honey Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "honey",
       "hoisin sauce",
       "soy sauce",
@@ -43861,7 +43861,7 @@
       "garlic",
       "lemon juice",
       "olive oil",
-      "chicken wings",
+      "chicken",
       "mayonnaise",
       "sour cream",
       "mustard",
@@ -44246,7 +44246,7 @@
     "id": 1764,
     "title": "Cheesy Chicken & Veggie Mac",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "macaroni",
       "milk",
       "processed cheese",
@@ -47403,7 +47403,7 @@
     "id": 1899,
     "title": "Pan Grilled Chicken with Avocado and Red Onion Salsa",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "lemon juice",
       "olive oil",
@@ -47735,7 +47735,7 @@
     "id": 1914,
     "title": "Grilled Bourbon Buffalo Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "salt",
       "romaine lettuce",
@@ -47829,7 +47829,7 @@
     "id": 1918,
     "title": "Grilled Chicken Breast with Spicy Pineapple Mango Salsa",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "thyme",
       "olive oil",
@@ -48072,7 +48072,7 @@
     "id": 1928,
     "title": "Chicken Satay Kabobs",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "creamy peanut butter",
       "soy sauce",
       "sugar",
@@ -48131,7 +48131,7 @@
     "title": "Delicious Raspberry Glazed Grilled Chicken",
     "ingredients": [
       "mustard",
-      "chicken breast",
+      "chicken",
       "raspberry"
     ],
     "direction": [
@@ -48186,7 +48186,7 @@
       "sugar",
       "garlic",
       "salt",
-      "chicken breast",
+      "chicken",
       "tap water",
       "vinegar",
       "sugar",
@@ -48212,7 +48212,7 @@
     "id": 1934,
     "title": "Grilled Chicken Breast With Barbecue Glaze",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "barbecue sauce",
       "honey",
       "mayonnaise",
@@ -48258,7 +48258,7 @@
       "clove",
       "shallot",
       "parsley",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Mix all ingredients together (except meat) and whisk thoroughly.",
@@ -48338,7 +48338,7 @@
     "id": 1940,
     "title": "Grilled Beer Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "butter",
       "lemon juice",
       "beer",
@@ -48541,7 +48541,7 @@
       "chili powder",
       "cumin",
       "clove",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "lemon juice",
       "sugar",
@@ -48615,7 +48615,7 @@
     "id": 1951,
     "title": "Grilled Bruschetta Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "tomato",
       "mozzarella",
       "basil"
@@ -48675,7 +48675,7 @@
     "id": 1954,
     "title": "Chicken Parmesan Foil Packets",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "zucchini",
       "parmesan cheese",
       "mozzarella"
@@ -48745,7 +48745,7 @@
     "id": 1957,
     "title": "Bun Ga Nuong (Grilled Chicken and Vermicelli Salad)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "shallots",
       "iceberg lettuce",
@@ -48801,7 +48801,7 @@
       "salt",
       "turmeric",
       "pepper",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Combine oil, scallions, parsley, cilantro, garlic, paprika, cumin, salt, turmeric and cayenne pepper in the container of a food processor.",
@@ -48816,7 +48816,7 @@
     "id": 1959,
     "title": "Grilled Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "mustard",
       "olive oil",
       "clove",
@@ -48887,7 +48887,7 @@
     "id": 1962,
     "title": "Grilled Buttermilk Ranch Marinated Chicken Breast",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon",
       "clove",
       "olive oil",
@@ -49112,7 +49112,7 @@
     "id": 1972,
     "title": "Grilled Chipotle-Chicken Quesadillas",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "chipotle chile",
       "sour cream",
@@ -49145,7 +49145,7 @@
       "celery seed",
       "prepared mustard",
       "salt",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "In a saucepan, saute the garlic in butter until tender.",
@@ -49180,7 +49180,7 @@
     "id": 1975,
     "title": "Lemon and Herb Chicken With Peach and Prosciutto Salad",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "wine",
       "lemon juice",
       "olive oil",
@@ -49366,7 +49366,7 @@
     "id": 1983,
     "title": "Grilled Chicken Tikka",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "yogurt",
       "garlic",
@@ -49655,7 +49655,7 @@
     "id": 1994,
     "title": "Grilled Basil Lemon Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon",
       "clove",
       "olive oil",
@@ -51316,7 +51316,7 @@
     "id": 2062,
     "title": "Grilled Chicken Breast With Barbecue Glaze",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "barbecue sauce",
       "honey",
       "mayonnaise",
@@ -51365,7 +51365,7 @@
       "chili powder",
       "cumin",
       "clove",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "lemon juice",
       "sugar",
@@ -51419,7 +51419,7 @@
     "id": 2066,
     "title": "Grilled Beer Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "butter",
       "lemon juice",
       "beer",
@@ -51438,7 +51438,7 @@
     "id": 2067,
     "title": "Pan Grilled Chicken with Avocado and Red Onion Salsa",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "lemon juice",
       "olive oil",
@@ -51465,7 +51465,7 @@
     "title": "Delicious Raspberry Glazed Grilled Chicken",
     "ingredients": [
       "mustard",
-      "chicken breast",
+      "chicken",
       "raspberry"
     ],
     "direction": [
@@ -51514,7 +51514,7 @@
       "garlic",
       "salt",
       "pepper",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Mix first seven ingredients.",
@@ -51528,7 +51528,7 @@
     "id": 2071,
     "title": "Lynn's Favorite Jerk Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "canola oil",
       "chili powder",
       "garlic powder",
@@ -51567,7 +51567,7 @@
       "basil",
       "butter",
       "clove",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Preheat outdoor grill.",
@@ -51586,7 +51586,7 @@
     "id": 2073,
     "title": "Grilled Cajun Chicken Sandwich",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "monterey jack pepper cheese",
       "lettuce"
@@ -51638,7 +51638,7 @@
     "id": 2075,
     "title": "Caesar Grilled Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "garlic powder",
       "lemon juice",
@@ -51663,7 +51663,7 @@
       "parsley",
       "clove",
       "oregano",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Combine lemon juice, olive oil, parsley, garlic, and oregano in large plastic food storage bag.",
@@ -51688,7 +51688,7 @@
       "black olive",
       "salt",
       "black pepper",
-      "chicken breast",
+      "chicken",
       "yogurt",
       "sour cream",
       "parsley",
@@ -51727,7 +51727,7 @@
     "id": 2079,
     "title": "Asian Grilled Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "vinegar",
       "soy sauce",
       "sugar",
@@ -51750,7 +51750,7 @@
     "id": 2080,
     "title": "Yakitori ( Japanese Grilled Chicken Skewers)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "onion",
       "soy sauce",
       "sake",
@@ -51769,7 +51769,7 @@
     "id": 2081,
     "title": "Easy-Grilled-Chicken-Teriyaki",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "garlic"
     ],
@@ -51786,7 +51786,7 @@
     "id": 2082,
     "title": "Grilled Balsamic Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "chicken broth",
       "Worcestershire sauce",
       "scallion",
@@ -51814,7 +51814,7 @@
       "thyme lettuce",
       "clove",
       "tomato",
-      "chicken breast",
+      "chicken",
       " mozzarella",
       "basil"
     ],
@@ -51902,7 +51902,7 @@
     "id": 2087,
     "title": "Grilled Chicken Pesto Panini",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "garlic",
       "provolone cheese",
@@ -51930,7 +51930,7 @@
     "id": 2088,
     "title": "Ginger Marmalade Grilled Chicken Salad",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "orange marmalade",
       "ginger",
       "clove",
@@ -51965,7 +51965,7 @@
     "id": 2090,
     "title": "Grilled Lemon Chicken Wrap With Chilli Mayonnaise",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "clove",
       "cinnamon",
       "ground allspice",
@@ -52034,7 +52034,7 @@
       "mayonnaise",
       "honey",
       "mustard",
-      "chicken breast",
+      "chicken",
       "lettuce",
       "bacon",
       "swiss cheese"
@@ -52064,7 +52064,7 @@
       "clove",
       "shallot",
       "parsley",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Mix all ingredients together (except meat) and whisk thoroughly.",
@@ -52082,7 +52082,7 @@
       "ginger",
       "honey",
       "red wine vinegar",
-      "chicken breast",
+      "chicken",
       "mustard",
       "Worcestershire sauce"
     ],
@@ -52101,7 +52101,7 @@
     "id": 2095,
     "title": "Grilled Bourbon Buffalo Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "salt",
       "romaine lettuce",
@@ -52127,7 +52127,7 @@
     "id": 2096,
     "title": "Grilled Bruschetta Chicken",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "tomato",
       "mozzarella",
       "basil"
@@ -52143,7 +52143,7 @@
     "id": 2097,
     "title": "Grilled Chipotle-Chicken Quesadillas",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "chipotle chile",
       "sour cream",
@@ -52167,7 +52167,7 @@
     "id": 2098,
     "title": "Lemon and Herb Chicken With Peach and Prosciutto Salad",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "wine",
       "lemon juice",
       "olive oil",
@@ -52224,7 +52224,7 @@
     "id": 2100,
     "title": "Grilled Buttermilk Ranch Marinated Chicken Breast",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon",
       "clove",
       "olive oil",
@@ -52244,7 +52244,7 @@
     "id": 2101,
     "title": "Grilled Chicken Tikka",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "lemon juice",
       "yogurt",
       "garlic",
@@ -52277,7 +52277,7 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "chicken breast",
+      "chicken",
       "salt",
       "flour tortillas",
       "mozzarella",
@@ -52300,7 +52300,7 @@
       "sugar",
       "garlic",
       "salt",
-      "chicken breast",
+      "chicken",
       "tap water",
       "vinegar",
       "sugar",
@@ -52326,7 +52326,7 @@
     "id": 2104,
     "title": "Asian Enough Grilled Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "honey",
       "sugar",
       "clove",
@@ -52350,7 +52350,7 @@
       "mayonnaise",
       "mustard",
       " tarragon",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Mix together the mayonnaise, mustard and tarragon in a shallow bowl.",
@@ -52387,7 +52387,7 @@
     "id": 2107,
     "title": "Bun Ga Nuong (Grilled Chicken and Vermicelli Salad)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "shallots",
       "iceberg lettuce",
@@ -52451,7 +52451,7 @@
     "id": 2109,
     "title": "Chili's  Margarita Grilled Chicken and Belinda's Mexican Rice",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "garlic",
       "pepper",
       "rice",
@@ -52473,7 +52473,7 @@
     "id": 2110,
     "title": "Chicken Satay Kabobs",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "creamy peanut butter",
       "soy sauce",
       "sugar",
@@ -52491,7 +52491,7 @@
     "id": 2111,
     "title": "Nif's Grilled Hawaiian Chicken Skewers",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       " pineapple",
       "soy sauce",
       "vinegar",
@@ -52537,7 +52537,7 @@
     "id": 2113,
     "title": "Original Carrabba's Chicken Bryan (Not Copycat!)",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salt",
       "ground pepper",
       "olive oil",
@@ -52593,7 +52593,7 @@
     "id": 2115,
     "title": "Grilled Chicken With Cilantro Marinade",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "cilantro",
       "clove",
       "lemon",
@@ -52637,7 +52637,7 @@
       "chili powder",
       "garlic powder",
       "lemon juice",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Combine first all ingredients for marinade.",
@@ -52650,7 +52650,7 @@
     "id": 2118,
     "title": "Bacon Wrapped Grilled Chicken Sandwich",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "bacon",
       "lemon juice",
       "lemon juice",
@@ -52668,7 +52668,7 @@
     "title": "Kraft Grilled Greek Chicken Kabobs",
     "ingredients": [
       "mayonnaise",
-      "chicken breast",
+      "chicken",
       "onion",
       "lemon"
     ],
@@ -52691,7 +52691,7 @@
       "oregano",
       "salt",
       "pepper",
-      "chicken breast",
+      "chicken",
       "flour tortillas",
       "lettuce",
       "tomato",
@@ -52924,7 +52924,7 @@
       "ginger",
       "lemon juice",
       "salt",
-      "chicken breast",
+      "chicken",
       "flour",
       "baking powder",
       "baking soda"
@@ -53086,7 +53086,7 @@
     "id": 2137,
     "title": "Chicken Garlic Bites",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "clove",
       "pepper",
@@ -53308,7 +53308,7 @@
     "id": 2148,
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "blue cheese",
       "butter",
       "celery ribs",
@@ -54598,7 +54598,7 @@
     "id": 2206,
     "title": "Chicken Roll-Ups",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "deli ham",
       "provolone cheese",
       "cheese",
@@ -54638,7 +54638,7 @@
     "id": 2208,
     "title": "Quick and Easy Chicken Satay",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "clove",
       "water",
       "satay sauce",
@@ -54998,7 +54998,7 @@
     "title": "Lean White Chicken Chili",
     "ingredients": [
       "olive oil",
-      "chicken breast",
+      "chicken",
       "onion",
       "garlic",
       "wine",
@@ -55457,7 +55457,7 @@
     "id": 2243,
     "title": "Cheddar Cheese Bacon Wrapped Chicken Breast at Its Best",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "bacon",
       "salt",
       "pepper",
@@ -55868,7 +55868,7 @@
     "title": "Low Fat Crock Pot Chicken Taco Soup",
     "ingredients": [
       "chicken broth",
-      "chicken breast",
+      "chicken",
       "pinto beans",
       "kidney beans",
       "black beans",
@@ -56380,7 +56380,7 @@
     "id": 2282,
     "title": "Applebee's Chicken Wings",
     "ingredients": [
-      "chicken wings",
+      "chicken",
       "butter",
       "vinegar",
       "Worcestershire sauce",
@@ -56572,7 +56572,7 @@
       "black pepper",
       "pepper",
       "butter",
-      "chicken wings"
+      "chicken"
     ],
     "direction": [
       "Cut wings at joints.",
@@ -56591,7 +56591,7 @@
     "id": 2290,
     "title": "Chicken and Teriyaki  Sauce",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "sesame seed",
       "soy sauce",
       "water",
@@ -56689,7 +56689,7 @@
       "long grain rice",
       "water",
       "olive oil",
-      "chicken breast",
+      "chicken",
       "celery",
       "stewed tomato"
     ],
@@ -56865,7 +56865,7 @@
     "id": 2301,
     "title": "Chicken Salad for Sandwiches",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "celery",
       "onion",
       "celery",
@@ -62317,7 +62317,7 @@
       "olive oil",
       "heavy cream",
       "boursin cheese",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "parsley",
       "rosemary",
@@ -62363,7 +62363,7 @@
     "title": "Chicken Alfredo With Crispy Bacon (Paula Deen)",
     "ingredients": [
       "bacon",
-      "chicken breast",
+      "chicken",
       "pepper",
       "salt",
       "chicken broth",
@@ -62465,7 +62465,7 @@
     "id": 2515,
     "title": "Crock Pot Chicken & Dumplings",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "onion"
     ],
     "direction": [
@@ -62714,7 +62714,7 @@
     "title": "Chicken Parmesan Express",
     "ingredients": [
       "angel hair pasta",
-      "chicken breast",
+      "chicken",
       "egg",
       "butter",
       "mozzarella",
@@ -62902,7 +62902,7 @@
     "id": 2533,
     "title": "Pammy's Crock Pot Chicken Breast and Gravy",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "onion powder",
       "garlic powder",
@@ -63240,7 +63240,7 @@
     "id": 2547,
     "title": "Buffalo Chicken Grilled Cheese",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "scallion",
       "cheese",
       "celery ribs",
@@ -65493,7 +65493,7 @@
     "id": 2644,
     "title": "Ro-tel Chicken Spaghetti",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "chicken broth",
       "Ro-Tel tomato",
       "cheese",
@@ -66379,7 +66379,7 @@
     "id": 2680,
     "title": "Loaded Baked Potato & Chicken Casserole",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "potato",
       "olive oil",
       "salt",
@@ -66947,7 +66947,7 @@
       "chicken broth",
       "lemon pepper seasoning",
       "couscous",
-      "chicken breast",
+      "chicken",
       "wine",
       "cornstarch",
       "thyme lettuce",
@@ -66979,7 +66979,7 @@
       "parsnips",
       "salt",
       "black pepper",
-      "chicken breast",
+      "chicken",
       "dill",
       "parsley"
     ],
@@ -66993,7 +66993,7 @@
     "id": 2703,
     "title": "SAUTEED CHICKEN with CURRIED APPLES",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "curry powder",
       "butter",
       "apples",
@@ -67085,7 +67085,7 @@
       "dried cranberries",
       "mandarin oranges",
       "pecans",
-      "chicken breast",
+      "chicken",
       "blue cheese"
     ],
     "direction": [
@@ -70581,7 +70581,7 @@
     "id": 2848,
     "title": "Slow Cooker Cilantro Lime Chicken Tacos",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "salsa",
       "lemon",
       "cilantro",
@@ -71400,7 +71400,7 @@
     "id": 2880,
     "title": "Crunchy Chicken Apple Salad Sandwiches",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "apple",
       "onion",
       "mayonnaise",
@@ -76191,7 +76191,7 @@
       "onion",
       "celery ribs",
       "zucchini",
-      "chicken breast",
+      "chicken",
       "beans",
       "chicken broth",
       "olive oil",
@@ -76349,7 +76349,7 @@
     "title": "Grandma's Chicken Noodle Soup",
     "ingredients": [
       "chicken",
-      "chicken breast",
+      "chicken",
       "water",
       "onion",
       "carrot",
@@ -76918,7 +76918,7 @@
       "red chile",
       "ginger",
       "onion",
-      "chicken breast",
+      "chicken",
       "snow peas",
       "udon noodles",
       "onion"
@@ -77047,7 +77047,7 @@
       "chicken broth",
       "water",
       "broccoli",
-      "chicken breast",
+      "chicken",
       "white pepper",
       "salt",
       "pepper",
@@ -77255,7 +77255,7 @@
       "red chili powder",
       "salt",
       "pepper",
-      "chicken breast"
+      "chicken"
     ],
     "direction": [
       "Add all to large pot.                   Bring to a boil and simmer 1 hour.       Can be topped with:.",
@@ -77327,7 +77327,7 @@
     "ingredients": [
       "water",
       "bamboo shoot",
-      "chicken breast",
+      "chicken",
       "mushroom",
       "onion",
       "soy sauce",
@@ -77404,7 +77404,7 @@
     "title": "Black Bean and Chicken Soup",
     "ingredients": [
       "black beans",
-      "chicken breast",
+      "chicken",
       "cumin powder",
       "garlic powder",
       "black pepper",
@@ -77943,7 +77943,7 @@
     "id": 3136,
     "title": "Lemon Chicken Linguine",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "linguine",
       "onion",
       "clove",
@@ -78202,7 +78202,7 @@
       "salt",
       "garlic powder",
       "pepper",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "celery",
       "onion",
@@ -78223,7 +78223,7 @@
     "id": 3150,
     "title": "Garlic and Basil Chicken Pasta With Alfredo Sauce",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "vinegar",
       "wine",
@@ -78311,7 +78311,7 @@
       "broccoli",
       "cornstarch",
       "lemon pepper seasoning",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "tarragon"
     ],
@@ -78327,7 +78327,7 @@
     "id": 3155,
     "title": "Weeknight Cajun Chicken Pasta",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "linguine",
       "butter",
       "onion",
@@ -78420,7 +78420,7 @@
     "title": "Pasta With Chicken and Pepper-Cheese Sauce",
     "ingredients": [
       "spaghetti",
-      "chicken breast",
+      "chicken",
       "flour",
       "salt",
       "white pepper",
@@ -78556,7 +78556,7 @@
     "title": "Ginger Peanut Chicken Pasta",
     "ingredients": [
       "pasta",
-      "chicken breast",
+      "chicken",
       "cornstarch",
       "milk",
       "peanut butter",
@@ -79102,7 +79102,7 @@
       "salt",
       "garlic powder",
       "pepper",
-      "chicken breast",
+      "chicken",
       "olive oil",
       "celery",
       "onion",
@@ -79145,7 +79145,7 @@
     "id": 3193,
     "title": "Garlic and Basil Chicken Pasta With Alfredo Sauce",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "olive oil",
       "vinegar",
       "wine",
@@ -79170,7 +79170,7 @@
     "id": 3194,
     "title": "Lemon Chicken Linguine",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "linguine",
       "onion",
       "garlic",
@@ -79271,7 +79271,7 @@
     "id": 3199,
     "title": "Weeknight Cajun Chicken Pasta",
     "ingredients": [
-      "chicken breast",
+      "chicken",
       "linguine",
       "butter",
       "onion",
@@ -79486,7 +79486,7 @@
     "title": "Ginger Peanut Chicken Pasta",
     "ingredients": [
       "pasta",
-      "chicken breast",
+      "chicken",
       "cornstarch",
       "milk",
       "peanut butter",
@@ -79518,7 +79518,7 @@
     "title": "Pasta With Chicken and Pepper-Cheese Sauce",
     "ingredients": [
       "spaghetti",
-      "chicken breast",
+      "chicken",
       "flour",
       "salt",
       "white pepper",
@@ -79927,7 +79927,7 @@
       "lemon",
       "flour",
       "salt",
-      "chicken breast",
+      "chicken",
       "pasta",
       "wine"
     ],
