@@ -14,8 +14,9 @@ def search_recipes_by_ingredients(recipes, user_ingredients):
             matching_recipes.append(recipe)
     return len(matching_recipes), matching_recipes
 
+
 # Defalut ingredients
-DEFAULT_INGREDIENTS = ['salt', 'pepper', 'oil', 'onion', 'garlic','butter','sugar','tomato','water','garam masala'
+DEFAULT_INGREDIENTS = ['salt', 'pepper', 'oil', 'onion', 'garlic','butter','sugar','tomato','water','garam masala','milk','chilli'
                        ]
 
 def main():

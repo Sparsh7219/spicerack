@@ -51,16 +51,22 @@
                 "{{ ingredient }}",
             {% endfor %}
         ];
-
+    
         const ingredientsContainer = document.getElementById('ingredientsContainer');
         const recipeForm = document.getElementById('recipeForm');
         const recipesDiv = document.getElementById('recipes');
         const recipeCountDiv = document.getElementById('recipeCount');
-
+    
         // Function to update the dropdown menu with suggested ingredients
         function updateDropdown(suggestions) {
             ingredientDropdown.innerHTML = '';
-            suggestions.forEach(suggestion => {
+            
+            // Separate exact matches and partial matches
+            const exactMatches = suggestions.filter(suggestion => suggestion.toLowerCase() === ingredientInput.value.trim().toLowerCase());
+            const partialMatches = suggestions.filter(suggestion => !exactMatches.includes(suggestion));
+
+            // Display exact matches first, followed by partial matches
+            [...exactMatches, ...partialMatches].forEach(suggestion => {
                 const option = document.createElement('a');
                 option.textContent = suggestion;
                 option.addEventListener('click', function() {
@@ -69,6 +75,7 @@
                 });
                 ingredientDropdown.appendChild(option);
             });
+
             if (suggestions.length > 0) {
                 ingredientDropdown.style.display = 'block';
             } else {
@@ -76,15 +83,16 @@
             }
         }
 
+    
         // Event listener to fetch suggestions while typing
         ingredientInput.addEventListener('input', function() {
             const inputValue = ingredientInput.value.trim().toLowerCase();
             const suggestions = ingredients.filter(ingredient =>
-                ingredient.toLowerCase().startsWith(inputValue)
+                ingredient.toLowerCase().includes(inputValue)
             );
             updateDropdown(suggestions);
         });
-
+    
         // Event listener to add ingredient
         addIngredientButton.addEventListener('click', function() {
             const ingredientValue = ingredientInput.value.trim();
@@ -95,44 +103,44 @@
                 ingredientInput.value = '';
             }
         });
-
+    
         // Event listener for form submission (search)
         recipeForm.addEventListener('submit', async function(event) {
             event.preventDefault();
             const ingredientItems = ingredientsContainer.querySelectorAll('div');
             const ingredientList = Array.from(ingredientItems).map(item => item.textContent);
             const ingredients = ingredientList.join(',');
-            
+    
             try {
                 const response = await fetch(`/search?ingredients=${ingredients}`);
                 const data = await response.json();
-
+    
                 if (response.ok) {
                     recipesDiv.innerHTML = ''; // Clear previous recipes
                     if (data.count > 0) {
                         recipeCountDiv.textContent = `Number of recipes found: ${data.count}`;
-                        
+    
                         // Sort recipes based on the number of common ingredients
                         data.recipes.sort((a, b) => {
                             const commonIngredientsA = a.ingredients.filter(ingredient => ingredientList.includes(ingredient));
                             const commonIngredientsB = b.ingredients.filter(ingredient => ingredientList.includes(ingredient));
                             return commonIngredientsB.length - commonIngredientsA.length;
                         });
-
+    
                         data.recipes.forEach(recipe => {
                             const title = document.createElement('h3');
                             title.textContent = recipe.title;
-
+    
                             const ingredientsList = document.createElement('p');
                             ingredientsList.textContent = 'Ingredients: ' + recipe.ingredients.join(', ');
-
+    
                             const directions = document.createElement('p');
                             directions.textContent = 'Directions: ' + recipe.direction;
-
+    
                             const image = document.createElement('img');
                             image.src = recipe.image_url;
                             image.alt = recipe.title;
-
+    
                             recipesDiv.appendChild(title);
                             recipesDiv.appendChild(ingredientsList);
                             recipesDiv.appendChild(directions);
@@ -150,5 +158,6 @@
             }
         });
     </script>
+    
 </body>
 </html>
