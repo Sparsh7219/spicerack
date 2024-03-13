@@ -26,7 +26,7 @@ def get_unique_ingredients(recipes):
 
 # Default ingredients
 DEFAULT_INGREDIENTS = ['salt', 'pepper', 'oil', 'onion', 'garlic','butter','sugar','tomato','water','garam masala','seasoning salt',
-                       'pepper','black pepper','turmeric','chili powder','chili pepper','turmeric powder','red chili powder'
+                       'pepper','black pepper','turmeric','chili powder','chili pepper','turmeric powder','red chili powder','ghee'
                        ]
 
 # Load recipes

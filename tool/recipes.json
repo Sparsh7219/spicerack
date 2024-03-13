@@ -608,7 +608,7 @@
     "title": "Pecan and Mushroom Burger  With Blue Cheese Sauce",
     "ingredients": [
       "yogurt",
-      "blue cheese",
+      "cheese",
       "chives",
       "bulgur",
       "salt",
@@ -1197,7 +1197,7 @@
       "olive oil",
       "water",
       "mustard",
-      "gruyere cheese",
+      "cheese",
       "tomato",
       "olive oil",
       "parsley",
@@ -1284,7 +1284,7 @@
       "wheat",
       "onion",
       "dill",
-      "feta cheese",
+      "cheese",
       "cheese",
       "red wine vinegar",
       "olive oil",
@@ -1628,7 +1628,7 @@
     "ingredients": [
       "tofu",
       "yeast",
-      "soya sauce",
+      "soy sauce",
       "liquid smoke"
     ],
     "direction": [
@@ -1705,7 +1705,7 @@
       "bell pepper",
       "water",
       "chickpeas",
-      "dry pasta",
+      "pasta",
       "parsley",
       "parmesan cheese"
     ],
@@ -2283,7 +2283,7 @@
     "id": 90,
     "title": "Cheezy Popcorn(Vegan)",
     "ingredients": [
-      "olive oil flavored cooking spray",
+      "olive oil",
       "yeast",
       "chili powder",
       "salt",
@@ -2736,7 +2736,7 @@
     "title": "Green & Yellow Squash 'linguini' W/ Shrimp Scampi",
     "ingredients": [
       "green zucchini",
-      "large shrimp",
+      "shrimp",
       "olive oil",
       "clove",
       "wine",
@@ -2851,7 +2851,7 @@
     "ingredients": [
       "tomato sauce",
       "tomato paste",
-      "sugar substitute",
+      "sugar",
       "vinegar",
       "beef",
       "egg",
@@ -2865,7 +2865,7 @@
       "salt",
       "black pepper",
       "prosciutto",
-      "provolone cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00b0F.",
@@ -2933,7 +2933,7 @@
       "black pepper",
       "olive oil",
       "mushroom",
-      "beef broth",
+      "beef",
       "wine",
       "clove"
     ],
@@ -2956,7 +2956,7 @@
       "olive oil",
       "baking powder",
       "salt",
-      "sugar substitute",
+      "sugar",
       "flour",
       "flax seed",
       "sunflower seed",
@@ -3037,7 +3037,7 @@
     "title": "Low Carb Cream Cheese & Lemon Macaroons",
     "ingredients": [
       "coconut",
-      "sugar substitute",
+      "sugar",
       "vanilla",
       "cream cheese",
       "egg",
@@ -3154,7 +3154,7 @@
     "title": "Kimberly Landson's Chocolate Almond Cheesecake",
     "ingredients": [
       "butter",
-      "sugar substitute",
+      "sugar",
       "cream cheese",
       "egg",
       "vanilla",
@@ -3215,7 +3215,7 @@
       "chives",
       "mayonnaise",
       "sour cream",
-      "colby-cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 425.",
@@ -3655,7 +3655,7 @@
     "ingredients": [
       "beans",
       "pine nuts",
-      "feta cheese",
+      "cheese",
       "parsley",
       "olive oil",
       "clove",
@@ -4126,7 +4126,7 @@
     "title": "Low Carb Crock Pot Pizza Soup",
     "ingredients": [
       "tomato",
-      "beef broth",
+      "beef",
       "mushroom",
       "pepper",
       "onion",
@@ -4154,7 +4154,7 @@
       "garlic",
       "parmesan cheese",
       "parsley",
-      "olive oil flavored cooking spray",
+      "olive oil",
       "tomato sauce",
       "tomato paste",
       "basil",
@@ -4932,7 +4932,7 @@
     "id": 202,
     "title": "Rick's Vegetable Beef Soup",
     "ingredients": [
-      "beef stew meat",
+      "beef",
       "carrot",
       "potato",
       "corn",
@@ -5019,7 +5019,7 @@
       "tapioca flour",
       "xanthan gum",
       "salt",
-      "egg substitute",
+      "egg",
       "sugar",
       "water",
       "yeast",
@@ -5210,12 +5210,12 @@
     "id": 213,
     "title": "Gluten Free Cornbread",
     "ingredients": [
-      "sorghum flour",
+      "flour",
       "cornstarch",
       "tapioca flour",
       "cornmeal",
       "xanthan gum",
-      "egg substitute",
+      "egg",
       "sugar",
       "baking soda",
       "baking powder",
@@ -5292,7 +5292,7 @@
       "ginger",
       "broccoli",
       "cornstarch",
-      "beef broth",
+      "beef",
       "soy sauce"
     ],
     "direction": [
@@ -5675,7 +5675,7 @@
     "title": "Diabetic Spring Fling Layered White Cake",
     "ingredients": [
       "Splenda granular",
-      "cake flour",
+      "flour",
       "baking powder",
       "baking soda",
       "sugar",
@@ -6168,7 +6168,7 @@
       "clove",
       "black pepper",
       "zucchini",
-      "grape tomato",
+      "tomato",
       "onion",
       "mushroom"
     ],
@@ -6280,7 +6280,7 @@
       "pepper",
       "black pepper",
       "chicken",
-      "angel hair pasta",
+      "pasta",
       "nectarines",
       "baby bok choy",
       "onion"
@@ -6323,7 +6323,7 @@
     "id": 255,
     "title": "Chicken and Spinach Rigatoni Casserole",
     "ingredients": [
-      "rigatoni pasta",
+      "pasta",
       "spinach",
       "onion",
       "clove",
@@ -6550,7 +6550,7 @@
       "sour cream",
       "parsley",
       "mustard",
-      "reduced-fat cheddar cheese"
+      "cheddar cheese"
     ],
     "direction": [
       "Mix all ingredients in a bowl so that everything is coated well with the mayonnaise mixture.",
@@ -6621,7 +6621,7 @@
     "ingredients": [
       "silken tofu",
       "panko breadcrumbs",
-      "plain flour",
+      "flour",
       "salt",
       "pepper",
       "cumin",
@@ -6796,7 +6796,7 @@
       "black pepper",
       "olive oil",
       "mushroom",
-      "beef broth",
+      "beef",
       "wine",
       "clove"
     ],
@@ -6908,7 +6908,7 @@
     "ingredients": [
       "butter",
       "clove",
-      "instant rice",
+      "rice",
       "chicken broth",
       "mushroom",
       "thyme",
@@ -6963,7 +6963,7 @@
       "wheat",
       "onion",
       "dill",
-      "feta cheese",
+      "cheese",
       "red wine vinegar",
       "olive oil",
       "tomato"
@@ -7059,7 +7059,7 @@
     "ingredients": [
       "red wine vinegar",
       "mustard",
-      "sugar substitute",
+      "sugar",
       "olive oil",
       "lettuce"
     ],
@@ -7153,7 +7153,7 @@
     "id": 290,
     "title": "Rick's Vegetable Beef Soup",
     "ingredients": [
-      "beef stew meat",
+      "beef",
       "carrot",
       "potato",
       "corn",
@@ -7324,7 +7324,7 @@
     "id": 297,
     "title": "Red Beet Chocolate Cake",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "baking soda",
       "salt",
       "sugar",
@@ -7391,10 +7391,10 @@
     "title": "Ww 3 Points - Grilled Chicken and Key Lime Salsa",
     "ingredients": [
       "Worcestershire sauce",
-      "key lemon juice",
+      "lemon juice",
       "chicken",
-      "oranges",
-      "key lemon juice",
+      "orange",
+      "lemon juice",
       "scallions",
       "cilantro",
       "chili"
@@ -7468,7 +7468,7 @@
     "title": "Weight Watcher 1 Point Banana Bread--Flex Points",
     "ingredients": [
       "banana",
-      "sugar substitute",
+      "sugar",
       "flour",
       "flour",
       "salt",
@@ -7597,7 +7597,7 @@
     "title": "Neapolitan Cheesecake and Coconut Whipped Cream",
     "ingredients": [
       "pitted dates",
-      "uncoconut",
+      "coconut",
       "salt",
       "coconut oil",
       "cashew",
@@ -7898,7 +7898,7 @@
     "ingredients": [
       "flour",
       "water",
-      "dry yeast",
+      "yeast",
       "water",
       "flour",
       "flour",
@@ -8052,7 +8052,7 @@
     "title": "Green & Yellow Squash 'linguini' W/ Shrimp Scampi",
     "ingredients": [
       "green zucchini",
-      "large shrimp",
+      "shrimp",
       "olive oil",
       "clove",
       "wine",
@@ -8104,7 +8104,7 @@
       "olive oil",
       "baking powder",
       "salt",
-      "sugar substitute",
+      "sugar",
       "flour",
       "flax seed",
       "sunflower seed",
@@ -8309,7 +8309,7 @@
     "ingredients": [
       "prosciutto",
       "egg",
-      "red capsicums",
+      "capsicums",
       "onion",
       "cracked pepper"
     ],
@@ -8380,8 +8380,8 @@
       "pepper",
       "milk",
       "old fashioned oats",
-      "sugar substitute",
-      "plain fat-free yogurt"
+      "sugar",
+      "yogurt"
     ],
     "direction": [
       "Spray an 8X8 baking pan.",
@@ -8479,7 +8479,7 @@
     "title": "Ww  2 Points - Caramel Apple Salad",
     "ingredients": [
       "fat-free cool whip",
-      "apples",
+      "apple",
       "pineapple tidbits",
       "sugar-free instant butterscotch pudding mix",
       "peanuts"
@@ -8497,7 +8497,7 @@
     "title": "Creamy Shrimp Cauliflower Risotto",
     "ingredients": [
       "butter",
-      "medium shrimp",
+      "shrimp",
       "rice",
       "shallots",
       "clove",
@@ -8528,7 +8528,7 @@
       "shallots",
       "red chile",
       "egg",
-      "skim milk",
+      "milk",
       "coriander"
     ],
     "direction": [
@@ -8599,14 +8599,14 @@
     "id": 346,
     "title": "Garlic Soup That Cures What Ails You (Aka Hangover Soup)",
     "ingredients": [
-      "heads of garlic",
+      "cheese",
       "clove",
       "dried sage",
       "dried leaf thyme",
       "parsley",
       "pepper",
       "tomato juice",
-      "alphabet pasta",
+      "pasta",
       "Garlic Bread Cro\u00fbtes",
       "cheddar cheese",
       "parsley",
@@ -8655,7 +8655,7 @@
       "water",
       "hazelnuts",
       "egg",
-      "gruyere cheese",
+      "cheese",
       "butter lettuce",
       "tomato",
       "shallot",
@@ -8815,7 +8815,7 @@
       "olive oil",
       "salt",
       "lemon",
-      "orange, juice and zest of",
+      "orange",
       "honey",
       "avocado",
       " blueberries"
@@ -8894,7 +8894,7 @@
       "crisp bacon",
       "avocado",
       "chives",
-      "blue cheese",
+      "cheese",
       "water",
       "sugar",
       "salt",
@@ -8955,7 +8955,7 @@
       "garlic",
       "olive oil",
       "barley",
-      "stewed tomato",
+      "tomato",
       "chicken broth",
       "water",
       "bay leaf",
@@ -9530,7 +9530,7 @@
     "ingredients": [
       "cashew",
       "pista",
-      "dry coconut powder",
+      "coconut powder",
       "sugar",
       "cardamom pods",
       "ghee",
@@ -9689,7 +9689,7 @@
     "ingredients": [
       "milk",
       "flour",
-      "self-rising flour",
+      "flour",
       "ghee",
       "sugar",
       "water",
@@ -9773,8 +9773,8 @@
     "title": "Pumpkin Chutney",
     "ingredients": [
       "pumpkin flesh",
-      "apples",
-      "red chilies",
+      "apple",
+      "chilies",
       "mustard seed",
       "vinegar",
       "sugar",
@@ -10041,7 +10041,7 @@
       "onion",
       "egg",
       "yogurt",
-      "plain flour",
+      "flour",
       "baking powder",
       "salt",
       "butter",
@@ -10264,7 +10264,7 @@
     "title": "Pani Puri",
     "ingredients": [
       "semolina",
-      "refined flour",
+      "flour",
       "baking powder",
       "water",
       "salt",
@@ -10473,7 +10473,7 @@
       "cumin seed",
       "onion",
       "clove",
-      "black salt",
+      "salt",
       "sugar",
       "turmeric",
       "mango powder",
@@ -10533,7 +10533,7 @@
       "clove",
       "water",
       "water",
-      "stewing beef",
+      "beef",
       "cardamom pods",
       "bay lettuce",
       "clove",
@@ -10713,7 +10713,7 @@
     "ingredients": [
       "dark soy sauce",
       "olive oil",
-      "dark sugar",
+      "sugar",
       "clove",
       "ginger",
       "five-spice powder",
@@ -10948,7 +10948,7 @@
       "chili powder",
       "turmeric",
       "garam masala",
-      "soft sugar",
+      "sugar",
       "tomato",
       "tomato",
       "chicken",
@@ -11368,14 +11368,14 @@
     "title": "Jim Lahey\u2019s No-Knead Pizza Margherita",
     "ingredients": [
       "flour",
-      "instant yeast",
+      "yeast",
       "salt",
       "water",
       "tomato",
       "salt",
       "olive oil",
       "tomato sauce",
-      "buffalo mozzarella",
+      "mozzarella",
       "basil",
       "olive oil",
       "salt"
@@ -11393,7 +11393,7 @@
     "id": 444,
     "title": "Pasta Alla Cacio E Pepe",
     "ingredients": [
-      "pecorino cheese",
+      "cheese",
       "spaghetti",
       "salt",
       "heavy cream",
@@ -11456,7 +11456,7 @@
       "pepper",
       "tomato",
       "cannellini beans",
-      "small shell pasta",
+      "pasta",
       "parsley",
       "parmesan cheese"
     ],
@@ -11693,7 +11693,7 @@
       "chicken broth",
       "mozzarella",
       "parmesan cheese",
-      "angel hair pasta"
+      "pasta"
     ],
     "direction": [
       "Flatten chicken breasts with a mallet to 1/4\" thick.",
@@ -12074,8 +12074,8 @@
       "shallot",
       "celery",
       "wine",
-      "risotto rice",
-      "risotto rice",
+      "rice",
+      "rice",
       "peas",
       "butter",
       "heavy cream",
@@ -12118,7 +12118,7 @@
       "butter",
       "lemon juice",
       "heavy cream",
-      "pecorino cheese",
+      "cheese",
       "garlic powder",
       "salt",
       "black pepper"
@@ -12256,7 +12256,7 @@
       "water",
       "yeast",
       "water",
-      "unbleached flour",
+      "flour",
       "sugar",
       "lemon",
       "orange zest",
@@ -12353,7 +12353,7 @@
       "olive oil",
       "onion",
       "coarse salt",
-      "beef chuck",
+      "beef",
       "Hungarian paprika",
       "oregano",
       "rosemary",
@@ -12656,7 +12656,7 @@
       "fennel",
       "carrot",
       "potato",
-      "shiitake mushroom",
+      "mushroom",
       "wine",
       "parsley",
       "basil",
@@ -12726,7 +12726,7 @@
       "olive oil",
       "onion",
       "hot pepper",
-      "Italian tomato",
+      "tomato",
       "salt",
       "pasta",
       "butter",
@@ -12885,7 +12885,7 @@
       "onion",
       "salt",
       "black pepper",
-      "camembert cheese"
+      "cheese"
     ],
     "direction": [
       "(I find it best to slice up the entire baguette (long French loaf) because if you use only what you need, the rest of the loaf goes stale. Bake the bread, cool the slices you don't use, and keep in a plastic bag to use again -- can be heated up again).",
@@ -12917,9 +12917,9 @@
       "clove",
       "creme fraiche",
       "milk",
-      "pecorino cheese",
+      "cheese",
       "parmesan cheese",
-      "asiago cheese",
+      "cheese",
       "fettuccine pasta",
       "basil leaf"
     ],
@@ -13061,7 +13061,7 @@
       "sugar",
       "marsala",
       "sugar",
-      "mascarpone cheese",
+      "cheese",
       "brandy",
       "vanilla",
       "Savoiardi cookies",
@@ -13191,7 +13191,7 @@
       "olive oil",
       "garlic",
       "onion",
-      "head of cabbage",
+      "cabbage",
       "zucchini",
       "carrot",
       "celery",
@@ -13308,7 +13308,7 @@
     "id": 513,
     "title": "Ravioli (Dough and Choice of 4 Fillings)",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "salt",
       "egg",
       "water",
@@ -13428,7 +13428,7 @@
     "title": "Easy Stracciatella Italian Soup",
     "ingredients": [
       "chicken broth",
-      "orzo pasta",
+      "pasta",
       "spinach",
       "egg",
       "cheese"
@@ -13739,7 +13739,7 @@
       "basil",
       "water",
       "coconut milk",
-      "medium shrimp",
+      "shrimp",
       "lemon"
     ],
     "direction": [
@@ -13753,12 +13753,12 @@
     "title": "My O My.. Best Thai Beef Salad Ever!",
     "ingredients": [
       "onion",
-      "kaffir lemon lettuce",
-      "red chilies",
+      "lemon lettuce",
+      "chilies",
       "cilantro leaf",
       "mint leaf",
       "basil",
-      "soya sauce",
+      "soy sauce",
       "fish sauce",
       "lemon juice",
       "sugar"
@@ -13783,7 +13783,7 @@
       "chicken",
       "tomato",
       "lemongrass",
-      "kaffir lemon lettuce",
+      "lemon lettuce",
       "cilantro",
       "lemon juice",
       "fish sauce",
@@ -13891,7 +13891,7 @@
     "id": 533,
     "title": "Thai Coconut Rice",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "coconut milk",
       "water",
       "salt",
@@ -14129,7 +14129,7 @@
     "id": 542,
     "title": "Baked Beef Brisket in Wine",
     "ingredients": [
-      "beef brisket",
+      "beef",
       "onion",
       "red wine",
       "vinegar",
@@ -14158,7 +14158,7 @@
       "onion",
       "spring onion",
       "lemongrass",
-      "kaffir lemon leaf",
+      "lemon leaf",
       "lemon juice",
       "fish sauce",
       "mint leaf",
@@ -14180,11 +14180,11 @@
     "id": 544,
     "title": "Tiger Cries Salad  (a Spicy Thai Beef Salad)",
     "ingredients": [
-      "beef sirloin steaks",
+      "beef",
       "white pepper",
       "fish sauce",
       "lemon juice",
-      "palm sugar",
+      "sugar",
       "garlic",
       "sugar",
       "lemon juice",
@@ -14196,10 +14196,10 @@
       "onion",
       "scallions",
       "cucumber",
-      "grape tomato",
+      "tomato",
       "lemon",
       "mint leaf",
-      "sticky rice"
+      "rice"
     ],
     "direction": [
       "prepare a batch of thai sticky rice (aka thai sweet rice) to serve with this salad.",
@@ -14232,7 +14232,7 @@
     "id": 545,
     "title": "Thai Red Rice Pudding",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "sugar",
       "salt",
       "rose water",
@@ -14260,7 +14260,7 @@
     "ingredients": [
       "beef",
       "ginger",
-      "red chilies",
+      "chilies",
       "coconut milk",
       "garlic",
       "lemongrass",
@@ -14285,7 +14285,7 @@
     "id": 547,
     "title": "Thai Black Rice Pudding",
     "ingredients": [
-      "black rice",
+      "rice",
       "salt",
       "sugar",
       "water",
@@ -14340,7 +14340,7 @@
       "sugar",
       "salt",
       "lemon juice",
-      "angel hair pasta",
+      "pasta",
       "shallot",
       "cilantro",
       "onion"
@@ -14366,7 +14366,7 @@
       "coriander powder",
       "cumin",
       "white pepper",
-      "kaffir lemon",
+      "lemon",
       "shrimp paste",
       "salt"
     ],
@@ -14387,7 +14387,7 @@
       "romaine lettuce",
       "garlic",
       "lemongrass",
-      "palm sugar",
+      "sugar",
       "fish sauce",
       "lemon juice"
     ],
@@ -14415,7 +14415,7 @@
       "olive oil",
       "clove",
       "onion",
-      "palm sugar",
+      "sugar",
       "oyster sauce",
       "fish sauce",
       "soy sauce",
@@ -14577,7 +14577,7 @@
     "id": 558,
     "title": "Bangkok Style Chicken Pad Thai",
     "ingredients": [
-      "salted peanuts",
+      "peanuts",
       "lemon",
       "fish sauce",
       "lemon juice",
@@ -14630,7 +14630,7 @@
       "tapioca flour",
       "salt",
       "coconut cream",
-      "palm sugar",
+      "sugar",
       "coconut",
       "coconut cream"
     ],
@@ -14645,7 +14645,7 @@
     "title": "Tender Thai Chicken with Basil",
     "ingredients": [
       "salt",
-      "shiitake mushroom",
+      "mushroom",
       "clove",
       "hot pepper",
       "lemon",
@@ -14749,7 +14749,7 @@
     "ingredients": [
       "cabbage",
       "cabbage",
-      "napa cabbage",
+      "cabbage",
       "onion",
       "bell pepper",
       "carrot",
@@ -14919,7 +14919,7 @@
     "ingredients": [
       "vegetable broth",
       "lemongrass",
-      "kaffir lemon lettuce",
+      "lemon lettuce",
       "garlic",
       "ginger",
       "mushroom",
@@ -14949,7 +14949,7 @@
     "title": "Slow Cooker/Crock Pot Massaman Curry",
     "ingredients": [
       "onion",
-      "beef brisket",
+      "beef",
       "salt",
       "coconut cream",
       "curry paste",
@@ -14958,7 +14958,7 @@
       "bay lettuce",
       "potato",
       "fish sauce",
-      "palm sugar",
+      "sugar",
       "tamarind paste",
       "peanuts"
     ],
@@ -15016,7 +15016,7 @@
       "white pepper",
       "garlic",
       "lemongrass",
-      "kaffir lemon",
+      "lemon",
       "galangal",
       "salt",
       "shrimp paste"
@@ -15037,7 +15037,7 @@
       "chicken",
       "mushroom",
       "lemongrass",
-      "kaffir lemon lettuce",
+      "lemon lettuce",
       "ginger",
       "fish sauce",
       "chilies",
@@ -15069,7 +15069,7 @@
       "chicken broth",
       "chicken",
       "fish sauce",
-      "palm sugar",
+      "sugar",
       "onion"
     ],
     "direction": [
@@ -15130,7 +15130,7 @@
       "peanut butter",
       "lemon",
       "fish sauce",
-      "dark sugar",
+      "sugar",
       "shrimp",
       "tomato",
       "beans sprouts",
@@ -15154,7 +15154,7 @@
       "onion",
       "Crock Pot Machaca Burrito Meat",
       "egg",
-      "grape tomato",
+      "tomato",
       "mozzarella",
       "tortillas"
     ],
@@ -15333,7 +15333,7 @@
     "title": "Chilaquiles with Chicken",
     "ingredients": [
       "corn tortilla strips",
-      "chihuahua cheese",
+      "cheese",
       "sour cream"
     ],
     "direction": [
@@ -15380,7 +15380,7 @@
       "beef",
       "bacon",
       "water",
-      "beef bouillon granules",
+      "beef",
       "chicken",
       "tomato sauce",
       "mushroom",
@@ -15523,7 +15523,7 @@
       "clove",
       "onion",
       "salt",
-      "Italian tomato",
+      "tomato",
       "clove",
       "onion",
       "olive oil",
@@ -15586,7 +15586,7 @@
       "cumin",
       "chicken",
       "flour tortillas",
-      "colby-cheese"
+      "cheese"
     ],
     "direction": [
       "Add oil and spices to a large one gallon bag.  Mix thoroughly.  Add chicken.  Squoosh around to coat the chicken evenly.  Yup, technical term, \"squoosh\".  If you can, stick this in the fridge overnight.  If not, don't sweat over it.",
@@ -15651,7 +15651,7 @@
       "water",
       "salt",
       "tortillas",
-      "hard-boiled egg",
+      "egg",
       "tomato",
       "habanero pepper",
       "onion",
@@ -15703,7 +15703,7 @@
       "cilantro lettuce",
       "habanero pepper",
       "onion",
-      "seville oranges",
+      "seville orange",
       "tomato",
       "lemon",
       "cilantro lettuce",
@@ -15759,11 +15759,11 @@
     "title": "Mexican Tamales",
     "ingredients": [
       "dried ancho chiles",
-      "bulb of garlic",
+      "garlic",
       "cumin",
       "water",
       "tomato paste",
-      "masa harina flour",
+      "flour",
       "baking powder",
       "salt",
       "vegetable shortening",
@@ -15850,7 +15850,7 @@
     "id": 607,
     "title": "Yucatan Marinade",
     "ingredients": [
-      "oranges",
+      "orange",
       "lemon",
       "clove",
       "jalapeno chile",
@@ -16003,7 +16003,7 @@
       "cinnamon stick",
       "vanilla",
       "sugar",
-      "orange, zest of"
+      "orange"
     ],
     "direction": [
       "In a medium-sized pot, mix all the ingredients but the chocolate.",
@@ -16027,7 +16027,7 @@
       "chicken",
       "cilantro",
       "baking powder",
-      "masa harina flour",
+      "flour",
       "chicken broth"
     ],
     "direction": [
@@ -16045,10 +16045,10 @@
     "id": 615,
     "title": "Beef Machaca",
     "ingredients": [
-      "beef chuck roast",
+      "beef",
       "onion",
       "chilies",
-      "beef bouillon cubes",
+      "beef",
       "dry mustard",
       "garlic",
       "adobo seasoning",
@@ -16075,7 +16075,7 @@
       "clove",
       "red wine vinegar",
       "sugar",
-      "Italian tomato",
+      "tomato",
       "clove",
       "paprika",
       "cayenne",
@@ -16097,7 +16097,7 @@
     "id": 617,
     "title": "Barbacoa",
     "ingredients": [
-      "beef roast",
+      "beef",
       "bay lettuce",
       "plums",
       "dried ancho chiles",
@@ -16421,7 +16421,7 @@
     "id": 628,
     "title": "Corn Tortillas",
     "ingredients": [
-      "masa harina flour",
+      "flour",
       "water",
       "salt"
     ],
@@ -16511,7 +16511,7 @@
     "title": "Oaxacan Wedding Cake",
     "ingredients": [
       "butter",
-      "unbleached flour",
+      "flour",
       "baking powder",
       "salt",
       "sugar",
@@ -16519,7 +16519,7 @@
       "milk",
       "vanilla extract",
       "powdered sugar",
-      "espresso coffee",
+      "coffee",
       "vanilla extract",
       "strawberries",
       "sugar",
@@ -17059,7 +17059,7 @@
     "id": 654,
     "title": "Kimchi or Kimchee",
     "ingredients": [
-      "napa cabbage",
+      "cabbage",
       "daikon radishes",
       "salt",
       "water",
@@ -17145,7 +17145,7 @@
       "water",
       "soy sauce",
       "ginger",
-      "shiitake mushroom",
+      "mushroom",
       "tofu",
       "baby bok choy",
       "scallions",
@@ -17165,7 +17165,7 @@
     "title": "Chapchae (Noodles With Beef and Mixed Vegetables)",
     "ingredients": [
       "cornstarch",
-      "beef eye round",
+      "beef",
       "soy sauce",
       "ginger",
       "sambal oelek",
@@ -17364,7 +17364,7 @@
       "clove",
       "ginger",
       "beef",
-      "short-grain rice",
+      "rice",
       "egg",
       "zucchini",
       "mushroom",
@@ -17473,7 +17473,7 @@
       "sugar",
       "salt",
       "black pepper",
-      "shiitake mushroom",
+      "mushroom",
       "onion",
       "silken tofu",
       "water",
@@ -17513,7 +17513,7 @@
     "id": 672,
     "title": "Homemade Thousand Island Dressing over Iceberg Lettuce",
     "ingredients": [
-      "hard-boiled egg",
+      "egg",
       "mayonnaise",
       "catsup",
       "salt",
@@ -17628,7 +17628,7 @@
       "onion",
       "leek",
       "carrot",
-      "hard-boiled egg",
+      "egg",
       "water",
       "sesame seed",
       "cheese",
@@ -17672,7 +17672,7 @@
     "id": 679,
     "title": "Kimchi Salad Aka Quick Kimchi",
     "ingredients": [
-      "napa cabbage",
+      "cabbage",
       "clove",
       "water",
       "distilled vinegar",
@@ -17771,7 +17771,7 @@
       "bell pepper",
       "carrot",
       "salt",
-      "jumbo egg yolks",
+      "egg",
       "soy sauce",
       "garlic",
       "honey",
@@ -17795,7 +17795,7 @@
     "ingredients": [
       "black sesame seed",
       "coconut milk",
-      "palm sugar",
+      "sugar",
       "salt",
       "cornstarch"
     ],
@@ -17898,7 +17898,7 @@
     "id": 689,
     "title": "Minado's Perfect Sushi Rice",
     "ingredients": [
-      "sushi rice",
+      "rice",
       "water",
       "vinegar",
       "sugar",
@@ -18080,7 +18080,7 @@
       "tomato juice",
       "bay leaf",
       "water",
-      "beef bouillon cubes",
+      "beef",
       "clove",
       "onion",
       "Worcestershire sauce",
@@ -18208,7 +18208,7 @@
     "id": 699,
     "title": "Onigiri (Japanese Rice Balls)",
     "ingredients": [
-      "short-grain rice",
+      "rice",
       "umeboshi",
       "nori",
       "salt"
@@ -18229,7 +18229,7 @@
     "id": 700,
     "title": "Sushi Rice",
     "ingredients": [
-      "sushi rice",
+      "rice",
       "water",
       "lemon juice",
       "vinegar",
@@ -18307,7 +18307,7 @@
     "id": 703,
     "title": "3-Ingredient Sushi Rice",
     "ingredients": [
-      "sushi rice",
+      "rice",
       "water",
       "seasoned vinegar"
     ],
@@ -18418,7 +18418,7 @@
     "id": 707,
     "title": "Perfect Sushi Rice",
     "ingredients": [
-      "sushi rice",
+      "rice",
       "water",
       "vinegar",
       "sugar",
@@ -18552,7 +18552,7 @@
     "id": 713,
     "title": "Perfect Sticky Sushi Rice",
     "ingredients": [
-      "sushi rice",
+      "rice",
       "water",
       "vinegar",
       "sugar",
@@ -18572,16 +18572,16 @@
     "id": 714,
     "title": "Sukiyaki",
     "ingredients": [
-      "beef sirloin steak",
+      "beef",
       "sugar",
       "celery",
       "onion",
       "beans sprouts",
       "onion",
-      "angel hair pasta",
+      "pasta",
       "mushroom",
       "tofu",
-      "Chinese cabbage",
+      "cabbage",
       "soy sauce",
       "sherry wine",
       "water",
@@ -18764,7 +18764,7 @@
       "salt",
       "pepper",
       "nori",
-      "steamed rice"
+      "rice"
     ],
     "direction": [
       "Slice the pork luncheon meat about 1-2 centimeter thick. The number of slices will depend on how many rice balls you would want to make.",
@@ -19018,7 +19018,7 @@
     "id": 732,
     "title": "Japanese Teriyaki Sauce",
     "ingredients": [
-      "soya sauce",
+      "soy sauce",
       "mirin",
       "sugar",
       "ginger",
@@ -19148,7 +19148,7 @@
       "gingerroot",
       "clove",
       "cornflour",
-      "plain flour",
+      "flour",
       "lemon"
     ],
     "direction": [
@@ -19187,7 +19187,7 @@
       "rice wine",
       "sugar",
       "onion",
-      "napa cabbage",
+      "cabbage",
       "carrot",
       "ginger",
       "scallions"
@@ -19284,7 +19284,7 @@
     "id": 743,
     "title": "Traditional Coq Au Vin",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "chicken",
       "salt",
       "black pepper",
@@ -19323,9 +19323,9 @@
       "egg",
       "white bread flour",
       "salt",
-      "caster sugar",
+      "sugar",
       "butter",
-      "dried yeast",
+      "yeast",
       "butter",
       "egg",
       "milk"
@@ -19415,7 +19415,7 @@
       "onion",
       "salt",
       "flour",
-      "beef broth",
+      "beef",
       "red wine",
       "brandy",
       "bay leaf",
@@ -19423,7 +19423,7 @@
       "black pepper",
       "olive oil",
       "garlic powder",
-      "gruyere cheese"
+      "cheese"
     ],
     "direction": [
       "SOUP: In dutch oven, melt butter over medium heat. Add onions and salt, cover and cook until softened, stirring occasionally about 15 minutes. Uncover and cook until caramelized, about 30 minutes more.",
@@ -19657,7 +19657,7 @@
     "title": "Authentic Original Traditional Swiss Fondue (Old World Recipe)",
     "ingredients": [
       "gruyere",
-      "Appenzeller cheese",
+      "cheese",
       "flour",
       "clove",
       "wine",
@@ -19830,7 +19830,7 @@
       "salt",
       " sage",
       "croutons",
-      "gruyere cheese"
+      "cheese"
     ],
     "direction": [
       "Heat the olive oil in a large skillet over high heat.",
@@ -19859,7 +19859,7 @@
       "mixed herbs",
       "olive oil",
       "shallots",
-      "plain flour",
+      "flour",
       "tomato paste",
       "mushroom",
       "orange zest",
@@ -19945,7 +19945,7 @@
       "salt",
       "flour",
       "wine",
-      "swiss cheese",
+      "cheese",
       "parmesan cheese",
       "onion",
       "cognac",
@@ -20110,7 +20110,7 @@
     "title": "Petit Sale Aux Lentilles Vertes",
     "ingredients": [
       "smoked ham hock",
-      "smoked sausage",
+      "sausage",
       "green lentils",
       "celery ribs",
       "carrot",
@@ -20272,7 +20272,7 @@
       "olive oil",
       "salt",
       "black pepper",
-      "hard-boiled egg",
+      "egg",
       "tuna",
       "tomato",
       "pitted black olive",
@@ -20371,7 +20371,7 @@
     "title": "Melted Cheese With Potatoes and Pickles (Raclette)",
     "ingredients": [
       "cheese",
-      "tiny new potato"
+      "tiny  potato"
     ],
     "direction": [
       "Preheat the oven to 500* for at least 15 minutes. Heat four 10-inch ovenproof dinner plates in the oven for 3 to 5 minutes. To ensure the success of the raclette, the plates must be very hot.",
@@ -20519,7 +20519,7 @@
       "thyme",
       "garlic powder",
       "paprika",
-      "beef broth",
+      "beef",
       "chicken broth",
       "butter",
       "shallot",
@@ -20584,8 +20584,8 @@
       "salt",
       "butter",
       "egg",
-      "granny smith apples",
-      "apples",
+      "granny smith apple",
+      "apple",
       "butter",
       "sugar",
       "lemon",
@@ -20733,8 +20733,8 @@
       "lettuce",
       "string beans",
       "tomato",
-      "hard-boiled egg",
-      "tuna in water"
+      "egg",
+      "tuna"
     ],
     "direction": [
       "Mix together the olive oil, vinegar and minced garlic in a small bowl.",
@@ -20790,7 +20790,7 @@
       "water",
       "water",
       "flour",
-      "gruyere cheese",
+      "cheese",
       "egg"
     ],
     "direction": [
@@ -20903,11 +20903,11 @@
     "ingredients": [
       "yeast",
       "egg",
-      "unbleached flour",
+      "flour",
       "sugar",
       "salt",
       "egg",
-      "unbleached flour",
+      "flour",
       "butter"
     ],
     "direction": [
@@ -20957,7 +20957,7 @@
     "title": "Quiche Lorraine",
     "ingredients": [
       "bacon",
-      "swiss cheese",
+      "cheese",
       "onion",
       "egg",
       "salt",
@@ -21090,7 +21090,7 @@
     "title": "Pissaladiere (Provencal Onion Tart)",
     "ingredients": [
       "bread flour",
-      "instant yeast",
+      "yeast",
       "salt",
       "olive oil",
       "water",
@@ -21166,7 +21166,7 @@
       "lemon juice",
       "salt",
       "black pepper",
-      "gruyere cheese",
+      "cheese",
       "panko breadcrumbs"
     ],
     "direction": [
@@ -21183,7 +21183,7 @@
     "id": 807,
     "title": "Spaetzle (noodles)",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "egg",
       "salt",
       "water",
@@ -21262,7 +21262,7 @@
       "olive oil",
       "onion",
       "pepper",
-      "red ripe tomato",
+      "tomato",
       "clove",
       "bay leaf",
       "thyme sprigs",
@@ -21597,7 +21597,7 @@
       "red wine vinegar",
       "salt",
       "ground pepper",
-      "hard-boiled egg",
+      "egg",
       "bacon",
       "olive oil"
     ],
@@ -21844,7 +21844,7 @@
       "shallots",
       "butter",
       "clove",
-      "long grain rice",
+      "rice",
       "chicken broth",
       "salt",
       "turmeric",
@@ -21864,7 +21864,7 @@
     "title": "Arroz Con Costra (Crusty Rice With Pork and Chicken)",
     "ingredients": [
       "olive oil",
-      "long grain rice",
+      "rice",
       "chicken",
       "chickpeas",
       "clove",
@@ -21891,7 +21891,7 @@
     "title": "Stuffed Piquillo Peppers",
     "ingredients": [
       "water",
-      "long grain rice",
+      "rice",
       "saffron",
       "clove",
       "parsley",
@@ -21938,7 +21938,7 @@
     "id": 838,
     "title": "Ensalada Valenciana",
     "ingredients": [
-      "oranges",
+      "orange",
       "onion",
       "olive oil",
       "red wine vinegar",
@@ -21985,13 +21985,13 @@
     "id": 840,
     "title": "Spanish Roscon De Reyes - Twelfth Night Bread",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "salt",
       "milk",
       "butter",
       "sugar",
       "lemon",
-      "orange, rind of",
+      "orange",
       "egg",
       "brandy",
       "water"
@@ -22053,7 +22053,7 @@
     "title": "Gratin Coliflor - Spanish Cauliflower Gratinada",
     "ingredients": [
       "cauliflower",
-      "hard-boiled egg",
+      "egg",
       "parsley",
       "parmesan cheese",
       "butter",
@@ -22248,7 +22248,7 @@
     "id": 850,
     "title": "Wrinkled Potatoes (Papas Arrugadas)",
     "ingredients": [
-      "new potato",
+      " potato",
       "salt"
     ],
     "direction": [
@@ -22274,7 +22274,7 @@
       "mustard",
       "lemon",
       "wine",
-      "grape tomato",
+      "tomato",
       "salt",
       "pepper",
       "parsley"
@@ -22320,7 +22320,7 @@
       "manchego cheese",
       "walnut",
       "tomato",
-      "Spanish olive oil",
+      "olive oil",
       "rosemary",
       "black pepper",
       "salt"
@@ -22755,8 +22755,8 @@
     "id": 871,
     "title": "Cuban Ropa Vieja",
     "ingredients": [
-      "beef flank steak",
-      "beef broth",
+      "beef",
+      "beef",
       "tomato sauce",
       "onion",
       "bell pepper",
@@ -23230,7 +23230,7 @@
       "water",
       "spinach",
       "carrot",
-      "hard-boiled egg",
+      "egg",
       "onion",
       "parsley",
       "black pepper",
@@ -23281,7 +23281,7 @@
       "palm oil",
       "fish sauce",
       "cilantro",
-      "hard-boiled egg"
+      "egg"
     ],
     "direction": [
       "Set eggs on to boil.",
@@ -23554,7 +23554,7 @@
     "title": "Sancocho Quiteno - Ecuadorian Beef and Vegetable Soup",
     "ingredients": [
       "water",
-      "beef chuck",
+      "beef",
       "clove",
       "pepper",
       "cumin",
@@ -23585,7 +23585,7 @@
     "id": 903,
     "title": "Hilachas (Guatemalan Shredded Beef in Tomato-Tomatillo Sauce)",
     "ingredients": [
-      "beef flank steak",
+      "beef",
       "water",
       "onion",
       "tomato",
@@ -23778,7 +23778,7 @@
       " green pea",
       "chopped pimiento",
       "lemon",
-      "long grain rice",
+      "rice",
       "chicken broth",
       "mild paprika",
       "Hellmann's mayonnaise",
@@ -24020,7 +24020,7 @@
       "scallions",
       "panko breadcrumbs",
       "beef",
-      "dark sugar",
+      "sugar",
       "soy sauce",
       "hoisin sauce",
       "garlic",
@@ -24127,7 +24127,7 @@
       "cornstarch",
       "garlic powder",
       "pepper",
-      "medium shrimp",
+      "shrimp",
       "butter",
       "salt",
       "pepper"
@@ -24382,7 +24382,7 @@
     "ingredients": [
       "hoisin sauce",
       "soy sauce",
-      "dark sugar",
+      "sugar",
       "vinegar",
       "ketchup",
       "sriracha sauce",
@@ -24545,7 +24545,7 @@
       "ginger",
       "onion",
       "oyster sauce",
-      "soya sauce"
+      "soy sauce"
     ],
     "direction": [
       "Put noodles in 4 cups of salted boiling water.  Cook 1-2 minutes.  Stir occasionally.",
@@ -24618,7 +24618,7 @@
     "id": 938,
     "title": "Hainanese Chicken Rice",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "chicken",
       "water",
       "ginger",
@@ -24630,7 +24630,7 @@
       "ginger",
       "clove",
       "salt",
-      "red chilies",
+      "chilies",
       "ginger",
       "clove",
       "salt",
@@ -24640,7 +24640,7 @@
       "salt",
       "lemon juice",
       "garlic oil",
-      "soya sauce",
+      "soy sauce",
       "sugar",
       "chicken broth",
       "coriander",
@@ -24762,7 +24762,7 @@
       "oyster sauce",
       "soy sauce",
       "black pepper",
-      "shiitake mushroom",
+      "mushroom",
       "scallions",
       "black pepper"
     ],
@@ -24817,7 +24817,7 @@
     "title": "Vegan Mapo Tofu",
     "ingredients": [
       "tofu",
-      "shiitake mushroom",
+      "mushroom",
       "vegetable broth",
       "chili beans paste",
       "fermented black beans",
@@ -24878,7 +24878,7 @@
     "id": 946,
     "title": "Chicken Lo Mein",
     "ingredients": [
-      "instant chicken",
+      "chicken",
       "water",
       "chicken",
       "wine",
@@ -25355,7 +25355,7 @@
       "salt",
       "black pepper",
       "ginger",
-      "napa cabbage",
+      "cabbage",
       "black vinegar",
       "soy sauce",
       "ginger"
@@ -25572,7 +25572,7 @@
       "olive oil",
       "lemon",
       "salt",
-      "large shrimp",
+      "shrimp",
       "wonton wrappers",
       "canola oil",
       "mango",
@@ -25606,7 +25606,7 @@
       "egg",
       "panko breadcrumbs",
       "mayonnaise",
-      "blue cheese",
+      "cheese",
       "Worcestershire sauce",
       "salt",
       "lemon",
@@ -25620,29 +25620,6 @@
       "To make the dip, combine all ingredients in a large bowl and adjust the seasoning if necessary. Serve the chicken alongside the dipping sauce."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/35/24/25/sRnEB7oRfCMhC3ZyNI7A_0S9A2216.jpg"
-  },
-  {
-    "id": 975,
-    "title": "Pizza Meatloaf Cups",
-    "ingredients": [
-      "egg",
-      "beef",
-      "mozzarella"
-    ],
-    "direction": [
-      "In a bowl, combine the egg, pizza sauce, bread crumbs and Italian seasoning.",
-      "Fold beef into mixture and mix well.",
-      "Divide meat mixture into 12 greased muffin cups.",
-      "Press mixture into bottom and up the sides.",
-      "Fill center with cheese.",
-      "Bake at 375\u00b0F for 15-18 minutes or until meat is no longer pink.",
-      "Serve immediately with additional pizza sauce and cheese if desired.",
-      "Or cool, place in freezer bags and freeze for up to 3 months.",
-      "Thaw in the refrigerator for 24 hours.",
-      "Heat in microwave on  high for 2-3 minutes or until heated through.",
-      "Top with additional pizza sauce and cheese if desired."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/32/06/58/uIVLPeQZRb6heOydsVi4_PIZZA1%2520(1%2520of%25201).jpg"
   },
   {
     "id": 976,
@@ -25870,7 +25847,7 @@
       "ground pepper",
       "garlic",
       "parmesan cheese",
-      "mild onion",
+      "onion",
       "green leaf lettuce",
       "tomato",
       "queso ranchero",
@@ -25960,7 +25937,7 @@
       "water-packed artichoke hearts",
       "spinach",
       "mozzarella",
-      "feta cheese",
+      "cheese",
       "bell pepper",
       "mayonnaise",
       "clove",
@@ -26114,7 +26091,7 @@
     "ingredients": [
       "rice",
       "mozzarella",
-      "plain flour",
+      "flour",
       "tomato paste",
       "basil",
       "tomato",
@@ -26214,7 +26191,7 @@
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
       "chicken",
-      "blue cheese",
+      "cheese",
       "butter",
       "celery ribs",
       " chives",
@@ -26297,7 +26274,7 @@
       "sauerkraut",
       "cream cheese",
       "parsley",
-      "prepared mustard",
+      "mustard",
       "pepper",
       "flour",
       "egg",
@@ -26379,7 +26356,7 @@
     "id": 1008,
     "title": "Texas Best Cheese Dip (Chile Con Queso)",
     "ingredients": [
-      "Velveeta Mexican cheese",
+      "cheese",
       "cream cheese",
       " tomato",
       "onion",
@@ -26459,7 +26436,7 @@
     "title": "Grilled Stuffed Jalapenos",
     "ingredients": [
       "cream cheese",
-      "extra-cheddar cheese",
+      "cheddar cheese",
       "onion",
       "lemon juice",
       "salt",
@@ -26567,9 +26544,9 @@
     "id": 1016,
     "title": "Goi Cuon (Vietnamese Cold Spring Rolls)",
     "ingredients": [
-      "rice paper sheet",
+      "rice",
       "chicken",
-      "small shrimp",
+      "shrimp",
       "cilantro lettuce",
       " mint lettuce",
       "lettuce",
@@ -26679,7 +26656,7 @@
       "leek",
       "onion",
       "dill",
-      "feta cheese",
+      "cheese",
       "egg"
     ],
     "direction": [
@@ -26831,7 +26808,7 @@
       "zucchini",
       "egg",
       "cheese",
-      "self rising flour"
+      "flour"
     ],
     "direction": [
       "Heat the oil in a large pan and saut\u00c3\u00a9 onion until translucent. Add the bacon and fry until it starts to colour.  Add the carrot and zucchini and cook for about 2 minutes.",
@@ -27051,7 +27028,7 @@
     "title": "Panko Fried Oysters for Two",
     "ingredients": [
       "egg",
-      "skim milk",
+      "milk",
       "flour",
       "black pepper",
       "garlic powder",
@@ -27240,10 +27217,10 @@
     "id": 1043,
     "title": "Cheese and Herb Bites",
     "ingredients": [
-      "mascarpone cheese",
+      "cheese",
       "mixed  herbs",
       "black pepper",
-      "havarti cheese",
+      "cheese",
       "parmesan cheese"
     ],
     "direction": [
@@ -27474,7 +27451,7 @@
     "id": 1054,
     "title": "Marinated Shrimp Canapes",
     "ingredients": [
-      "medium shrimp",
+      "shrimp",
       "sour cream",
       "cucumber"
     ],
@@ -27495,7 +27472,7 @@
       "carrot",
       "beans sprouts",
       "scallions",
-      "large shrimp",
+      "shrimp",
       "soy sauce",
       "egg",
       "flour",
@@ -27564,7 +27541,7 @@
     "ingredients": [
       "wonton wrappers",
       "butter",
-      "medium shrimp",
+      "shrimp",
       "onion",
       "carrot",
       "cream cheese",
@@ -27636,7 +27613,7 @@
     "title": "Mini Smoky Bacon Wraps",
     "ingredients": [
       "bacon",
-      "dark sugar",
+      "sugar",
       "ketchup",
       "pepper"
     ],
@@ -27665,7 +27642,7 @@
       "mayonnaise",
       "ground pepper",
       "spinach",
-      "asiago cheese",
+      "cheese",
       "salt",
       "wonton wrappers",
       "water"
@@ -27908,7 +27885,7 @@
     "title": "Panko Fried Oysters for Two",
     "ingredients": [
       "egg",
-      "skim milk",
+      "milk",
       "flour",
       "black pepper",
       "garlic powder",
@@ -27989,7 +27966,7 @@
       "bell pepper",
       "clove",
       "nectarines",
-      "dark sugar",
+      "sugar",
       "cilantro"
     ],
     "direction": [
@@ -28103,7 +28080,7 @@
     "ingredients": [
       "olive oil",
       "prosciutto",
-      "grape tomato",
+      "tomato",
       "zucchini",
       "capers",
       "Italian parsley",
@@ -28252,7 +28229,7 @@
     "title": "Red Lobster Ultimate Fondue",
     "ingredients": [
       "cheese",
-      "swiss cheese",
+      "cheese",
       "milk",
       "cayenne",
       "paprika",
@@ -28293,7 +28270,7 @@
       "peanut butter",
       "lemon",
       "fish sauce",
-      "dark sugar",
+      "sugar",
       "shrimp",
       "tomato",
       "beans sprouts",
@@ -28428,7 +28405,7 @@
     "id": 1092,
     "title": "Shrimp in Coconut Caramel Sauce from Vietnamese Food Any Day",
     "ingredients": [
-      "extra-large shrimp",
+      "shrimp",
       "sugar",
       "molasses",
       "fish sauce",
@@ -28759,8 +28736,8 @@
     "id": 1106,
     "title": "Evacuation Tuna & Pasta Salad",
     "ingredients": [
-      "rotelle pasta",
-      "hard-boiled egg",
+      "pasta",
+      "egg",
       "solid white tuna",
       "cheddar cheese",
       "celery",
@@ -28904,7 +28881,7 @@
     "ingredients": [
       "salmon fillet",
       "sour cream",
-      "prepared mustard",
+      "mustard",
       "onion",
       "dried dill weed",
       "mayonnaise",
@@ -29059,7 +29036,7 @@
       "flour",
       "salt",
       "ground pepper",
-      "swiss cheese",
+      "cheese",
       "onion"
     ],
     "direction": [
@@ -29177,7 +29154,7 @@
     "id": 1126,
     "title": "Shrimp Ceviche With Avocado",
     "ingredients": [
-      "large shrimp",
+      "shrimp",
       "lump crabmeat",
       " lemon",
       "salt",
@@ -29429,7 +29406,7 @@
     "id": 1136,
     "title": "Rocket Lobster Rolls",
     "ingredients": [
-      "large shrimp",
+      "shrimp",
       "mayonnaise",
       "lemon juice",
       "celery",
@@ -29593,7 +29570,7 @@
       "cornstarch",
       "garlic powder",
       "pepper",
-      "medium shrimp",
+      "shrimp",
       "butter",
       "salt",
       "pepper"
@@ -29613,7 +29590,7 @@
       "clams",
       "lean bacon",
       "onion",
-      "raw potato",
+      "potato",
       "salt",
       "white pepper",
       "half-and-half",
@@ -29648,7 +29625,7 @@
       "parsley flakes",
       "shrimp",
       "scallops",
-      "swiss cheese",
+      "cheese",
       "parmesan cheese"
     ],
     "direction": [
@@ -29755,7 +29732,7 @@
       "onion",
       "squid",
       "saffron",
-      "short-grain rice",
+      "rice",
       "clams"
     ],
     "direction": [
@@ -29857,7 +29834,7 @@
       "salt",
       "lemon pepper",
       "tomato",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "Set oven to broiler heat.",
@@ -29882,7 +29859,7 @@
       "clove",
       "onion",
       "salt",
-      "Italian tomato",
+      "tomato",
       "clove",
       "onion",
       "olive oil",
@@ -30001,7 +29978,7 @@
       "basil",
       "water",
       "coconut milk",
-      "medium shrimp",
+      "shrimp",
       "lemon"
     ],
     "direction": [
@@ -30037,7 +30014,7 @@
       "cheddar cheese",
       "cream cheese",
       "parmesan cheese",
-      "gruyere cheese",
+      "cheese",
       "lobster meat",
       "clove",
       "shallot",
@@ -30107,16 +30084,16 @@
     "id": 1162,
     "title": "Basil Shrimp with Feta and Orzo",
     "ingredients": [
-      "orzo pasta",
+      "pasta",
       "olive oil",
       "tomato",
       "scallion",
-      "feta cheese",
+      "cheese",
       "lemon",
       "lemon juice",
       "salt",
       "ground pepper",
-      "large shrimp",
+      "shrimp",
       "basil"
     ],
     "direction": [
@@ -30218,7 +30195,7 @@
       "sugar",
       "pepper",
       "olive oil",
-      "medium shrimp"
+      "shrimp"
     ],
     "direction": [
       "In a 1 gal plastic food bag place shrimp and olive oil, toss to coat, sprinkle enough rub to coat the shrimp.",
@@ -30240,8 +30217,8 @@
       "salt",
       "water",
       "beer",
-      "smoked sausage",
-      "large shrimp"
+      "sausage",
+      "shrimp"
     ],
     "direction": [
       "In an 8-quart stock pot, bring Old Bay, salt, water and beer to a boil.",
@@ -30437,7 +30414,7 @@
       "olive oil",
       "lemon",
       "salt",
-      "large shrimp",
+      "shrimp",
       "wonton wrappers",
       "canola oil",
       "mango",
@@ -30498,7 +30475,7 @@
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
       "chicken",
-      "blue cheese",
+      "cheese",
       "butter",
       "celery ribs",
       " chives",
@@ -30553,8 +30530,8 @@
     "id": 1179,
     "title": "Evacuation Tuna & Pasta Salad",
     "ingredients": [
-      "rotelle pasta",
-      "hard-boiled egg",
+      "pasta",
+      "egg",
       "solid white tuna",
       "cheddar cheese",
       "celery",
@@ -30762,7 +30739,7 @@
     "id": 1189,
     "title": "Homemade Yellow Cake and Variations",
     "ingredients": [
-      "cake flour",
+      "flour",
       "baking powder",
       "salt",
       "sugar",
@@ -31060,7 +31037,7 @@
       "chili sauce",
       "Worcestershire sauce",
       "celery seed",
-      "prepared mustard",
+      "mustard",
       "salt",
       "chicken"
     ],
@@ -31082,7 +31059,7 @@
     "id": 1202,
     "title": "Elote Pasta Salad",
     "ingredients": [
-      "farfalle pasta",
+      "pasta",
       "scallions",
       "black beans",
       "queso fresco",
@@ -31111,12 +31088,12 @@
     "id": 1203,
     "title": "Crock Pot (Slow Cooker) French Dip Roast Beef Sandwiches",
     "ingredients": [
-      "bottom round beef roast",
+      "bottom round beef",
       "beer",
-      "beef bouillon cubes",
+      "beef",
       "black pepper",
       "salt",
-      "provolone cheese"
+      "cheese"
     ],
     "direction": [
       "Place roast in 4.5 - 6 quart slow cooker.",
@@ -31456,7 +31433,7 @@
     "title": "Incredible BLT Pasta Salad",
     "ingredients": [
       "bacon",
-      "farfalle pasta",
+      "pasta",
       "tomato",
       "onion",
       "romaine lettuce",
@@ -31546,10 +31523,10 @@
       "paprika",
       "salt",
       "pepper",
-      "long grain rice",
+      "rice",
       "tomato",
       "chicken broth",
-      "medium shrimp",
+      "shrimp",
       "parsley",
       "onion"
     ],
@@ -31569,7 +31546,7 @@
     "ingredients": [
       "sugar",
       "flour",
-      "skim milk",
+      "milk",
       "baking powder",
       "salt",
       "berries"
@@ -31596,7 +31573,7 @@
       " flat-leaf parsley",
       "pesto sauce",
       "egg",
-      "gruyere cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 400F degrees.",
@@ -31660,7 +31637,7 @@
     "ingredients": [
       "baby potato",
       "bacon",
-      "rotini pasta",
+      "pasta",
       "broccoli",
       "cheddar cheese",
       "chives",
@@ -31685,7 +31662,7 @@
     "title": "Easy Key Lime Pie",
     "ingredients": [
       "condensed milk",
-      "key lemon juice",
+      "lemon juice",
       "graham cracker pie crusts",
       "lemon"
     ],
@@ -31706,7 +31683,7 @@
       "corn",
       "lemon",
       "shrimp",
-      "smoked sausage",
+      "sausage",
       "salt",
       "black pepper",
       "beer",
@@ -31742,8 +31719,8 @@
       "clove",
       "salt",
       "ground pepper",
-      "feta cheese",
-      "grape tomato",
+      "cheese",
+      "tomato",
       "onion"
     ],
     "direction": [
@@ -31761,7 +31738,7 @@
     "title": "Cannoli Pie Bites",
     "ingredients": [
       "cheese",
-      "mascarpone cheese",
+      "cheese",
       "vanilla extract",
       "sugar",
       "flour",
@@ -31862,7 +31839,7 @@
     "id": 1234,
     "title": "Summery Chopped Orzo Salad",
     "ingredients": [
-      "orzo pasta",
+      "pasta",
       "cucumber",
       "zucchini",
       "radishes",
@@ -32002,8 +31979,8 @@
     "title": "Festive Caprese Salad Wreath",
     "ingredients": [
       "tomato",
-      "grape tomato",
-      "grape tomato",
+      "tomato",
+      "tomato",
       " mozzarella balls",
       " mozzarella balls",
       "basil pesto",
@@ -32052,7 +32029,7 @@
     "id": 1240,
     "title": "Creamy Italian Pasta Salad",
     "ingredients": [
-      "tri-color spiral pasta",
+      "pasta",
       "parmesan cheese",
       "tomato",
       "cucumber",
@@ -32101,7 +32078,7 @@
     "ingredients": [
       "wonton wrappers",
       "butter",
-      "medium shrimp",
+      "shrimp",
       "onion",
       "carrot",
       "cream cheese",
@@ -32545,7 +32522,7 @@
     "ingredients": [
       "chicken",
       "deli ham",
-      "provolone cheese",
+      "cheese",
       "cheese",
       "parsley",
       "milk"
@@ -32617,7 +32594,7 @@
     "id": 1263,
     "title": "Red Pepper Dip",
     "ingredients": [
-      "fat-free cream cheese",
+      "cream cheese",
       "scallions",
       "garlic",
       "lemon juice"
@@ -32725,7 +32702,7 @@
       "heavy cream",
       "salt",
       "black pepper",
-      "medium shrimp",
+      "shrimp",
       "cornmeal",
       "cheese",
       "mozzarella",
@@ -32827,12 +32804,12 @@
       "onion",
       "clove",
       "olive oil",
-      "Ragu tomato sauce",
+      "tomato sauce",
       "lean turkey",
       "cheese",
       "mozzarella",
       "parmesan cheese",
-      "egg substitute"
+      "egg"
     ],
     "direction": [
       "In a large saucepan, cook ground turkey, onion& garlic in a combination of the oil and nonstick cooking spray. Add sauce and simmer 15 minutes.",
@@ -32877,7 +32854,7 @@
       "beef",
       "onion",
       "pepper",
-      "Mexican-style tomato",
+      "tomato",
       "tomato sauce",
       "cumin",
       "chili powder",
@@ -32986,9 +32963,9 @@
       "onion",
       "solid white tuna",
       "mayonnaise",
-      "skim milk",
+      "milk",
       "garlic powder",
-      "coarse black pepper",
+      "black pepper",
       "cheddar cheese"
     ],
     "direction": [
@@ -33034,8 +33011,8 @@
       "1% milk",
       "Fontina cheese",
       "parmesan cheese",
-      "fat-free cheddar cheese",
-      "Velveeta reduced fat cheese product"
+      "cheddar cheese",
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 375 degrees F.",
@@ -33118,7 +33095,7 @@
       "water",
       "olive oil",
       "deli ham",
-      "process American cheese",
+      "cheese",
       "mozzarella",
       "bulk sausage",
       "parmesan cheese",
@@ -33177,7 +33154,7 @@
     "ingredients": [
       "olive oil",
       "onion",
-      "red capsicum",
+      "capsicum",
       "zucchini",
       "eggplant",
       "tomato",
@@ -33185,7 +33162,7 @@
       "water",
       "salt",
       "flour",
-      "skim milk",
+      "milk",
       "cottage mozzarella",
       "cheese"
     ],
@@ -33288,7 +33265,7 @@
     "ingredients": [
       "parmesan cheese",
       "garlic powder",
-      "egg substitute"
+      "egg"
     ],
     "direction": [
       "Mix all ingredients together and form into 1 1/2 inch balls.",
@@ -33331,8 +33308,8 @@
     "id": 1292,
     "title": "Easy Cheese Lasagna(WW)",
     "ingredients": [
-      "fat-free cheese",
-      "lowfat mozzarella"
+      "cheese",
+      "mozzarella"
     ],
     "direction": [
       "Spray 11x7 baking dish with cooking spray.",
@@ -33434,7 +33411,7 @@
     "title": "Family Favorite Healthy Minestrone Soup!",
     "ingredients": [
       "vegetarian chicken stock",
-      "stewed tomato",
+      "tomato",
       "potato",
       "onion",
       "celery ribs",
@@ -33478,7 +33455,7 @@
     "id": 1299,
     "title": "Low Fat Lasagna",
     "ingredients": [
-      "fat-free chicken broth",
+      "chicken",
       "egg",
       "clove",
       "mozzarella",
@@ -33561,7 +33538,7 @@
     "id": 1302,
     "title": "Healthy Sesame Chicken",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "salt",
       "black pepper",
       "chicken",
@@ -33698,7 +33675,7 @@
     "id": 1308,
     "title": "Mayonnaise Biscuits",
     "ingredients": [
-      "self-rising flour",
+      "flour",
       "milk",
       "mayonnaise"
     ],
@@ -33716,7 +33693,7 @@
     "id": 1309,
     "title": "Ww Fish and Chips",
     "ingredients": [
-      "fat-free buttermilk",
+      "buttermilk",
       "potato",
       "paprika",
       "salt",
@@ -33787,7 +33764,7 @@
       "garlic",
       "ginger",
       "carrot",
-      "napa cabbage",
+      "cabbage",
       "beans sprouts",
       "water chestnut",
       "celery",
@@ -33836,7 +33813,7 @@
       "basil",
       "salt",
       "water",
-      "reduced-fat mozzarella"
+      "mozzarella"
     ],
     "direction": [
       "Cook pasta in boiling salted water for 1-2 minutes less than the package directions say (so it's still quite firm and little undercooked).",
@@ -33870,9 +33847,9 @@
     "title": "Healthy Banana Bread",
     "ingredients": [
       "sugar",
-      "unsweetened applesauce",
+      "unsweetened appleauce",
       "margarine",
-      "egg substitute",
+      "egg",
       "banana",
       "buttermilk",
       "vanilla",
@@ -33972,8 +33949,8 @@
       "pepper",
       "milk",
       "old fashioned oats",
-      "sugar substitute",
-      "plain fat-free yogurt"
+      "sugar",
+      "yogurt"
     ],
     "direction": [
       "Spray an 8X8 baking pan.",
@@ -33994,7 +33971,7 @@
       "baking soda",
       "salt",
       "water",
-      "unsweetened applesauce",
+      "unsweetened appleauce",
       "vinegar",
       "margarine",
       "vanilla extract"
@@ -34048,7 +34025,7 @@
     "title": "Healthy Oatmeal Raisin Spice Cookies (1 Ww Point)",
     "ingredients": [
       "sugar",
-      "sugar substitute",
+      "sugar",
       "raisin",
       "oats",
       "flour",
@@ -34056,7 +34033,7 @@
       "ground pepper",
       "baking soda",
       "salt",
-      "unsweetened applesauce",
+      "unsweetened appleauce",
       "egg",
       "vanilla"
     ],
@@ -34074,8 +34051,8 @@
     "id": 1321,
     "title": "Hg's Holy Moly Cannoli Cones - Ww Points =3",
     "ingredients": [
-      "fat-free cheese",
-      "fat-free cheese",
+      "cheese",
+      "cheese",
       "Cool Whip Free",
       "Splenda granular",
       "fat-free sugar-free instant vanilla pudding mix",
@@ -34118,7 +34095,7 @@
     "title": "Ww  2 Points - Caramel Apple Salad",
     "ingredients": [
       "fat-free cool whip",
-      "apples",
+      "apple",
       "pineapple tidbits",
       "sugar-free instant butterscotch pudding mix",
       "peanuts"
@@ -34158,7 +34135,7 @@
     "title": "Weight Watchers Low-Fat Chocolate Crunch Bars (2pts)",
     "ingredients": [
       "margarine",
-      "marshmallows"
+      "marshmallow"
     ],
     "direction": [
       "Spray a 13 x 9-inch baking dish with non-stick cooking spray.",
@@ -34212,7 +34189,7 @@
     "ingredients": [
       "fat-free sugar-free vanilla pudding mix",
       "fat-free cool whip",
-      "skim milk"
+      "milk"
     ],
     "direction": [
       "Spray a 9 x 13\" pan with cooking spray.",
@@ -34227,7 +34204,7 @@
     "id": 1329,
     "title": "Weight Watchers Sunshine Salad",
     "ingredients": [
-      "mandarin oranges",
+      "mandarin orange",
       "pineapple chunks",
       "fat-free sugar-free instant vanilla pudding mix"
     ],
@@ -34244,7 +34221,7 @@
     "title": "Weight Watcher 1 Point Banana Bread--Flex Points",
     "ingredients": [
       "banana",
-      "sugar substitute",
+      "sugar",
       "flour",
       "flour",
       "salt",
@@ -34280,11 +34257,11 @@
     "id": 1332,
     "title": "Ww 3 Points - Iced Chocolate Brownies",
     "ingredients": [
-      "cottagecondensed milk",
+      "condensed milk",
       "flour",
       "baking powder",
       "vanilla extract",
-      "skim milk",
+      "milk",
       "vanilla extract",
       "powdered sugar"
     ],
@@ -34337,8 +34314,8 @@
       "pinto beans",
       "hot chili beans",
       "kernel corn",
-      "stewed tomato",
-      "stewed tomato"
+      "tomato",
+      "tomato"
     ],
     "direction": [
       "Brown the meat and onions and drain.",
@@ -34353,9 +34330,9 @@
     "title": "Weight Watchers Chocolate Marshmallow Fudge",
     "ingredients": [
       "sugar",
-      "fat-free milk",
+      "milk",
       "reduced-calorie margarine",
-      "marshmallows"
+      "marshmallow"
     ],
     "direction": [
       "Coat an 8x8-inch pan with cooking spray.",
@@ -34466,7 +34443,7 @@
       "lemon juice",
       "cinnamon",
       "reduced-fat baking mix",
-      "skim milk",
+      "milk",
       "sugar"
     ],
     "direction": [
@@ -34549,8 +34526,8 @@
     "title": "Ww Vanilla Biscuits (Cookies)",
     "ingredients": [
       "self raising flour",
-      "caster sugar",
-      "skim milk",
+      "sugar",
+      "milk",
       "vanilla essence"
     ],
     "direction": [
@@ -34590,7 +34567,7 @@
       "sugar",
       "vegetable shortening",
       "1% milk",
-      "marshmallow cream"
+      "marshmallow"
     ],
     "direction": [
       "Preheat oven to 425\u00b0F.",
@@ -34616,8 +34593,8 @@
       "onion",
       "mushroom",
       "double-acting baking powder",
-      "egg substitute",
-      "skim milk",
+      "egg",
+      "milk",
       "mozzarella"
     ],
     "direction": [
@@ -34634,10 +34611,10 @@
     "title": "Lower Fat Chicken Pot Pie With Phyllo",
     "ingredients": [
       "chicken",
-      "phyllo dough",
+      "dough",
       "onion",
       "celery",
-      "fat-free chicken broth",
+      "chicken",
       "flour",
       "olive oil",
       "clove",
@@ -34768,8 +34745,8 @@
       "baking powder",
       "cinnamon",
       "salt",
-      "skim milk",
-      "unsweetened applesauce"
+      "milk",
+      "unsweetened appleauce"
     ],
     "direction": [
       "Heat Skillet and coat in cooking spray.",
@@ -34824,9 +34801,9 @@
     "ingredients": [
       "macaroni",
       "milk",
-      "egg substitute",
+      "egg",
       "butter",
-      "Velveeta reduced fat cheese product",
+      "cheese",
       "cheddar cheese"
     ],
     "direction": [
@@ -34882,7 +34859,7 @@
     "id": 1360,
     "title": "Pita Pizza",
     "ingredients": [
-      "reduced-fat mozzarella",
+      "mozzarella",
       "onion",
       "pepper"
     ],
@@ -34996,7 +34973,7 @@
     "ingredients": [
       "Stove Top stuffing mix",
       "butter",
-      "skim milk",
+      "milk",
       "water"
     ],
     "direction": [
@@ -35139,7 +35116,7 @@
       "blueberries",
       "pineapple",
       "muesli",
-      "vanilla yogurt"
+      "yogurt"
     ],
     "direction": [
       "Combine the fruit in a bowl.",
@@ -35191,10 +35168,10 @@
     "id": 1375,
     "title": "Yogurt Breakfast Pops",
     "ingredients": [
-      "vanilla yogurt",
+      "yogurt",
       "banana",
       "strawberries",
-      "mini marshmallows"
+      "marshmallow"
     ],
     "direction": [
       "Combine ingredients in mixing bowl.",
@@ -35213,9 +35190,9 @@
       "salt",
       "sugar",
       "chocolate chips",
-      "skim milk",
+      "milk",
       "water",
-      "egg substitute",
+      "egg",
       "vanilla"
     ],
     "direction": [
@@ -35236,12 +35213,12 @@
       "oatmeal",
       "wheat germ",
       "cinnamon",
-      "plain yogurt",
-      "unsweetened applesauce",
+      "yogurt",
+      "unsweetened appleauce",
       "vanilla",
       "honey",
       "egg",
-      "skim milk powder",
+      "milk powder",
       "baking soda",
       "baking powder",
       "raisin"
@@ -35291,7 +35268,7 @@
       "black pepper",
       "garlic powder",
       "salmon fillet",
-      "skim milk"
+      "milk"
     ],
     "direction": [
       "Spray a baking sheet with non-stick cooking spray and set aside.",
@@ -35348,7 +35325,7 @@
     "title": "Yummy Low-Fat Mac & Cheese",
     "ingredients": [
       "butter",
-      "unbleached flour",
+      "flour",
       "dry mustard",
       "paprika",
       "salt",
@@ -35402,9 +35379,9 @@
       "beef",
       "bulk sausage",
       "tomato sauce",
-      "stewed tomato",
+      "tomato",
       "water",
-      "mushroom stems and pieces",
+      "mushroom",
       "celery ribs",
       "spaghetti",
       "oregano"
@@ -35641,7 +35618,7 @@
     "ingredients": [
       "water",
       "egg",
-      "marshmallows"
+      "marshmallow"
     ],
     "direction": [
       "Preheat oven to 350\u00b0F.",
@@ -36100,7 +36077,7 @@
     "title": "Pumpkin Pie Shake",
     "ingredients": [
       "reduced-fat vanilla ice cream",
-      "skim milk",
+      "milk",
       "pumpkin",
       "sugar",
       "pumpkin pie spice",
@@ -36245,7 +36222,7 @@
     "ingredients": [
       "chicken",
       "cream cheese",
-      "mild cheddar cheese",
+      "cheddar cheese",
       "baguette"
     ],
     "direction": [
@@ -36265,7 +36242,7 @@
     "ingredients": [
       "cream cheese",
       "pepper sauce",
-      "blue cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oven to 350\u00b0F.",
@@ -36388,7 +36365,7 @@
     "id": 1443,
     "title": "Baked Green Olives in Spicy Cheese Pastry",
     "ingredients": [
-      "extra-cheddar cheese",
+      "cheddar cheese",
       "flour",
       "margarine",
       "pepper",
@@ -36405,7 +36382,7 @@
     "ingredients": [
       "tortillas",
       "bacon",
-      "boursin cheese",
+      "cheese",
       "olive oil",
       "salt",
       "pepper"
@@ -36425,7 +36402,7 @@
       "potato",
       "olive oil",
       "milk",
-      "blue cheese",
+      "cheese",
       "scallions",
       "clove",
       "butter",
@@ -36585,7 +36562,7 @@
       "butter",
       "flour",
       "milk",
-      "colby-cheese",
+      "cheese",
       "black pepper",
       "oregano",
       "butter"
@@ -36612,7 +36589,7 @@
       "chicken",
       "celery rib",
       "cheese",
-      "blue cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 425\u00baF.",
@@ -36656,7 +36633,7 @@
       "cream cheese",
       "cheese",
       "celery",
-      "blue cheese"
+      "cheese"
     ],
     "direction": [
       "*Before starting, if your hands are sensitive to the heat of the peppers, please wear gloves. And always remember not to touch your eyes, face, nose, etc. as the juice can be very hot.",
@@ -36680,7 +36657,7 @@
       "kernel corn",
       "lemon",
       "lemon",
-      "grape tomato",
+      "tomato",
       "olive oil",
       "habanero pepper",
       "cilantro",
@@ -36804,7 +36781,7 @@
       "butter",
       "sugar",
       "salt",
-      "masa harina flour",
+      "flour",
       "flour",
       "sour cream",
       "avocado",
@@ -36896,8 +36873,8 @@
       "celery",
       "carrot",
       "butter",
-      "medium shrimp",
-      "blue cheese"
+      "shrimp",
+      "cheese"
     ],
     "direction": [
       "Heat broiler Place dinner rolls, cut side up, on a baking sheet. Place under broiler and lightly toast, turning baking sheet to toast rolls evenly.",
@@ -36974,7 +36951,7 @@
       "chicken",
       "bell pepper",
       "cheese",
-      "mild cheddar cheese",
+      "cheddar cheese",
       "lettuce",
       "thick & chunky salsa",
       "sour cream"
@@ -37015,7 +36992,7 @@
       "pepper",
       "chicken",
       "heavy cream",
-      "blue cheese",
+      "cheese",
       "onion",
       "parsley"
     ],
@@ -37078,7 +37055,7 @@
       "onion",
       "chili powder",
       "pepper",
-      "beef broth",
+      "beef",
       " tomato",
       "clove",
       "cumin",
@@ -37125,7 +37102,7 @@
     "title": "Football Buffalo Chicken Monkey Bread",
     "ingredients": [
       "chicken",
-      "blue cheese",
+      "cheese",
       "butter",
       "garlic powder",
       "vinegar",
@@ -37204,7 +37181,7 @@
       "canola oil",
       "butter",
       "honey",
-      "TABASCO\u00ae brand Chipotle Pepper Sauce"
+      "Chipotle Pepper Sauce"
     ],
     "direction": [
       "Combine flour, salt and pepper in a medium-sized plastic bag.",
@@ -37386,11 +37363,11 @@
     "ingredients": [
       "onion",
       "bell pepper",
-      "stewed tomato",
+      "tomato",
       "tomato sauce",
       "pinto beans",
       "kidney beans",
-      "Rotel tomato"
+      "tomato"
     ],
     "direction": [
       "Brown Ground Chuck. Add all items, including juice, into large pot.",
@@ -37411,7 +37388,7 @@
       "egg",
       "panko breadcrumbs",
       "mayonnaise",
-      "blue cheese",
+      "cheese",
       "Worcestershire sauce",
       "salt",
       "lemon",
@@ -37676,7 +37653,7 @@
       "salt",
       "ground pepper",
       "jalapeno chile",
-      "dark sugar",
+      "sugar",
       "mayonnaise",
       "mozzarella"
     ],
@@ -37798,7 +37775,7 @@
       "chicken",
       "cream cheese",
       "mayonnaise",
-      "colby-cheese",
+      "cheese",
       "chili pepper"
     ],
     "direction": [
@@ -37816,12 +37793,12 @@
     "id": 1501,
     "title": "Filling Buffalo Chicken Casserole",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "water",
       "olive oil",
       "chicken",
       "celery",
-      "stewed tomato"
+      "tomato"
     ],
     "direction": [
       "Cook rice in water 20 minutes as directed on package.",
@@ -37850,7 +37827,7 @@
       "water",
       "vinegar",
       "beef",
-      "hard-boiled egg",
+      "egg",
       "stuffed green olive",
       "raisin",
       "onion",
@@ -37889,7 +37866,7 @@
       "chicken broth",
       "chili powder",
       "salt",
-      "blue cheese"
+      "cheese"
     ],
     "direction": [
       "Spray 5- to 6-quart slow cooker with cooking spray.",
@@ -37909,7 +37886,7 @@
       "clove",
       "cumin",
       "pepper",
-      "canning salt",
+      "salt",
       "sugar",
       "vinegar",
       "tomato sauce",
@@ -37952,7 +37929,7 @@
       "salt",
       "Tabasco sauce",
       "celery",
-      "blue cheese",
+      "cheese",
       "flour tortillas",
       "lettuce",
       "carrot"
@@ -38039,7 +38016,7 @@
       "cornstarch",
       "chicken",
       "corn kernels",
-      "blue cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -38059,7 +38036,7 @@
     "title": "Buffalo Chicken Deviled Eggs (Aka Buffalo Horns)",
     "ingredients": [
       "chicken",
-      "hard-boiled egg",
+      "egg",
       "butter",
       "Tabasco sauce",
       "celery"
@@ -38272,7 +38249,7 @@
       "olive oil",
       "cannellini beans",
       "black beans",
-      "Mexican-style tomato",
+      "tomato",
       "salsa verde",
       "corn",
       "cilantro",
@@ -38360,7 +38337,7 @@
       "romaine lettuce hearts",
       "carrot",
       "celery ribs",
-      "blue cheese",
+      "cheese",
       "chicken",
       "butter"
     ],
@@ -38376,7 +38353,7 @@
     "id": 1523,
     "title": "Queso Blanco Mexican White Cheese Dip",
     "ingredients": [
-      "asadero cheese",
+      "cheese",
       "chilies",
       "half-and-half",
       "onion",
@@ -38487,13 +38464,13 @@
       "thyme",
       "rosemary",
       "garlic",
-      "grape tomato",
+      "tomato",
       "sugar",
       "butter",
       "flour",
       "milk",
       "cheese",
-      "provolone cheese",
+      "cheese",
       "cheese",
       "processed cheese",
       "baguette"
@@ -38539,7 +38516,7 @@
     "ingredients": [
       "butter",
       "sour cream",
-      "blue cheese",
+      "cheese",
       "chives",
       "tortilla chips"
     ],
@@ -38756,11 +38733,11 @@
     "ingredients": [
       "onion",
       "bell pepper",
-      "stewed tomato",
+      "tomato",
       "tomato sauce",
       "pinto beans",
       "kidney beans",
-      "Rotel tomato"
+      "tomato"
     ],
     "direction": [
       "Brown Ground Chuck. Add all items, including juice, into large pot.",
@@ -38872,8 +38849,8 @@
     "title": "Sweet and Sticky Grilled Drumsticks",
     "ingredients": [
       "wine",
-      "dark sugar",
-      "dark sugar",
+      "sugar",
+      "sugar",
       "soy sauce",
       "ginger",
       "clove",
@@ -38973,7 +38950,7 @@
       "tomato",
       "kidney beans",
       "tomato paste",
-      "dark beer",
+      "beer",
       "cheddar cheese"
     ],
     "direction": [
@@ -39069,7 +39046,7 @@
       "pecans",
       "banana",
       "mandarin orange segments",
-      "apples",
+      "apple",
       "red seedless grapes"
     ],
     "direction": [
@@ -39190,7 +39167,7 @@
     "id": 1558,
     "title": "Sweet Ham and Swiss Sliders",
     "ingredients": [
-      "swiss cheese",
+      "cheese",
       "mayonnaise",
       "mustard",
       "butter",
@@ -39215,7 +39192,7 @@
     "id": 1559,
     "title": "Foiled Hot Dogs",
     "ingredients": [
-      "American cheese",
+      "cheese",
       "mayonnaise",
       "catsup",
       "mustard"
@@ -39239,7 +39216,7 @@
       "cabbage",
       "onion",
       "barbecue sauce",
-      "Budweiser beer",
+      "beer",
       "beef",
       "cheddar cheese"
     ],
@@ -39262,7 +39239,7 @@
       "salt",
       "milk",
       "butter",
-      "American cheese",
+      "cheese",
       "butter"
     ],
     "direction": [
@@ -39343,7 +39320,7 @@
       "corn",
       "salt",
       "black pepper",
-      "swiss cheese",
+      "cheese",
       "spinach"
     ],
     "direction": [
@@ -39468,7 +39445,7 @@
       "black pepper",
       "navy beans",
       "clove",
-      "blue cheese"
+      "cheese"
     ],
     "direction": [
       "Place first 7 ingredients in a blender or food processor and process until smooth.",
@@ -39575,7 +39552,7 @@
       "salt",
       "Tabasco sauce",
       "celery",
-      "blue cheese",
+      "cheese",
       "flour tortillas",
       "lettuce",
       "carrot"
@@ -39596,7 +39573,7 @@
       "flour",
       "spinach",
       "cheese",
-      "asiago cheese",
+      "cheese",
       "black pepper"
     ],
     "direction": [
@@ -39844,7 +39821,7 @@
     "id": 1587,
     "title": "Grilled Parmesan Potatoes",
     "ingredients": [
-      "small red potato",
+      "potato",
       "onion",
       "parmesan cheese",
       "oregano",
@@ -39952,7 +39929,7 @@
     "id": 1592,
     "title": "Ranch Salad",
     "ingredients": [
-      "rotini pasta",
+      "pasta",
       "pepper",
       "onion",
       "cucumbers",
@@ -39996,7 +39973,7 @@
     "id": 1594,
     "title": "Barbecue Beef Brisket",
     "ingredients": [
-      "beef brisket",
+      "beef",
       "tomato sauce",
       "water",
       "onion",
@@ -40295,7 +40272,7 @@
       "ginger",
       "honey",
       "round tip roast",
-      "mushroom cap",
+      "mushroom",
       "onion",
       "pepper"
     ],
@@ -40329,7 +40306,7 @@
       "sugar",
       "vanilla extract",
       "salt",
-      "marshmallow cream"
+      "marshmallow"
     ],
     "direction": [
       "Adjust oven racks to upper-middle and lower-middle positions and heat oven to 350 degrees. Line 2 baking sheets with parchment paper.",
@@ -40367,7 +40344,7 @@
     "title": "Sue's Reuben Sandwich",
     "ingredients": [
       "corned beef",
-      "swiss cheese",
+      "cheese",
       "sauerkraut",
       "butter",
       "caraway seed"
@@ -40549,7 +40526,7 @@
     "title": "Michelada",
     "ingredients": [
       "lemon juice",
-      "Corona beer",
+      "beer",
       "Worcestershire sauce",
       "Tabasco sauce",
       "lemon"
@@ -40742,7 +40719,7 @@
     "title": "Sweet and Sour Apple (non-alcoholic Cocktail)",
     "ingredients": [
       "lemon juice",
-      "fine sugar"
+      "sugar"
     ],
     "direction": [
       "Fill shaker glass two-thirds with ice. Add ingredients. Shake well.",
@@ -40761,7 +40738,7 @@
       "pepper",
       "salt",
       "pepper",
-      "feta cheese",
+      "cheese",
       "milk",
       "egg"
     ],
@@ -40816,7 +40793,7 @@
       "beef",
       "onion",
       "pepper",
-      "Mexican-style tomato",
+      "tomato",
       "tomato sauce",
       "cumin",
       "chili powder",
@@ -40868,7 +40845,7 @@
       "onion",
       "pepper",
       "kidney beans",
-      "stewed tomato",
+      "tomato",
       "tomato paste",
       "chili powder",
       "garlic powder",
@@ -40904,8 +40881,8 @@
       "mustard",
       "cumin",
       "dark kidney beans",
-      "stewed tomato",
-      "beef broth",
+      "tomato",
+      "beef",
       "garlic powder"
     ],
     "direction": [
@@ -40926,10 +40903,10 @@
       "chilies",
       "kidney beans",
       "corn",
-      "dark beer",
+      "beer",
       "tomato",
       "chili powder",
-      "coffee beans",
+      "coffee",
       "paprika",
       "cumin",
       "sugar",
@@ -41068,7 +41045,7 @@
     "title": "Hormel Chili Dip",
     "ingredients": [
       "cream cheese",
-      "mild cheddar cheese"
+      "cheddar cheese"
     ],
     "direction": [
       "Microwave cream cheese for 1 minute in 12\" x 12\" pyrex dish or glass pie dish.",
@@ -41200,7 +41177,7 @@
       "tomato paste",
       "water",
       "sugar",
-      "prepared mustard",
+      "mustard",
       "chili powder",
       "Worcestershire sauce",
       "salt",
@@ -41220,7 +41197,7 @@
     "title": "Ed's Chicago Cocoa Chili",
     "ingredients": [
       "beef",
-      "yellow onion",
+      "onion",
       "bell pepper",
       "celery",
       "carrot",
@@ -41290,7 +41267,7 @@
       "cumin",
       "oregano",
       "chili powder",
-      "Ro-Tel tomato",
+      "tomato",
       "tomato sauce",
       "dark kidney beans",
       "tomato juice"
@@ -41354,12 +41331,12 @@
       "chili pepper",
       "flour",
       "tomato",
-      "no-added-salt tomato paste",
-      "beef broth",
+      "tomato paste",
+      "beef",
       "black beans",
       "kidney beans",
       "chili powder",
-      "dark sugar",
+      "sugar",
       "salt",
       "white pepper",
       "cumin",
@@ -41426,7 +41403,7 @@
       "onion",
       "chili powder",
       "pepper",
-      "beef broth",
+      "beef",
       " tomato",
       "clove",
       "cumin",
@@ -41511,7 +41488,7 @@
       "tomato sauce",
       "tomato",
       "water",
-      "instant minced garlic",
+      "garlic",
       "paprika",
       "cumin",
       "red pepper",
@@ -41639,7 +41616,7 @@
       "onion",
       "celery",
       "kidney beans",
-      "stewed tomato",
+      "tomato",
       "tomato paste",
       "water",
       "sugar",
@@ -41669,7 +41646,7 @@
       "clove",
       "paprika",
       "pepper",
-      "beef bouillon cubes",
+      "beef",
       "chicken",
       "tomato sauce",
       "oregano",
@@ -41718,7 +41695,7 @@
       "celery ribs",
       "pepper",
       "dark kidney beans",
-      "mushroom pieces",
+      "mushroom",
       "tomato",
       "chili powder",
       "oregano",
@@ -41829,7 +41806,7 @@
     "id": 1669,
     "title": "Crock Pot Chili Chili and Beans",
     "ingredients": [
-      "beef broth",
+      "beef",
       "tomato",
       "tomato sauce",
       "chili pepper",
@@ -41847,7 +41824,7 @@
       "garlic",
       "onion",
       "bell pepper",
-      "beef stew meat",
+      "beef",
       "flour"
     ],
     "direction": [
@@ -41873,7 +41850,7 @@
       "paprika",
       "cumin",
       "chili powder",
-      "masa harina flour",
+      "flour",
       "water"
     ],
     "direction": [
@@ -41978,8 +41955,8 @@
       "tomato",
       "tomato paste",
       "Tabasco sauce",
-      "sugar substitute",
-      "dark beer",
+      "sugar",
+      "beer",
       "cheese",
       "sour cream"
     ],
@@ -42098,7 +42075,7 @@
       "oregano",
       "salt",
       "pepper",
-      "masa harina flour",
+      "flour",
       "water"
     ],
     "direction": [
@@ -42187,8 +42164,8 @@
       "pepper",
       "pepper",
       "chili powder",
-      "dark beer",
-      "stewed tomato",
+      "beer",
+      "tomato",
       "tomato paste",
       "Worcestershire sauce",
       "honey",
@@ -42248,7 +42225,7 @@
       "onion",
       "chili powder",
       "pepper",
-      "beef broth",
+      "beef",
       " tomato",
       "clove",
       "cumin",
@@ -42282,7 +42259,7 @@
       "cornstarch",
       "chicken",
       "corn kernels",
-      "blue cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -42339,7 +42316,7 @@
       "onion",
       "pinto beans",
       "kidney beans",
-      "stewed tomato",
+      "tomato",
       "chili powder",
       "cumin",
       "salt",
@@ -42424,7 +42401,7 @@
       "pepper",
       "garlic",
       "olive oil",
-      "Italian stewed tomato",
+      "Italian tomato",
       "tomato sauce",
       "pinto beans",
       "black beans",
@@ -42458,7 +42435,7 @@
       "salt",
       "black pepper",
       "baked corn tortilla chips",
-      "reduced-fat cheddar cheese",
+      "cheddar cheese",
       "sour cream"
     ],
     "direction": [
@@ -42485,7 +42462,7 @@
       "tomato paste",
       "tomato",
       "tomato",
-      "dark beer",
+      "beer",
       "cumin",
       "paprika",
       "chili powder",
@@ -42554,11 +42531,11 @@
     "ingredients": [
       "onion",
       "bell pepper",
-      "stewed tomato",
+      "tomato",
       "tomato sauce",
       "pinto beans",
       "kidney beans",
-      "Rotel tomato"
+      "tomato"
     ],
     "direction": [
       "Brown Ground Chuck. Add all items, including juice, into large pot.",
@@ -42762,11 +42739,11 @@
       "onion",
       "garlic",
       "beef",
-      "beef sirloin",
+      "beef",
       "tomato",
-      "dark beer",
+      "beer",
       "tomato paste",
-      "beef broth",
+      "beef",
       "sugar",
       "chili sauce",
       "cumin",
@@ -43033,7 +43010,7 @@
       "canola oil",
       "butter",
       "honey",
-      "TABASCO\u00ae brand Chipotle Pepper Sauce"
+      "Chipotle Pepper Sauce"
     ],
     "direction": [
       "Combine flour, salt and pepper in a medium-sized plastic bag.",
@@ -43446,12 +43423,12 @@
     "id": 1731,
     "title": "Sweet Soy-Glazed Chicken Wings",
     "ingredients": [
-      "dark sugar",
+      "sugar",
       "soy sauce",
       "sake",
       "clove",
       "chicken",
-      "dark sugar",
+      "sugar",
       "soy sauce",
       " pineapple",
       "sake",
@@ -43770,7 +43747,7 @@
       "chicken",
       "barbecue sauce",
       "honey",
-      "prepared mustard",
+      "mustard",
       "Worcestershire sauce"
     ],
     "direction": [
@@ -43918,8 +43895,8 @@
     "id": 1751,
     "title": "Blue Cheese Steak",
     "ingredients": [
-      "beef steaks",
-      "blue cheese",
+      "beef",
+      "cheese",
       "salt",
       "pepper",
       "butter"
@@ -43947,7 +43924,7 @@
       "thyme",
       "beef",
       "flour",
-      "beef broth",
+      "beef",
       "Worcestershire sauce",
       "salt",
       "pepper",
@@ -44126,7 +44103,7 @@
     "id": 1759,
     "title": "Queso Blanco Dip",
     "ingredients": [
-      "American cheese",
+      "cheese",
       "chilies",
       "heavy cream"
     ],
@@ -44170,7 +44147,7 @@
       "sugar",
       "salsa",
       "tomato paste",
-      "beef broth",
+      "beef",
       "water",
       "cilantro",
       "corn tortillas",
@@ -44215,7 +44192,7 @@
     "title": "Cheesy Baked Mac N Cheese",
     "ingredients": [
       "cheddar cheese",
-      "extra-cheddar cheese",
+      "cheddar cheese",
       "shells",
       "butter",
       "flour",
@@ -44307,7 +44284,7 @@
     "title": "Super Creamy, Cheesy Mac N' Cheese",
     "ingredients": [
       "cheddar cheese",
-      "extra-cheddar cheese",
+      "cheddar cheese",
       "cheese",
       "parmesan cheese",
       "medium pasta shells",
@@ -44413,7 +44390,7 @@
       "beer",
       "chicken broth",
       "Worcestershire sauce",
-      "mild cheddar cheese",
+      "cheddar cheese",
       "chives"
     ],
     "direction": [
@@ -44571,7 +44548,7 @@
       "salt",
       "white pepper",
       "monterey jack pepper cheese",
-      "swiss cheese",
+      "cheese",
       "cheddar cheese",
       "cream cheese",
       "parmesan cheese",
@@ -44622,8 +44599,8 @@
       "dill",
       "black pepper",
       "pepper",
-      "provolone cheese",
-      "feta cheese"
+      "cheese",
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 375\u00b0F.",
@@ -44647,7 +44624,7 @@
       "pepper",
       "pepper",
       "cheddar cheese",
-      "gruyere cheese",
+      "cheese",
       "Fontina cheese",
       "pasta shells",
       "panko breadcrumbs"
@@ -44671,7 +44648,7 @@
     "ingredients": [
       "butter",
       "parmesan cheese",
-      "provolone cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -44993,7 +44970,7 @@
     "title": "Toblerone-Topped Caramel Cheesecake",
     "ingredients": [
       "butter",
-      "Philadelphia Cream Cheese",
+      "cream cheese",
       "sugar",
       "vanilla",
       "egg"
@@ -45012,7 +44989,7 @@
     "ingredients": [
       "cucumber",
       "cream cheese",
-      "blue cheese",
+      "cheese",
       "parsley",
       "dill",
       "onion",
@@ -45123,7 +45100,7 @@
       "creamy peanut butter",
       "graham cracker crumbs",
       "powdered sugar",
-      "miniature marshmallow"
+      "marshmallow"
     ],
     "direction": [
       "Thaw pastry sheet at room temperature 30 minutes. Preheat oven to 350 degrees F.",
@@ -45425,7 +45402,7 @@
     "title": "French Dip Roast Beef Sandwiches",
     "ingredients": [
       "bottom round steaks",
-      "beef broth",
+      "beef",
       "beer",
       "onion"
     ],
@@ -45688,7 +45665,7 @@
     "id": 1826,
     "title": "Easy Corned Beef for Deli Sandwiches",
     "ingredients": [
-      "corned beef brisket",
+      "corned beef",
       "beer"
     ],
     "direction": [
@@ -45771,7 +45748,7 @@
       "flour",
       "onion",
       "beer",
-      "beef broth",
+      "beef",
       "cornstarch"
     ],
     "direction": [
@@ -45836,7 +45813,7 @@
     "id": 1832,
     "title": "Crock Pot Beef Barbecue",
     "ingredients": [
-      "beef roast",
+      "beef",
       "barbecue sauce",
       "honey",
       "beer"
@@ -45854,9 +45831,9 @@
     "id": 1833,
     "title": "Kentucky Beer Cheese",
     "ingredients": [
-      "extra-cheddar cheese",
+      "cheddar cheese",
       "clove",
-      "dark beer",
+      "beer",
       "salt",
       "Tabasco sauce",
       "mustard powder"
@@ -45954,7 +45931,7 @@
       "olive oil",
       "cannellini beans",
       "black beans",
-      "Mexican-style tomato",
+      "tomato",
       "salsa verde",
       "corn",
       "cilantro",
@@ -46089,7 +46066,7 @@
       "paprika",
       "chili powder",
       "onion powder",
-      "dark sugar",
+      "sugar",
       "ground pepper",
       "onion",
       "barbecue sauce",
@@ -46377,7 +46354,7 @@
       "cinnamon",
       "walnut",
       "pistachios",
-      "phyllo dough",
+      "dough",
       "butter",
       "honey"
     ],
@@ -46442,7 +46419,7 @@
       "sugar",
       "egg",
       "creamy peanut butter",
-      "mini marshmallows",
+      "marshmallow",
       "graham crackers"
     ],
     "direction": [
@@ -46541,9 +46518,9 @@
       "butter",
       "sugar",
       "milk",
-      "marshmallow creme",
+      "marshmallow",
       "vanilla",
-      "salted peanuts"
+      "peanuts"
     ],
     "direction": [
       "Melt together 1 cup milk chocolate chips, 1/4 cup butterscotch chips, and 1/4 cup creamy peanut butter then spread on bottom of 9 X 13 cake pan- put in refrigerator or freezer to set up while next layer is prepared.",
@@ -46591,7 +46568,7 @@
     "title": "Rich, Fudgy Cocoa Brownies",
     "ingredients": [
       "shortening",
-      "real butter",
+      "butter",
       "sugar",
       "egg",
       "vanilla",
@@ -46618,7 +46595,7 @@
     "id": 1864,
     "title": "Fabulous Filbert Football Cookies Aka Super Bowl Cookies",
     "ingredients": [
-      "dark sugar",
+      "sugar",
       "butter",
       "egg",
       "cinnamon",
@@ -46680,7 +46657,7 @@
     "title": "Chocolate Rice Krispies Treats",
     "ingredients": [
       "butter",
-      "marshmallows",
+      "marshmallow",
       "chocolate chips"
     ],
     "direction": [
@@ -46703,7 +46680,7 @@
       "flour",
       "salt",
       "butter",
-      "miniature marshmallows",
+      "marshmallow",
       "walnut"
     ],
     "direction": [
@@ -46800,7 +46777,7 @@
     "id": 1871,
     "title": "Everything but the Kitchen Sink Chocolate Chip Cookies",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "baking soda",
       "salt",
       "butter",
@@ -46855,7 +46832,7 @@
       "pepper",
       "margarine",
       "sugar",
-      "dark sugar",
+      "sugar",
       "egg",
       "vanilla",
       "bittersweet chocolate chips"
@@ -47039,7 +47016,7 @@
     "ingredients": [
       "margarine",
       "condensed milk",
-      "miniature marshmallows"
+      "marshmallow"
     ],
     "direction": [
       "Grease 9x13 pan.",
@@ -47205,7 +47182,7 @@
     "title": "S'more Bars",
     "ingredients": [
       "graham crackers",
-      "mini marshmallows"
+      "marshmallow"
     ],
     "direction": [
       "Arrange graham crackers in a single layer in a greased 9x13 pan; set aside.",
@@ -47223,7 +47200,7 @@
     "id": 1891,
     "title": "Fabulous Filbert Football Cookies Aka Super Bowl Cookies",
     "ingredients": [
-      "dark sugar",
+      "sugar",
       "butter",
       "egg",
       "cinnamon",
@@ -47300,7 +47277,7 @@
     "title": "Chocolate Mile-High Marshmallow Squares",
     "ingredients": [
       "peanut butter",
-      "miniature marshmallows"
+      "marshmallow"
     ],
     "direction": [
       "In a large microwave safe bowl, melt chips, and peanut butter together for 2 minutes.",
@@ -47332,7 +47309,7 @@
     "title": "Razzle Raspberry Oatmeal Cookie Bars",
     "ingredients": [
       "sugar",
-      "self-rising flour",
+      "flour",
       "oats",
       "butter"
     ],
@@ -47541,7 +47518,7 @@
     "id": 1905,
     "title": "Grilled Parmesan Potatoes",
     "ingredients": [
-      "small red potato",
+      "potato",
       "onion",
       "parmesan cheese",
       "oregano",
@@ -47700,8 +47677,8 @@
     "ingredients": [
       "wine",
       "clove",
-      "gruyere cheese",
-      "swiss cheese",
+      "cheese",
+      "cheese",
       "flour",
       "kirsch",
       "ground pepper"
@@ -47761,7 +47738,7 @@
     "id": 1915,
     "title": "Grilled Italian Tomatoes",
     "ingredients": [
-      "Italian tomato",
+      "tomato",
       "olive oil",
       "salt",
       "black pepper"
@@ -47869,7 +47846,7 @@
       "lemon juice",
       "honey",
       "chipotle chile",
-      "medium shrimp",
+      "shrimp",
       "lemon"
     ],
     "direction": [
@@ -47914,7 +47891,7 @@
       "pesto sauce",
       "olive oil",
       "mushroom",
-      "feta cheese",
+      "cheese",
       " tomato"
     ],
     "direction": [
@@ -47979,7 +47956,7 @@
     "ingredients": [
       "baby arugula",
       "onion",
-      "blue cheese",
+      "cheese",
       "olive oil",
       "oregano",
       "garlic powder",
@@ -48001,8 +47978,8 @@
     "title": "Sweet and Sticky Grilled Drumsticks",
     "ingredients": [
       "wine",
-      "dark sugar",
-      "dark sugar",
+      "sugar",
+      "sugar",
       "soy sauce",
       "ginger",
       "clove",
@@ -48113,7 +48090,7 @@
     "title": "Grilled Reuben Sandwiches",
     "ingredients": [
       "sauerkraut",
-      "swiss cheese",
+      "cheese",
       "corned beef"
     ],
     "direction": [
@@ -48435,7 +48412,7 @@
     "title": "Grilled Beet & Charred Citrus Salad",
     "ingredients": [
       "beets",
-      "oranges",
+      "orange",
       "lemon",
       "olive oil",
       "salt",
@@ -49099,7 +49076,7 @@
     "ingredients": [
       "mayonnaise",
       "barbecue sauce",
-      "blue cheese",
+      "cheese",
       "lettuce"
     ],
     "direction": [
@@ -49143,7 +49120,7 @@
       "chili sauce",
       "Worcestershire sauce",
       "celery seed",
-      "prepared mustard",
+      "mustard",
       "salt",
       "chicken"
     ],
@@ -49319,7 +49296,7 @@
       "cumin",
       "cilantro stems",
       "baguette",
-      "asadero cheese",
+      "cheese",
       "lettuce",
       "tomato",
       "Naked Guacamole",
@@ -49610,7 +49587,7 @@
       "lemon pepper",
       "garlic powder",
       "dried cilantro",
-      "large shrimp",
+      "shrimp",
       "zucchini",
       "bell pepper"
     ],
@@ -49681,7 +49658,7 @@
       "mayonnaise",
       "celery seed",
       "ketchup",
-      "provolone cheese",
+      "cheese",
       "romaine lettuce",
       "margarine"
     ],
@@ -49770,7 +49747,7 @@
       "cumin",
       "clove",
       "salt",
-      "beef top sirloin steak",
+      "beef",
       "ground pepper",
       "lemon",
       "onion",
@@ -49882,7 +49859,7 @@
     "title": "Greek-Style Turkey Burgers",
     "ingredients": [
       "turkey",
-      "feta cheese",
+      "cheese",
       "olive",
       "oregano",
       "parsley",
@@ -49903,7 +49880,7 @@
     "title": "Brew Burgers",
     "ingredients": [
       "beef",
-      "swiss cheese",
+      "cheese",
       "tomato",
       "lettuce",
       "beer"
@@ -50019,7 +49996,7 @@
       "scallion",
       "soy sauce",
       "black pepper",
-      "swiss cheese",
+      "cheese",
       "mustard",
       "romaine lettuce",
       "tomato"
@@ -50041,7 +50018,7 @@
       "egg",
       "pepper",
       "water",
-      "American cheese",
+      "cheese",
       "pickle",
       "mustard",
       "ketchup"
@@ -50113,7 +50090,7 @@
     "title": "Cream Cheese Stuffed Garlic Burgers",
     "ingredients": [
       "hamburger meat",
-      "instant minced garlic",
+      "garlic",
       "salt",
       "ground pepper"
     ],
@@ -50251,7 +50228,7 @@
       "basil",
       "oregano",
       "garlic",
-      "provolone cheese",
+      "cheese",
       "tomato",
       "romaine lettuce leaf",
       "onion",
@@ -50475,7 +50452,7 @@
     "title": "Feta Burgers With Grilled Red Onions",
     "ingredients": [
       "beef",
-      "feta cheese",
+      "cheese",
       "oregano",
       "salt",
       "black pepper",
@@ -50594,8 +50571,8 @@
       "ketchup",
       "garlic",
       "onion",
-      "feta cheese",
-      "feta cheese",
+      "cheese",
+      "cheese",
       "cream cheese",
       "yogurt",
       "garlic",
@@ -50760,7 +50737,7 @@
     "id": 2040,
     "title": "Shrimp Burger",
     "ingredients": [
-      "medium shrimp",
+      "shrimp",
       "shallots",
       "egg",
       "cheese",
@@ -50777,7 +50754,7 @@
     "title": "Buffalo Sauce Burgers Stuffed With Blue Cheese",
     "ingredients": [
       "butter",
-      "blue cheese",
+      "cheese",
       "garlic",
       "celery seed",
       "onion"
@@ -50826,7 +50803,7 @@
     "ingredients": [
       "mushroom",
       "tomato",
-      "smoked mozzarella",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -50880,10 +50857,10 @@
     "id": 2045,
     "title": "The Burger Bar - Tyler Florence",
     "ingredients": [
-      "beef brisket",
+      "beef",
       "salt",
       "black pepper",
-      "swiss cheese",
+      "cheese",
       "mushroom",
       "olive oil",
       "clove",
@@ -50892,7 +50869,7 @@
       "butter",
       "olive oil",
       "onion",
-      "beefsteak tomato",
+      "beef",
       "olive oil",
       "salt",
       " chives",
@@ -50962,7 +50939,7 @@
       "tomato",
       "onion",
       "chicken",
-      "plain fat-free yogurt",
+      "yogurt",
       "coriander",
       "ginger",
       "curry",
@@ -50995,7 +50972,7 @@
       "pepper",
       "salt",
       "ham",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat BBQ to medium (approx 350\u00ba F).",
@@ -51219,7 +51196,7 @@
     "title": "Blue Moon Burgers",
     "ingredients": [
       "beef",
-      "blue cheese",
+      "cheese",
       "cream cheese",
       "cheese",
       "mayonnaise",
@@ -51248,7 +51225,7 @@
     "ingredients": [
       "carrot",
       "scallions",
-      "mild curry powder",
+      "curry powder",
       "flour",
       "egg",
       "purple cabbage",
@@ -51298,7 +51275,7 @@
       "cumin",
       "coriander",
       "egg",
-      "plain flour",
+      "flour",
       "tomato",
       "onion"
     ],
@@ -51482,7 +51459,7 @@
     "id": 2069,
     "title": "Chicken Legs Grilled",
     "ingredients": [
-      "chicken-thighs",
+      "chicken",
       "sugar",
       "salt",
       "paprika",
@@ -51832,7 +51809,7 @@
       "clove",
       "chilies",
       "onion",
-      "dark sugar",
+      "sugar",
       "thyme",
       "ground allspice",
       "pepper",
@@ -51905,7 +51882,7 @@
       "chicken",
       "olive oil",
       "garlic",
-      "provolone cheese",
+      "cheese",
       "pesto sauce",
       "olive oil"
     ],
@@ -51952,7 +51929,7 @@
     "ingredients": [
       "mayonnaise",
       "barbecue sauce",
-      "blue cheese",
+      "cheese",
       "lettuce"
     ],
     "direction": [
@@ -52037,7 +52014,7 @@
       "chicken",
       "lettuce",
       "bacon",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "In a small bowl, combine the mayonnaise, honey, mustard and garlic seasoning and blend well.",
@@ -52366,7 +52343,7 @@
     "ingredients": [
       "baby arugula",
       "onion",
-      "blue cheese",
+      "cheese",
       "olive oil",
       "oregano",
       "garlic powder",
@@ -52567,8 +52544,8 @@
     "title": "Sweet and Sticky Grilled Drumsticks",
     "ingredients": [
       "wine",
-      "dark sugar",
-      "dark sugar",
+      "sugar",
+      "sugar",
       "soy sauce",
       "ginger",
       "clove",
@@ -52655,7 +52632,7 @@
       "lemon juice",
       "lemon juice",
       "avocado",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "Marinate  breast halves in lemon, lime juice, pepper and garlic salt unrefrigerated for about 1/2 hour.",
@@ -52771,7 +52748,7 @@
     "ingredients": [
       "wonton wrappers",
       "butter",
-      "medium shrimp",
+      "shrimp",
       "onion",
       "carrot",
       "cream cheese",
@@ -52799,10 +52776,10 @@
     "id": 2125,
     "title": "Southern Deviled Eggs",
     "ingredients": [
-      "hard-boiled egg",
+      "egg",
       "mayonnaise",
       "vinegar",
-      "prepared mustard",
+      "mustard",
       "salt",
       "white pepper",
       "Worcestershire sauce"
@@ -52946,7 +52923,7 @@
     "title": "Neely's Smoked Sausage and Pepper Sandwiches",
     "ingredients": [
       "olive oil",
-      "smoked sausage",
+      "sausage",
       "bell pepper",
       "yellow bell pepper",
       "bell pepper",
@@ -53240,7 +53217,7 @@
     "id": 2144,
     "title": "Marinated Shrimp Canapes",
     "ingredients": [
-      "medium shrimp",
+      "shrimp",
       "sour cream",
       "cucumber"
     ],
@@ -53309,7 +53286,7 @@
     "title": "Buffalo Chicken Monkey Bread",
     "ingredients": [
       "chicken",
-      "blue cheese",
+      "cheese",
       "butter",
       "celery ribs",
       " chives",
@@ -53416,7 +53393,7 @@
       "egg",
       "panko breadcrumbs",
       "mayonnaise",
-      "blue cheese",
+      "cheese",
       "Worcestershire sauce",
       "salt",
       "lemon",
@@ -53454,7 +53431,7 @@
     "ingredients": [
       "rice",
       "mozzarella",
-      "plain flour",
+      "flour",
       "tomato paste",
       "basil",
       "tomato",
@@ -53525,7 +53502,7 @@
       "cornstarch",
       "cinnamon",
       "red raspberry",
-      "tart apple",
+      "apple",
       "milk",
       "sugar",
       "powdered sugar"
@@ -53798,7 +53775,7 @@
       "olive oil",
       "lemon",
       "salt",
-      "large shrimp",
+      "shrimp",
       "wonton wrappers",
       "canola oil",
       "mango",
@@ -53898,7 +53875,7 @@
     "ingredients": [
       "ginger beer",
       "butter",
-      "dark sugar",
+      "sugar",
       "sugar",
       "corn syrup",
       "molasses",
@@ -54007,7 +53984,7 @@
       "panko breadcrumbs",
       "coconut",
       "egg",
-      "small shrimp",
+      "shrimp",
       "canola oil",
       "mozzarella",
       "pineapple",
@@ -54200,7 +54177,7 @@
       "butter",
       "sugar",
       "egg",
-      "self rising flour",
+      "flour",
       "flour",
       "milk",
       "vanilla",
@@ -54245,7 +54222,7 @@
       "Worcestershire sauce",
       "garlic powder",
       "Tabasco sauce",
-      "coarse black pepper",
+      "black pepper",
       "pickle juice",
       "vodka"
     ],
@@ -54526,7 +54503,7 @@
     "title": "Cannoli Sheetcake",
     "ingredients": [
       "cheese",
-      "mascarpone cheese",
+      "cheese",
       "vanilla extract",
       "sugar",
       "condensed milk"
@@ -54600,7 +54577,7 @@
     "ingredients": [
       "chicken",
       "deli ham",
-      "provolone cheese",
+      "cheese",
       "cheese",
       "parsley",
       "milk"
@@ -54699,7 +54676,7 @@
     "id": 2211,
     "title": "Fresh Fig, Caramelized Onion and Goat Cheese Gourmet Pizza",
     "ingredients": [
-      "Pizza DoughBread Machine",
+      "pizza dough",
       "olive oil",
       "onion",
       " figs",
@@ -54784,7 +54761,7 @@
     "id": 2214,
     "title": "Red Pepper Dip",
     "ingredients": [
-      "fat-free cream cheese",
+      "cream cheese",
       "scallions",
       "garlic",
       "lemon juice"
@@ -54931,7 +54908,7 @@
       "potato",
       "olive oil",
       "milk",
-      "blue cheese",
+      "cheese",
       "scallions",
       "clove",
       "butter",
@@ -55008,7 +54985,7 @@
       "salt",
       "black pepper",
       "baked corn tortilla chips",
-      "reduced-fat cheddar cheese",
+      "cheddar cheese",
       "sour cream"
     ],
     "direction": [
@@ -55388,8 +55365,8 @@
       "parmesan cheese",
       "oregano",
       "mozzarella",
-      "swiss cheese",
-      "provolone cheese",
+      "cheese",
+      "cheese",
       "lettuce",
       "tomato",
       "onion",
@@ -55429,7 +55406,7 @@
     "id": 2242,
     "title": "Brandied Beef Stew",
     "ingredients": [
-      "beef stew meat",
+      "beef",
       "flour",
       "oregano",
       "basil",
@@ -55437,7 +55414,7 @@
       "olive oil",
       "onion",
       "carrot",
-      "beef broth",
+      "beef",
       "brandy",
       "mushroom",
       "parsley"
@@ -55519,7 +55496,7 @@
     "ingredients": [
       "butter",
       "parmesan cheese",
-      "provolone cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -55539,7 +55516,7 @@
       "olive oil",
       "cannellini beans",
       "black beans",
-      "Mexican-style tomato",
+      "tomato",
       "salsa verde",
       "corn",
       "cilantro",
@@ -55565,8 +55542,8 @@
       "celery",
       "carrot",
       "butter",
-      "medium shrimp",
-      "blue cheese"
+      "shrimp",
+      "cheese"
     ],
     "direction": [
       "Heat broiler Place dinner rolls, cut side up, on a baking sheet. Place under broiler and lightly toast, turning baking sheet to toast rolls evenly.",
@@ -55874,7 +55851,7 @@
       "black beans",
       "corn",
       " okra",
-      "Rotel tomato & chilies",
+      "tomato & chilies",
       "tomato",
       "pepper",
       "celery ribs",
@@ -56004,8 +55981,8 @@
     "id": 2265,
     "title": "Slow Cooked Tender Italian Beef",
     "ingredients": [
-      "beef chuck roast",
-      "beef broth",
+      "beef",
+      "beef",
       "basil",
       "oregano",
       "salt",
@@ -56113,8 +56090,8 @@
     "id": 2270,
     "title": "Blue Cheese Steak",
     "ingredients": [
-      "beef steaks",
-      "blue cheese",
+      "beef",
+      "cheese",
       "salt",
       "pepper",
       "butter"
@@ -56149,7 +56126,7 @@
       "salt",
       "pepper",
       "butter",
-      "beef broth",
+      "beef",
       "flour",
       "heavy cream",
       "onion powder",
@@ -56174,7 +56151,7 @@
       "turkey",
       "kidney beans",
       "pinto beans",
-      "Rotel chili fixins tomato",
+      "tomato",
       "tomato paste",
       "onion",
       "chili powder",
@@ -56290,7 +56267,7 @@
     "title": "Tailgate Club Sandwich",
     "ingredients": [
       "lettuce",
-      "swiss cheese",
+      "cheese",
       "beef",
       "tomato"
     ],
@@ -56686,12 +56663,12 @@
     "id": 2294,
     "title": "Filling Buffalo Chicken Casserole",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "water",
       "olive oil",
       "chicken",
       "celery",
-      "stewed tomato"
+      "tomato"
     ],
     "direction": [
       "Cook rice in water 20 minutes as directed on package.",
@@ -56761,7 +56738,7 @@
     "id": 2297,
     "title": "Grandpa's Apple Crisp (Crumble)",
     "ingredients": [
-      "apples",
+      "apple",
       "water",
       "sugar",
       "quick oats",
@@ -57091,7 +57068,7 @@
     "title": "Boston Cream Pie",
     "ingredients": [
       "egg",
-      "cake flour",
+      "flour",
       "sugar",
       "baking powder",
       "salt",
@@ -57179,7 +57156,7 @@
     "ingredients": [
       "sugar",
       "vanilla extract",
-      "extra-large egg",
+      "egg",
       "flour",
       "cinnamon",
       "baking soda",
@@ -57274,7 +57251,7 @@
       "lemon",
       "pineapple",
       "butter",
-      "unsifted flour",
+      "flour",
       "sugar"
     ],
     "direction": [
@@ -57424,7 +57401,7 @@
     "id": 2323,
     "title": "Homemade Yellow Cake and Variations",
     "ingredients": [
-      "cake flour",
+      "flour",
       "baking powder",
       "salt",
       "sugar",
@@ -57504,7 +57481,7 @@
       "egg",
       "vanilla extract",
       "sugar",
-      "small-curd cottage cheese",
+      "cheese",
       "egg",
       "vanilla extract",
       "lemon juice",
@@ -57555,7 +57532,7 @@
     "title": "Jiffy Cinnamon Rolls with Cream Cheese Frosting",
     "ingredients": [
       "flour",
-      "fast rising yeast",
+      "yeast",
       "salt",
       "water",
       "butter",
@@ -57815,7 +57792,7 @@
       "butter",
       "butter",
       "sugar",
-      "dark sugar",
+      "sugar",
       "egg",
       "salt",
       "vanilla extract",
@@ -57987,7 +57964,7 @@
       "sugar",
       "marsala",
       "sugar",
-      "mascarpone cheese",
+      "cheese",
       "brandy",
       "vanilla",
       "Savoiardi cookies",
@@ -58024,7 +58001,7 @@
       "egg",
       "sugar",
       "vanilla",
-      "apples",
+      "apple",
       "flour",
       "cinnamon",
       "baking soda",
@@ -58182,7 +58159,7 @@
       "salt",
       "milk",
       "vanilla extract",
-      "salted peanuts",
+      "peanuts",
       "butter"
     ],
     "direction": [
@@ -58373,10 +58350,10 @@
     "title": "Tiramisu Layer Cake",
     "ingredients": [
       "water",
-      "coffee powder",
+      "coffee",
       "coffee",
       "Kahlua",
-      "mascarpone cheese",
+      "cheese",
       "powdered sugar",
       "Kahlua",
       "heavy cream",
@@ -58624,7 +58601,7 @@
     "id": 2366,
     "title": "Rice Pudding",
     "ingredients": [
-      "medium grain rice",
+      "rice",
       "water",
       "salt",
       "sugar",
@@ -58744,8 +58721,8 @@
     "id": 2370,
     "title": "Rocky Road Cookie Pizza",
     "ingredients": [
-      "salted peanuts",
-      "miniature marshmallow"
+      "peanuts",
+      "marshmallow"
     ],
     "direction": [
       "Preheat oven at 350 degrees.",
@@ -58791,7 +58768,7 @@
     "title": "Easy Key Lime Pie",
     "ingredients": [
       "condensed milk",
-      "key lemon juice",
+      "lemon juice",
       "graham cracker pie crusts",
       "lemon"
     ],
@@ -58811,7 +58788,7 @@
       "sugar",
       "butter",
       "cinnamon",
-      "miniature marshmallows",
+      "marshmallow",
       "white chocolate chips",
       "canola oil",
       "Grand Marnier"
@@ -59236,12 +59213,12 @@
       "salt",
       "baking powder",
       "canola oil",
-      "key lemon juice",
+      "lemon juice",
       "vanilla extract",
       "egg",
       "zucchini",
       "sugar",
-      "key lemon"
+      "lemon"
     ],
     "direction": [
       "For the bread: Position an oven rack in the center of the oven and preheat to 350 degrees F. Spray a 9-inch round tube pan with nonstick cooking spray; set aside.",
@@ -59278,7 +59255,7 @@
       "puff pastry",
       "icing sugar",
       "butter",
-      "caster sugar"
+      "sugar"
     ],
     "direction": [
       "Preheat oven to 200\u00b0C.",
@@ -59838,7 +59815,7 @@
       "salt",
       "butter",
       "sugar",
-      "dark sugar",
+      "sugar",
       "egg",
       "vanilla",
       "oats",
@@ -60062,7 +60039,7 @@
     "title": "Holly Christmas Cookies",
     "ingredients": [
       "margarine",
-      "marshmallows",
+      "marshmallow",
       "vanilla"
     ],
     "direction": [
@@ -60099,7 +60076,7 @@
     "id": 2423,
     "title": "Easy Christmas Cookies",
     "ingredients": [
-      "miniature marshmallows",
+      "marshmallow",
       "margarine"
     ],
     "direction": [
@@ -60146,7 +60123,7 @@
       "beer",
       "cinnamon",
       "clove",
-      "oranges, zest of",
+      "orange",
       "sugar",
       "semolina",
       "flour",
@@ -60154,7 +60131,7 @@
       "baking powder",
       "salt",
       "sugar",
-      "thyme honey",
+      "honey",
       "water",
       "walnut"
     ],
@@ -60249,7 +60226,7 @@
       "sugar",
       "vanilla",
       "pecans",
-      "cake flour",
+      "flour",
       "salt",
       "powdered sugar"
     ],
@@ -61434,7 +61411,7 @@
       "cinnamon",
       "clove",
       "butter",
-      "dark sugar",
+      "sugar",
       "egg",
       "molasses",
       "vanilla",
@@ -61892,7 +61869,7 @@
     "id": 2492,
     "title": "Grilled Cheese, Diner Style",
     "ingredients": [
-      "American cheese",
+      "cheese",
       "mayonnaise"
     ],
     "direction": [
@@ -61917,7 +61894,7 @@
       "ketchup",
       "half-and-half",
       "vinegar",
-      "dark sugar",
+      "sugar",
       "ketchup"
     ],
     "direction": [
@@ -62017,7 +61994,7 @@
       "Tabasco sauce",
       "white pepper",
       "bacon",
-      "medium shrimp",
+      "shrimp",
       "black pepper",
       "salt",
       "flour",
@@ -62046,9 +62023,9 @@
       "celery rib",
       "tomato paste",
       "clove",
-      "unbleached flour",
+      "flour",
       "red wine",
-      "beef broth",
+      "beef",
       "Worcestershire sauce"
     ],
     "direction": [
@@ -62075,10 +62052,10 @@
       "paprika",
       "salt",
       "pepper",
-      "long grain rice",
+      "rice",
       "tomato",
       "chicken broth",
-      "medium shrimp",
+      "shrimp",
       "parsley",
       "onion"
     ],
@@ -62102,7 +62079,7 @@
       "pepper",
       "salt",
       "paprika",
-      "skim milk",
+      "milk",
       "cheddar cheese"
     ],
     "direction": [
@@ -62171,13 +62148,13 @@
     "title": "The Best Low-Fat Apple Pie",
     "ingredients": [
       "flour",
-      "sugar substitute",
+      "sugar",
       "salt",
       "cinnamon",
       "shortening",
       "flour",
       "water",
-      "apples"
+      "apple"
     ],
     "direction": [
       "Crust: Mix flour, salt, and shortening until crumbly. Add cold water 1 tbsp at a time until it forms a ball. Roll out 1/2 mix to line a 9 inch pie pan.",
@@ -62258,7 +62235,7 @@
       "ziti pasta",
       "onion",
       "beef",
-      "provolone cheese",
+      "cheese",
       "sour cream",
       "mozzarella",
       "parmesan cheese"
@@ -62312,11 +62289,11 @@
     "id": 2509,
     "title": "Mac 'n Cheese With Grilled Chicken",
     "ingredients": [
-      "corkscrew macaroni",
+      "macaroni",
       "shallot",
       "olive oil",
       "heavy cream",
-      "boursin cheese",
+      "cheese",
       "chicken",
       "olive oil",
       "parsley",
@@ -62343,7 +62320,7 @@
     "id": 2510,
     "title": "Creamy Crock Pot Mac 'n' Cheese",
     "ingredients": [
-      "shell macaroni",
+      "macaroni",
       "margarine",
       "egg",
       "cheddar cheese",
@@ -62428,18 +62405,18 @@
     "id": 2514,
     "title": "Savory Braised Short Ribs",
     "ingredients": [
-      "beef short ribs with bones",
-      "condensed beef broth",
+      "beef",
+      "condensed beef",
       "onion",
       "water",
       "peppercorns",
       "Worcestershire sauce",
       "clove",
       "marjoram",
-      "unbleached flour",
+      "flour",
       "water",
       "sour cream",
-      "prepared mustard",
+      "mustard",
       "salt",
       "tomato",
       "parsley"
@@ -62488,7 +62465,7 @@
       "beef",
       "clove",
       "flour",
-      "beef broth",
+      "beef",
       "tomato",
       "thyme",
       "rosemary",
@@ -62581,7 +62558,7 @@
     "id": 2520,
     "title": "Beef Manhattans",
     "ingredients": [
-      "deli beef",
+      "beef",
       "potato",
       "onion",
       "butter",
@@ -62605,7 +62582,7 @@
       "clove",
       "Worcestershire sauce",
       "mushroom",
-      "beef broth",
+      "beef",
       "sour cream",
       "salt",
       "pepper",
@@ -62713,7 +62690,7 @@
     "id": 2525,
     "title": "Chicken Parmesan Express",
     "ingredients": [
-      "angel hair pasta",
+      "pasta",
       "chicken",
       "egg",
       "butter",
@@ -63098,7 +63075,7 @@
       "butter",
       "flour",
       "milk",
-      "American cheese",
+      "cheese",
       "cheddar cheese",
       "salt",
       "macaroni"
@@ -63119,7 +63096,7 @@
     "id": 2541,
     "title": "Grilled Cheese, Diner Style",
     "ingredients": [
-      "American cheese",
+      "cheese",
       "mayonnaise"
     ],
     "direction": [
@@ -63245,7 +63222,7 @@
       "cheese",
       "celery ribs",
       "carrot",
-      "blue cheese",
+      "cheese",
       "butter"
     ],
     "direction": [
@@ -63259,7 +63236,7 @@
     "id": 2548,
     "title": "Grilled Cheese With Spinach & Tomato",
     "ingredients": [
-      "American cheese",
+      "cheese",
       "tomato",
       "margarine",
       "salt",
@@ -63290,7 +63267,7 @@
       "mayonnaise",
       "mozzarella",
       "garlic powder",
-      "Season-All salt",
+      "salt",
       "butter"
     ],
     "direction": [
@@ -63390,7 +63367,7 @@
       "butter",
       "pears",
       "arugula",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "Brush one side of each bead slice with butter.",
@@ -63458,7 +63435,7 @@
     "id": 2558,
     "title": "Best Grilled Cheese and Turkey Sandwich",
     "ingredients": [
-      "provolone cheese",
+      "cheese",
       "turkey",
       "mayonnaise"
     ],
@@ -63511,7 +63488,7 @@
       "mustard",
       "butter",
       "pickles",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00b0.",
@@ -63526,7 +63503,7 @@
     "id": 2562,
     "title": "Baked Grilled Cheese",
     "ingredients": [
-      "mild cheddar cheese",
+      "cheddar cheese",
       "mozzarella",
       "butter"
     ],
@@ -63547,7 +63524,7 @@
     "title": "Hearty Grilled Cheese",
     "ingredients": [
       "Miracle Whip",
-      "American cheese",
+      "cheese",
       "onion"
     ],
     "direction": [
@@ -63562,7 +63539,7 @@
     "title": "Grilled Cheese & Tomato Sandwich",
     "ingredients": [
       "tomato",
-      "swiss cheese",
+      "cheese",
       "mayonnaise",
       "salt",
       "pepper",
@@ -63588,11 +63565,11 @@
       "olive oil",
       "onion",
       "butter",
-      "grape tomato",
+      "tomato",
       "mushroom",
       "wine",
       "thyme sprigs",
-      "provolone cheese",
+      "cheese",
       "cheese"
     ],
     "direction": [
@@ -63687,7 +63664,7 @@
     "ingredients": [
       "mustard",
       "ham",
-      "swiss cheese",
+      "cheese",
       "butter"
     ],
     "direction": [
@@ -63724,7 +63701,7 @@
     "title": "Croque Monsieur/ Madam",
     "ingredients": [
       "ham",
-      "hard cheese",
+      "cheese",
       "egg"
     ],
     "direction": [
@@ -63773,8 +63750,8 @@
     "title": "Jude's Grilled Ham and Egg Sandwich",
     "ingredients": [
       "deli ham",
-      "swiss cheese",
-      "American cheese",
+      "cheese",
+      "cheese",
       "egg",
       "mayonnaise"
     ],
@@ -63797,7 +63774,7 @@
       "egg",
       "water",
       "butter",
-      "provolone cheese",
+      "cheese",
       "milk",
       "mayonnaise",
       "pepper",
@@ -63839,7 +63816,7 @@
     "id": 2578,
     "title": "Easy Pepperoni Grill Cheese Sandwiches",
     "ingredients": [
-      "American cheese",
+      "cheese",
       "cheese",
       "butter",
       "mustard"
@@ -64008,8 +63985,8 @@
       "salt",
       "pepper",
       "milk",
-      "hard-boiled egg",
-      "swiss cheese",
+      "egg",
+      "cheese",
       "parmesan cheese",
       "parsley"
     ],
@@ -64099,7 +64076,7 @@
       "dark molasses",
       "dark molasses",
       "butter",
-      "unbleached flour",
+      "flour",
       "salt",
       "baking soda",
       "baking powder",
@@ -64248,7 +64225,7 @@
       "olive oil",
       "mortadella",
       "water",
-      "tea bags",
+      "tea",
       "dried sage",
       "sugar"
     ],
@@ -64282,8 +64259,8 @@
     "ingredients": [
       "Bisquick",
       "sugar",
-      "skim milk",
-      "applesauce",
+      "milk",
+      "appleauce",
       "egg"
     ],
     "direction": [
@@ -64526,7 +64503,7 @@
     "id": 2607,
     "title": "The Best Toad in the Hole. Comfort at Its Best",
     "ingredients": [
-      "plain flour",
+      "flour",
       "egg",
       "milk",
       "salt",
@@ -64603,7 +64580,7 @@
     "id": 2610,
     "title": "Auberge French Lavender Pancakes With Lavender Honey",
     "ingredients": [
-      "plain flour",
+      "flour",
       "sugar",
       "salt",
       "baking powder",
@@ -64822,7 +64799,7 @@
     "id": 2618,
     "title": "Peppered Sausage Gravy and Biscuits",
     "ingredients": [
-      "mild sausage",
+      "sausage",
       "garlic",
       "butter",
       "flour",
@@ -64978,7 +64955,7 @@
     "ingredients": [
       "mixed berries",
       "powdered sugar",
-      "vanilla yogurt",
+      "yogurt",
       "egg",
       "milk",
       "sugar",
@@ -65214,7 +65191,7 @@
     "ingredients": [
       "egg",
       "buttermilk",
-      "American cheese",
+      "cheese",
       "butter"
     ],
     "direction": [
@@ -65381,7 +65358,7 @@
       "black beans",
       "cumin",
       "chili powder",
-      "olive oil flavored cooking spray",
+      "olive oil",
       "egg",
       "cilantro lettuce",
       "queso fresco",
@@ -65495,7 +65472,7 @@
     "ingredients": [
       "chicken",
       "chicken broth",
-      "Ro-Tel tomato",
+      "tomato",
       "cheese",
       "spaghetti"
     ],
@@ -65532,7 +65509,7 @@
       "rice",
       "butter",
       "half-and-half",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "Sauate onions in butter til soft.",
@@ -65607,7 +65584,7 @@
     "ingredients": [
       "beef",
       "garlic",
-      "mild cheddar cheese",
+      "cheddar cheese",
       "oregano"
     ],
     "direction": [
@@ -65898,7 +65875,7 @@
       "butter",
       "onion",
       "bell pepper",
-      "Rotel tomato & chilies",
+      "tomato & chilies",
       "chicken broth",
       "corn tortillas",
       "cheddar cheese"
@@ -65940,7 +65917,7 @@
     "title": "Chili dog Casserole",
     "ingredients": [
       "onion",
-      "prepared mustard",
+      "mustard",
       "cheddar cheese"
     ],
     "direction": [
@@ -65982,7 +65959,7 @@
       "butter",
       "flour",
       "cream cheese",
-      "blue cheese",
+      "cheese",
       "milk",
       "black pepper",
       "butter"
@@ -66113,7 +66090,7 @@
       "clove",
       "Worcestershire sauce",
       "mushroom",
-      "beef broth",
+      "beef",
       "sour cream",
       "salt",
       "pepper",
@@ -66192,7 +66169,7 @@
     "id": 2673,
     "title": "Shrimp Casserole",
     "ingredients": [
-      "farfalle pasta",
+      "pasta",
       "butter",
       "clove",
       "flour",
@@ -66200,7 +66177,7 @@
       "half-and-half cream",
       "salt",
       "pepper",
-      "medium shrimp",
+      "shrimp",
       "dried dill weed",
       "parmesan cheese"
     ],
@@ -66226,7 +66203,7 @@
     "id": 2674,
     "title": "Pizza Casserole",
     "ingredients": [
-      "bow tie pasta",
+      "pasta",
       "onion",
       "ham",
       "mozzarella",
@@ -66260,7 +66237,7 @@
       "onion",
       "bell pepper",
       "clove",
-      " small shrimp",
+      " shrimp",
       "tomato",
       "salt",
       "pepper"
@@ -66638,7 +66615,7 @@
     "title": "Apple French Toast Casserole",
     "ingredients": [
       "butter",
-      "apples",
+      "apple",
       "sugar",
       "water",
       "cinnamon",
@@ -66879,7 +66856,7 @@
       "bell pepper",
       "celery",
       "butter",
-      "mild cheddar cheese",
+      "cheddar cheese",
       "cheese",
       "sugar",
       "cilantro"
@@ -66926,7 +66903,7 @@
       "honey",
       "pine nuts",
       "basil",
-      "feta cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat grill to medium high heat.",
@@ -66996,7 +66973,7 @@
       "chicken",
       "curry powder",
       "butter",
-      "apples",
+      "apple",
       "sugar",
       "wine",
       "yogurt",
@@ -67083,10 +67060,10 @@
     "ingredients": [
       "romaine lettuce",
       "dried cranberries",
-      "mandarin oranges",
+      "mandarin orange",
       "pecans",
       "chicken",
-      "blue cheese"
+      "cheese"
     ],
     "direction": [
       "Grill the chicken on an outdoor grill or a Foreman grill for about 9 minutes.",
@@ -67158,7 +67135,7 @@
       "chives",
       "mayonnaise",
       "sour cream",
-      "colby-cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 425.",
@@ -67243,7 +67220,7 @@
       "pepper",
       " pear",
       "ham",
-      "baby swiss cheese",
+      "cheese",
       "butter"
     ],
     "direction": [
@@ -67319,7 +67296,7 @@
       "pomegranate seed",
       "pear",
       "walnut pieces",
-      "blue cheese"
+      "cheese"
     ],
     "direction": [
       "Place arugula, pomegranate seeds and walnut pieces in a salad bowl.  Pour in dressing and toss.",
@@ -67414,7 +67391,7 @@
     "title": "Baked Pork Chops and Apples",
     "ingredients": [
       "butter",
-      "apples",
+      "apple",
       "sugar",
       "cinnamon"
     ],
@@ -67481,7 +67458,7 @@
       "rice",
       "dry vermouth",
       "chestnuts",
-      "savoy cabbage",
+      "cabbage",
       "butter",
       "parmesan cheese"
     ],
@@ -67624,7 +67601,7 @@
       "sweet potato",
       "milk",
       "egg",
-      "feta cheese",
+      "cheese",
       "pepper",
       "black pepper",
       "parmesan cheese",
@@ -67689,7 +67666,7 @@
       "pear",
       "butter",
       "egg",
-      "gruyere cheese"
+      "cheese"
     ],
     "direction": [
       "Melt 3 tablespoon of the butter in saut\u00e9 pan.",
@@ -67832,10 +67809,10 @@
       "garlic powder",
       "salt",
       "onion",
-      "stewed tomato",
+      "tomato",
       "chili powder",
       "bay leaf",
-      "beef broth",
+      "beef",
       "dried pepper",
       "butter",
       "sugar",
@@ -67892,7 +67869,7 @@
       "onion",
       "garlic",
       "vegetable broth",
-      "orzo pasta",
+      "pasta",
       "parmesan cheese",
       "basil"
     ],
@@ -68101,7 +68078,7 @@
       "black pepper",
       "coconut milk",
       "bell pepper",
-      "large shrimp",
+      "shrimp",
       "rice",
       "lemon juice",
       "cilantro"
@@ -68249,7 +68226,7 @@
       "Worcestershire sauce",
       "lemon juice",
       "salt",
-      "prepared mustard",
+      "mustard",
       "black pepper",
       "butter",
       "paprika",
@@ -68480,7 +68457,7 @@
       "salt",
       "black peppercorns",
       "olive oil",
-      "oranges",
+      "orange",
       "fennel bulb",
       "romaine lettuce"
     ],
@@ -68502,7 +68479,7 @@
     "ingredients": [
       "salmon fillet",
       "sour cream",
-      "prepared mustard",
+      "mustard",
       "onion",
       "dried dill weed",
       "mayonnaise",
@@ -68786,8 +68763,8 @@
     "title": "Baked Salmon With Mascarpone Spinach",
     "ingredients": [
       "spinach lettuce",
-      "Philadelphia Cream Cheese",
-      "mascarpone cheese",
+      "cream cheese",
+      "cheese",
       "ground pepper",
       "salmon fillets",
       "olive oil",
@@ -68811,7 +68788,7 @@
       "shallot",
       "carrot",
       "celery",
-      "napa cabbage",
+      "cabbage",
       "clove",
       "broth",
       "bay leaf",
@@ -68882,7 +68859,7 @@
     "id": 2774,
     "title": "Slow-Roasted Salmon With Cabbage, Bacon & Dill",
     "ingredients": [
-      "savoy cabbage",
+      "cabbage",
       "bacon",
       "onion",
       "water",
@@ -69369,7 +69346,7 @@
       "wine",
       "onion",
       "carrot",
-      "kaffir lemon lettuce",
+      "lemon lettuce",
       "garlic",
       "lemongrass",
       "salt",
@@ -69449,7 +69426,7 @@
     "id": 2798,
     "title": "Smoked Salmon Pancakes",
     "ingredients": [
-      "plain flour",
+      "flour",
       "baking soda",
       "baking powder",
       "egg",
@@ -69517,7 +69494,7 @@
     "title": "Seared Salmon With Linguine and Ramp Pesto",
     "ingredients": [
       "olive oil",
-      "asiago cheese",
+      "cheese",
       "tarragon",
       "linguine",
       "salmon fillets"
@@ -69625,7 +69602,7 @@
     "ingredients": [
       "smoked salmon",
       "shallot",
-      "gruyere cheese",
+      "cheese",
       "flour",
       "parmesan cheese",
       "milk",
@@ -69693,7 +69670,7 @@
     "title": "Salmon Pasta Salad",
     "ingredients": [
       "red salmon",
-      "rotini pasta",
+      "pasta",
       "carrot",
       "celery",
       "ripe olive",
@@ -69796,7 +69773,7 @@
       "milk",
       "salmon fillet",
       "peas",
-      "swiss cheese",
+      "cheese",
       "cheddar cheese",
       "dill weed",
       "onion"
@@ -70390,7 +70367,7 @@
       "tempeh",
       "cucumbers",
       "shallots",
-      "blue cheese",
+      "cheese",
       "mayonnaise",
       "carrot"
     ],
@@ -70494,7 +70471,7 @@
       "onion",
       "pepper",
       "kidney beans",
-      "stewed tomato",
+      "tomato",
       "tomato paste",
       "chili powder",
       "garlic powder",
@@ -70775,7 +70752,7 @@
       "celery",
       " chives",
       " Italian parsley",
-      "coarse black pepper",
+      "black pepper",
       "mayonnaise"
     ],
     "direction": [
@@ -70828,7 +70805,7 @@
     "ingredients": [
       "chickpeas",
       "cucumber",
-      "grape tomato",
+      "tomato",
       "onion",
       "clove",
       "parsley",
@@ -70867,7 +70844,7 @@
     "id": 2860,
     "title": "Philadelphia Jewish Apple Cake",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "flour",
@@ -70908,7 +70885,7 @@
       "baking soda",
       "salt",
       "buttermilk",
-      "tart apples"
+      "apple"
     ],
     "direction": [
       "cinnamon could be added to the batter ( about 1 teaspoon or less).",
@@ -70927,7 +70904,7 @@
     "id": 2862,
     "title": "Mom's Homemade Apple Cider (Non-Alchoholic)",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "allspice"
@@ -70956,7 +70933,7 @@
       "egg",
       "sugar",
       "vanilla",
-      "apples",
+      "apple",
       "flour",
       "cinnamon",
       "baking soda",
@@ -70982,7 +70959,7 @@
       "butter",
       "salt",
       "water",
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "flour",
@@ -71009,7 +70986,7 @@
     "id": 2865,
     "title": "Mom's Apple Crisp",
     "ingredients": [
-      "apples",
+      "apple",
       "flour",
       "sugar",
       "butter"
@@ -71036,7 +71013,7 @@
       "egg",
       "sugar",
       "vanilla",
-      "apples",
+      "apple",
       "walnut",
       "flour"
     ],
@@ -71086,7 +71063,7 @@
     "id": 2868,
     "title": "Apple Butter Muffins",
     "ingredients": [
-      "unbleached flour",
+      "flour",
       "baking powder",
       "baking soda",
       "salt",
@@ -71125,7 +71102,7 @@
       "water",
       "salt",
       "baking powder",
-      "granny smith apples",
+      "granny smith apple",
       "cinnamon",
       "butter",
       "sugar"
@@ -71147,14 +71124,14 @@
     "id": 2870,
     "title": "Apple or Pear Clafouti (An Easy French Dessert)",
     "ingredients": [
-      "plain flour",
+      "flour",
       "sugar",
       "baking powder",
       "egg",
       "milk",
       "vanilla extract",
       "butter",
-      "apples"
+      "apple"
     ],
     "direction": [
       "Sift flour, sugar and baking powder into a bowl.",
@@ -71197,7 +71174,7 @@
     "title": "Individual Puff Pastry Apple Pies",
     "ingredients": [
       "puff pastry",
-      "red baking apples",
+      "red baking apple",
       "sugar",
       "flour",
       "lemon juice",
@@ -71281,7 +71258,7 @@
     "id": 2875,
     "title": "Tarte Aux Pommes (French Apple - Custard Tart)",
     "ingredients": [
-      "granny smith apples",
+      "granny smith apple",
       "sugar",
       "sugar",
       "cinnamon",
@@ -71305,7 +71282,7 @@
     "id": 2876,
     "title": "Croustade Aux Pommes Et Erable",
     "ingredients": [
-      "apples",
+      "apple",
       "maple syrup",
       "flour",
       "oatmeal",
@@ -71327,7 +71304,7 @@
     "id": 2877,
     "title": "Grandma Geldner's Apfel Kuchen (Apple Kuchen)",
     "ingredients": [
-      "baking apples",
+      "baking apple",
       "flour",
       "baking powder",
       "sugar",
@@ -71363,7 +71340,7 @@
       "butter",
       "egg",
       "milk",
-      "apples",
+      "apple",
       "sugar",
       "cinnamon"
     ],
@@ -71383,7 +71360,7 @@
     "id": 2879,
     "title": "Appel Salade - Apple Salad",
     "ingredients": [
-      "apples",
+      "apple",
       "onion",
       "vinegar",
       "salt",
@@ -71422,7 +71399,7 @@
     "id": 2881,
     "title": "Ham-Stuffed Apples",
     "ingredients": [
-      "red apples",
+      "apple",
       "ham",
       "butter",
       "raisin",
@@ -71442,7 +71419,7 @@
     "id": 2882,
     "title": "Cracker Barrel Fried Apples",
     "ingredients": [
-      "golden delicious apples",
+      "golden delicious apple",
       "cornstarch",
       "apple pie spice",
       "sugar"
@@ -71463,12 +71440,12 @@
     "id": 2883,
     "title": "Spicy Apple Pancake/Fritters",
     "ingredients": [
-      "red apple",
+      "apple",
       "egg",
       "flour",
       "milk",
       "cinnamon",
-      "sugar substitute",
+      "sugar",
       "vanilla essence",
       "pepper",
       "cumin"
@@ -71492,7 +71469,7 @@
       "clove",
       "curry paste",
       "coconut milk",
-      "granny smith apples",
+      "granny smith apple",
       "coriander"
     ],
     "direction": [
@@ -71530,7 +71507,7 @@
     "id": 2886,
     "title": "Butternut Apple Casserole",
     "ingredients": [
-      "apples",
+      "apple",
       "lemon juice",
       "cinnamon",
       "sugar"
@@ -71556,7 +71533,7 @@
       "baking powder",
       "baking soda",
       "salt",
-      "apples"
+      "apple"
     ],
     "direction": [
       "Preheat oven to 350 degrees F.",
@@ -71578,7 +71555,7 @@
       "egg",
       "butter",
       "milk",
-      "apples",
+      "apple",
       "cinnamon",
       "sugar"
     ],
@@ -71597,7 +71574,7 @@
     "id": 2889,
     "title": "Far Breton Aux Pommes (Apple Pie)",
     "ingredients": [
-      "apples",
+      "apple",
       "butter",
       "flour",
       "sugar",
@@ -71679,7 +71656,7 @@
       "flour",
       "cream cheese",
       "egg",
-      "apples",
+      "apple",
       "cinnamon"
     ],
     "direction": [
@@ -71704,7 +71681,7 @@
     "ingredients": [
       "sugar",
       "flour",
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "pepper",
@@ -71753,7 +71730,7 @@
     "id": 2895,
     "title": "Edna's Apple Crumble (Aka. Apple Crisp)",
     "ingredients": [
-      "granny smith apples",
+      "granny smith apple",
       "sugar",
       "flour",
       "oats",
@@ -71773,7 +71750,7 @@
     "id": 2896,
     "title": "Toffee Apple Tart Rustica",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "flour",
       "heavy cream",
@@ -71796,7 +71773,7 @@
     "title": "Caramel Apple Salad",
     "ingredients": [
       "pineapple",
-      "Red Delicious apples",
+      "Red Delicious apple",
       "sugar-free fat-free butterscotch pudding",
       "fat-free cool whip"
     ],
@@ -71854,7 +71831,7 @@
     "id": 2900,
     "title": "Dream Apple and Cinnamon Sorbet",
     "ingredients": [
-      "apples",
+      "apple",
       "powdered sugar",
       "cinnamon",
       "milk"
@@ -71882,7 +71859,7 @@
       "vanilla",
       "sugar",
       "egg",
-      "apples",
+      "apple",
       "sugar",
       "cornstarch",
       "salt",
@@ -71914,7 +71891,7 @@
       "sugar",
       "salt",
       "butter",
-      "golden delicious apples",
+      "golden delicious apple",
       "sugar",
       "flour",
       "cinnamon",
@@ -71942,7 +71919,7 @@
       "flour",
       "sugar",
       "baking powder",
-      "apples",
+      "apple",
       "cinnamon",
       "apple"
     ],
@@ -72015,7 +71992,7 @@
       "flour",
       "baking soda",
       "salt",
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "flour",
@@ -72032,7 +72009,7 @@
     "title": "Apple Turnovers",
     "ingredients": [
       " puff pastry",
-      "granny smith apples",
+      "granny smith apple",
       "sugar",
       "flour",
       "cinnamon",
@@ -72059,7 +72036,7 @@
       "lemon juice",
       "sugar",
       "cinnamon",
-      "apples",
+      "apple",
       "raisin",
       "flour",
       "sugar",
@@ -72086,7 +72063,7 @@
     "ingredients": [
       "sugar-free fat-free butterscotch pudding",
       "pineapple",
-      "apples",
+      "apple",
       "fat-free cool whip"
     ],
     "direction": [
@@ -72109,7 +72086,7 @@
       "butter",
       "milk",
       "egg",
-      "apples",
+      "apple",
       "butter",
       "sugar",
       "cinnamon",
@@ -72133,7 +72110,7 @@
     "id": 2911,
     "title": "Easy & Delicious Apple Crumble (Gluten Free)",
     "ingredients": [
-      "gala apples",
+      "gala apple",
       "sugar",
       "butter",
       "cinnamon"
@@ -72154,7 +72131,7 @@
     "id": 2912,
     "title": "Awesome Apple Crisp",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "flour",
       "cinnamon",
@@ -72183,7 +72160,7 @@
     "id": 2913,
     "title": "Ultimate Apple Pecan Crisp",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "flour",
@@ -72269,7 +72246,7 @@
       "walnut",
       "vanilla extract",
       "milk",
-      "demerara sugar"
+      "sugar"
     ],
     "direction": [
       "Heat oven to 400.",
@@ -72285,7 +72262,7 @@
     "ingredients": [
       "Classic Pie Crust, Idiot Proof Step-By-Step Photo Tutorial",
       "butter",
-      "granny smith apples",
+      "granny smith apple",
       "sugar",
       "sugar",
       "flour",
@@ -72321,7 +72298,7 @@
     "id": 2918,
     "title": "Bourbon Apple Crisp Shooters With Bourbon Cream",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "Bourbon",
@@ -72353,7 +72330,7 @@
       "tortillas",
       "cinnamon",
       "sugar",
-      "baking apples",
+      "baking apple",
       "lemon juice",
       "sugar",
       "Amaretto",
@@ -72379,7 +72356,7 @@
     "id": 2920,
     "title": "Hot Baked Cinnamon Apples",
     "ingredients": [
-      "apples",
+      "apple",
       "cinnamon",
       "sugar",
       "lemon juice",
@@ -72401,7 +72378,7 @@
     "id": 2921,
     "title": "Quick & Easy Apple Crisp",
     "ingredients": [
-      "tart apples",
+      "apple",
       "lemon juice",
       "sugar",
       "cinnamon",
@@ -72458,7 +72435,7 @@
       "salt",
       "egg",
       "vanilla",
-      "apples",
+      "apple",
       "walnut",
       "sugar",
       "butter"
@@ -72486,7 +72463,7 @@
       "cinnamon",
       "salt",
       "ginger",
-      "fast rising yeast",
+      "yeast",
       "butter"
     ],
     "direction": [
@@ -72516,7 +72493,7 @@
     "id": 2925,
     "title": "Swedish Apple Pie",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "butter",
@@ -72539,7 +72516,7 @@
     "id": 2926,
     "title": "Pioneer Woman Apple Dumplings",
     "ingredients": [
-      "granny smith apples",
+      "granny smith apple",
       "butter",
       "sugar",
       "vanilla",
@@ -72571,7 +72548,7 @@
       "salt",
       "egg",
       "apple",
-      "apples",
+      "apple",
       "walnut",
       "sugar",
       "cinnamon",
@@ -72611,7 +72588,7 @@
       "sugar",
       "salt",
       "butter",
-      "apples",
+      "apple",
       "cornstarch",
       "cinnamon",
       "ground pepper",
@@ -72645,7 +72622,7 @@
       "pepper",
       "allspice",
       "salt",
-      "apples",
+      "apple",
       "sugar",
       "flour",
       "butter",
@@ -72678,7 +72655,7 @@
       "butter",
       "cheddar cheese",
       "water",
-      "apples",
+      "apple",
       "lemon",
       "sugar",
       "cornstarch",
@@ -72686,7 +72663,7 @@
       "salt",
       "butter",
       "heavy cream",
-      "turbinado sugar",
+      "sugar",
       "ice cream"
     ],
     "direction": [
@@ -72703,7 +72680,7 @@
     "id": 2931,
     "title": "Apple or Pear Crisp for One",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "quick-cooking oats",
       "flour",
@@ -72731,7 +72708,7 @@
       "salt",
       "sour cream",
       "vanilla extract",
-      "apples",
+      "apple",
       "sugar",
       "flour",
       "cinnamon",
@@ -72781,7 +72758,7 @@
       "salt",
       "baking soda",
       "cinnamon",
-      "apples",
+      "apple",
       "sugar",
       "milk",
       "butter"
@@ -72804,7 +72781,7 @@
       "corn syrup",
       "condensed milk",
       "vanilla",
-      "tart apples"
+      "apple"
     ],
     "direction": [
       "Insert 1 wooden stick into each apple.",
@@ -72856,7 +72833,7 @@
       "cinnamon",
       "baking soda",
       "salt",
-      "apples"
+      "apple"
     ],
     "direction": [
       "In large bowl, beat eggs and oil until smooth.",
@@ -72872,7 +72849,7 @@
     "title": "Apple French Toast Casserole",
     "ingredients": [
       "butter",
-      "apples",
+      "apple",
       "sugar",
       "water",
       "cinnamon",
@@ -72902,7 +72879,7 @@
     "id": 2939,
     "title": "Baked Maple Apple Pie Cups",
     "ingredients": [
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "maple syrup",
@@ -72934,7 +72911,7 @@
       "baking soda",
       "salt",
       "cinnamon",
-      "apples",
+      "apple",
       "walnut"
     ],
     "direction": [
@@ -72976,7 +72953,7 @@
       "cinnamon",
       "vanilla extract",
       "salt",
-      "baking apples",
+      "baking apple",
       "pecan halves"
     ],
     "direction": [
@@ -73001,7 +72978,7 @@
     "id": 2943,
     "title": "Apple Filling for Pies",
     "ingredients": [
-      "apples",
+      "apple",
       "lemon juice",
       "sugar",
       "cornstarch",
@@ -73025,7 +73002,7 @@
     "title": "Baked Apple Cider Donuts",
     "ingredients": [
       "apple cider",
-      "applesauce",
+      "appleauce",
       "sugar",
       "egg",
       "vanilla extract",
@@ -73057,7 +73034,7 @@
       "butter",
       "egg",
       "vanilla extract",
-      "apples",
+      "apple",
       "sugar",
       "cinnamon",
       "ground pepper",
@@ -73226,7 +73203,7 @@
     "ingredients": [
       "cucumber",
       "celery ribs",
-      "apples",
+      "apple",
       "kale lettuce",
       "lemon",
       "ginger"
@@ -73296,7 +73273,7 @@
     "id": 2956,
     "title": "Ethiopian Spiced Beef Jerky (Quwanta)",
     "ingredients": [
-      "beef tenderloin",
+      "beef",
       "chili powder",
       "sherry wine",
       "olive oil",
@@ -73376,7 +73353,7 @@
     "title": "Peanut Butter Crunch",
     "ingredients": [
       "white chocolate chips",
-      "salted peanuts"
+      "peanuts"
     ],
     "direction": [
       "In a medium size bowl, melt the pieces and chocolate chips in microwave in 30 second intervals.",
@@ -73517,7 +73494,7 @@
     "title": "Blueberry Ice Cream (For Ice Cream Machine)",
     "ingredients": [
       "sugar",
-      "real vanilla extract",
+      "vanilla extract",
       "heavy cream",
       " blueberries"
     ],
@@ -73577,7 +73554,7 @@
     "title": "S'mores Ice Cream Cake",
     "ingredients": [
       "graham crackers",
-      "marshmallow cream",
+      "marshmallow",
       "chocolate ice cream",
       "vanilla ice cream"
     ],
@@ -73596,7 +73573,7 @@
     "title": "Balsamic Strawberries and Ice Cream on Pound Cake",
     "ingredients": [
       "strawberries",
-      "caster sugar",
+      "sugar",
       "vanilla ice cream"
     ],
     "direction": [
@@ -73729,7 +73706,7 @@
     "ingredients": [
       "vanilla ice cream",
       "vanilla custard",
-      "mini marshmallows",
+      "marshmallow",
       " raspberry",
       "chocolate",
       "vanilla custard"
@@ -73761,7 +73738,7 @@
     "ingredients": [
       "instant pudding mix",
       "milk",
-      "rock salt"
+      "salt"
     ],
     "direction": [
       "Mix well.",
@@ -74188,7 +74165,7 @@
     "title": "Lavender and Vanilla Ice Cream",
     "ingredients": [
       "milk",
-      "caster sugar",
+      "sugar",
       "vanilla extract"
     ],
     "direction": [
@@ -74369,7 +74346,7 @@
       "cheese",
       "cheese",
       "parmesan cheese",
-      "provolone cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -74397,7 +74374,7 @@
       "oregano",
       "garlic powder",
       "mozzarella",
-      "feta cheese",
+      "cheese",
       "spinach",
       "egg",
       "mushroom"
@@ -74472,7 +74449,7 @@
       "tomato sauce",
       "salsa",
       "cottage cheese",
-      "egg substitute",
+      "egg",
       "corn tortillas",
       "cheese",
       "cheddar cheese"
@@ -74540,7 +74517,7 @@
       "parmesan cheese",
       "tomato",
       "hunts tomato paste",
-      "stewed tomato",
+      "tomato",
       "olive oil",
       "clove",
       "garlic",
@@ -74852,7 +74829,7 @@
     "id": 3024,
     "title": "Rock & Roll BBQ Brisket",
     "ingredients": [
-      "beef brisket",
+      "beef",
       "paprika",
       "salt",
       "sugar",
@@ -75096,7 +75073,7 @@
       "basil",
       "spinach",
       "cheese",
-      "feta cheese",
+      "cheese",
       " parmesan cheese",
       "cheddar cheese",
       " parmesan cheese"
@@ -75272,7 +75249,7 @@
       "parsley",
       "oregano",
       "bay leaf",
-      "stewed tomato",
+      "tomato",
       "tomato sauce",
       "tomato paste",
       "red wine",
@@ -75387,8 +75364,8 @@
     "id": 3041,
     "title": "Easy Cheese Lasagna(WW)",
     "ingredients": [
-      "fat-free cheese",
-      "lowfat mozzarella"
+      "cheese",
+      "mozzarella"
     ],
     "direction": [
       "Spray 11x7 baking dish with cooking spray.",
@@ -75630,7 +75607,7 @@
       "clove",
       "flour",
       "chicken broth",
-      "medium shrimp",
+      "shrimp",
       " Italian parsley",
       "cheese",
       "parmesan cheese",
@@ -75856,13 +75833,13 @@
       "black pepper",
       "paprika",
       "bay leaf",
-      "beef broth",
+      "beef",
       "wine",
       "flour",
       "Kitchen Bouquet",
       "salt",
       "French baguette",
-      "swiss cheese"
+      "cheese"
     ],
     "direction": [
       "Peel onions and slice 1/8 inch thick, preferably in a food processor.",
@@ -76003,10 +75980,10 @@
     "id": 3063,
     "title": "Brothy Beef Noodle Soup",
     "ingredients": [
-      "beef stew meat",
+      "beef",
       "onion",
       "celery",
-      "beef bouillon granules",
+      "beef",
       "parsley",
       "black pepper",
       "carrot",
@@ -76071,7 +76048,7 @@
       "pepper",
       "chicken broth",
       "tomato",
-      "Rotel tomato & chilies",
+      "tomato & chilies",
       "corn",
       "chicken",
       "milk",
@@ -76394,7 +76371,7 @@
       "onion powder",
       "chicken broth",
       "escarole",
-      "orzo pasta",
+      "pasta",
       "carrot",
       "parmesan cheese"
     ],
@@ -76462,7 +76439,7 @@
     "id": 3081,
     "title": "Beef-Barley Soup",
     "ingredients": [
-      "beef round steak",
+      "beef",
       "carrot",
       "celery",
       "pepper",
@@ -76472,7 +76449,7 @@
       " beans",
       "barley",
       "parsley flakes",
-      "beef bouillon granules",
+      "beef",
       "salt",
       "basil",
       "water"
@@ -76534,7 +76511,7 @@
       "milk",
       "basil",
       "cornmeal",
-      "beef broth",
+      "beef",
       "chili salsa",
       "onion",
       "tomato",
@@ -76558,7 +76535,7 @@
     "id": 3084,
     "title": "Italian Smoked Sausage Bean Soup",
     "ingredients": [
-      "smoked sausage",
+      "sausage",
       "onion",
       "olive oil",
       "tomato",
@@ -76750,7 +76727,7 @@
     "id": 3091,
     "title": "Corn and Coriander Soup",
     "ingredients": [
-      "red capsicum",
+      "capsicum",
       "onion",
       "clove",
       "lemon juice",
@@ -76843,14 +76820,14 @@
     "title": "Jo Mama's Beef Stew",
     "ingredients": [
       "flour",
-      "boiling potato",
+      "potato",
       "carrot",
       "celery",
       "onion",
       "rosemary",
       "salt",
       "pepper",
-      "beef bouillon cubes"
+      "beef"
     ],
     "direction": [
       "Shake stew meat up in a bag with flour to cover.",
@@ -76920,7 +76897,7 @@
       "onion",
       "chicken",
       "snow peas",
-      "udon noodles",
+      "noodles",
       "onion"
     ],
     "direction": [
@@ -77051,7 +77028,7 @@
       "white pepper",
       "salt",
       "pepper",
-      "bow tie pasta"
+      "pasta"
     ],
     "direction": [
       "In a heavy stockpot over medium heat, saut\u00e9 onion and garlic in olive oil for 2-3 minutes. Add light butter and 1/4 cup flour and cook, stirring, for another 2-3 minutes until bubbly. Add remaining 1/2 cup of flour to a small amount of chicken broth and stir to remove lumps.  Gradually whisk in flour and broth combo, plus remaining chicken broth and half & half; cook, stirring frequently, until thickened.",
@@ -77276,7 +77253,7 @@
       "butter",
       "onion",
       "mushroom",
-      "shiitake mushroom",
+      "mushroom",
       "flour",
       "chicken broth",
       "black pepper",
@@ -77352,7 +77329,7 @@
       "cornflour",
       "potato",
       "spinach",
-      "skim milk"
+      "milk"
     ],
     "direction": [
       "Spray the pan,and add the onions and celery.",
@@ -77430,8 +77407,8 @@
     "id": 3117,
     "title": "Stacy's Favorite Vegetable Beef Soup",
     "ingredients": [
-      "beef stew meat",
-      "beef broth",
+      "beef",
+      "beef",
       "water",
       "red wine",
       "onion",
@@ -77442,7 +77419,7 @@
       "cabbage",
       "corn",
       "tomato",
-      "beef bouillon cubes",
+      "beef",
       "basil",
       "oregano",
       "salt",
@@ -77490,7 +77467,7 @@
       "black pepper",
       "chili powder",
       "kernel corn",
-      "Mexican-style tomato",
+      "tomato",
       "tomato",
       "water"
     ],
@@ -77531,7 +77508,7 @@
     "id": 3121,
     "title": "Chicken Soup and Homemade Noodles",
     "ingredients": [
-      "frying chicken",
+      "chicken",
       "water",
       "chicken",
       "onion",
@@ -77593,7 +77570,7 @@
       "onion",
       "margarine",
       "cream cheese",
-      "Velveeta Mexican cheese",
+      "cheese",
       "milk"
     ],
     "direction": [
@@ -77650,7 +77627,7 @@
       "basil",
       "salt",
       "pepper",
-      "fat-free chicken broth",
+      "chicken",
       "parmesan cheese"
     ],
     "direction": [
@@ -77839,7 +77816,7 @@
     "id": 3132,
     "title": "Mediterranean Kale & White Bean Soup With Sausage",
     "ingredients": [
-      "mild sausage",
+      "sausage",
       "olive oil",
       "onion",
       "carrot",
@@ -77899,7 +77876,7 @@
     "id": 3134,
     "title": "Quick and Easy Baked Ziti",
     "ingredients": [
-      "mild sausage",
+      "sausage",
       "onion",
       "bell pepper",
       "clove",
@@ -77994,7 +77971,7 @@
       "tomato",
       "black olive",
       "salt",
-      "bow tie pasta",
+      "pasta",
       "parsley",
       "parmesan cheese"
     ],
@@ -78013,7 +77990,7 @@
     "ingredients": [
       "milk",
       "mayonnaise",
-      "dry pasta",
+      "pasta",
       "avocado",
       "tomato"
     ],
@@ -78033,7 +78010,7 @@
       "pepper",
       "butter",
       "tomato",
-      "mushroom pieces",
+      "mushroom",
       "ripe olive",
       "oregano",
       "beef",
@@ -79446,7 +79423,7 @@
     "ingredients": [
       "pasta",
       "chicken",
-      "feta cheese",
+      "cheese",
       "tomato",
       "olive",
       "olive oil",
