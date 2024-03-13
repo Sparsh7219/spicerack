@@ -5194,7 +5194,7 @@
       "water",
       "sugar",
       "baking soda",
-      "coarse salt"
+      "salt"
     ],
     "direction": [
       "Dissolve the yeast in 1/8 cup warm water. Stir in remaining warm water, brown sugar and flour. Bear until smooth. Knead until smooth and elastic.",
@@ -12352,7 +12352,7 @@
     "ingredients": [
       "olive oil",
       "onion",
-      "coarse salt",
+      "salt",
       "beef",
       "Hungarian paprika",
       "oregano",
@@ -12378,7 +12378,7 @@
     "ingredients": [
       "clove",
       "rosemary",
-      "coarse salt",
+      "salt",
       "pepper"
     ],
     "direction": [
@@ -14927,7 +14927,7 @@
       "fish sauce",
       "tomato",
       "cilantro",
-      "hot chili pepper"
+      "chili pepper"
     ],
     "direction": [
       "In medium saucepan, heat vegetable broth to a simmer with lemongrass and lime leaves if desired.",
@@ -15085,7 +15085,7 @@
     "id": 577,
     "title": "Thai Mango With Sticky Rice (Mamuang Kao Nieo)",
     "ingredients": [
-      "glutinous rice",
+      "rice",
       "coconut cream",
       "coconut milk",
       "sugar",
@@ -15306,7 +15306,7 @@
       "salt",
       "black pepper",
       "beer",
-      "lemon juice",
+      "lemon",
       "mayonnaise",
       "yogurt",
       "garlic",
@@ -15377,7 +15377,6 @@
     "title": "Mexican Style Meat and Vegetable Stew - Azteca's Molcajete",
     "ingredients": [
       "chicken",
-      "beef",
       "bacon",
       "water",
       "beef",
@@ -15415,7 +15414,6 @@
       "dried ancho chiles",
       "tomato",
       "onion",
-      "clove",
       "sesame seed",
       "oregano",
       "clove",
@@ -15516,24 +15514,10 @@
     "title": "El Rey's Fish Tacos",
     "ingredients": [
       "avocados",
-      "lemon",
       "chili sauce",
-      "cilantro lettuce",
-      "lemon",
-      "clove",
-      "onion",
-      "salt",
-      "tomato",
-      "clove",
-      "onion",
-      "olive oil",
-      "cilantro lettuce",
-      "lemon",
       "tomato",
       "cilantro lettuce",
       "clove",
-      "lemon",
-      "onion",
       "bell pepper",
       "olive oil",
       "flour",
@@ -15695,14 +15679,9 @@
       "cinnamon",
       "salt",
       "clove",
-      "clove",
-      " oregano",
-      "habanero pepper",
-      "lemon",
+      "oregano",
       "olive oil",
-      "cilantro lettuce",
       "habanero pepper",
-      "onion",
       "seville orange",
       "tomato",
       "lemon",
@@ -15726,12 +15705,8 @@
     "ingredients": [
       "mayonnaise",
       "mustard",
-      "cilantro",
-      "onion",
       "tomato",
       "serrano chili",
-      "onion",
-      "lemon",
       "cilantro",
       "olive oil",
       "onion",
@@ -15768,7 +15743,7 @@
       "salt",
       "vegetable shortening",
       "chicken broth",
-      "ripe olive"
+      "olive"
     ],
     "direction": [
       "Place all filling ingredients into a crock pot and cook on low 8 to 10 hours.  (I usually do this procedure overnight).",
@@ -15890,8 +15865,8 @@
     "ingredients": [
       "garlic",
       "olive oil",
-      "coarse salt",
-      "lemon juice"
+      "salt",
+      "lemon"
     ],
     "direction": [
       "If necessary, trim steak, leaving some fat.",
@@ -15912,13 +15887,12 @@
       "chicken",
       "onion",
       "clove",
-      " tomato",
-      "lemon juice",
+      "tomato",
+      "lemon",
       "sugar",
       "salt",
       "oregano",
       "cinnamon",
-      "clove",
       "cornstarch"
     ],
     "direction": [
@@ -15972,7 +15946,6 @@
       "cilantro",
       "cumin",
       "tomato sauce",
-      "salt",
       "chicken broth",
       "poblano chiles",
       "water",
@@ -16019,10 +15992,9 @@
     "id": 614,
     "title": "Tamales De Pollo Con Chile Verde- Green Chile Chicken Tamales",
     "ingredients": [
-      "hot chili pepper",
+      "chili pepper",
       "clove",
       "olive oil",
-      "chicken broth",
       "salt",
       "chicken",
       "cilantro",
@@ -16073,10 +16045,8 @@
     "ingredients": [
       "red wine vinegar",
       "clove",
-      "red wine vinegar",
       "sugar",
       "tomato",
-      "clove",
       "paprika",
       "cayenne",
       "canola oil",
@@ -16101,7 +16071,6 @@
       "bay lettuce",
       "plums",
       "dried ancho chiles",
-      "clove",
       "onion",
       "thyme",
       "marjoram",
@@ -16110,7 +16079,7 @@
       "black peppercorns",
       "red wine vinegar",
       "water",
-      "coarse salt"
+      "salt"
     ],
     "direction": [
       "To make the marinade, cook the chiles in a saucepan with boiling water for 10 minutes. Drain and transfer to a blender. Add the garlic, onion, thyme, marjoram, oregano, cloves, peppercorns, 3 bay leaves, vinegar, water and salt. Blend well.",
@@ -16146,11 +16115,11 @@
     "ingredients": [
       "canola oil",
       "clove",
-      " tuna",
+      "tuna",
       "onion",
       "poblano chile",
       "tomato",
-      " oregano",
+      "oregano",
       "tortilla",
       "lemon"
     ],
@@ -16184,41 +16153,29 @@
     "title": "Marinated Pork Tortas With Cilantro Aioli & Chiles Curtidos",
     "ingredients": [
       "vinegar",
-      "sugar",
-      "water",
       "olive oil",
-      "onion",
       "carrot",
-      "clove",
       "oregano",
-      "salt",
       "pork roast",
       "scallion",
-      "garlic",
       "soy sauce",
-      "cumin",
       "curry powder",
-      "lemon",
       "coffee",
       "sugar",
-      "canola oil",
       "bay lettuce",
       "clove",
       "onion",
-      "water",
-      "salt",
       "dried black beans",
-      "canola oil",
       "cumin",
       "mayonnaise",
       "garlic",
-      "lemon juice",
+      "lemon",
       "mustard",
       "cilantro",
       "canola oil",
       "water",
       "salt",
-      "lemon juice",
+      "lemon",
       "lemon",
       "butter",
       "avocado",
@@ -16333,7 +16290,7 @@
       "clove",
       "onion",
       "tomato",
-      "coarse salt",
+      "salt",
       "cumin seed",
       "allspice",
       "clove",
@@ -18660,7 +18617,7 @@
     "title": "Sekihan",
     "ingredients": [
       "adzuki beans",
-      "glutinous rice",
+      "rice",
       "water",
       "sesame seed",
       "watercress"
@@ -19214,7 +19171,7 @@
       "soy sauce",
       "sugar",
       "clove",
-      "hot chili pepper"
+      "chili pepper"
     ],
     "direction": [
       "Place all the ingredients in a saucepan over a high heat.",
@@ -21334,7 +21291,7 @@
       "olive oil",
       "potato",
       "onion",
-      "coarse salt",
+      "salt",
       "egg"
     ],
     "direction": [
@@ -23234,7 +23191,7 @@
       "onion",
       "parsley",
       "black pepper",
-      "coarse salt"
+      "salt"
     ],
     "direction": [
       "Butterfly the steaks by slicing them horizontally from one long side to within 1/2 inch (1 cm) of the opposite side.",
@@ -26736,7 +26693,7 @@
     "title": "Chicken Enchilada Ring",
     "ingredients": [
       "chicken",
-      "pitted ripe olive",
+      "pitted olive",
       "cheddar cheese",
       "chilies",
       "mayonnaise",
@@ -26775,13 +26732,13 @@
     "id": 1024,
     "title": "Perky Olive Penguins",
     "ingredients": [
-      "pitted ripe olive",
+      "pitted olive",
       "cream cheese",
       "salt",
       "pepper",
       "garlic powder",
       "carrot",
-      "pitted ripe olive",
+      "pitted olive",
       "pimientos"
     ],
     "direction": [
@@ -29498,7 +29455,7 @@
       "parsley",
       "clove",
       "lemon",
-      "coarse salt",
+      "salt",
       "cod fish",
       "olive oil"
     ],
@@ -37081,7 +37038,7 @@
       "tomato sauce",
       "cheese",
       "cheddar cheese",
-      "ripe olive",
+      "olive",
       "scallion",
       "lettuce",
       "sour cream",
@@ -38855,7 +38812,7 @@
       "ginger",
       "clove",
       "chicken",
-      "coarse salt"
+      "salt"
     ],
     "direction": [
       "Bring wine, sugar, soy sauce, ginger, and garlic to a boil in a saucepan.",
@@ -40069,12 +40026,12 @@
       "garlic",
       "ginger",
       "sugar",
-      "coarse salt",
+      "salt",
       "black pepper",
       "honey",
       "soy sauce",
       "soy sauce",
-      "coarse salt",
+      "salt",
       "white pepper",
       "lemon"
     ],
@@ -40677,7 +40634,7 @@
       "honey",
       "sparkling water",
       "lemon",
-      "coarse salt",
+      "salt",
       "lemon"
     ],
     "direction": [
@@ -47984,7 +47941,7 @@
       "ginger",
       "clove",
       "chicken",
-      "coarse salt"
+      "salt"
     ],
     "direction": [
       "Bring wine, sugar, soy sauce, ginger, and garlic to a boil in a saucepan.",
@@ -52550,7 +52507,7 @@
       "ginger",
       "clove",
       "chicken",
-      "coarse salt"
+      "salt"
     ],
     "direction": [
       "Bring wine, sugar, soy sauce, ginger, and garlic to a boil in a saucepan.",
@@ -63030,7 +62987,7 @@
       "clove",
       "celery ribs",
       "carrot",
-      "hot chili pepper",
+      "chili pepper",
       "orange zest",
       "sage",
       "parsley",
@@ -67240,12 +67197,12 @@
       "swiss chard",
       "clove",
       "lemon",
-      "coarse salt",
+      "salt",
       "ground pepper",
       "lemon juice",
       "butter",
       "onion",
-      "coarse salt",
+      "salt",
       "pepper",
       "flour",
       "milk",
@@ -69673,7 +69630,7 @@
       "pasta",
       "carrot",
       "celery",
-      "ripe olive",
+      "olive",
       "onion",
       "bell pepper",
       "red wine vinegar",
@@ -70051,7 +70008,7 @@
       "salt",
       "black pepper",
       "halibut fillets",
-      "coarse salt",
+      "salt",
       "black pepper",
       "canola oil",
       "arugula leaf",
@@ -78011,7 +77968,7 @@
       "butter",
       "tomato",
       "mushroom",
-      "ripe olive",
+      "olive",
       "oregano",
       "beef",
       "spaghetti",
