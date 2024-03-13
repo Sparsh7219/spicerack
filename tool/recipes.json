@@ -80,7 +80,7 @@
       "onion",
       "yogurt",
       "garlic",
-      "lemon juice",
+      "lemon",
       "cucumber",
       "salt",
       "pepper"
@@ -156,7 +156,7 @@
     "ingredients": [
       "parmesan cheese",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "butter",
       "flour",
       "salt",
@@ -517,7 +517,7 @@
       "black beans",
       "chickpeas",
       "cilantro",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Heat oil in a large, non-stick skillet over medium heat.",
@@ -677,7 +677,7 @@
       "mayonnaise",
       "cumin",
       "maple syrup",
-      "lemon juice",
+      "lemon",
       "chili powder"
     ],
     "direction": [
@@ -827,7 +827,7 @@
       "cilantro",
       "coconut milk",
       "ginger",
-      "lemon juice",
+      "lemon",
       "garlic",
       "tofu",
       "onion",
@@ -1786,7 +1786,7 @@
       "vegetable broth",
       "tofu",
       "cream cheese",
-      "lemon juice",
+      "lemon",
       "pepper",
       "yeast"
     ],
@@ -1805,7 +1805,7 @@
       "mint",
       "basil",
       "water chestnuts",
-      "lemon juice",
+      "lemon",
       "ginger",
       "salt"
     ],
@@ -1938,7 +1938,7 @@
       "avocados",
       "mayonnaise",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "onion powder",
       "garlic powder",
       "salt",
@@ -2008,7 +2008,7 @@
       "vegetarian chicken",
       "tomato",
       "salt",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Combine avacado, salt, lemon juice, garlic, and onion. Mush into a paste.",
@@ -2102,7 +2102,7 @@
       "oregano",
       "basil",
       "salt",
-      "lemon juice",
+      "lemon",
       "clove",
       "onion",
       "spinach",
@@ -2339,7 +2339,7 @@
       "yeast",
       "clove",
       "water",
-      "lemon juice",
+      "lemon",
       "soy sauce",
       "olive oil",
       "white pepper"
@@ -2449,7 +2449,7 @@
     "id": 97,
     "title": "Almond 'feta Cheese' Spread With Herb Oil (Vegan)",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "olive oil",
       "clove",
       "salt",
@@ -2530,7 +2530,7 @@
       "cashew",
       "yeast",
       "tahini",
-      "lemon juice",
+      "lemon",
       "mustard",
       "paprika",
       "pepper",
@@ -2560,7 +2560,7 @@
       "saffron",
       "ground pepper",
       "salt",
-      "lemon juice",
+      "lemon",
       "peanuts",
       "cilantro lettuce",
       "lemon"
@@ -3786,7 +3786,7 @@
       "shallots",
       "butter",
       "clove",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper"
     ],
@@ -3991,8 +3991,8 @@
       "chili powder",
       "paprika",
       "salt",
-      "lemon juice",
-      "lemon juice",
+      "lemon",
+      "lemon",
       "chicken broth",
       "cilantro",
       "cream cheese"
@@ -4188,7 +4188,7 @@
       "peanut butter",
       "ginger",
       "soy sauce",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Put all ingredients in crock pot on low for 6-8 hours.",
@@ -4245,7 +4245,7 @@
     "title": "Jalapeno Chicken Salad",
     "ingredients": [
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "celery rib",
       "onion",
       "bell pepper",
@@ -4288,7 +4288,7 @@
       "salt",
       "chili powder",
       "garlic powder",
-      "lemon juice",
+      "lemon",
       "chicken"
     ],
     "direction": [
@@ -4367,7 +4367,7 @@
     "title": "Pollo a La Brasa (Peruvian Grilled Chicken)",
     "ingredients": [
       "soy sauce",
-      "lemon juice",
+      "lemon",
       "clove",
       "cumin",
       "paprika",
@@ -4393,14 +4393,14 @@
     "ingredients": [
       "chicken",
       "garlic",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "pepper",
       "salt",
       "avocado",
       "onion",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "onion",
       "lemon",
       "cabbage"
@@ -4489,7 +4489,7 @@
       "butter",
       "cornflour",
       "sugar",
-      "lemon juice",
+      "lemon",
       "ginger"
     ],
     "direction": [
@@ -4626,7 +4626,7 @@
       "basil",
       "salt",
       "black pepper",
-      "lemon juice",
+      "lemon",
       "water"
     ],
     "direction": [
@@ -4699,7 +4699,7 @@
       "pepper",
       "shrimp",
       "salt",
-      "lemon juice",
+      "lemon",
       "wine",
       "butter",
       "parsley"
@@ -4834,7 +4834,7 @@
       "butter",
       "clove",
       "onion powder",
-      "lemon juice",
+      "lemon",
       "Splenda granular",
       "chili powder",
       "vinegar",
@@ -5167,7 +5167,7 @@
       "cilantro",
       "salt",
       "pepper",
-      "lemon juice",
+      "lemon",
       "salsa",
       "sour cream"
     ],
@@ -5272,7 +5272,7 @@
       "basil",
       "clove",
       "broccoli",
-      "lemon juice",
+      "lemon",
       "parmesan cheese",
       "black pepper"
     ],
@@ -5321,7 +5321,7 @@
       "salt",
       "garlic",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "lemon",
       "tortillas",
       "corn",
@@ -5345,7 +5345,7 @@
     "title": "Tomato-Crowned Cod",
     "ingredients": [
       "cod fish",
-      "lemon juice",
+      "lemon",
       "pepper",
       "tomato",
       "onion",
@@ -5552,7 +5552,7 @@
       "chives",
       "basil",
       "maple syrup",
-      "lemon juice",
+      "lemon",
       "salt",
       "lemon",
       "cumin",
@@ -5778,7 +5778,7 @@
       "water",
       "tomato",
       "zucchini",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Rinse the quinoa very well in a fine mesh strainer under running water; set aside to drain.",
@@ -5919,7 +5919,7 @@
       "cilantro",
       "pineapple",
       "mango",
-      "lemon juice",
+      "lemon",
       "ginger",
       "salt"
     ],
@@ -6002,7 +6002,7 @@
       "cumin seed",
       "ginger",
       "pepper",
-      "lemon juice",
+      "lemon",
       "coriander",
       "cod fish fillet",
       "salt",
@@ -6068,7 +6068,7 @@
       "tomato juice",
       "cornstarch",
       "chili powder",
-      "lemon juice",
+      "lemon",
       "sugar",
       "celery",
       "bell pepper",
@@ -6162,7 +6162,7 @@
     "id": 249,
     "title": "Oregano & Lemon Pork Kebabs",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "oregano",
       "rosemary sprig",
       "clove",
@@ -6448,7 +6448,7 @@
       "water",
       " asparagus",
       "chicken",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "dried dill weed",
       "salt",
@@ -6565,7 +6565,7 @@
     "ingredients": [
       "chicken",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "clove",
       "thyme",
       "oregano",
@@ -6701,7 +6701,7 @@
     "ingredients": [
       "chicken",
       "lemon",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "olive oil",
       "clove",
@@ -6912,7 +6912,7 @@
       "chicken broth",
       "mushroom",
       "thyme",
-      "lemon juice",
+      "lemon",
       "lemon",
       "salt",
       "black pepper"
@@ -7039,7 +7039,7 @@
     "title": "Broccomole",
     "ingredients": [
       "broccoli stems",
-      "lemon juice",
+      "lemon",
       "cumin",
       "garlic powder",
       "tomato",
@@ -7391,10 +7391,10 @@
     "title": "Ww 3 Points - Grilled Chicken and Key Lime Salsa",
     "ingredients": [
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "chicken",
       "orange",
-      "lemon juice",
+      "lemon",
       "scallions",
       "cilantro",
       "chili"
@@ -7603,7 +7603,7 @@
       "cashew",
       "pitted dates",
       "coconut oil",
-      "lemon juice",
+      "lemon",
       "vanilla beans",
       "salt",
       "coconut milk",
@@ -7669,7 +7669,7 @@
       "mayonnaise",
       "salt",
       "mustard",
-      "lemon juice",
+      "lemon",
       "clove",
       "canola oil",
       "salt"
@@ -7719,7 +7719,7 @@
       "tomato",
       "olive oil",
       "parsley",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper",
       "clove",
@@ -7848,7 +7848,7 @@
       "saffron",
       "ground pepper",
       "salt",
-      "lemon juice",
+      "lemon",
       "peanuts",
       "cilantro lettuce",
       "lemon"
@@ -7937,7 +7937,7 @@
     "ingredients": [
       "parmesan cheese",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "butter",
       "flour",
       "salt",
@@ -8034,7 +8034,7 @@
       "celery",
       "tahini",
       "water",
-      "lemon juice",
+      "lemon",
       "clove",
       "salt",
       "honey"
@@ -8398,7 +8398,7 @@
     "ingredients": [
       "kale",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "salt"
     ],
     "direction": [
@@ -8421,7 +8421,7 @@
       "pepper",
       "shrimp",
       "salt",
-      "lemon juice",
+      "lemon",
       "wine",
       "butter",
       "parsley"
@@ -8899,7 +8899,7 @@
       "sugar",
       "salt",
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "black pepper",
       "mustard",
       "olive oil",
@@ -9010,11 +9010,11 @@
     "title": "Chicken Tikka Tomato Masala",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "red chili powder",
       "yogurt",
       "tomato paste",
-      "lemon juice",
+      "lemon",
       "garlic paste",
       "ginger paste",
       "cumin seed",
@@ -9229,7 +9229,7 @@
       "salt",
       "ginger",
       "cumin",
-      "lemon juice",
+      "lemon",
       "mint"
     ],
     "direction": [
@@ -9942,7 +9942,7 @@
       "turmeric",
       "pepper",
       "paprika",
-      "lemon juice",
+      "lemon",
       "distilled vinegar",
       "sugar",
       "salt",
@@ -9977,7 +9977,7 @@
       "cumin",
       "paprika",
       "yogurt",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Mix together salt, cayenne, coriander, chili powder, garlic powder, dry mustard, ginger, turmeric, fennel, cumin, and paprika in a food processor.",
@@ -10299,7 +10299,7 @@
       "curry leaf",
       "salt",
       "chilies",
-      "lemon juice",
+      "lemon",
       "onion",
       "tomato",
       "cilantro",
@@ -10486,7 +10486,7 @@
       "mint",
       "onion",
       "pomegranate seed",
-      "lemon juice",
+      "lemon",
       "salt",
       "water"
     ],
@@ -10575,7 +10575,7 @@
       "clove",
       "ginger",
       "mint",
-      "lemon juice",
+      "lemon",
       "yogurt",
       "cumin seed"
     ],
@@ -10988,7 +10988,7 @@
     "id": 430,
     "title": "Tandoori Style Chicken",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "yogurt",
       "jalapeno chiles",
       "salt",
@@ -11057,7 +11057,7 @@
       "pepper",
       "water",
       "honey",
-      "lemon juice",
+      "lemon",
       "soy sauce",
       "water",
       "clove",
@@ -11113,7 +11113,7 @@
     "title": "Restaurant-Style Tandoori Chicken in the Oven!",
     "ingredients": [
       "yogurt",
-      "lemon juice",
+      "lemon",
       "allspice",
       "black pepper",
       "ground pepper",
@@ -11265,7 +11265,7 @@
     "ingredients": [
       "shallot",
       "butter",
-      "lemon juice",
+      "lemon",
       "garam masala",
       "chili powder",
       "cumin",
@@ -11355,7 +11355,7 @@
       "coconut",
       "salt",
       "sugar",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Sift and pick through the puffed rice, discard discolored pieces. Dry roast the puffed rice until it is toasty but not colored. Spread over a paper towel to allow moisture to wick away. Let it cool.",
@@ -12116,7 +12116,7 @@
       "butter",
       "parsley",
       "butter",
-      "lemon juice",
+      "lemon",
       "heavy cream",
       "cheese",
       "garlic powder",
@@ -12144,7 +12144,7 @@
       "ancho chili",
       "tomato",
       "wine",
-      "lemon juice",
+      "lemon",
       "Italian parsley",
       "butter",
       "salt"
@@ -12813,7 +12813,7 @@
       "allspice berries",
       "honey",
       "wine",
-      "lemon juice",
+      "lemon",
       "pepper",
       "pignolis"
     ],
@@ -12975,7 +12975,7 @@
       "flour",
       "butter",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "capers",
       "parsley"
     ],
@@ -13284,7 +13284,7 @@
       "onion",
       "garlic",
       "pepper",
-      "lemon juice",
+      "lemon",
       "oregano",
       "basil",
       "clams",
@@ -13683,7 +13683,7 @@
       "beans sprouts",
       "peanuts",
       "cilantro",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Boil noodles until just soft (do not overcook).",
@@ -13710,7 +13710,7 @@
       "onion",
       "ground galangal",
       "fish sauce",
-      "lemon juice",
+      "lemon",
       "rice",
       "iceberg lettuce",
       "mint lettuce",
@@ -13760,7 +13760,7 @@
       "basil",
       "soy sauce",
       "fish sauce",
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -13785,7 +13785,7 @@
       "lemongrass",
       "lemon lettuce",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "sugar"
     ],
@@ -13949,7 +13949,7 @@
       "garlic",
       "sugar",
       "soy sauce",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "coconut milk",
       "cilantro lettuce",
@@ -14054,7 +14054,7 @@
       "garlic",
       "coriander",
       "mushroom",
-      "lemon juice",
+      "lemon",
       "soy sauce",
       "chili powder",
       "sugar",
@@ -14159,7 +14159,7 @@
       "spring onion",
       "lemongrass",
       "lemon leaf",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "mint leaf",
       "coriander",
@@ -14183,11 +14183,11 @@
       "beef",
       "white pepper",
       "fish sauce",
-      "lemon juice",
+      "lemon",
       "sugar",
       "garlic",
       "sugar",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "shallots",
       "lemongrass",
@@ -14339,7 +14339,7 @@
       "dark soy sauce",
       "sugar",
       "salt",
-      "lemon juice",
+      "lemon",
       "pasta",
       "shallot",
       "cilantro",
@@ -14389,7 +14389,7 @@
       "lemongrass",
       "sugar",
       "fish sauce",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Start making the dressing by crushing the minced garlic and bird chili peppers together against the cutting board with the flat side of your knife to make a paste.",
@@ -14480,7 +14480,7 @@
       "tofu",
       "sweet potato",
       "kale",
-      "lemon juice",
+      "lemon",
       "cashew"
     ],
     "direction": [
@@ -14494,7 +14494,7 @@
     "id": 555,
     "title": "Thai Cucumber Salad",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "canola oil",
       "garlic",
       "sugar",
@@ -14534,7 +14534,7 @@
       "coconut milk",
       "creamy peanut butter",
       "soy sauce",
-      "lemon juice",
+      "lemon",
       "sugar",
       "gingerroot",
       "pepper",
@@ -14564,7 +14564,7 @@
       "peanut butter",
       "ginger",
       "soy sauce",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Put all ingredients in crock pot on low for 6-8 hours.",
@@ -14580,7 +14580,7 @@
       "peanuts",
       "lemon",
       "fish sauce",
-      "lemon juice",
+      "lemon",
       "sugar",
       "vinegar",
       "chili sauce",
@@ -14611,7 +14611,7 @@
       "tomato",
       "jaggery",
       "peanuts",
-      "lemon juice",
+      "lemon",
       "lemon",
       "fish sauce",
       "papayas"
@@ -14755,7 +14755,7 @@
       "carrot",
       "salt",
       "black pepper",
-      "lemon juice",
+      "lemon",
       "honey",
       "ginger",
       "garlic",
@@ -14784,7 +14784,7 @@
       "lemon",
       "tofu",
       "salt",
-      "lemon juice",
+      "lemon",
       " beans",
       "pepper",
       "peanut butter",
@@ -14923,7 +14923,7 @@
       "garlic",
       "ginger",
       "mushroom",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "tomato",
       "cilantro",
@@ -15043,7 +15043,7 @@
       "chilies",
       "cilantro",
       "sugar",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "In a medium-sized soup pot, heat the peanut oil over medium-high heat.  Saute the chicken and/or tofu, onion (not the green onions), half each of the ginger and lemongrass until the chicken is only a little bit pink and the onion translucent.",
@@ -15266,7 +15266,7 @@
     "title": "Margarita",
     "ingredients": [
       "triple sec",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Rub rim of cocktail glass with rind of lemon or lime, dip rim in salt.",
@@ -15281,7 +15281,7 @@
       "watermelon",
       "water",
       "sugar",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Finely chop two cups of the watermelon, and set aside.",
@@ -15498,7 +15498,7 @@
     "ingredients": [
       "pork",
       "salt",
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -15548,7 +15548,7 @@
     "title": "Chamoy",
     "ingredients": [
       "dried ancho chiles",
-      "lemon juice",
+      "lemon",
       "sugar",
       "salt"
     ],
@@ -15591,7 +15591,7 @@
       "water",
       "sugar",
       "strawberries",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Combine water and sugar, stirring until sugar dissolves.",
@@ -16052,7 +16052,7 @@
       "canola oil",
       "onion",
       "baguette",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Cook the chiles in boiling water until tender, about 20 minutes. Put in the blender with a little of the cooking water and the vinegar and garlic. Season with salt and pepper. Blend until smooth. Set aside.",
@@ -16355,7 +16355,7 @@
       "mustard",
       "Worcestershire sauce",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "red wine vinegar",
       "parmesan cheese",
       "romaine lettuce",
@@ -16774,7 +16774,7 @@
       "tomato",
       "onion",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "salt",
       "ground pepper"
     ],
@@ -17161,7 +17161,7 @@
       "water",
       "sugar",
       "ketchup",
-      "lemon juice",
+      "lemon",
       "water",
       "sesame seed"
     ],
@@ -18003,7 +18003,7 @@
       "cream cheese",
       "egg",
       "cornstarch",
-      "lemon juice",
+      "lemon",
       "cream of tartar",
       "water",
       "water"
@@ -18188,7 +18188,7 @@
     "ingredients": [
       "rice",
       "water",
-      "lemon juice",
+      "lemon",
       "vinegar",
       "salt",
       "sugar"
@@ -18743,7 +18743,7 @@
       "bonito flakes",
       "soy sauce",
       "soy sauce",
-      "lemon juice",
+      "lemon",
       "mirin",
       "mirin",
       "sugar",
@@ -19304,7 +19304,7 @@
     "id": 745,
     "title": "Veal Blanquette (Veal in White Sauce)",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "carrot",
       "onion",
       "clove",
@@ -19495,7 +19495,7 @@
     "title": "Julia Child Supremes De Volaille Aux Champignons (Chicken Breast",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "salt",
       "white pepper",
       "butter",
@@ -19618,7 +19618,7 @@
       "flour",
       "clove",
       "wine",
-      "lemon juice",
+      "lemon",
       "kirsch",
       "ground pepper",
       "pepper"
@@ -20111,7 +20111,7 @@
       "olive oil",
       "butter",
       "butter",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Sprinkle trout with salt and pepper.",
@@ -20205,7 +20205,7 @@
     "title": "Apple Tarte Tatin",
     "ingredients": [
       "sugar",
-      "lemon juice",
+      "lemon",
       "butter",
       " puff pastry",
       "ginger"
@@ -21120,7 +21120,7 @@
       "potato",
       "zucchini",
       "tomato",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper",
       "cheese",
@@ -21252,7 +21252,7 @@
       "panko breadcrumbs",
       "mayonnaise",
       "clove",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Heat the oil and butter in a medium saucepan over medium heat until butter is melted. Add the flour and cook 1-2 minutes while whisking frequently. Gradually add the milk while whisking and continue to cook another 2-3 minutes. The mixture should be smooth. Switch to a wooden spoon and stir in the ham, cheese and nutmeg. Cook another 1-2 minutes while stirring.  The mixture will pull away from the sides of the pan. Taste the mixture and add Kosher salt if desired.  If the ham and cheese are salty so you probably won\u2019t need to add any additional salt.",
@@ -21685,7 +21685,7 @@
       "butter",
       "shrimp",
       "clove",
-      "lemon juice",
+      "lemon",
       "paprika",
       "pepper",
       "parsley",
@@ -21874,7 +21874,7 @@
       "onion",
       "clove",
       "egg",
-      "lemon juice",
+      "lemon",
       "dry oregano",
       "olive oil",
       "parsley",
@@ -22256,7 +22256,7 @@
       "eggplant",
       "tomato",
       "bell pepper",
-      "lemon juice",
+      "lemon",
       "clove",
       "salt",
       "pepper",
@@ -22296,7 +22296,7 @@
     "title": "Cauliflower With Garlic and Paprika",
     "ingredients": [
       "cauliflower",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "paprika",
       "water",
@@ -22485,7 +22485,7 @@
     "title": "Homemade Mayonnaise",
     "ingredients": [
       "mustard",
-      "lemon juice",
+      "lemon",
       "wine vinegar",
       "salt",
       "sugar"
@@ -22501,7 +22501,7 @@
     "title": "Summer Red Wine Sangria",
     "ingredients": [
       "sugar",
-      "lemon juice",
+      "lemon",
       "Burgundy wine",
       "lemon",
       "orange"
@@ -22628,7 +22628,7 @@
     "id": 868,
     "title": "Peruvian Mixed Cebiche (Ceviche Mixto)",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "cilantro",
       "onion",
       "salt",
@@ -23129,7 +23129,7 @@
     "title": "Quinoa Tabouli",
     "ingredients": [
       "water",
-      "lemon juice",
+      "lemon",
       "quinoa",
       "olive oil",
       "tomato",
@@ -23334,7 +23334,7 @@
       "cilantro",
       "tomato",
       "vinegar",
-      "lemon juice",
+      "lemon",
       "clove",
       "salt",
       "pepper"
@@ -23700,7 +23700,7 @@
       "banana",
       "salt",
       "cinnamon",
-      "lemon juice",
+      "lemon",
       "egg",
       "flour",
       "baking powder"
@@ -24591,11 +24591,11 @@
       "ginger",
       "clove",
       "salt",
-      "lemon juice",
+      "lemon",
       "ginger",
       "clove",
       "salt",
-      "lemon juice",
+      "lemon",
       "garlic oil",
       "soy sauce",
       "sugar",
@@ -25534,7 +25534,7 @@
       "canola oil",
       "mango",
       " mint lettuce",
-      "lemon juice",
+      "lemon",
       "onion",
       "rum",
       "avocado",
@@ -25741,7 +25741,7 @@
       "clove",
       "pepper",
       "lemon",
-      "lemon juice",
+      "lemon",
       "parsley"
     ],
     "direction": [
@@ -25759,7 +25759,7 @@
     "title": "Marinated Cocktail Shrimp",
     "ingredients": [
       "sherry",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper",
       "dried ancho chile powder"
@@ -25799,7 +25799,7 @@
     "title": "Party Salad Boats",
     "ingredients": [
       "olive oil",
-      "lemon juice",
+      "lemon",
       "salt",
       "ground pepper",
       "garlic",
@@ -26395,7 +26395,7 @@
       "cream cheese",
       "cheddar cheese",
       "onion",
-      "lemon juice",
+      "lemon",
       "salt",
       "clove",
       "cilantro",
@@ -26485,7 +26485,7 @@
       "milk",
       "bell pepper",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "salt",
       "dill sprigs"
     ],
@@ -26539,7 +26539,7 @@
       "egg",
       "parsley",
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "dry mustard",
       "salt",
       "ground pepper",
@@ -26815,7 +26815,7 @@
       "eggplant",
       "tahini",
       "clove",
-      "lemon juice",
+      "lemon",
       "cumin",
       "salt",
       "olive oil",
@@ -26993,7 +26993,7 @@
       "panko breadcrumbs",
       "mayonnaise",
       "mustard",
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -27191,7 +27191,7 @@
     "title": "Crab Cake Croquettes",
     "ingredients": [
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "canola oil",
       "celery rib",
       "onion",
@@ -27528,7 +27528,7 @@
     "ingredients": [
       "cream cheese",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "Tabasco sauce",
       "scallions",
       "capers",
@@ -27793,7 +27793,7 @@
       "salt",
       "black pepper",
       "beer",
-      "lemon juice",
+      "lemon",
       "mayonnaise",
       "yogurt",
       "garlic",
@@ -27850,7 +27850,7 @@
       "panko breadcrumbs",
       "mayonnaise",
       "mustard",
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -27890,7 +27890,7 @@
     "title": "Simple Baked Fish",
     "ingredients": [
       "butter",
-      "lemon juice",
+      "lemon",
       "clove",
       "sugar",
       "pepper",
@@ -28042,7 +28042,7 @@
       "capers",
       "Italian parsley",
       "mint",
-      "lemon juice",
+      "lemon",
       "lemon",
       "black pepper"
     ],
@@ -28205,8 +28205,8 @@
     "title": "Grilled Tuna Steak",
     "ingredients": [
       "olive oil",
-      "lemon juice",
-      "lemon juice",
+      "lemon",
+      "lemon",
       "tuna steak"
     ],
     "direction": [
@@ -28478,7 +28478,7 @@
       "egg",
       "parsley",
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "dry mustard",
       "salt",
       "ground pepper",
@@ -28518,7 +28518,7 @@
       "lemon pepper",
       "garlic",
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "butter",
       "bacon"
     ],
@@ -28535,7 +28535,7 @@
     "title": "Grilled Fish in Foil",
     "ingredients": [
       "margarine",
-      "lemon juice",
+      "lemon",
       "parsley",
       "dill weed",
       "salt",
@@ -28719,7 +28719,7 @@
     "title": "Seared Salmon With Balsamic Glaze",
     "ingredients": [
       "water",
-      "lemon juice",
+      "lemon",
       "sugar",
       "sugar",
       "salmon fillets",
@@ -28767,7 +28767,7 @@
       "clove",
       "pepper",
       "lemon",
-      "lemon juice",
+      "lemon",
       "parsley"
     ],
     "direction": [
@@ -28787,7 +28787,7 @@
       "lemon pepper seasoning",
       "white pepper",
       "catfish fillets",
-      "lemon juice",
+      "lemon",
       "lemon"
     ],
     "direction": [
@@ -28925,7 +28925,7 @@
     "ingredients": [
       "cream cheese",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "Tabasco sauce",
       "scallions",
       "capers",
@@ -28948,7 +28948,7 @@
       "celery",
       "dill pickle slices",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "paprika"
     ],
     "direction": [
@@ -29210,7 +29210,7 @@
     "ingredients": [
       "cod fish fillet",
       "butter",
-      "lemon juice",
+      "lemon",
       "flour",
       "salt",
       "white pepper",
@@ -29365,7 +29365,7 @@
     "ingredients": [
       "shrimp",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "celery",
       "onion",
       "salt",
@@ -29379,7 +29379,7 @@
       "gingerroot",
       "clove",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "cilantro",
       "pepper",
       "salt",
@@ -29399,14 +29399,14 @@
     "title": "Halibut With Garlic Mayonnaise-Parmesan Topping",
     "ingredients": [
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "clove",
       "mustard",
       "parmesan cheese",
       "onion",
       "Tabasco sauce",
       "halibut fillet",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper"
     ],
@@ -29470,7 +29470,7 @@
     "id": 1140,
     "title": "MaMa's Supper Club Tilapia Parmesan",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "parmesan cheese",
       "butter",
       "mayonnaise",
@@ -29606,7 +29606,7 @@
       "basil",
       "salt",
       "black pepper",
-      "lemon juice",
+      "lemon",
       "parsley",
       "salmon fillets"
     ],
@@ -29629,7 +29629,7 @@
       "cumin seed",
       "ginger",
       "pepper",
-      "lemon juice",
+      "lemon",
       "coriander",
       "cod fish fillet",
       "salt",
@@ -29715,7 +29715,7 @@
       "butter",
       "paprika",
       "garlic powder",
-      "lemon juice",
+      "lemon",
       "salt",
       "white pepper"
     ],
@@ -29784,7 +29784,7 @@
     "ingredients": [
       "solid white tuna packed in water",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "celery rib",
       "onion",
       "parsley",
@@ -29903,7 +29903,7 @@
     "title": "Linda's Seafood Pasta Salad",
     "ingredients": [
       "shell pasta",
-      "lemon juice",
+      "lemon",
       "celery",
       "onion",
       "baby shrimp",
@@ -30047,7 +30047,7 @@
       "scallion",
       "cheese",
       "lemon",
-      "lemon juice",
+      "lemon",
       "salt",
       "ground pepper",
       "shrimp",
@@ -30075,7 +30075,7 @@
     "title": "Halibut Onion Crunch",
     "ingredients": [
       "halibut fillets",
-      "lemon juice",
+      "lemon",
       "marjoram",
       "garlic powder",
       "dry mustard",
@@ -30211,7 +30211,7 @@
       "cabbage",
       "jicama",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "lemon",
       "cilantro"
     ],
@@ -30376,7 +30376,7 @@
       "canola oil",
       "mango",
       " mint lettuce",
-      "lemon juice",
+      "lemon",
       "onion",
       "rum",
       "avocado",
@@ -30929,7 +30929,7 @@
       "eggplant",
       "tahini",
       "clove",
-      "lemon juice",
+      "lemon",
       "cumin",
       "salt",
       "olive oil",
@@ -31176,7 +31176,7 @@
       "garbanzo beans",
       "tahini",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "salt",
       "clove"
     ],
@@ -31195,7 +31195,7 @@
     "ingredients": [
       "tomato",
       "cilantro leaf",
-      "lemon juice",
+      "lemon",
       "salt"
     ],
     "direction": [
@@ -31311,7 +31311,7 @@
       "flour",
       "sugar",
       "egg",
-      "lemon juice",
+      "lemon",
       "lemon",
       "powdered sugar"
     ],
@@ -31332,7 +31332,7 @@
     "id": 1215,
     "title": "Peach & Tomato Salsa",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       " tomato",
       "bell pepper",
       "bell pepper",
@@ -31396,7 +31396,7 @@
       "romaine lettuce",
       "buttermilk",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "mustard",
       "pepper",
       "parsley",
@@ -31435,7 +31435,7 @@
     "id": 1219,
     "title": "Margarita Chicken Salad Sandwiches",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "triple sec",
       "olive oil",
       "chili powder",
@@ -31443,7 +31443,7 @@
       "clove",
       "chicken",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "sugar",
       "chili powder",
       "cumin",
@@ -31619,7 +31619,7 @@
     "title": "Easy Key Lime Pie",
     "ingredients": [
       "condensed milk",
-      "lemon juice",
+      "lemon",
       "graham cracker pie crusts",
       "lemon"
     ],
@@ -31718,7 +31718,7 @@
     "title": "Trader Vic\u2019s Fish House Punch.",
     "ingredients": [
       "sugar",
-      "lemon juice",
+      "lemon",
       "sparkling water",
       "rum",
       "brandy",
@@ -32201,7 +32201,7 @@
     "ingredients": [
       "cream cheese",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "Tabasco sauce",
       "scallions",
       "capers",
@@ -32554,7 +32554,7 @@
       "cream cheese",
       "scallions",
       "garlic",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Place the peppers, cream cheese, scallions, garlic and lemon juice in a blender or food processor.",
@@ -32594,7 +32594,7 @@
       "vanilla extract",
       "powdered sugar",
       "salt",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "For cupcakes: In a large bowl, stir together cake mix and gelatin mix. Make a well in the center and pour in mashed strawberries, oil, milk and eggs. Beat on low speed until blended. Scrape bowl and beat 2 minutes on medium speed. Pour batter into prepared cupcake pans.",
@@ -32634,7 +32634,7 @@
       "pecans",
       "butter",
       "half-and-half",
-      "lemon juice",
+      "lemon",
       "icing sugar"
     ],
     "direction": [
@@ -33072,7 +33072,7 @@
     "title": "Crock Pot Chicken Fajitas",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "clove",
       "cumin",
       "salt",
@@ -33659,7 +33659,7 @@
       "mayonnaise",
       "scallion",
       "pickle",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Pour the buttermilk into a zip-lock bag or marinating dish, add fish, turning to coat fish.",
@@ -34129,7 +34129,7 @@
       "egg",
       "vanilla extract",
       "powdered sugar",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Preheat oven to 350*.",
@@ -34397,7 +34397,7 @@
       "sugar",
       "crystallized ginger",
       "lemon",
-      "lemon juice",
+      "lemon",
       "cinnamon",
       "reduced-fat baking mix",
       "milk",
@@ -35036,7 +35036,7 @@
     "title": "Sparkling Orange Water",
     "ingredients": [
       "seltzer water",
-      "lemon juice",
+      "lemon",
       "lemon"
     ],
     "direction": [
@@ -35374,7 +35374,7 @@
     "title": "Children of the Corn",
     "ingredients": [
       "yogurt",
-      "lemon juice",
+      "lemon",
       "cayenne"
     ],
     "direction": [
@@ -35478,7 +35478,7 @@
     "title": "Season of the Witch",
     "ingredients": [
       "aquavit",
-      "lemon juice",
+      "lemon",
       "heavy cream",
       "egghells",
       "egghells",
@@ -35531,7 +35531,7 @@
     "ingredients": [
       "rum",
       "blue curacao",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Steep 3 Pandan leaves in 1 liter of hot water for 30 minutes, then strain into equal parts granulated sugar by weight.",
@@ -35561,7 +35561,7 @@
       "calvados",
       "tonic water",
       "soda water",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Build all ingredients (except Transfusion liqueurs) in Collins glass with Kold Draft ice, leaving 1/4 of the glass unfilled.",
@@ -35666,7 +35666,7 @@
     "ingredients": [
       "sherry wine",
       "tomato juice",
-      "lemon juice",
+      "lemon",
       "honey syrup",
       "parsley lettuce"
     ],
@@ -35681,7 +35681,7 @@
     "title": "Apple Cooler",
     "ingredients": [
       "sparkling apple cider",
-      "lemon juice",
+      "lemon",
       "lemon",
       "cherries"
     ],
@@ -35986,7 +35986,7 @@
       "rum",
       "pimento pepper",
       "sherry wine",
-      "lemon juice",
+      "lemon",
       "orgeat syrup"
     ],
     "direction": [
@@ -36571,7 +36571,7 @@
       "black pepper",
       "salt",
       "olive oil",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Heat canola oil and fry medium size cubed potatoes until crisp.",
@@ -36695,7 +36695,7 @@
       "lemon pepper",
       "tomato",
       "garbanzo beans",
-      "lemon juice",
+      "lemon",
       "onion"
     ],
     "direction": [
@@ -36721,7 +36721,7 @@
       "tomato",
       "onion",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper",
       "mayonnaise",
@@ -36982,7 +36982,7 @@
       "avocado",
       "sour cream",
       " tomato",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "In a large baking dish, mix the sweet potato, 2 tblsp of oil, cumin and coriander seeds, and bake, uncovered, at 180C/350F/gas mark 4, for 50-60 minutes until tender. (NB  I did not make this part of the recipe)(If you also choose to omit this step, preheat the oven to 180C/350F/gas mark 4 now.).",
@@ -37241,7 +37241,7 @@
       "rice",
       "white cheddar cheese",
       "cilantro",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Position an oven rack about 4 inches from the broiler and heat the broiler on high. Line a large rimmed baking sheet with foil.",
@@ -37512,7 +37512,7 @@
       "tomato paste",
       "water",
       "garlic",
-      "lemon juice",
+      "lemon",
       "cumin",
       "salt",
       "pepper",
@@ -37646,7 +37646,7 @@
       "onion",
       "clove",
       "tomato",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "In a large skillet warm a small amount of olive oil.  Add in onion through garlic and cook until crisp tender.  Transfer vegetables to a crock pot.",
@@ -38210,7 +38210,7 @@
       "salsa verde",
       "corn",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "sour cream",
       "cilantro",
       "tomato",
@@ -38332,7 +38332,7 @@
       "potato",
       "garlic powder",
       "black beans",
-      "lemon juice",
+      "lemon",
       "cumin",
       "chili powder",
       "pepper",
@@ -38540,7 +38540,7 @@
       "soy sauce",
       "wasabi paste",
       "onion",
-      "lemon juice",
+      "lemon",
       "lemon"
     ],
     "direction": [
@@ -39110,7 +39110,7 @@
       "vodka",
       "white rum",
       "white creme de menthe",
-      "lemon juice",
+      "lemon",
       "lemon"
     ],
     "direction": [
@@ -39695,17 +39695,17 @@
       "cumin",
       "paprika",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "mayonnaise",
       "mustard",
       "chipotle pepper",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper",
       "onion",
       "tomato",
       "salt",
-      "lemon juice",
+      "lemon",
       "cilantro",
       "black pepper",
       "cabbage",
@@ -39713,7 +39713,7 @@
       "jicama",
       "onion",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper"
     ],
@@ -39909,7 +39909,7 @@
     "ingredients": [
       "cream cheese",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "Tabasco sauce",
       "scallions",
       "salt",
@@ -39963,7 +39963,7 @@
       "Hass avocadoes",
       "tomato",
       "onion",
-      "lemon juice",
+      "lemon",
       "salt",
       "Worcestershire sauce",
       "Tabasco sauce",
@@ -40287,7 +40287,7 @@
       "tomato",
       "onion",
       "bell pepper",
-      "lemon juice",
+      "lemon",
       "cream cheese",
       "cilantro"
     ],
@@ -40387,7 +40387,7 @@
     "id": 1612,
     "title": "Sunkissed Beergarita",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "triple sec",
       "beer",
       "lemon"
@@ -40430,7 +40430,7 @@
     "title": "Lager and Lemon-Limeade",
     "ingredients": [
       "beer",
-      "lemon juice",
+      "lemon",
       "lemon"
     ],
     "direction": [
@@ -40454,7 +40454,7 @@
     "id": 1617,
     "title": "Dutch 75",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "Heineken beer",
       "lemon"
     ],
@@ -40470,7 +40470,7 @@
     "ingredients": [
       "vodka",
       "beer",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Combine all ingredients in a shaker and serve in a rocks glass with a wedge of lime.",
@@ -40482,7 +40482,7 @@
     "id": 1619,
     "title": "Michelada",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "beer",
       "Worcestershire sauce",
       "Tabasco sauce",
@@ -40630,7 +40630,7 @@
     "id": 1629,
     "title": "Sparkling Honey Lemonade in Citrus-Salt Rimmed Glasses",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "honey",
       "sparkling water",
       "lemon",
@@ -40675,7 +40675,7 @@
     "id": 1631,
     "title": "Sweet and Sour Apple (non-alcoholic Cocktail)",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -40729,7 +40729,7 @@
       "bell pepper",
       "black beans",
       "tomato",
-      "lemon juice",
+      "lemon",
       "soy sauce",
       "tofu sour cream"
     ],
@@ -40831,7 +40831,7 @@
       "garlic powder",
       "chili powder",
       "ketchup",
-      "lemon juice",
+      "lemon",
       "sugar",
       "Worcestershire sauce",
       "vinegar",
@@ -41052,7 +41052,7 @@
       "white shoepeg corn",
       "chilies",
       "cumin",
-      "lemon juice",
+      "lemon",
       "great northern beans",
       "cheese"
     ],
@@ -41162,8 +41162,8 @@
       "tomato paste",
       "clove",
       "dark chocolate",
-      "lemon juice",
-      "lemon juice",
+      "lemon",
+      "lemon",
       "salt",
       "black pepper",
       "pepper",
@@ -41953,7 +41953,7 @@
       "onion",
       "clove",
       "tomato",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "In a large skillet warm a small amount of olive oil.  Add in onion through garlic and cook until crisp tender.  Transfer vegetables to a crock pot.",
@@ -43487,7 +43487,7 @@
       "soy sauce",
       "fish sauce",
       "salt",
-      "lemon juice",
+      "lemon",
       "clove",
       "onion",
       "black pepper"
@@ -43793,7 +43793,7 @@
       "oregano",
       "cumin seed",
       "garlic",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "chicken",
       "mayonnaise",
@@ -44018,7 +44018,7 @@
       "rice",
       "white cheddar cheese",
       "cilantro",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Position an oven rack about 4 inches from the broiler and heat the broiler on high. Line a large rimmed baking sheet with foil.",
@@ -45531,7 +45531,7 @@
       "chicken",
       "salt",
       "garlic",
-      "lemon juice",
+      "lemon",
       "beer"
     ],
     "direction": [
@@ -45892,7 +45892,7 @@
       "salsa verde",
       "corn",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "sour cream",
       "cilantro",
       "tomato",
@@ -46350,7 +46350,7 @@
       "egg",
       "sugar",
       "lemon",
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -46418,7 +46418,7 @@
       "blueberries",
       "sugar",
       "water",
-      "lemon juice",
+      "lemon",
       "cornstarch",
       "cream cheese",
       "sour cream",
@@ -46595,7 +46595,7 @@
       "egg",
       "cream cheese",
       "sugar",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "9x9 baking dish.",
@@ -47285,7 +47285,7 @@
     "title": "Spicy Beef Flatbread With Yogurt & Cucumbers",
     "ingredients": [
       "yogurt",
-      "lemon juice",
+      "lemon",
       "salt",
       "clove",
       "tomato paste",
@@ -47316,7 +47316,7 @@
       "eggplant",
       "onion",
       "salt",
-      "lemon juice",
+      "lemon",
       "honey",
       "lemon",
       "cheese",
@@ -47339,14 +47339,14 @@
     "ingredients": [
       "chicken",
       "garlic",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "pepper",
       "salt",
       "avocado",
       "onion",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "onion",
       "lemon",
       "cabbage"
@@ -47418,7 +47418,7 @@
       "vinegar",
       "olive oil",
       "chicken",
-      "lemon juice",
+      "lemon",
       "parsley"
     ],
     "direction": [
@@ -47530,7 +47530,7 @@
       "peanut butter",
       "water",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "sherry wine",
       "soy sauce",
       "clove",
@@ -47618,7 +47618,7 @@
       "salt",
       "chickpeas",
       "tahini",
-      "lemon juice",
+      "lemon",
       "aleppo pepper"
     ],
     "direction": [
@@ -47670,7 +47670,7 @@
     "title": "Grilled Bourbon Buffalo Chicken",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "salt",
       "romaine lettuce",
       "cucumber",
@@ -47774,7 +47774,7 @@
       "cilantro",
       "pineapple",
       "mango",
-      "lemon juice",
+      "lemon",
       "ginger",
       "salt"
     ],
@@ -47799,8 +47799,8 @@
     "title": "Margaritas and Shrimp All Around",
     "ingredients": [
       "Cointreau liqueur",
-      "lemon juice",
-      "lemon juice",
+      "lemon",
+      "lemon",
       "honey",
       "chipotle chile",
       "shrimp",
@@ -47874,7 +47874,7 @@
       "olive oil",
       "chicken",
       "butter",
-      "lemon juice",
+      "lemon",
       "serrano chili",
       "cilantro",
       "black pepper"
@@ -47919,7 +47919,7 @@
       "garlic powder",
       "cornmeal",
       "ground pepper",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Place pizza crust in medium bowl and allow to come to room temperature. Preheat oven to 400 degrees. Drizzle with 1 Tbsp olive oil and turn to coat. Add oregano and garlic powder and continue turning. Coat a cookie sheet in corn meal and press pizza dough into a circle on cookie sheet.",
@@ -48026,7 +48026,7 @@
     "ingredients": [
       "cod fish fillet",
       "butter",
-      "lemon juice",
+      "lemon",
       "parsley",
       "salt",
       "black pepper",
@@ -48085,7 +48085,7 @@
       "salsa",
       "mango",
       "onion",
-      "lemon juice",
+      "lemon",
       "mint",
       "salt",
       "soy sauce",
@@ -48116,7 +48116,7 @@
     "title": "Grilled Chicken Banh Mi",
     "ingredients": [
       "fish sauce",
-      "lemon juice",
+      "lemon",
       "sugar",
       "garlic",
       "salt",
@@ -48166,7 +48166,7 @@
     "ingredients": [
       "chicken",
       "yogurt",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "onion",
       "clove",
@@ -48184,7 +48184,7 @@
     "title": "Armenian Herb Marinade Grilled Chicken Breasts",
     "ingredients": [
       "olive oil",
-      "lemon juice",
+      "lemon",
       "salt",
       "thyme",
       "marjoram",
@@ -48248,7 +48248,7 @@
     "ingredients": [
       "swordfish steaks",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "clove",
       "thyme",
       "rosemary",
@@ -48274,7 +48274,7 @@
     "ingredients": [
       "chicken",
       "butter",
-      "lemon juice",
+      "lemon",
       "beer",
       "garlic",
       "lemon pepper"
@@ -48388,7 +48388,7 @@
     "id": 1945,
     "title": "Lemon-Rosemary Grilled Chicken",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "olive oil",
       "rosemary",
       "garlic",
@@ -48448,7 +48448,7 @@
       "thyme",
       "rosemary sprigs",
       "bay lettuce",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "salt",
       "thyme",
@@ -48469,7 +48469,7 @@
     "id": 1948,
     "title": "Margarita Chicken Salad Sandwiches",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "triple sec",
       "olive oil",
       "chili powder",
@@ -48477,7 +48477,7 @@
       "clove",
       "chicken",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "sugar",
       "chili powder",
       "cumin",
@@ -48511,7 +48511,7 @@
       "rice",
       "curry powder",
       "pepper",
-      "lemon juice",
+      "lemon",
       "lettuce",
       "tomato"
     ],
@@ -48566,7 +48566,7 @@
     "title": "Grilled Shrimp Scampi",
     "ingredients": [
       "olive oil",
-      "lemon juice",
+      "lemon",
       "parsley",
       "garlic",
       "black pepper",
@@ -48633,7 +48633,7 @@
     "title": "Spicy Grilled Fish",
     "ingredients": [
       "catfish fillets",
-      "lemon juice",
+      "lemon",
       "soy sauce",
       "ginger",
       "clove",
@@ -48688,7 +48688,7 @@
       "peanuts",
       "shrimp",
       "water",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "sugar",
       "garlic",
@@ -48844,13 +48844,13 @@
       "poblano chile",
       "dill pickle",
       "onion",
-      "lemon juice",
+      "lemon",
       "honey",
       "cilantro lettuce",
       "black pepper",
       "Hass avocado",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "clove",
       "cumin",
       "salt",
@@ -48924,7 +48924,7 @@
       "saffron",
       "salt",
       "olive oil",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "In a bowl mix all ingredients apart from the fish.",
@@ -49051,7 +49051,7 @@
       "chipotle chile",
       "sour cream",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "cilantro",
       "corn tortillas",
       "cheese",
@@ -49102,7 +49102,7 @@
       "onion",
       "pineapple",
       "ginger marmalade",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Stir all ingredients together.",
@@ -49116,7 +49116,7 @@
     "ingredients": [
       "chicken",
       "wine",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "clove",
       "coarse grain mustard",
@@ -49151,7 +49151,7 @@
       "garlic",
       "soy sauce",
       "mustard",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "cayenne"
     ],
@@ -49248,7 +49248,7 @@
     "ingredients": [
       "clove",
       "vinegar",
-      "lemon juice",
+      "lemon",
       "salt",
       "cumin",
       "cilantro stems",
@@ -49279,7 +49279,7 @@
       "black pepper",
       "thyme lettuce",
       "cinnamon",
-      "lemon juice",
+      "lemon",
       "barbecue sauce"
     ],
     "direction": [
@@ -49301,7 +49301,7 @@
     "title": "Grilled Chicken Tikka",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "yogurt",
       "garlic",
       "ginger",
@@ -49363,7 +49363,7 @@
       "lemon pepper",
       "garlic",
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "butter",
       "bacon"
     ],
@@ -49474,7 +49474,7 @@
       "lamb chop",
       "ketchup",
       "lemon pepper",
-      "lemon juice",
+      "lemon",
       "rosemary lettuce",
       "olive oil",
       "onion",
@@ -49494,7 +49494,7 @@
     "ingredients": [
       "butter",
       "parsley",
-      "lemon juice",
+      "lemon",
       "garlic powder",
       "black pepper",
       "white pepper",
@@ -49540,7 +49540,7 @@
     "ingredients": [
       "wine",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "lemon pepper",
       "garlic powder",
       "dried cilantro",
@@ -49643,7 +49643,7 @@
       "cumin",
       "paprika",
       "olive oil",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Halve each squash, but do not peel.",
@@ -49697,7 +49697,7 @@
     "id": 1999,
     "title": "Mojo Beef Kabobs",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "olive oil",
       " oregano",
       "parsley",
@@ -49732,7 +49732,7 @@
       "lemon pepper seasoning",
       "white pepper",
       "catfish fillets",
-      "lemon juice",
+      "lemon",
       "lemon"
     ],
     "direction": [
@@ -49746,7 +49746,7 @@
     "title": "Grilled Balsamic Asparagus",
     "ingredients": [
       " asparagus",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "soy sauce",
       "clove",
@@ -50291,7 +50291,7 @@
     "ingredients": [
       "beef",
       "peanut butter",
-      "lemon juice",
+      "lemon",
       "soy sauce",
       "ginger",
       "cilantro",
@@ -50445,7 +50445,7 @@
       "parsley flakes",
       "baking powder",
       "salt",
-      "lemon juice",
+      "lemon",
       "egg",
       " crabmeat",
       "butter",
@@ -50455,7 +50455,7 @@
       "tomato",
       "frisee",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "sugar",
       "celery seed",
       "garlic powder"
@@ -50533,7 +50533,7 @@
       "cream cheese",
       "yogurt",
       "garlic",
-      "lemon juice",
+      "lemon",
       "water",
       "basil"
     ],
@@ -50674,7 +50674,7 @@
       "turkey",
       "onion",
       "ketchup",
-      "lemon juice",
+      "lemon",
       "Worcestershire sauce",
       "soy sauce",
       "paprika",
@@ -50780,11 +50780,11 @@
     "ingredients": [
       "cucumber",
       "bell pepper",
-      "lemon juice",
+      "lemon",
       "sriracha sauce",
       "scallions",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "turmeric",
       "coriander",
       "cumin",
@@ -50822,7 +50822,7 @@
       "olive oil",
       "clove",
       "thyme leave",
-      "lemon juice",
+      "lemon",
       "butter",
       "olive oil",
       "onion",
@@ -50876,7 +50876,7 @@
       "chili powder",
       "paprika",
       "dry mustard",
-      "lemon juice",
+      "lemon",
       "Worcestershire sauce",
       "boston lettuce",
       "tomato"
@@ -51080,7 +51080,7 @@
       "egg",
       "mayonnaise",
       "garlic",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Sautee garlic in pan until brown.",
@@ -51293,7 +51293,7 @@
     "id": 2064,
     "title": "Margarita Chicken Salad Sandwiches",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "triple sec",
       "olive oil",
       "chili powder",
@@ -51301,7 +51301,7 @@
       "clove",
       "chicken",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "sugar",
       "chili powder",
       "cumin",
@@ -51335,7 +51335,7 @@
       "olive oil",
       "chicken",
       "butter",
-      "lemon juice",
+      "lemon",
       "serrano chili",
       "cilantro",
       "black pepper"
@@ -51355,7 +51355,7 @@
     "ingredients": [
       "chicken",
       "butter",
-      "lemon juice",
+      "lemon",
       "beer",
       "garlic",
       "lemon pepper"
@@ -51374,14 +51374,14 @@
     "ingredients": [
       "chicken",
       "garlic",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "pepper",
       "salt",
       "avocado",
       "onion",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "onion",
       "lemon",
       "cabbage"
@@ -51444,7 +51444,7 @@
     "ingredients": [
       "cilantro",
       "honey",
-      "lemon juice",
+      "lemon",
       "garlic",
       "salt",
       "pepper",
@@ -51495,7 +51495,7 @@
     "title": "Grilled Basil-And-Garlic-Stuffed Chicken",
     "ingredients": [
       "lemon",
-      "lemon juice",
+      "lemon",
       "butter",
       " parmesan cheese",
       "basil",
@@ -51548,7 +51548,7 @@
     "title": "Charcoal Grilled Chicken",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "soy sauce",
       "garlic",
@@ -51575,7 +51575,7 @@
       "chicken",
       "olive oil",
       "garlic powder",
-      "lemon juice",
+      "lemon",
       "parmesan cheese",
       "salt",
       "black pepper"
@@ -51592,7 +51592,7 @@
     "id": 2076,
     "title": "Greek Grilled Chicken Breasts",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "olive oil",
       "parsley",
       "clove",
@@ -51704,7 +51704,7 @@
     "title": "Easy-Grilled-Chicken-Teriyaki",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "garlic"
     ],
     "direction": [
@@ -51744,7 +51744,7 @@
       "olive oil",
       "olive oil",
       "lemon",
-      "lemon juice",
+      "lemon",
       "thyme lettuce",
       "clove",
       "tomato",
@@ -51773,7 +51773,7 @@
       "cinnamon",
       "vinegar",
       "soy sauce",
-      "lemon juice",
+      "lemon",
       "chicken"
     ],
     "direction": [
@@ -51819,7 +51819,7 @@
     "ingredients": [
       "chicken",
       "yogurt",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "onion",
       "clove",
@@ -51905,7 +51905,7 @@
       "ground allspice",
       "black pepper",
       "olive oil",
-      "lemon juice",
+      "lemon",
       "yogurt",
       "lettuce",
       "tomato",
@@ -51913,7 +51913,7 @@
       "mayonnaise",
       " green chile",
       "coriander",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "You will need flat metal skewers, or if using wooden skewers then soak them in water for atleast 20 minutes to stop them from burning.",
@@ -51936,7 +51936,7 @@
     "id": 2091,
     "title": "Lemon-Rosemary Grilled Chicken",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "olive oil",
       "rosemary",
       "garlic",
@@ -51990,7 +51990,7 @@
     "title": "Armenian Herb Marinade Grilled Chicken Breasts",
     "ingredients": [
       "olive oil",
-      "lemon juice",
+      "lemon",
       "salt",
       "thyme",
       "marjoram",
@@ -52036,7 +52036,7 @@
     "title": "Grilled Bourbon Buffalo Chicken",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "salt",
       "romaine lettuce",
       "cucumber",
@@ -52082,7 +52082,7 @@
       "chipotle chile",
       "sour cream",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "cilantro",
       "corn tortillas",
       "cheese",
@@ -52103,7 +52103,7 @@
     "ingredients": [
       "chicken",
       "wine",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "clove",
       "coarse grain mustard",
@@ -52179,7 +52179,7 @@
     "title": "Grilled Chicken Tikka",
     "ingredients": [
       "chicken",
-      "lemon juice",
+      "lemon",
       "yogurt",
       "garlic",
       "ginger",
@@ -52230,7 +52230,7 @@
     "title": "Grilled Chicken Banh Mi",
     "ingredients": [
       "fish sauce",
-      "lemon juice",
+      "lemon",
       "sugar",
       "garlic",
       "salt",
@@ -52306,7 +52306,7 @@
       "garlic powder",
       "cornmeal",
       "ground pepper",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Place pizza crust in medium bowl and allow to come to room temperature. Preheat oven to 400 degrees. Drizzle with 1 Tbsp olive oil and turn to coat. Add oregano and garlic powder and continue turning. Coat a cookie sheet in corn meal and press pizza dough into a circle on cookie sheet.",
@@ -52330,7 +52330,7 @@
       "peanuts",
       "shrimp",
       "water",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "sugar",
       "garlic",
@@ -52451,7 +52451,7 @@
       "peanut butter",
       "water",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "sherry wine",
       "soy sauce",
       "clove",
@@ -52481,7 +52481,7 @@
       "garlic",
       "butter",
       "wine",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Brush chicken on both sides with olive oil, season to taste with Kosher salt and cracked pepper.",
@@ -52531,7 +52531,7 @@
       "cilantro",
       "clove",
       "lemon",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "salt",
       "black pepper"
@@ -52570,7 +52570,7 @@
       "salt",
       "chili powder",
       "garlic powder",
-      "lemon juice",
+      "lemon",
       "chicken"
     ],
     "direction": [
@@ -52586,8 +52586,8 @@
     "ingredients": [
       "chicken",
       "bacon",
-      "lemon juice",
-      "lemon juice",
+      "lemon",
+      "lemon",
       "avocado",
       "cheese"
     ],
@@ -52618,7 +52618,7 @@
     "title": "Summertime Chicken Tacos",
     "ingredients": [
       "olive oil",
-      "lemon juice",
+      "lemon",
       "clove",
       "parsley",
       "cumin",
@@ -52829,7 +52829,7 @@
     "ingredients": [
       "fennel bulb",
       "arugula leaf",
-      "lemon juice",
+      "lemon",
       "lemon",
       "arugula leaf",
       "flour"
@@ -52856,7 +52856,7 @@
       "clove",
       "pepper",
       "ginger",
-      "lemon juice",
+      "lemon",
       "salt",
       "chicken",
       "flour",
@@ -52938,7 +52938,7 @@
       "vanilla extract",
       "powdered sugar",
       "salt",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "For cupcakes: In a large bowl, stir together cake mix and gelatin mix. Make a well in the center and pour in mashed strawberries, oil, milk and eggs. Beat on low speed until blended. Scrape bowl and beat 2 minutes on medium speed. Pour batter into prepared cupcake pans.",
@@ -53141,7 +53141,7 @@
       "onion",
       "clove",
       "Worcestershire sauce",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Open cream cheese and cheddar cheese placing them into large mixing bowl.  On cutting board, finely chop green onions and place them in mixing bowl with cheeses.  Do the same with the sliced beef.  Beef and green onions may be finely chopped with a small food processor.  Using a garlic press, mince garlic and place into mixing bowl.",
@@ -53442,7 +53442,7 @@
       "black olive",
       "green olive",
       "capers",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "Italian parsley"
     ],
@@ -53544,7 +53544,7 @@
     "ingredients": [
       "raspberry",
       "sugar",
-      "lemon juice",
+      "lemon",
       "black tea"
     ],
     "direction": [
@@ -53678,7 +53678,7 @@
       "vodka",
       "triple sec",
       "cranberry juice",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Shake.",
@@ -53737,7 +53737,7 @@
       "canola oil",
       "mango",
       " mint lettuce",
-      "lemon juice",
+      "lemon",
       "onion",
       "rum",
       "avocado",
@@ -54174,8 +54174,8 @@
     "title": "Best Ever Bloody Mary",
     "ingredients": [
       "tomato juice",
-      "lemon juice",
-      "lemon juice",
+      "lemon",
+      "lemon",
       "Worcestershire sauce",
       "garlic powder",
       "Tabasco sauce",
@@ -54194,7 +54194,7 @@
     "id": 2189,
     "title": "Lemonade",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "water",
       "sugar",
       "lemon"
@@ -54389,7 +54389,7 @@
       "yogurt",
       "dill",
       "mustard",
-      "lemon juice",
+      "lemon",
       "salt"
     ],
     "direction": [
@@ -54721,7 +54721,7 @@
       "cream cheese",
       "scallions",
       "garlic",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Place the peppers, cream cheese, scallions, garlic and lemon juice in a blender or food processor.",
@@ -55477,7 +55477,7 @@
       "salsa verde",
       "corn",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "sour cream",
       "cilantro",
       "tomato",
@@ -55514,7 +55514,7 @@
     "id": 2249,
     "title": "Sunkissed Beergarita",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "triple sec",
       "beer",
       "lemon"
@@ -55621,7 +55621,7 @@
       "onion powder",
       "garlic powder",
       "liquid smoke",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Add first 8 ingredients to crock pot and stir.",
@@ -55638,7 +55638,7 @@
       "potato",
       "garlic powder",
       "black beans",
-      "lemon juice",
+      "lemon",
       "cumin",
       "chili powder",
       "pepper",
@@ -56007,7 +56007,7 @@
     "title": "Traditional Garlic Hummus",
     "ingredients": [
       "chickpeas",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "clove"
     ],
@@ -56152,7 +56152,7 @@
     "title": "Whiskey Blitz",
     "ingredients": [
       "Bourbon",
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -56437,7 +56437,7 @@
     "title": "Freakin' Good Guacamole",
     "ingredients": [
       "avocados",
-      "lemon juice",
+      "lemon",
       "salsa",
       "tomato",
       "cilantro"
@@ -56456,7 +56456,7 @@
     "ingredients": [
       "ground pepper",
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "tomato juice",
       "vodka",
       "celery rib"
@@ -56804,7 +56804,7 @@
       "onion",
       "celery",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "parsley"
     ],
     "direction": [
@@ -57306,7 +57306,7 @@
       "sugar",
       "flour",
       "baking powder",
-      "lemon juice",
+      "lemon",
       "lemon",
       "powdered sugar"
     ],
@@ -57433,7 +57433,7 @@
     "title": "Easy Lemon Marble Cheesecake",
     "ingredients": [
       "lemon",
-      "lemon juice",
+      "lemon",
       "sugar",
       "egg",
       "vanilla extract",
@@ -57441,7 +57441,7 @@
       "cheese",
       "egg",
       "vanilla extract",
-      "lemon juice",
+      "lemon",
       "salt"
     ],
     "direction": [
@@ -57895,7 +57895,7 @@
       "egg",
       "sugar",
       "yellow cornmeal",
-      "lemon juice",
+      "lemon",
       "butter"
     ],
     "direction": [
@@ -58417,7 +58417,7 @@
       "whipping cream",
       " raspberry",
       "sugar",
-      "lemon juice",
+      "lemon",
       "salt",
       "ice cream",
       "sugar",
@@ -58725,7 +58725,7 @@
     "title": "Easy Key Lime Pie",
     "ingredients": [
       "condensed milk",
-      "lemon juice",
+      "lemon",
       "graham cracker pie crusts",
       "lemon"
     ],
@@ -58849,7 +58849,7 @@
       "cinnamon",
       "walnut",
       "water",
-      "lemon juice",
+      "lemon",
       "honey"
     ],
     "direction": [
@@ -59170,7 +59170,7 @@
       "salt",
       "baking powder",
       "canola oil",
-      "lemon juice",
+      "lemon",
       "vanilla extract",
       "egg",
       "zucchini",
@@ -59509,7 +59509,7 @@
     "ingredients": [
       " puff pastry",
       "sugar",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Set oven to 400 degrees.",
@@ -59920,7 +59920,7 @@
       "cream cheese",
       "egg",
       "milk",
-      "lemon juice",
+      "lemon",
       "vanilla"
     ],
     "direction": [
@@ -60943,7 +60943,7 @@
       "margarine",
       "sugar",
       "egg",
-      "lemon juice",
+      "lemon",
       "salt",
       "vanilla extract"
     ],
@@ -61085,7 +61085,7 @@
       "egg",
       "icing sugar",
       "corn syrup",
-      "lemon juice",
+      "lemon",
       "vanilla",
       "water",
       "cocoa powder"
@@ -61957,7 +61957,7 @@
       "flour",
       "onion",
       "garlic",
-      "lemon juice",
+      "lemon",
       "Tabasco sauce",
       "lemon"
     ],
@@ -63108,7 +63108,7 @@
     "ingredients": [
       "gouda cheese",
       "black beans",
-      "lemon juice",
+      "lemon",
       "cumin",
       "clove",
       "olive oil",
@@ -63563,7 +63563,7 @@
     "title": "Tomato-Avocado Grilled Cheese",
     "ingredients": [
       "avocado",
-      "lemon juice",
+      "lemon",
       "cumin",
       "salt",
       " Italian parsley",
@@ -63865,7 +63865,7 @@
       "sugar",
       "blackberries",
       "sugar",
-      "lemon juice",
+      "lemon",
       "sugar"
     ],
     "direction": [
@@ -65016,7 +65016,7 @@
       "butter",
       " chives",
       "milk",
-      "lemon juice",
+      "lemon",
       "ham",
       "vinegar",
       "egg",
@@ -65081,7 +65081,7 @@
       "clove",
       "mayonnaise",
       "Tabasco sauce",
-      "lemon juice",
+      "lemon",
       "creole mustard",
       "shrimp",
       "heavy cream",
@@ -66103,7 +66103,7 @@
       "tomato",
       "cumin",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "sugar",
       "cheese",
       "black olive",
@@ -67061,7 +67061,7 @@
       "coriander",
       "black beans",
       "cilantro leaf",
-      "lemon juice",
+      "lemon",
       "salt",
       "flour tortillas",
       "salsa"
@@ -67199,7 +67199,7 @@
       "lemon",
       "salt",
       "ground pepper",
-      "lemon juice",
+      "lemon",
       "butter",
       "onion",
       "salt",
@@ -67858,7 +67858,7 @@
       "Hungarian paprika",
       "tamari soy sauce",
       "salt",
-      "lemon juice",
+      "lemon",
       "parsley",
       "black pepper",
       "sour cream"
@@ -67992,7 +67992,7 @@
       "beets",
       "potato",
       "bay leaf",
-      "lemon juice",
+      "lemon",
       "reduced-fat sour cream"
     ],
     "direction": [
@@ -68037,7 +68037,7 @@
       "bell pepper",
       "shrimp",
       "rice",
-      "lemon juice",
+      "lemon",
       "cilantro"
     ],
     "direction": [
@@ -68131,7 +68131,7 @@
     "id": 2746,
     "title": "Beer and Lime Marinated Salmon",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "beer",
       "soy sauce",
       "garlic",
@@ -68181,7 +68181,7 @@
       "salmon fillet",
       "vinegar",
       "Worcestershire sauce",
-      "lemon juice",
+      "lemon",
       "salt",
       "mustard",
       "black pepper",
@@ -68307,7 +68307,7 @@
       "basil",
       "salt",
       "black pepper",
-      "lemon juice",
+      "lemon",
       "parsley",
       "salmon fillets"
     ],
@@ -68348,7 +68348,7 @@
     "title": "Seared Salmon With Balsamic Glaze",
     "ingredients": [
       "water",
-      "lemon juice",
+      "lemon",
       "sugar",
       "sugar",
       "salmon fillets",
@@ -68538,7 +68538,7 @@
       "cilantro",
       "tomato paste",
       "garlic",
-      "lemon juice",
+      "lemon",
       "sugar",
       "coriander",
       "cumin",
@@ -68609,7 +68609,7 @@
     "title": "Salmon Poached in Champagne With Capers & Tarragon",
     "ingredients": [
       "salmon fillets",
-      "lemon juice",
+      "lemon",
       "lemon",
       "onion",
       "capers",
@@ -68652,7 +68652,7 @@
     "ingredients": [
       "pistachios",
       "sugar",
-      "lemon juice",
+      "lemon",
       "dried dill",
       "black pepper",
       "salmon fillets",
@@ -68778,7 +68778,7 @@
       "carrot",
       "smoked salmon",
       "fennel seed",
-      "lemon juice",
+      "lemon",
       "butter"
     ],
     "direction": [
@@ -68907,7 +68907,7 @@
       "rosemary",
       "olive oil",
       "shallots",
-      "lemon juice",
+      "lemon",
       "wine",
       "tomato"
     ],
@@ -68968,7 +68968,7 @@
       "cayenne",
       "garlic",
       "sugar",
-      "lemon juice",
+      "lemon",
       "fish sauce",
       "water",
       "salt"
@@ -68986,7 +68986,7 @@
     "title": "Chipotle-Rubbed Salmon Tacos",
     "ingredients": [
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "orange zest",
       "sugar",
       "salmon",
@@ -69011,7 +69011,7 @@
       "garlic powder",
       "parmesan cheese",
       " chives",
-      "lemon juice",
+      "lemon",
       "salmon fillet"
     ],
     "direction": [
@@ -69049,7 +69049,7 @@
       "honey",
       "wine",
       "Worcestershire sauce",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Place all ingredients except salmon, in saucepan over moderate heat, stirring with a wire whisk at all times until ingredients are reduced by one-third, to create a sauce.",
@@ -69073,7 +69073,7 @@
       "chili sauce",
       "wonton wrappers",
       "lump crabmeat",
-      "lemon juice",
+      "lemon",
       "salt",
       "black pepper",
       "onion",
@@ -69186,7 +69186,7 @@
       "water",
       "water",
       "sour cream",
-      "lemon juice",
+      "lemon",
       " chives"
     ],
     "direction": [
@@ -69366,7 +69366,7 @@
     "ingredients": [
       "cream cheese",
       "sour cream",
-      "lemon juice",
+      "lemon",
       "smoked salmon",
       " chives",
       "dill",
@@ -69428,7 +69428,7 @@
       "black pepper",
       "dill",
       "parsley",
-      "lemon juice",
+      "lemon",
       "black pepper",
       "salt"
     ],
@@ -69512,7 +69512,7 @@
     "title": "Honey Jalapeno Salmon Fillets",
     "ingredients": [
       "honey",
-      "lemon juice",
+      "lemon",
       "salmon fillets",
       "salt",
       "ground pepper"
@@ -69817,7 +69817,7 @@
       "garlic",
       "tomato",
       "parsley",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Sprinkle halibut with salt and pepper.",
@@ -69876,7 +69876,7 @@
     "ingredients": [
       "halibut steaks",
       "egg",
-      "lemon juice",
+      "lemon",
       "parmesan cheese",
       "salt",
       "dill weed",
@@ -69898,7 +69898,7 @@
     "title": "Halibut Onion Crunch",
     "ingredients": [
       "halibut fillets",
-      "lemon juice",
+      "lemon",
       "marjoram",
       "garlic powder",
       "dry mustard",
@@ -70087,7 +70087,7 @@
     "title": "Best  Halibut Ever",
     "ingredients": [
       "soy sauce",
-      "lemon juice",
+      "lemon",
       "clove",
       "ginger",
       "olive oil",
@@ -70130,7 +70130,7 @@
       "halibut fillets",
       "butter",
       "clove",
-      "lemon juice",
+      "lemon",
       "lemon",
       "herbs"
     ],
@@ -70177,7 +70177,7 @@
       "butter",
       "sugar",
       "clove",
-      "lemon juice",
+      "lemon",
       "soy sauce",
       "black pepper",
       "halibut steaks"
@@ -70223,7 +70223,7 @@
       "egg",
       "salt",
       "butter",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "To cook the halibut I usually cut it up and put it in boiling water.  When it rises to the top it is done.",
@@ -70285,11 +70285,11 @@
     "ingredients": [
       "cucumber",
       "bell pepper",
-      "lemon juice",
+      "lemon",
       "sriracha sauce",
       "scallions",
       "cilantro",
-      "lemon juice",
+      "lemon",
       "turmeric",
       "coriander",
       "cumin",
@@ -70347,7 +70347,7 @@
       "basil",
       "salt",
       "black pepper",
-      "lemon juice",
+      "lemon",
       "parsley",
       "salmon fillets"
     ],
@@ -70499,7 +70499,7 @@
     "ingredients": [
       "mayonnaise",
       "onion",
-      "lemon juice",
+      "lemon",
       "Spanish peanuts"
     ],
     "direction": [
@@ -70617,7 +70617,7 @@
       "turmeric",
       "salt",
       "cilantro",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Add the first 5 ingredients to a large pot; cover and bring to a boil.",
@@ -70736,7 +70736,7 @@
     "title": "Classic Tuna Salad",
     "ingredients": [
       "solid white tuna packed in water",
-      "lemon juice",
+      "lemon",
       "celery",
       "onion",
       "dill pickles",
@@ -71029,7 +71029,7 @@
       "egg",
       "apple butter",
       "vanilla",
-      "lemon juice",
+      "lemon",
       "milk",
       "sugar"
     ],
@@ -71134,7 +71134,7 @@
       "red baking apple",
       "sugar",
       "flour",
-      "lemon juice",
+      "lemon",
       "cinnamon",
       "pepper",
       "egg"
@@ -71338,7 +71338,7 @@
       "apple",
       "onion",
       "mayonnaise",
-      "lemon juice",
+      "lemon",
       "curry powder",
       "butter"
     ],
@@ -71465,7 +71465,7 @@
     "title": "Butternut Apple Casserole",
     "ingredients": [
       "apple",
-      "lemon juice",
+      "lemon",
       "cinnamon",
       "sugar"
     ],
@@ -71990,7 +71990,7 @@
     "id": 2908,
     "title": "Pennsylvania Dutch Apple Crumb Pie",
     "ingredients": [
-      "lemon juice",
+      "lemon",
       "sugar",
       "cinnamon",
       "apple",
@@ -72093,7 +72093,7 @@
       "flour",
       "cinnamon",
       "water",
-      "lemon juice",
+      "lemon",
       "oats",
       "flour",
       "sugar",
@@ -72288,7 +72288,7 @@
       "cinnamon",
       "sugar",
       "baking apple",
-      "lemon juice",
+      "lemon",
       "sugar",
       "Amaretto",
       "whipping cream",
@@ -72316,7 +72316,7 @@
       "apple",
       "cinnamon",
       "sugar",
-      "lemon juice",
+      "lemon",
       "salt",
       "pepper",
       "ice cream"
@@ -72336,7 +72336,7 @@
     "title": "Quick & Easy Apple Crisp",
     "ingredients": [
       "apple",
-      "lemon juice",
+      "lemon",
       "sugar",
       "cinnamon",
       "butter",
@@ -72361,7 +72361,7 @@
       "graham cracker crumbs",
       "condensed milk",
       "cream cheese",
-      "lemon juice",
+      "lemon",
       "walnut",
       "cinnamon"
     ],
@@ -72757,7 +72757,7 @@
     "title": "Dutch Apple Pie",
     "ingredients": [
       "apple",
-      "lemon juice",
+      "lemon",
       "sugar",
       "sugar",
       "flour",
@@ -72936,7 +72936,7 @@
     "title": "Apple Filling for Pies",
     "ingredients": [
       "apple",
-      "lemon juice",
+      "lemon",
       "sugar",
       "cornstarch",
       "pepper",
@@ -73342,7 +73342,7 @@
       "celery",
       "mayonnaise",
       "sugar",
-      "lemon juice",
+      "lemon",
       "parsley",
       "black pepper",
       "Worcestershire sauce"
@@ -73865,7 +73865,7 @@
       "egg",
       "butter",
       "sugar",
-      "lemon juice",
+      "lemon",
       "lemon",
       "salt",
       "pecans",
@@ -74030,7 +74030,7 @@
     "ingredients": [
       "vanilla soymilk",
       "sugar",
-      "lemon juice",
+      "lemon",
       "vanilla extract",
       "salt"
     ],
@@ -76436,7 +76436,7 @@
       "Hungarian paprika",
       "tamari soy sauce",
       "salt",
-      "lemon juice",
+      "lemon",
       "parsley",
       "black pepper",
       "sour cream"
@@ -76660,7 +76660,7 @@
       "tomato",
       "cream cheese",
       "chicken broth",
-      "lemon juice",
+      "lemon",
       "garlic powder",
       "cumin",
       "pepper",
@@ -76687,7 +76687,7 @@
       "capsicum",
       "onion",
       "clove",
-      "lemon juice",
+      "lemon",
       "coriander"
     ],
     "direction": [
@@ -76906,7 +76906,7 @@
       "butter",
       "salt",
       "black pepper",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Combine tomatoes, juice/and or stock in saucepan.",
@@ -76959,7 +76959,7 @@
       "salt",
       "butter",
       "egg",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "In a large saucepan, heat 2 tablespoons of the olive oil. Add the onion and all but 1 cup of the sliced fennel, season with salt and pepper and cook over moderately low heat, stirring frequently, until softened but not browned, about 10 minutes. Add 6 cups of water and bring to a boil. Cover partially and simmer the soup until the fennel is very tender, about 15 minutes.",
@@ -77061,7 +77061,7 @@
       "turmeric",
       "salt",
       "cilantro",
-      "lemon juice"
+      "lemon"
     ],
     "direction": [
       "Add the first 5 ingredients to a large pot; cover and bring to a boil.",
@@ -77662,7 +77662,7 @@
       "celery ribs",
       "granny smith apple",
       "clove",
-      "lemon juice",
+      "lemon",
       "honey",
       "salt",
       "black pepper",
@@ -77785,7 +77785,7 @@
       "chicken broth",
       "cannellini beans",
       "kale",
-      "lemon juice",
+      "lemon",
       "lemon"
     ],
     "direction": [
@@ -78423,7 +78423,7 @@
     "title": "Pasta With Lemon Olive Oil",
     "ingredients": [
       "lemon",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "clove",
       "olive",
@@ -78473,7 +78473,7 @@
       "basil",
       "pine nuts",
       "avocados",
-      "lemon juice",
+      "lemon",
       "garlic",
       "olive oil",
       "salt",
@@ -79482,7 +79482,7 @@
     "title": "Pasta With Lemon Olive Oil",
     "ingredients": [
       "lemon",
-      "lemon juice",
+      "lemon",
       "olive oil",
       "garlic",
       "olive",
@@ -79564,7 +79564,7 @@
       "basil",
       "pine nuts",
       "avocados",
-      "lemon juice",
+      "lemon",
       "garlic",
       "olive oil",
       "salt",
