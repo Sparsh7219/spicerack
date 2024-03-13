@@ -3,7 +3,7 @@ import json
 def update_ingredients(json_data):
     for item in json_data:
         if 'ingredients' in item:
-            item['ingredients'] = [ingredient.replace('large shrimp', 'shrimp') for ingredient in item['ingredients']]
+            item['ingredients'] = [ingredient.replace('refined flour', 'flour') for ingredient in item['ingredients']]
     return json_data
 
 # Read the JSON file
