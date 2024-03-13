@@ -5135,7 +5135,7 @@
       "bell pepper",
       "onion",
       "cucumber",
-      "pistachios",
+      "pistachiochio",
       "parsley",
       "salt"
     ],
@@ -5720,7 +5720,7 @@
       "clove",
       "basil",
       "oregano",
-      "bread flour",
+      "flour",
       "yeast"
     ],
     "direction": [
@@ -6280,7 +6280,7 @@
       "pepper",
       "black pepper",
       "chicken",
-      "angel hair pasta",
+      "pasta",
       "nectarines",
       "baby bok choy",
       "onion"
@@ -9404,7 +9404,7 @@
     "ingredients": [
       "sugar",
       "cardamom pods",
-      "pistachios"
+      "pistachiochio"
     ],
     "direction": [
       "Place oil in a medium sauce pan, break the vermicelli into inch-long pieces (I find it easy to lay on a chopping board & slice with a large chefs knife) and add to the pan.",
@@ -9444,7 +9444,7 @@
       "sugar",
       "cardamom",
       "saffron",
-      "pistachio"
+      "pistachiochio"
     ],
     "direction": [
       "Bring 6 cups milk to boil in heavy shallow 5-quart saucepan.  Rinse rice with cold water until water runs clear.  Drain.  Stir rice into milk.  Reduce heat and simmer until pudding thickens and rice is very tender, stirring frequently, about 1-1/4 hours.",
@@ -9479,7 +9479,7 @@
     "title": "Pista Cashewnut Poli / Nuts Puran Poli",
     "ingredients": [
       "cashew",
-      "pista",
+      "pistachio",
       "coconut",
       "sugar",
       "cardamom pods",
@@ -9621,7 +9621,7 @@
       "butter",
       "cardamom",
       "salt",
-      "pistachios"
+      "pistachiochio"
     ],
     "direction": [
       "Heat carrots and half-and-half to boiling in saucepan; reduce heat.",
@@ -10299,7 +10299,7 @@
     "ingredients": [
       "milk",
       "rose water",
-      "pista"
+      "pistachiochio"
     ],
     "direction": [
       "Soak the Takmaria Seeds in water for at least 1 hour.",
@@ -10325,7 +10325,6 @@
       "garlic paste",
       "soy sauce",
       "ketchup",
-      "sriracha sauce",
       "vinegar",
       "sesame seed"
     ],
@@ -10410,19 +10409,18 @@
       "cumin seed",
       "onion",
       "clove",
-      "black salt",
       "sugar",
       "turmeric",
       "mango powder",
       "chili powder",
-      "idaho potato",
+      "potato",
       "cilantro",
-      "unsalted margarine",
+      "margarine",
       "chutney",
       "cilantro",
       "mint",
       "onion",
-      "pomegranate seed",
+      "pomegranate",
       "lemon",
       "salt",
       "water"
@@ -10467,8 +10465,6 @@
     "title": "Rogan Josh",
     "ingredients": [
       "ginger",
-      "clove",
-      "water",
       "water",
       "stewing beef",
       "cardamom pods",
@@ -10530,11 +10526,7 @@
     "ingredients": [
       "rice",
       "white lentils",
-      "salt",
-      "sugar",
       "baking soda",
-      "onion",
-      "tomato",
       "chili pepper",
       "cilantro lettuce",
       "ghee",
@@ -10574,8 +10566,6 @@
     "ingredients": [
       "chicken",
       "egg",
-      "tomato paste",
-      "salt",
       "black pepper",
       "garam masala",
       "cilantro",
@@ -10593,7 +10583,6 @@
       "salt",
       "black pepper",
       "pepper",
-      "tomato paste",
       "tomato",
       "cream",
       "cilantro leaf",
@@ -10648,7 +10637,7 @@
     "id": 420,
     "title": "Sticky Bombay Chicken from CHAI, CHAAT & CHUTNEY",
     "ingredients": [
-      "dark soy sauce",
+      "soy sauce",
       "olive oil",
       "dark sugar",
       "clove",
@@ -10698,9 +10687,7 @@
     "id": 422,
     "title": "Aloo Paratha",
     "ingredients": [
-      "flour",
       "water",
-      "salt",
       "potato",
       "salt",
       "mustard seed",
@@ -10771,8 +10758,6 @@
       "clove",
       "ginger",
       "chicken",
-      "chicken",
-      "clove",
       "cardamom",
       "cinnamon bark",
       "tomato",
@@ -10885,8 +10870,7 @@
       "chili powder",
       "turmeric",
       "garam masala",
-      "soft sugar",
-      "tomato",
+      "sugar",
       "tomato",
       "chicken",
       "curry lettuce",
@@ -10980,19 +10964,15 @@
     "ingredients": [
       "olive oil",
       "onion",
-      "clove",
       "potato",
       "carrot",
       "sweet peas",
-      "soy sauce",
       "curry powder",
       "cumin",
       "dried cilantro",
       "ginger",
       "turmeric",
       "salt",
-      "pepper",
-      "water",
       "honey",
       "lemon",
       "soy sauce",
@@ -11024,7 +11004,7 @@
     "title": "Indian Potatoes with Mustard Seeds (Sookhi Bhaji)",
     "ingredients": [
       "cumin seed",
-      "brown mustard seed",
+      "mustard seed",
       "onion",
       "chilies",
       "potato",
@@ -11050,7 +11030,6 @@
     "title": "Restaurant-Style Tandoori Chicken in the Oven!",
     "ingredients": [
       "yogurt",
-      "lemon",
       "allspice",
       "black pepper",
       "ground pepper",
@@ -11107,7 +11086,6 @@
     "id": 436,
     "title": "Chappatis (Roti)",
     "ingredients": [
-      "flour",
       "water",
       "milk",
       "salt",
@@ -11179,7 +11157,7 @@
     "ingredients": [
       "tapioca",
       "rose water",
-      "vanilla ice cream",
+      "ice cream",
       "strawberry"
     ],
     "direction": [
@@ -11203,7 +11181,6 @@
       "shallot",
       "butter",
       "lemon",
-      "garam masala",
       "chili powder",
       "cumin",
       "bay leaf",
@@ -11245,8 +11222,7 @@
       "butter",
       "sugar",
       "sugar",
-      "milk",
-      "powdered milk"
+      "milk"
     ],
     "direction": [
       "Melt the butter over low heat.",
@@ -11305,11 +11281,9 @@
     "title": "Jim Lahey\u2019s No-Knead Pizza Margherita",
     "ingredients": [
       "flour",
-      "instant yeast",
-      "salt",
+      "yeast",
       "water",
       "tomato",
-      "salt",
       "olive oil",
       "tomato sauce",
       "buffalo mozzarella",
@@ -11387,13 +11361,11 @@
       "garlic",
       "carrot",
       "celery",
-      "sweet sausage links",
-      "dry oregano",
-      "dry basil",
+      "sausage links",
       "pepper",
       "tomato",
       "cannellini beans",
-      "small shell pasta",
+      "shell pasta",
       "parsley",
       "parmesan cheese"
     ],
@@ -11417,7 +11389,7 @@
     "id": 447,
     "title": "Braciola - Braciole (Italian Stuffed Beef Rolls)",
     "ingredients": [
-      "top round steak",
+      "steak",
       "mozzarella",
       "parmesan cheese",
       "garlic powder",
@@ -11438,9 +11410,8 @@
     "id": 448,
     "title": "Rachael Ray's Tortoni",
     "ingredients": [
-      "vanilla ice cream",
-      "maraschino cherry",
-      "maraschino cherries"
+      "ice cream",
+      "maraschino cherry"
     ],
     "direction": [
       "Mix together softened vanilla ice cream (you can soften it in the microwave on defrost for up to 1 minute), crushed coconut cookies, semi-sweet chocolate chips and chopped cherries.  Refreeze for at least 1 hour.",
@@ -11469,7 +11440,6 @@
     "id": 450,
     "title": "Arancini  (Italian Rice Balls)",
     "ingredients": [
-      "egg",
       "rice",
       "butter",
       "parmesan cheese",
@@ -11522,7 +11492,7 @@
     "id": 452,
     "title": "Zuppa Di Salsiccia Italiana (Italian Sausage Soup)",
     "ingredients": [
-      "hot sausage",
+      "sausage",
       "chicken broth",
       "clove",
       "shallot",
@@ -11630,7 +11600,7 @@
       "chicken broth",
       "mozzarella",
       "parmesan cheese",
-      "angel hair pasta"
+      "pasta"
     ],
     "direction": [
       "Flatten chicken breasts with a mallet to 1/4\" thick.",
@@ -11853,8 +11823,6 @@
     "ingredients": [
       "chicken",
       "cheese",
-      "cheese",
-      "parmesan cheese",
       "basil",
       "thyme",
       "oregano",
@@ -11886,7 +11854,7 @@
       "vanilla extract",
       "flour",
       "Amaretto",
-      "pistachios"
+      "pistachiochio"
     ],
     "direction": [
       "Preheat your oven to 325 degrees.",
@@ -11906,7 +11874,7 @@
     "ingredients": [
       "olive oil",
       "clove",
-      " tomato",
+      "tomato",
       "cucumber",
       "onion",
       "green olive",
@@ -11967,7 +11935,7 @@
     "id": 469,
     "title": "Mozzato Salad (Aka Caprese)",
     "ingredients": [
-      " mozzarella",
+      "mozzarella",
       "tomato",
       "basil",
       "olive oil",
@@ -12011,8 +11979,7 @@
       "shallot",
       "celery",
       "wine",
-      "risotto rice",
-      "risotto rice",
+      "rice",
       "peas",
       "butter",
       "cream",
@@ -12045,18 +12012,15 @@
     "ingredients": [
       "pork cutlets",
       "flour",
-      "lemon",
       "garlic powder",
       "egg",
       "milk",
       "olive oil",
-      "butter",
       "parsley",
       "butter",
       "lemon",
       "cream",
       "pecorino cheese",
-      "garlic powder",
       "salt",
       "black pepper"
     ],
@@ -12082,7 +12046,7 @@
       "tomato",
       "wine",
       "lemon",
-      "Italian parsley",
+      "parsley",
       "butter",
       "salt"
     ],
@@ -12124,7 +12088,7 @@
       "water",
       "sugar",
       "yeast",
-      "bread flour",
+      "flour",
       "salt",
       "vegetable shortening",
       "sesame seed"
@@ -12189,8 +12153,7 @@
     "ingredients": [
       "raisin",
       "sultana",
-      "dark rum",
-      "water",
+      "rum",
       "yeast",
       "water",
       "flour",
@@ -12220,7 +12183,7 @@
     "id": 478,
     "title": "Blackberry Gelato",
     "ingredients": [
-      " blackberries",
+      "blackberries",
       "sugar",
       "cream",
       "salt"
@@ -12359,22 +12322,15 @@
     "title": "Veal Osso Buco (Yummy)",
     "ingredients": [
       "flour",
-      "flour",
       "salt",
       "black pepper",
       "butter",
-      "butter",
-      "olive oil",
       "olive oil",
       "onion",
-      "onion",
       "carrot",
-      "carrot",
-      "celery",
       "celery",
       "clove",
       "tomato sauce",
-      "water",
       "water",
       "basil",
       "thyme",
@@ -12407,14 +12363,13 @@
       "onion",
       "clove",
       "tomato",
-      "tomato",
       "black olive",
       "capers",
       "salt",
       "sugar",
       "pine nuts",
       "basil",
-      " oregano"
+      "oregano"
     ],
     "direction": [
       "In a large hot pan heat oil and stir fry eggplant till golden brown about 10 minutes add celery, onions, garlic, and tomatoes cook till tender about 5 minutes.",
@@ -12435,12 +12390,10 @@
       "carrot",
       "celery",
       "onion",
-      "clove",
-      "anchovy fillets",
+      "anchovy",
       "thyme",
       "capers",
       "wine",
-      "flour",
       "parsley",
       "lemon",
       "clove",
@@ -12476,10 +12429,10 @@
     "ingredients": [
       "tomato",
       "olive oil",
-      "yellow bell pepper",
+      "bell pepper",
       "cucumbers",
       "onion",
-      "anchovy fillets",
+      "anchovy",
       "capers",
       "red wine vinegar",
       "basil leaf"
@@ -12530,7 +12483,6 @@
     "ingredients": [
       "gelatin",
       "whipping cream",
-      "sugar",
       "bing cherries",
       "sugar"
     ],
@@ -12545,14 +12497,10 @@
     "title": "Ciabatta (Italian Slipper Bread)",
     "ingredients": [
       "yeast",
-      "water",
-      "water",
-      "bread flour",
-      "yeast",
       "milk",
       "water",
       "olive oil",
-      "bread flour",
+      "flour",
       "salt"
     ],
     "direction": [
@@ -12593,7 +12541,7 @@
       "fennel",
       "carrot",
       "potato",
-      "shiitake mushroom",
+      "mushroom",
       "wine",
       "parsley",
       "basil",
@@ -12607,10 +12555,10 @@
       "salt",
       "black pepper",
       "water",
-      "catfish fillets",
+      "catfish",
       "shrimp",
       "scallops",
-      "baby clams",
+      "clams",
       "pepper",
       "parsley"
     ],
@@ -12662,8 +12610,8 @@
       "pancetta",
       "olive oil",
       "onion",
-      "hot pepper",
-      "Italian tomato",
+      "pepper",
+      "tomato",
       "salt",
       "pasta",
       "butter",
@@ -12688,7 +12636,6 @@
       "yeast",
       "sugar",
       "flour",
-      "salt",
       "olive oil",
       "rosemary",
       "clove",
@@ -12747,7 +12694,7 @@
       "olive oil",
       "garlic",
       "bay lettuce",
-      "allspice berries",
+      "allspice",
       "honey",
       "wine",
       "lemon",
@@ -12774,7 +12721,7 @@
       "sugar",
       "cinnamon",
       "chocolate",
-      "pistachios"
+      "pistachiochio"
     ],
     "direction": [
       "Mix cheese, sugar, cinnamon and chips together well and stuff into cannoli shells. You can dip one end of the finished cannoli in the melted chocolate and roll in chopped nuts if you like."
@@ -12786,7 +12733,6 @@
     "title": "Boneless Breast of Chicken Saltimbocca",
     "ingredients": [
       "chicken",
-      "flour",
       "flour",
       "prosciutto ham",
       "cheese",
@@ -12873,7 +12819,7 @@
     "id": 501,
     "title": "Neapolitan Meat Sauce - Ragu Napoletano Alla Anna Galasso",
     "ingredients": [
-      "top round steaks",
+      "steaks",
       "parsley",
       "olive oil",
       "onion",
@@ -12973,11 +12919,10 @@
     "ingredients": [
       "flour",
       "baking soda",
-      "cream of tartar",
+      "tartar",
       "anise seed",
       "shortening",
       "salt",
-      "sugar",
       "egg",
       "sugar",
       "cinnamon"
@@ -12997,7 +12942,6 @@
     "ingredients": [
       "sugar",
       "marsala",
-      "sugar",
       "mascarpone cheese",
       "brandy",
       "vanilla",
@@ -13043,7 +12987,6 @@
       "pepper",
       "oregano",
       "basil",
-      "tomato paste",
       "tomato",
       "chicken broth",
       "wine",
@@ -13092,7 +13035,6 @@
     "ingredients": [
       "clove",
       "olive oil",
-      "tomato paste",
       "tomato",
       "bay leaf",
       "parsley",
@@ -13128,7 +13070,7 @@
       "olive oil",
       "garlic",
       "onion",
-      "head of cabbage",
+      "cabbage",
       "zucchini",
       "carrot",
       "celery",
@@ -13158,10 +13100,7 @@
     "id": 511,
     "title": "Sfogliatelle",
     "ingredients": [
-      "flour",
       "salt",
-      "shortening",
-      "shortening",
       "cheese",
       "sugar",
       "egg",
@@ -13247,27 +13186,16 @@
     "ingredients": [
       "flour",
       "salt",
-      "egg",
       "water",
-      "cheese",
-      "cheese",
-      "egg",
       "prosciutto",
-      "pepper",
-      "cheese",
-      "egg",
-      "cheese",
-      "parsley",
       "cinnamon",
       "beef",
       "butter",
       "garlic",
       "spinach",
       "parsley",
-      "egg",
-      "cheese",
       "pepper",
-      "sweet sausage link",
+      "sausage link",
       "egg",
       "cheese"
     ],
@@ -13331,7 +13259,6 @@
     "ingredients": [
       "shrimp",
       "olive oil",
-      "olive oil",
       "onion",
       "garlic",
       "parsley",
@@ -13365,7 +13292,7 @@
     "title": "Easy Stracciatella Italian Soup",
     "ingredients": [
       "chicken broth",
-      "orzo pasta",
+      "pasta",
       "spinach",
       "egg",
       "cheese"
@@ -13386,7 +13313,6 @@
     "ingredients": [
       "olive oil",
       "garlic",
-      "onion",
       "oregano",
       "pepper",
       "celery",
@@ -13402,7 +13328,6 @@
       "clove",
       "onion",
       "egg",
-      "parmesan cheese",
       "salt",
       "black pepper"
     ],
@@ -13425,7 +13350,7 @@
     "title": "Limoncello , Lemoncella",
     "ingredients": [
       "lemon",
-      "100 proof vodka",
+      "vodka",
       "sugar",
       "water"
     ],
@@ -13451,7 +13376,6 @@
       "sausage",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
       "pepper",
       "clove",
       "olive oil",
@@ -13499,7 +13423,7 @@
     "id": 521,
     "title": "Gelato Con Olio E Sale (Ice Cream With Olive Oil & Sea Salt)",
     "ingredients": [
-      "vanilla ice cream",
+      "ice cream",
       "olive oil",
       "salt"
     ],
@@ -13522,7 +13446,7 @@
       "salt",
       "ground pepper",
       "sugar",
-      "squid rings",
+      "squids",
       "mussels"
     ],
     "direction": [
@@ -13644,7 +13568,6 @@
       "chicken",
       "lemongrass",
       "onion",
-      "onion",
       "ground galangal",
       "fish sauce",
       "lemon",
@@ -13716,7 +13639,7 @@
     "title": "Tom Kha Gai",
     "ingredients": [
       "coconut",
-      " galangal root",
+      "galangal root",
       "chicken",
       "tomato",
       "lemongrass",
@@ -13752,7 +13675,7 @@
       "coconut",
       "fish sauce",
       "sugar",
-      "creamy peanut butter",
+      "peanut butter",
       "rice",
       "peanuts",
       "lemon"
@@ -13802,10 +13725,9 @@
       "clove",
       "rice",
       "egg",
-      " tomato",
+      "tomato",
       "chili sauce",
       "soy sauce",
-      "lemon",
       "lemon",
       "scallion"
     ],
@@ -13828,15 +13750,14 @@
     "id": 533,
     "title": "Thai Coconut Rice",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "coconut",
       "water",
       "salt",
       "sugar",
       "pepper",
       "turmeric",
-      "ginger",
-      "crystallized ginger"
+      "ginger"
     ],
     "direction": [
       "Combine all ingredients in a saucepan, except the crystallized ginger and sliced almonds.",
@@ -13858,8 +13779,7 @@
       "cardamom pods",
       "clove",
       "cinnamon",
-      "sugar",
-      "half-and-half"
+      "sugar"
     ],
     "direction": [
       "Bring 6 cups of water to a boil.",
@@ -13910,7 +13830,7 @@
     "id": 536,
     "title": "Thai Peanut Stir-Fry Sauce",
     "ingredients": [
-      "creamy peanut butter",
+      "peanut butter",
       "soy sauce",
       "sugar",
       "garlic powder",
@@ -13933,7 +13853,7 @@
       "garlic",
       "ginger",
       "honey",
-      "creamy peanut butter",
+      "peanut butter",
       "soy sauce",
       "vinegar"
     ],
@@ -13970,7 +13890,7 @@
       "fish sauce",
       "sugar",
       "chicken",
-      "pineapple chunks",
+      "pineapple",
       "onion"
     ],
     "direction": [
@@ -13990,7 +13910,6 @@
       "lettuce",
       "garlic",
       "coriander",
-      "mushroom",
       "lemon",
       "soy sauce",
       "chili powder",
@@ -14041,7 +13960,6 @@
       "chicken",
       "rice",
       "clove",
-      "bell pepper",
       "bell pepper",
       "onion",
       "basil",
@@ -14100,7 +14018,7 @@
       "fish sauce",
       "mint leaf",
       "coriander",
-      " chili pepper",
+      "chili pepper",
       "rice powder",
       "lettuce",
       "peanuts",
@@ -14120,11 +14038,9 @@
       "beef sirloin steaks",
       "white pepper",
       "fish sauce",
-      "lemon",
       "palm sugar",
       "garlic",
       "sugar",
-      "lemon",
       "fish sauce",
       "shallots",
       "lemongrass",
@@ -14136,7 +14052,7 @@
       "grape tomato",
       "lemon",
       "mint leaf",
-      "sticky rice"
+      "rice"
     ],
     "direction": [
       "prepare a batch of thai sticky rice (aka thai sweet rice) to serve with this salad.",
@@ -14169,7 +14085,7 @@
     "id": 545,
     "title": "Thai Red Rice Pudding",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "sugar",
       "salt",
       "rose water",
@@ -14177,10 +14093,9 @@
       "water",
       "milk",
       "coconut",
-      "half-and-half",
       "raisin",
       "lemon",
-      "pistachio"
+      "pistachiochio"
     ],
     "direction": [
       "In a large saucepan combine both rices, sugar, salt, 3 cups water, and 3 cups milk.  Bring it to a boil and then let it simmer over low heat until half the liquid has evaporated.  This will take about 30-40 minute.",
@@ -14202,7 +14117,6 @@
       "garlic",
       "lemongrass",
       "onion powder",
-      "garlic powder",
       "panang curry paste",
       "sugar"
     ],
@@ -14222,7 +14136,7 @@
     "id": 547,
     "title": "Thai Black Rice Pudding",
     "ingredients": [
-      "black rice",
+      "rice",
       "salt",
       "sugar",
       "water",
@@ -14249,7 +14163,6 @@
       "blackstrap molasses",
       "seasoned vinegar",
       "water",
-      "onion",
       "clove",
       "onion",
       "basil",
@@ -14269,15 +14182,15 @@
     "ingredients": [
       "garlic",
       "red curry paste",
-      "tri-tip steak",
+      "steak",
       "coconut",
       "chicken broth",
       "turmeric",
-      "dark soy sauce",
+      "soy sauce",
       "sugar",
       "salt",
       "lemon",
-      "angel hair pasta",
+      "pasta",
       "shallot",
       "cilantro",
       "onion"
@@ -14294,7 +14207,6 @@
     "id": 550,
     "title": "Green Curry Paste (Gaeng Kiow Wan)",
     "ingredients": [
-      "chilies",
       "chilies",
       "lemongrass",
       "shallots",
@@ -14378,7 +14290,7 @@
       "pork",
       "beans sprouts",
       "sugar",
-      "Thai fish sauce",
+      "fish sauce",
       "seasoned vinegar",
       "lemon",
       "cilantro",
@@ -14408,10 +14320,9 @@
       "peanut butter",
       "turmeric",
       "cumin",
-      "Thai red curry paste",
+      "red curry paste",
       "water",
       "coconut",
-      "lemon",
       "sugar",
       "salt",
       "tofu",
@@ -14431,7 +14342,6 @@
     "id": 555,
     "title": "Thai Cucumber Salad",
     "ingredients": [
-      "lemon",
       "canola oil",
       "garlic",
       "sugar",
@@ -14469,7 +14379,7 @@
     "title": "Classic Chicken Pad Thai",
     "ingredients": [
       "coconut",
-      "creamy peanut butter",
+      "peanut butter",
       "soy sauce",
       "lemon",
       "sugar",
@@ -14478,7 +14388,7 @@
       "canola oil",
       "curry powder",
       "chicken",
-      " sugar snap peas",
+      "sugar snap peas",
       "onion",
       "clove",
       "cilantro",
@@ -14515,7 +14425,6 @@
     "title": "Bangkok Style Chicken Pad Thai",
     "ingredients": [
       "salted peanuts",
-      "lemon",
       "fish sauce",
       "lemon",
       "sugar",
@@ -14524,7 +14433,7 @@
       "chicken",
       "garlic",
       "egg",
-      " beans sprout",
+      "beans sprout",
       "onion",
       "cilantro"
     ],
@@ -14549,7 +14458,6 @@
       "jaggery",
       "peanuts",
       "lemon",
-      "lemon",
       "fish sauce",
       "papayas"
     ],
@@ -14564,12 +14472,10 @@
     "id": 560,
     "title": "Thai Sticky Pudding (Kanom Nam Tan)",
     "ingredients": [
-      "tapioca flour",
+      "flour",
       "salt",
-      "coconut cream",
       "palm sugar",
-      "coconut",
-      "coconut cream"
+      "coconut"
     ],
     "direction": [
       "Sift flours together in a bowl with the salt. Whisk in the cream and sugar. Strain into a medium pot and add the pandanus leaves. Cook over a medium heat, stirring constantly to prevent the mixture from sticking, for 15-20 minutes, or until the taste is neither floury nor grainy. Pour the mixture into a tray, smooth it out and allow to cool.",
@@ -14582,12 +14488,11 @@
     "title": "Tender Thai Chicken with Basil",
     "ingredients": [
       "salt",
-      "shiitake mushroom",
+      "mushroom",
       "clove",
-      "hot pepper",
+      "pepper",
       "lemon",
       "oyster sauce",
-      "basil",
       "basil"
     ],
     "direction": [
@@ -14603,7 +14508,6 @@
     "title": "Thai Stir-Fried Vermicelli (Pad Wun-Sen)",
     "ingredients": [
       "canola oil",
-      "onion",
       "garlic",
       "pepper",
       "carrot",
@@ -14636,7 +14540,6 @@
       "ginger",
       "onion",
       "bell pepper",
-      "bell pepper",
       "mango",
       "fish sauce",
       "sugar",
@@ -14660,7 +14563,7 @@
     "id": 564,
     "title": "Spicy Thai Peanut Sauce With Chicken and Rice Noodles",
     "ingredients": [
-      "creamy peanut butter",
+      "peanut butter",
       "soy sauce",
       "ginger",
       "garlic",
@@ -14685,19 +14588,16 @@
     "title": "Asian Slaw With Spicy Thai Vinaigrette",
     "ingredients": [
       "cabbage",
-      "cabbage",
-      "napa cabbage",
       "onion",
       "bell pepper",
       "carrot",
-      "salt",
       "black pepper",
       "lemon",
       "honey",
       "ginger",
       "garlic",
       "basil",
-      " mint lettuce",
+      "mint lettuce",
       "cilantro lettuce",
       "black pepper",
       "sesame seed",
@@ -14717,12 +14617,10 @@
       "peanuts",
       "canola oil",
       "ginger",
-      "garlic",
-      "lemon",
       "tofu",
       "salt",
       "lemon",
-      " beans",
+      "beans",
       "pepper",
       "peanut butter",
       "water",
@@ -14750,8 +14648,8 @@
       "coconut",
       "fish sauce",
       "green curry paste",
-      " sweet basil",
-      " lemon lettuce",
+      "sweet basil",
+      "lemon lettuce",
       "green peas",
       "chilies"
     ],
@@ -14969,7 +14867,6 @@
     "title": "Tom Yum Gai (Thai Hot & Sour Chicken Soup)",
     "ingredients": [
       "onion",
-      "onion",
       "tomato",
       "chicken",
       "mushroom",
@@ -15111,14 +15008,11 @@
       "pork",
       "clove",
       "sesame seed",
-      "clove",
       "vinegar",
       "cumin",
       "black peppercorns",
-      "salt",
       "sugar",
       "tomato",
-      "oregano",
       "salt",
       "bay lettuce",
       "cinnamon",
@@ -15147,8 +15041,6 @@
       "clove",
       "salt",
       "black pepper",
-      "oregano",
-      "chili pepper",
       "chili pepper",
       "hominy",
       "onion",
@@ -15460,7 +15352,7 @@
       "clove",
       "onion",
       "salt",
-      "Italian tomato",
+      "tomato",
       "clove",
       "onion",
       "olive oil",
@@ -16012,7 +15904,7 @@
       "clove",
       "red wine vinegar",
       "sugar",
-      "Italian tomato",
+      "tomato",
       "clove",
       "paprika",
       "cayenne",
@@ -17082,7 +16974,7 @@
       "water",
       "soy sauce",
       "ginger",
-      "shiitake mushroom",
+      "mushroom",
       "tofu",
       "baby bok choy",
       "scallions",
@@ -17410,7 +17302,7 @@
       "sugar",
       "salt",
       "black pepper",
-      "shiitake mushroom",
+      "mushroom",
       "onion",
       "silken tofu",
       "water",
@@ -17704,7 +17596,7 @@
     "ingredients": [
       "onion",
       "bell pepper",
-      "yellow bell pepper",
+      "bell pepper",
       "bell pepper",
       "carrot",
       "salt",
@@ -17776,7 +17668,7 @@
       "soy sauce",
       "sugar",
       "scallion",
-      "hot pepper"
+      "pepper"
     ],
     "direction": [
       "Bring soy sauce, vinegar, sugar and 1/4 cup water to boil in small saucepan over medium heat, stirring until sugar dissolves.",
@@ -17984,7 +17876,7 @@
       "egg",
       "cornstarch",
       "lemon",
-      "cream of tartar",
+      "tartar",
       "water",
       "water"
     ],
@@ -18515,7 +18407,7 @@
       "onion",
       "beans sprouts",
       "onion",
-      "angel hair pasta",
+      "pasta",
       "mushroom",
       "tofu",
       "Chinese cabbage",
@@ -19258,7 +19150,7 @@
       "milk",
       "water",
       "egg",
-      "white bread flour",
+      "white flour",
       "salt",
       "caster sugar",
       "butter",
@@ -19989,7 +19881,7 @@
       "tasso",
       "chili pepper",
       "bell pepper",
-      "yellow bell pepper",
+      "bell pepper",
       "tomato",
       "cream",
       "cornmeal",
@@ -20017,7 +19909,7 @@
       "sugar",
       "egg",
       "water",
-      "dark rum"
+      "rum"
     ],
     "direction": [
       "Dissolve yeast in the milk in a large bowl.",
@@ -21026,8 +20918,8 @@
     "id": 804,
     "title": "Pissaladiere (Provencal Onion Tart)",
     "ingredients": [
-      "bread flour",
-      "instant yeast",
+      "flour",
+      "yeast",
       "salt",
       "olive oil",
       "water",
@@ -21039,7 +20931,7 @@
       "water",
       "black pepper",
       "nicoise olive",
-      "anchovy fillets",
+      "anchovy",
       "thyme lettuce",
       "marjoram lettuce",
       "fennel",
@@ -21781,7 +21673,7 @@
       "shallots",
       "butter",
       "clove",
-      "long grain rice",
+      "rice",
       "chicken broth",
       "salt",
       "turmeric",
@@ -21801,7 +21693,7 @@
     "title": "Arroz Con Costra (Crusty Rice With Pork and Chicken)",
     "ingredients": [
       "olive oil",
-      "long grain rice",
+      "rice",
       "chicken",
       "chickpeas",
       "clove",
@@ -21828,7 +21720,7 @@
     "title": "Stuffed Piquillo Peppers",
     "ingredients": [
       "water",
-      "long grain rice",
+      "rice",
       "saffron",
       "clove",
       "parsley",
@@ -21855,7 +21747,7 @@
       "clove",
       "egg",
       "lemon",
-      "dry oregano",
+      "sausage links",
       "olive oil",
       "parsley",
       "salt",
@@ -22283,7 +22175,7 @@
       "salt",
       "clove",
       "pine nuts",
-      "Italian parsley",
+      "parsley",
       "ground pepper"
     ],
     "direction": [
@@ -23715,7 +23607,7 @@
       " green pea",
       "chopped pimiento",
       "lemon",
-      "long grain rice",
+      "rice",
       "chicken broth",
       "mild paprika",
       "Hellmann's mayonnaise",
@@ -24198,7 +24090,7 @@
       "water",
       "salt",
       "egg",
-      "pineapple chunks",
+      "pineapple",
       "sugar",
       "vinegar",
       "salt",
@@ -24555,7 +24447,7 @@
     "id": 938,
     "title": "Hainanese Chicken Rice",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "chicken",
       "water",
       "ginger",
@@ -24699,7 +24591,7 @@
       "oyster sauce",
       "soy sauce",
       "black pepper",
-      "shiitake mushroom",
+      "mushroom",
       "scallions",
       "black pepper"
     ],
@@ -24754,7 +24646,7 @@
     "title": "Vegan Mapo Tofu",
     "ingredients": [
       "tofu",
-      "shiitake mushroom",
+      "mushroom",
       "vegetable broth",
       "chili beans paste",
       "fermented black beans",
@@ -24907,7 +24799,7 @@
       "soy sauce",
       "sugar",
       "scallion",
-      "hot pepper"
+      "pepper"
     ],
     "direction": [
       "Bring soy sauce, vinegar, sugar and 1/4 cup water to boil in small saucepan over medium heat, stirring until sugar dissolves.",
@@ -25138,7 +25030,7 @@
       "black pepper",
       "cornstarch",
       "chicken",
-      "dark soy sauce",
+      "soy sauce",
       "garlic",
       "ginger",
       "hoisin sauce",
@@ -26218,7 +26110,7 @@
     "ingredients": [
       "cream cheese",
       " apricots",
-      "pistachios"
+      "pistachiochio"
     ],
     "direction": [
       "Stir cream cheese until smooth; pipe or spoon into apricot halves. Sprinkle tops with pistachios."
@@ -27328,7 +27220,7 @@
     "id": 1050,
     "title": "Pistachio-Goat Cheese Bites",
     "ingredients": [
-      "pistachios",
+      "pistachiochio",
       "cream cheese"
     ],
     "direction": [
@@ -27452,7 +27344,7 @@
     "title": "Deviled Eggs With Lemon",
     "ingredients": [
       "egg",
-      "Italian parsley",
+      "parsley",
       "pepper",
       "salt",
       "olive oil",
@@ -28043,7 +27935,7 @@
       "grape tomato",
       "zucchini",
       "capers",
-      "Italian parsley",
+      "parsley",
       "mint",
       "lemon",
       "lemon",
@@ -28789,7 +28681,7 @@
     "ingredients": [
       "lemon pepper seasoning",
       "white pepper",
-      "catfish fillets",
+      "catfish",
       "lemon",
       "lemon"
     ],
@@ -29761,7 +29653,7 @@
     "id": 1151,
     "title": "Cajun Catfish",
     "ingredients": [
-      "catfish fillets",
+      "catfish",
       "pepper",
       "black pepper",
       "paprika",
@@ -29819,7 +29711,7 @@
       "clove",
       "onion",
       "salt",
-      "Italian tomato",
+      "tomato",
       "clove",
       "onion",
       "olive oil",
@@ -30044,7 +29936,7 @@
     "id": 1162,
     "title": "Basil Shrimp with Feta and Orzo",
     "ingredients": [
-      "orzo pasta",
+      "pasta",
       "olive oil",
       "tomato",
       "scallion",
@@ -30131,7 +30023,7 @@
       "salt",
       "ground pepper",
       "sugar",
-      "squid rings",
+      "squids",
       "mussels"
     ],
     "direction": [
@@ -30575,7 +30467,7 @@
     "title": "Deviled Eggs With Lemon",
     "ingredients": [
       "egg",
-      "Italian parsley",
+      "parsley",
       "pepper",
       "salt",
       "olive oil",
@@ -31125,7 +31017,7 @@
       "red pear tomato",
       "cucumber",
       "bell pepper",
-      "yellow bell pepper",
+      "bell pepper",
       "onion",
       "basil",
       "capers",
@@ -31417,7 +31309,7 @@
     "id": 1218,
     "title": "Fruit Salad With Pudding!",
     "ingredients": [
-      "pineapple chunks",
+      "pineapple",
       "vanilla instant pudding mix",
       "strawberry",
       "banana",
@@ -31483,7 +31375,7 @@
       "paprika",
       "salt",
       "pepper",
-      "long grain rice",
+      "rice",
       "tomato",
       "chicken broth",
       "shrimp",
@@ -31702,7 +31594,7 @@
       "vanilla extract",
       "sugar",
       "flour",
-      "pistachios"
+      "pistachiochio"
     ],
     "direction": [
       "Mini muffin tin.",
@@ -31799,7 +31691,7 @@
     "id": 1234,
     "title": "Summery Chopped Orzo Salad",
     "ingredients": [
-      "orzo pasta",
+      "pasta",
       "cucumber",
       "zucchini",
       "radishes",
@@ -34165,7 +34057,7 @@
     "title": "Weight Watchers Sunshine Salad",
     "ingredients": [
       "mandarin orange",
-      "pineapple chunks",
+      "pineapple",
       "fat-free sugar-free instant vanilla pudding mix"
     ],
     "direction": [
@@ -34242,7 +34134,7 @@
     "title": "Weight Watchers White  Bread",
     "ingredients": [
       "water",
-      "bread flour",
+      "flour",
       "flour",
       "sugar",
       "salt",
@@ -34419,7 +34311,7 @@
     "id": 1341,
     "title": "Weight Watchers Pistachio Cake",
     "ingredients": [
-      "sugar-free instant pistachio pudding",
+      "sugar-free instant pistachiochio pudding",
       "whip"
     ],
     "direction": [
@@ -34776,7 +34668,7 @@
     "id": 1358,
     "title": "Chocolate Sponge Cake",
     "ingredients": [
-      "cream of tartar",
+      "tartar",
       "salt",
       "sugar",
       "vanilla",
@@ -35394,7 +35286,7 @@
     "id": 1387,
     "title": "Monster Slush!",
     "ingredients": [
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Place the orange juice and ice cream in a blender or food processor.",
@@ -35767,7 +35659,7 @@
     "id": 1411,
     "title": "Grog Spicy and Sweet",
     "ingredients": [
-      "dark rum",
+      "rum",
       "lemon",
       "honey",
       "clove",
@@ -35953,7 +35845,7 @@
     "id": 1424,
     "title": "Witch's Bubbly Brewed Punch - Halloween",
     "ingredients": [
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "In your cauldron or punch bowl add 1 liter of Orange soda and 1/2 can of Hawaiian punch.",
@@ -36036,7 +35928,7 @@
     "id": 1429,
     "title": "Pumpkin Pie Shake",
     "ingredients": [
-      "reduced-fat vanilla ice cream",
+      "reduced-fat ice cream",
       "milk",
       "pumpkin",
       "sugar",
@@ -37753,7 +37645,7 @@
     "id": 1501,
     "title": "Filling Buffalo Chicken Casserole",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "water",
       "olive oil",
       "chicken",
@@ -38999,7 +38891,7 @@
     "id": 1552,
     "title": "Fruit Salad",
     "ingredients": [
-      "pineapple chunks",
+      "pineapple",
       "sugar",
       "flour",
       "egg",
@@ -39050,7 +38942,7 @@
       "ginger",
       "butter",
       "sugar",
-      "dark rum"
+      "rum"
     ],
     "direction": [
       "In a small pot over medium heat place all ingredients except rum. Simmer for about 5 minutes.",
@@ -40224,7 +40116,7 @@
     "id": 1605,
     "title": "Beef Kabobs (kebabs)",
     "ingredients": [
-      "pineapple chunks",
+      "pineapple",
       "sugar",
       "vinegar",
       "soy sauce",
@@ -41828,7 +41720,7 @@
     "title": "Boston Black Bean Chili",
     "ingredients": [
       "bell pepper",
-      "yellow bell pepper",
+      "bell pepper",
       "cumin",
       "coriander",
       "chili powder",
@@ -42328,7 +42220,7 @@
     "title": "Dad's Venison Chili",
     "ingredients": [
       "onion",
-      "yellow bell pepper",
+      "bell pepper",
       "tomato",
       "tomato",
       "chili powder",
@@ -42361,7 +42253,7 @@
       "pepper",
       "garlic",
       "olive oil",
-      "Italian tomato",
+      "tomato",
       "tomato sauce",
       "pinto beans",
       "black beans",
@@ -44912,7 +44804,7 @@
       "egg",
       "flour",
       "vanilla extract",
-      "cream of tartar",
+      "tartar",
       "baking soda",
       "salt",
       "sugar",
@@ -45057,7 +44949,7 @@
     "ingredients": [
       "puff pastry sheet",
       "butter",
-      "creamy peanut butter",
+      "peanut butter",
       "graham cracker crumbs",
       "powdered sugar",
       "miniature marshmallow"
@@ -45732,7 +45624,7 @@
       "clove",
       "cumin",
       "chili powder",
-      "yellow bell pepper",
+      "bell pepper",
       "beer",
       "chipotle chile",
       "sour cream",
@@ -46230,7 +46122,7 @@
       "water",
       "salt",
       "egg",
-      "pineapple chunks",
+      "pineapple",
       "sugar",
       "vinegar",
       "salt",
@@ -46313,7 +46205,7 @@
       "salt",
       "cinnamon",
       "walnut",
-      "pistachios",
+      "pistachiochio",
       "phyllo dough",
       "butter",
       "honey"
@@ -46378,7 +46270,7 @@
       "sugar",
       "sugar",
       "egg",
-      "creamy peanut butter",
+      "peanut butter",
       "mini marshmallows",
       "graham crackers"
     ],
@@ -46474,7 +46366,7 @@
     "id": 1861,
     "title": "Snickers Candy Bars",
     "ingredients": [
-      "creamy peanut butter",
+      "peanut butter",
       "butter",
       "sugar",
       "milk",
@@ -47698,7 +47590,7 @@
     "id": 1915,
     "title": "Grilled Italian Tomatoes",
     "ingredients": [
-      "Italian tomato",
+      "tomato",
       "olive oil",
       "salt",
       "black pepper"
@@ -47967,7 +47859,7 @@
       "sugar",
       "cinnamon",
       "pepper",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Prepare barbecue (medium-high heat).",
@@ -48010,7 +47902,7 @@
     "title": "Chicken Satay Kabobs",
     "ingredients": [
       "chicken",
-      "creamy peanut butter",
+      "peanut butter",
       "soy sauce",
       "sugar",
       "curry powder",
@@ -48635,7 +48527,7 @@
     "id": 1955,
     "title": "Spicy Grilled Fish",
     "ingredients": [
-      "catfish fillets",
+      "catfish",
       "lemon",
       "soy sauce",
       "ginger",
@@ -49734,7 +49626,7 @@
     "ingredients": [
       "lemon pepper seasoning",
       "white pepper",
-      "catfish fillets",
+      "catfish",
       "lemon",
       "lemon"
     ],
@@ -50873,7 +50765,7 @@
       "Tabasco jalapeno sauce",
       "shrimp",
       "olive oil",
-      "yellow bell pepper",
+      "bell pepper",
       "shallot",
       "clove",
       "chili powder",
@@ -51616,7 +51508,7 @@
     "id": 2077,
     "title": "Marinated Grilled Chicken With White Wine, Garlic and Lemon",
     "ingredients": [
-      "Italian parsley",
+      "parsley",
       " oregano",
       "wine",
       "olive oil",
@@ -52411,7 +52303,7 @@
     "title": "Chicken Satay Kabobs",
     "ingredients": [
       "chicken",
-      "creamy peanut butter",
+      "peanut butter",
       "soy sauce",
       "sugar",
       "curry powder",
@@ -52885,7 +52777,7 @@
       "olive oil",
       "smoked sausage",
       "bell pepper",
-      "yellow bell pepper",
+      "bell pepper",
       "bell pepper",
       "onion",
       "clove",
@@ -53447,7 +53339,7 @@
       "capers",
       "lemon",
       "olive oil",
-      "Italian parsley"
+      "parsley"
     ],
     "direction": [
       "Mix all ingredients together.",
@@ -56623,7 +56515,7 @@
     "id": 2294,
     "title": "Filling Buffalo Chicken Casserole",
     "ingredients": [
-      "long grain rice",
+      "rice",
       "water",
       "olive oil",
       "chicken",
@@ -56881,7 +56773,7 @@
       "flour",
       "salt",
       "baking soda",
-      "cream of tartar",
+      "tartar",
       "sugar",
       "cinnamon"
     ],
@@ -57006,7 +56898,7 @@
     "ingredients": [
       "chocolate chips",
       "soft silken tofu",
-      "creamy peanut butter",
+      "peanut butter",
       "sugar",
       "vanilla",
       "prepared graham cracker crust"
@@ -57292,7 +57184,7 @@
       "egg",
       "vanilla extract",
       "walnut",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Preheat oven to 375 degrees and grease 8 (4 inch) pie tins. In a medium mixing bowl stir together flour, baking soda, and salt, set aside.",
@@ -58113,7 +58005,7 @@
       "vanilla extract",
       "egg",
       "flour",
-      "creamy peanut butter",
+      "peanut butter",
       "butter",
       "powdered sugar",
       "salt",
@@ -58200,7 +58092,7 @@
     "id": 2354,
     "title": "Honeybee Gluten-Free Dump Cake",
     "ingredients": [
-      "pineapple chunks",
+      "pineapple",
       "cherry pie filling",
       "honey",
       "yogurt",
@@ -58350,7 +58242,7 @@
     "id": 2359,
     "title": "Best Buckeyes (Peanut Butter and Chocolate Candies)",
     "ingredients": [
-      "creamy peanut butter",
+      "peanut butter",
       "butter",
       "sugar",
       "vanilla",
@@ -58544,8 +58436,8 @@
       "sugar",
       "cinnamon",
       "banana",
-      "dark rum",
-      "vanilla ice cream"
+      "rum",
+      "ice cream"
     ],
     "direction": [
       "Combine the butter, sugar and cinnamon in a flamb\u00e9 pan or skillet.",
@@ -58628,7 +58520,7 @@
       "cornstarch",
       "sugar",
       "cherry brandy",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Heat oven to 325\u00b0F  You'll need 16 heart-shaped foil baking cups (raynoleds' fun shapes) on a rimmed baking sheet, or a 3in heart shaped cookie cutter and a 13 x 9 in baking pan lined with nonstick foil(let foil extend about 2 in above pan at both ends).",
@@ -58894,7 +58786,7 @@
       "raspberry gelatin powder",
       "butter",
       "water",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Preheat oven to 350 degrees.",
@@ -59021,7 +58913,7 @@
       "cocoa powder",
       "water",
       "cream",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Mix butter and sugar until creamy.",
@@ -60486,7 +60378,7 @@
     "title": "Christmas Surprise Cookies",
     "ingredients": [
       "butter",
-      "creamy peanut butter",
+      "peanut butter",
       "sugar",
       "sugar",
       "egg",
@@ -60989,7 +60881,7 @@
       "sugar",
       "egg",
       "flour",
-      "cream of tartar",
+      "tartar",
       "baking soda",
       "salt",
       "sugar",
@@ -61734,7 +61626,7 @@
       "water",
       "sugar",
       "salt",
-      "bread flour"
+      "flour"
     ],
     "direction": [
       "Make dough using your favorite method- bread machine, mixer or by hand.",
@@ -62012,7 +61904,7 @@
       "paprika",
       "salt",
       "pepper",
-      "long grain rice",
+      "rice",
       "tomato",
       "chicken broth",
       "shrimp",
@@ -62650,7 +62542,7 @@
     "id": 2525,
     "title": "Chicken Parmesan Express",
     "ingredients": [
-      "angel hair pasta",
+      "pasta",
       "chicken",
       "egg",
       "butter",
@@ -63569,7 +63461,7 @@
       "lemon",
       "cumin",
       "salt",
-      " Italian parsley",
+      " parsley",
       "cheese",
       "tomato",
       "mayonnaise"
@@ -64295,7 +64187,7 @@
       "butter",
       "butter",
       "egg",
-      "anchovy fillets",
+      "anchovy",
       "capers",
       "parsley"
     ],
@@ -67829,7 +67721,7 @@
       "onion",
       "garlic",
       "vegetable broth",
-      "orzo pasta",
+      "pasta",
       "parmesan cheese",
       "basil"
     ],
@@ -68215,7 +68107,7 @@
       "white cabbage",
       "salmon",
       "lemon",
-      "Italian parsley",
+      "parsley",
       "salt"
     ],
     "direction": [
@@ -68280,7 +68172,7 @@
       "butter",
       "mustard",
       "honey",
-      "pistachios",
+      "pistachiochio",
       "panko breadcrumbs",
       "parsley",
       "olive oil",
@@ -68653,7 +68545,7 @@
     "id": 2767,
     "title": "Pistachio Baked Salmon",
     "ingredients": [
-      "pistachios",
+      "pistachiochio",
       "sugar",
       "lemon",
       "dried dill",
@@ -68875,7 +68767,7 @@
       "capers",
       "salmon",
       "olive oil",
-      "flat-leaf Italian parsley",
+      "flat-leaf parsley",
       "garlic",
       "salt",
       "black pepper",
@@ -69100,7 +68992,7 @@
       "salmon",
       "olive oil",
       "lemon",
-      " Italian parsley",
+      " parsley",
       "cilantro",
       "dill"
     ],
@@ -69474,7 +69366,7 @@
     "ingredients": [
       "salmon",
       "pesto sauce",
-      "pistachios"
+      "pistachiochio"
     ],
     "direction": [
       "Preheat the oven to 350\u00b0F",
@@ -70711,7 +70603,7 @@
       "egg",
       "celery",
       " chives",
-      " Italian parsley",
+      " parsley",
       "coarse black pepper",
       "mayonnaise"
     ],
@@ -71776,7 +71668,7 @@
       "butterscotch pudding",
       "cinnamon",
       "apple",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Heat oven to 375\u00b0F",
@@ -72346,7 +72238,7 @@
       "flour",
       "sugar",
       "butter",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Toss apples with lemon juice, sugar, and cinnamon; turn into an 8x8\" baking pan that has been lightly coated with no-stick cooking spray; dot with butter.",
@@ -72697,7 +72589,7 @@
       "butter",
       "egg",
       "vanilla",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Preheat oven to 350\u00b0F Place 1/3 cup butter in a 9x9x2-inch baking pan. Place in oven 5 minutes or until butter melts. Sprinkle brown sugar over butter; stir. Arrange 9 apple halves in mixture, cut sides down. Bake in oven 10 to 15 minutes or until bubbly.",
@@ -73327,7 +73219,7 @@
     "id": 2961,
     "title": "Easy Peanut Butter Dip for Fruit",
     "ingredients": [
-      "creamy peanut butter",
+      "peanut butter",
       "honey"
     ],
     "direction": [
@@ -73495,7 +73387,7 @@
     "id": 2969,
     "title": "Oreo Ice Cream Delight",
     "ingredients": [
-      "vanilla ice cream",
+      "ice cream",
       "Cool Whip"
     ],
     "direction": [
@@ -73516,7 +73408,7 @@
       "graham crackers",
       "marshmallow cream",
       "chocolate ice cream",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Line a 9 by 5-inch loaf pan with plastic wrap, letting the ends of the plastic wrap overhang the pan by 6 inches. Break one of the crackers into 4 pieces along the dotted lines.",
@@ -73534,7 +73426,7 @@
     "ingredients": [
       "strawberries",
       "caster sugar",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Place the strawberries into a frying pan, on a medium high heat, with the caster sugar. Heat for 1-2 minutes.",
@@ -73549,7 +73441,7 @@
     "ingredients": [
       "peanut butter",
       "banana",
-      "sugar-free vanilla ice cream"
+      "sugar-free ice cream"
     ],
     "direction": [
       "Preheat oven to 450 degrees F.",
@@ -73616,7 +73508,7 @@
       "flour tortillas",
       "sugar",
       "cinnamon",
-      "vanilla ice cream",
+      "ice cream",
       "maraschino cherries"
     ],
     "direction": [
@@ -73650,7 +73542,7 @@
     "title": "Boston Cooler",
     "ingredients": [
       "ginger ale",
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "pour ginger ale in very large glass.",
@@ -73664,7 +73556,7 @@
     "id": 2978,
     "title": "Rocky Road Pudding",
     "ingredients": [
-      "vanilla ice cream",
+      "ice cream",
       "vanilla custard",
       "mini marshmallows",
       " raspberry",
@@ -73814,7 +73706,7 @@
     "id": 2986,
     "title": "Simple Pleasure Waffle / Waffles and Ice Cream !!!",
     "ingredients": [
-      "vanilla ice cream"
+      "ice cream"
     ],
     "direction": [
       "Put ice cream in center of waffle.",
@@ -73829,7 +73721,7 @@
     "ingredients": [
       "flour",
       "baking soda",
-      "cream of tartar",
+      "tartar",
       "salt",
       "butter",
       "sugar",
@@ -73864,7 +73756,7 @@
     "id": 2988,
     "title": "Lemon Meringue Ice Cream Pie",
     "ingredients": [
-      "vanilla ice cream",
+      "ice cream",
       "egg",
       "butter",
       "sugar",
@@ -73874,7 +73766,7 @@
       "pecans",
       "sugar",
       "butter",
-      "cream of tartar",
+      "tartar",
       "sugar"
     ],
     "direction": [
@@ -73901,7 +73793,7 @@
     "id": 2989,
     "title": "Amaretto Freeze",
     "ingredients": [
-      "vanilla ice cream",
+      "ice cream",
       "Amaretto",
       "Creme de Cacao",
       "ground pepper"
@@ -73935,7 +73827,7 @@
     "id": 2991,
     "title": "Cinnamon Coconut Swirl Ice-Cream",
     "ingredients": [
-      "French vanilla ice cream",
+      "French ice cream",
       "cinnamon"
     ],
     "direction": [
@@ -73975,7 +73867,7 @@
     "title": "Lina's Apple Pie Dessert Cups +",
     "ingredients": [
       "wonton wrappers",
-      "vanilla ice cream",
+      "ice cream",
       "pecans"
     ],
     "direction": [
@@ -74017,7 +73909,7 @@
     "id": 2995,
     "title": "Frozen Kahlua Creme",
     "ingredients": [
-      "vanilla ice cream",
+      "ice cream",
       "Kahlua"
     ],
     "direction": [
@@ -74095,7 +73987,7 @@
     "id": 3000,
     "title": "Gelato Con Olio E Sale (Ice Cream With Olive Oil & Sea Salt)",
     "ingredients": [
-      "vanilla ice cream",
+      "ice cream",
       "olive oil",
       "salt"
     ],
@@ -74982,7 +74874,7 @@
     "title": "\"you'll Never Miss the Noodles\" Lasagna",
     "ingredients": [
       "beef",
-      "sweet sausage link",
+      "sausage link",
       "onion",
       "bell pepper",
       "clove",
@@ -75568,7 +75460,7 @@
       "flour",
       "chicken broth",
       "shrimp",
-      " Italian parsley",
+      " parsley",
       "cheese",
       "parmesan cheese",
       "egg",
@@ -76331,7 +76223,7 @@
       "onion powder",
       "chicken broth",
       "escarole",
-      "orzo pasta",
+      "pasta",
       "carrot",
       "parmesan cheese"
     ],
@@ -76384,7 +76276,7 @@
       "rosemary",
       " tarragon",
       "thyme",
-      "flat-leaf Italian parsley"
+      "flat-leaf parsley"
     ],
     "direction": [
       "In a large skillet over medium heat, cook onions in oil until translucent.",
@@ -77213,7 +77105,7 @@
       "butter",
       "onion",
       "mushroom",
-      "shiitake mushroom",
+      "mushroom",
       "flour",
       "chicken broth",
       "black pepper",
