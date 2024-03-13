@@ -1920,7 +1920,7 @@
     "id": 75,
     "title": "Sage Seasoning Blend",
     "ingredients": [
-      "dried sage",
+      "sage",
       "marjoram",
       "thyme",
       "celery seed",
@@ -3314,7 +3314,7 @@
       "clove",
       "vermouth",
       "salt",
-      "dried herbs",
+      "herbs",
       "arugula",
       "pepper",
       "cheese"
@@ -6216,7 +6216,7 @@
       "sugar",
       "cornstarch",
       "salt",
-      "dried rubbed sage",
+      "rubbed sage",
       "black pepper",
       "flour",
       "olive oil",
@@ -6450,7 +6450,7 @@
       "chicken",
       "lemon",
       "olive oil",
-      "dried dill weed",
+      "dill weed",
       "salt",
       "parsley"
     ],
@@ -7113,7 +7113,7 @@
     "id": 288,
     "title": "Almond Joy Chocolate Bark",
     "ingredients": [
-      "dark chocolate"
+      "chocolate"
     ],
     "direction": [
       "Melt chocolate over very low heat.",
@@ -7553,7 +7553,7 @@
       "sugar",
       "sugar",
       "salt",
-      "dried currant",
+      "currant",
       "cinnamon"
     ],
     "direction": [
@@ -8601,8 +8601,8 @@
     "ingredients": [
       "cheese",
       "clove",
-      "dried sage",
-      "dried leaf thyme",
+      "sage",
+      "leaf thyme",
       "parsley",
       "pepper",
       "tomato juice",
@@ -9067,7 +9067,7 @@
       "sugar",
       "water",
       "cardamom pods",
-      "saffrons"
+      "saffron"
     ],
     "direction": [
       "Make the dough by combining the milk powder, flour, butter. Add just enough whole milk to make a medium-hard dough. Divide the dough into 18-20 portions.",
@@ -9250,7 +9250,7 @@
       "ghee",
       "sugar",
       "green cardamom pods",
-      "saffron strands",
+      "saffron",
       "pepper"
     ],
     "direction": [
@@ -9423,7 +9423,7 @@
       "cinnamon stick",
       "salt",
       "bay lettuce",
-      "dried plums",
+      "plums",
       "chili",
       "cilantro",
       "saffron",
@@ -9947,7 +9947,7 @@
       "sugar",
       "salt",
       "water",
-      "dried tamarind",
+      "tamarind",
       "water"
     ],
     "direction": [
@@ -9970,7 +9970,7 @@
       "cayenne",
       "chili powder",
       "garlic powder",
-      "dry mustard",
+      "mustard",
       "ginger",
       "turmeric",
       "fennel",
@@ -11050,7 +11050,7 @@
       "soy sauce",
       "curry powder",
       "cumin",
-      "dried cilantro",
+      "cilantro",
       "ginger",
       "turmeric",
       "salt",
@@ -11451,8 +11451,8 @@
       "carrot",
       "celery",
       "sweet sausage links",
-      "dry oregano",
-      "dry basil",
+      "oregano",
+      "basil",
       "pepper",
       "tomato",
       "cannellini beans",
@@ -15301,7 +15301,7 @@
       "baking powder",
       "garlic powder",
       "cayenne",
-      "dry mustard",
+      "mustard",
       "oregano",
       "salt",
       "black pepper",
@@ -15385,7 +15385,7 @@
       "mushroom",
       "onion",
       "garlic",
-      "dried ancho chile powder",
+      "ancho chile powder",
       "cumin",
       "cocoa powder",
       "vinegar",
@@ -15411,7 +15411,7 @@
     "id": 590,
     "title": "Mole Coloradito Enchiladas, from Rick Bayless",
     "ingredients": [
-      "dried ancho chiles",
+      "ancho chiles",
       "tomato",
       "onion",
       "sesame seed",
@@ -15547,7 +15547,7 @@
     "id": 595,
     "title": "Chamoy",
     "ingredients": [
-      "dried ancho chiles",
+      "ancho chiles",
       "lemon",
       "sugar",
       "salt"
@@ -15733,7 +15733,7 @@
     "id": 603,
     "title": "Mexican Tamales",
     "ingredients": [
-      "dried ancho chiles",
+      "ancho chiles",
       "garlic",
       "cumin",
       "water",
@@ -15911,7 +15911,7 @@
     "id": 611,
     "title": "Molly's Refried Beans",
     "ingredients": [
-      "dried pinto beans",
+      "pinto beans",
       "water",
       "bacon",
       "clove",
@@ -16021,7 +16021,7 @@
       "onion",
       "chili",
       "beef",
-      "dry mustard",
+      "mustard",
       "garlic",
       "adobo seasoning",
       "peppercorns",
@@ -16070,7 +16070,7 @@
       "beef",
       "bay lettuce",
       "plums",
-      "dried ancho chiles",
+      "ancho chiles",
       "onion",
       "thyme",
       "marjoram",
@@ -16165,7 +16165,7 @@
       "bay lettuce",
       "clove",
       "onion",
-      "dried black beans",
+      "black beans",
       "cumin",
       "mayonnaise",
       "garlic",
@@ -16227,7 +16227,7 @@
     "id": 623,
     "title": "Estella's Mole Poblano Chicken",
     "ingredients": [
-      "dried ancho chiles",
+      "ancho chiles",
       "poblano chiles",
       "chicken broth",
       "salt",
@@ -16662,7 +16662,7 @@
     "ingredients": [
       "corn",
       "mayonnaise",
-      "dried ancho chile powder",
+      "ancho chile powder",
       "garlic",
       "salt",
       "Cotija cheese",
@@ -17810,7 +17810,7 @@
     "title": "Sesame Japanese Cucumber Salad",
     "ingredients": [
       "vinegar",
-      "dry mustard",
+      "mustard",
       "soy sauce",
       "Tabasco sauce",
       "cucumbers",
@@ -19251,7 +19251,7 @@
       "red wine",
       "BASIC BROWN SAUCE",
       "rosemary",
-      "dried chervil",
+      "chervil",
       "basil",
       "celery seed",
       "white mushroom",
@@ -21267,7 +21267,7 @@
     "id": 812,
     "title": "Spanish Lentil Soup With Chorizo",
     "ingredients": [
-      "dry green lentils",
+      "green lentils",
       "olive oil",
       "onion",
       "clove",
@@ -21875,7 +21875,7 @@
       "clove",
       "egg",
       "lemon",
-      "dry oregano",
+      "oregano",
       "olive oil",
       "parsley",
       "salt",
@@ -22116,7 +22116,7 @@
     "id": 846,
     "title": "Andorran Escudella",
     "ingredients": [
-      "dry white beans",
+      "white beans",
       "ham bone",
       "chicken",
       "pork sausage",
@@ -22170,7 +22170,7 @@
       "bell pepper",
       "parsley",
       "potato",
-      "saffrons",
+      "saffron",
       "salt",
       "wine",
       "water",
@@ -22437,7 +22437,7 @@
       "egg",
       "sugar",
       "cinnamon",
-      "dark chocolate",
+      "chocolate",
       "milk",
       "cornstarch",
       "sugar"
@@ -22900,7 +22900,7 @@
       "cinnamon",
       "chili powder",
       "flour",
-      "dark chocolate"
+      "chocolate"
     ],
     "direction": [
       "Heat oil in a large saucepan over med.",
@@ -22994,7 +22994,7 @@
       "garlic powder",
       "coriander",
       "pepper",
-      "dried prunes",
+      "prunes",
       "tomato paste",
       "capers"
     ],
@@ -25762,7 +25762,7 @@
       "lemon",
       "salt",
       "black pepper",
-      "dried ancho chile powder"
+      "ancho chile powder"
     ],
     "direction": [
       "Place the frozen shrimp in a colander in the sink, and run hot water over them while stirring occasionally until they separate and begin to thaw, about 1 minute.",
@@ -26540,7 +26540,7 @@
       "parsley",
       "Worcestershire sauce",
       "lemon",
-      "dry mustard",
+      "mustard",
       "salt",
       "ground pepper",
       "Tabasco sauce",
@@ -27788,7 +27788,7 @@
       "baking powder",
       "garlic powder",
       "cayenne",
-      "dry mustard",
+      "mustard",
       "oregano",
       "salt",
       "black pepper",
@@ -28479,7 +28479,7 @@
       "parsley",
       "Worcestershire sauce",
       "lemon",
-      "dry mustard",
+      "mustard",
       "salt",
       "ground pepper",
       "Tabasco sauce",
@@ -28840,7 +28840,7 @@
       "sour cream",
       "mustard",
       "onion",
-      "dried dill weed",
+      "dill weed",
       "mayonnaise",
       "parmesan cheese",
       "cheddar cheese",
@@ -29079,7 +29079,7 @@
       "mayonnaise",
       "pepper",
       "Worcestershire sauce",
-      "dry mustard"
+      "mustard"
     ],
     "direction": [
       "Mix together eggs, mayo, OLD BAY, pepper, worcestershire sauce, and mustard, until creamy.",
@@ -29571,7 +29571,7 @@
     "id": 1144,
     "title": "Cajun Seafood Pasta",
     "ingredients": [
-      "dry linguine",
+      "linguine",
       "whipping cream",
       "basil",
       "thyme",
@@ -30078,7 +30078,7 @@
       "lemon",
       "marjoram",
       "garlic powder",
-      "dry mustard",
+      "mustard",
       "salt",
       "ground pepper",
       "parmesan cheese"
@@ -34835,7 +34835,7 @@
     "ingredients": [
       "chicken",
       "orange marmalade",
-      "dried cherries",
+      "cherries",
       "oregano"
     ],
     "direction": [
@@ -35264,7 +35264,7 @@
     "ingredients": [
       "butter",
       "flour",
-      "dry mustard",
+      "mustard",
       "paprika",
       "salt",
       "milk",
@@ -38835,7 +38835,7 @@
       "cheddar cheese",
       "cream cheese",
       "ale",
-      "dry mustard",
+      "mustard",
       "pepper",
       "pecans",
       "parsley"
@@ -39975,7 +39975,7 @@
       "vinegar",
       "Worcestershire sauce",
       "salt",
-      "dry mustard",
+      "mustard",
       "paprika"
     ],
     "direction": [
@@ -40849,7 +40849,7 @@
       "cumin",
       "sugar",
       "salt",
-      "dry mustard",
+      "mustard",
       "coriander",
       "black pepper",
       "cayenne"
@@ -41142,7 +41142,7 @@
       "tomato",
       "tomato paste",
       "clove",
-      "dark chocolate",
+      "chocolate",
       "lemon",
       "lemon",
       "salt",
@@ -41157,7 +41157,7 @@
       "garlic powder",
       "onion powder",
       "parsley",
-      "dried cilantro",
+      "cilantro",
       "sugar"
     ],
     "direction": [
@@ -43133,7 +43133,7 @@
       "garlic powder",
       "vinegar",
       "Worcestershire sauce",
-      "dried ancho chile powder"
+      "ancho chile powder"
     ],
     "direction": [
       "In a pan over low heat, melt the butter.  You can allow it to brown slightly if you like, it's up to you (slightly browning it gives it a nice flavor), but be careful that it doesn't brown too much or burn.",
@@ -43288,7 +43288,7 @@
       "chili powder",
       "ground allspice",
       "tomato sauce",
-      "dark chocolate",
+      "chocolate",
       "salt",
       "cilantro"
     ],
@@ -43539,7 +43539,7 @@
       "pepper",
       "paprika",
       "chili powder",
-      "dry mustard"
+      "mustard"
     ],
     "direction": [
       "Preheat oven to 425\u00b0F.",
@@ -45921,7 +45921,7 @@
       "liquid smoke",
       "onion powder",
       "chili powder",
-      "dry mustard",
+      "mustard",
       "garlic powder",
       "cornstarch",
       "water"
@@ -49507,7 +49507,7 @@
       "lemon",
       "lemon pepper",
       "garlic powder",
-      "dried cilantro",
+      "cilantro",
       "shrimp",
       "zucchini",
       "bell pepper"
@@ -50839,7 +50839,7 @@
       "clove",
       "chili powder",
       "paprika",
-      "dry mustard",
+      "mustard",
       "lemon",
       "Worcestershire sauce",
       "boston lettuce",
@@ -50960,7 +50960,7 @@
       "garlic powder",
       "black pepper",
       "cream cheese",
-      "dried ancho chile powder",
+      "ancho chile powder",
       "cumin"
     ],
     "direction": [
@@ -51630,7 +51630,7 @@
       "soy sauce",
       "sugar",
       "wine",
-      "dry mustard",
+      "mustard",
       "clove",
       "gingerroot",
       "scallion"
@@ -51689,7 +51689,7 @@
       "Worcestershire sauce",
       "scallion",
       "garlic",
-      "dry mustard",
+      "mustard",
       "ground pepper",
       "sugar",
       "mustard"
@@ -52397,7 +52397,7 @@
       "sugar",
       "garlic",
       "ginger",
-      "dry mustard"
+      "mustard"
     ],
     "direction": [
       "Mix all marinade ingredients and add chicken. Marinate for 1 to 2 hours, no more.",
@@ -55030,7 +55030,7 @@
       "ketchup",
       "barbecue sauce",
       "sugar",
-      "dry mustard",
+      "mustard",
       "Worcestershire sauce",
       "vinegar"
     ],
@@ -56226,7 +56226,7 @@
       "olive oil",
       "mushroom",
       "onion",
-      "dry mustard",
+      "mustard",
       "parmesan cheese",
       "parsley",
       "black pepper",
@@ -56446,8 +56446,8 @@
       "cinnamon",
       "vanilla extract",
       "egg",
-      "dried cherries",
-      "dried cherries",
+      "cherries",
+      "cherries",
       "cinnamon"
     ],
     "direction": [
@@ -58976,7 +58976,7 @@
       "salt",
       "baking powder",
       "chocolate chips",
-      "dark chocolate",
+      "chocolate",
       "sugar",
       "butter",
       "cocoa powder",
@@ -59619,7 +59619,7 @@
       "egg",
       "shortening",
       "water",
-      "dried cranberries"
+      "cranberries"
     ],
     "direction": [
       "Mix all together.",
@@ -61448,7 +61448,7 @@
       "egg",
       "honey",
       "vanilla extract",
-      "dried cranberries",
+      "cranberries",
       "pecans"
     ],
     "direction": [
@@ -61531,7 +61531,7 @@
       "salt",
       "flour",
       "quick-cooking oats",
-      "dried cranberries"
+      "cranberries"
     ],
     "direction": [
       "Preheat oven to 375\u00b0F.",
@@ -61652,7 +61652,7 @@
       "liquid smoke",
       "onion powder",
       "chili powder",
-      "dry mustard",
+      "mustard",
       "garlic powder",
       "cornstarch",
       "water"
@@ -62245,7 +62245,7 @@
       "margarine",
       "egg",
       "cheddar cheese",
-      "dry mustard"
+      "mustard"
     ],
     "direction": [
       "Cook shell macaroni according to package directions; drain.",
@@ -64147,7 +64147,7 @@
       "mortadella",
       "water",
       "tea",
-      "dried sage",
+      "sage",
       "sugar"
     ],
     "direction": [
@@ -64431,7 +64431,7 @@
       "malt vinegar",
       "sausages",
       "onion",
-      "dried herbs"
+      "herbs"
     ],
     "direction": [
       "Preheat the oven to 180C/gas 4.",
@@ -66099,7 +66099,7 @@
       "salt",
       "pepper",
       "shrimp",
-      "dried dill weed",
+      "dill weed",
       "parmesan cheese"
     ],
     "direction": [
@@ -66980,7 +66980,7 @@
     "title": "Cranberries and Chicken Salad",
     "ingredients": [
       "romaine lettuce",
-      "dried cranberries",
+      "cranberries",
       "mandarin orange",
       "pecans",
       "chicken",
@@ -67377,7 +67377,7 @@
       "onion",
       "celery ribs",
       "rice",
-      "dry vermouth",
+      "vermouth",
       "chestnuts",
       "cabbage",
       "butter",
@@ -67734,7 +67734,7 @@
       "chili powder",
       "bay leaf",
       "beef",
-      "dried pepper",
+      "pepper",
       "butter",
       "sugar",
       "carrot",
@@ -67928,7 +67928,7 @@
       "celery",
       "rosemary",
       "thyme",
-      "dried white beans",
+      "white beans",
       "pepper",
       "rosemary",
       "clove",
@@ -68402,7 +68402,7 @@
       "sour cream",
       "mustard",
       "onion",
-      "dried dill weed",
+      "dill weed",
       "mayonnaise",
       "parmesan cheese",
       "cheddar cheese",
@@ -68617,7 +68617,7 @@
       "pistachios",
       "sugar",
       "lemon",
-      "dried dill",
+      "dill",
       "black pepper",
       "salmon fillets",
       "basil pesto"
@@ -69146,7 +69146,7 @@
       "salmon",
       "olive oil",
       "black pepper",
-      "saffron strands",
+      "saffron",
       "water",
       "water",
       "sour cream",
@@ -69865,7 +69865,7 @@
       "lemon",
       "marjoram",
       "garlic powder",
-      "dry mustard",
+      "mustard",
       "salt",
       "ground pepper",
       "parmesan cheese"
@@ -70503,7 +70503,7 @@
       "olive oil",
       "mushroom",
       "onion",
-      "dry mustard",
+      "mustard",
       "parmesan cheese",
       "parsley",
       "black pepper",
@@ -70572,7 +70572,7 @@
     "title": "Egyptian Red Lentil Soup",
     "ingredients": [
       "vegetable broth",
-      "dried lentils",
+      "lentils",
       "onion",
       "potato",
       "clove",
@@ -76518,7 +76518,7 @@
       "bay leaf",
       "pepper",
       "water",
-      "dried lentils",
+      "lentils",
       "cilantro",
       "yogurt"
     ],
@@ -77016,7 +77016,7 @@
     "title": "Egyptian Red Lentil Soup",
     "ingredients": [
       "vegetable broth",
-      "dried lentils",
+      "lentils",
       "onion",
       "potato",
       "clove",
@@ -77506,7 +77506,7 @@
     "id": 3124,
     "title": "Neighborhood Ham and Bean Soup",
     "ingredients": [
-      "dried great northern beans",
+      "great northern beans",
       "chicken broth",
       "water",
       "ham bone",
@@ -77515,7 +77515,7 @@
       "marjoram",
       "pepper",
       "rubbed sage",
-      "dried savory",
+      "savory",
       "onion",
       "carrot",
       "celery ribs",
@@ -77887,7 +77887,7 @@
     "title": "Italian Sausage, Tomato, and Cream With Bow Ties",
     "ingredients": [
       "olive oil",
-      "dried pepper",
+      "pepper",
       "clove",
       "tomato",
       "black olive",
