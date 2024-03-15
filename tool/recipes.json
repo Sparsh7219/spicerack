@@ -109,7 +109,7 @@
       "clove",
       "egg",
       "milk",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -154,7 +154,7 @@
     "id": 6,
     "title": "Broccoli Stuffed Vidalia Onions",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "mayonnaise",
       "lemon",
       "butter",
@@ -437,7 +437,7 @@
     "ingredients": [
       "artichoke hearts",
       "mayonnaise",
-      "parmesan cheese",
+      "cheese",
       "clove",
       "black pepper"
     ],
@@ -476,9 +476,9 @@
     "id": 18,
     "title": "Baked Stuffed Pasta Shells",
     "ingredients": [
-      "shells",
+      "pasta",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "cheese",
       "egg",
       "pepper",
@@ -567,7 +567,7 @@
       "zucchini",
       "mushroom",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Mix carrots, oregano, and spaghetti sauce together.",
@@ -1707,7 +1707,7 @@
       "chickpeas",
       "pasta",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat the olive oil in nonstick Dutch oven.",
@@ -1876,10 +1876,10 @@
       "tomato",
       "tomato paste",
       "lasagna noodles",
-      "soya milk",
+      "soymilk",
       "cornstarch",
       "yeast",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Fry the onions for five minutes.  Add the celery for two minutes, add the mushrooms and then the garlic and fry gently for a further 5 minutes. add in the fake ground mincemeat anc cook for  a couple of minute.",
@@ -2770,7 +2770,7 @@
       "water",
       "pepper",
       "egg",
-      "cottage cheese",
+      "paneer cheese",
       "mozzarella",
       "flour"
     ],
@@ -2796,7 +2796,7 @@
       "salt",
       "pepper",
       "parsley",
-      "parmesan cheese",
+      "cheese",
       "onion",
       "garlic powder"
     ],
@@ -2822,7 +2822,7 @@
       "cream cheese",
       "egg",
       "heavy cream",
-      "parmesan cheese",
+      "cheese",
       "chives",
       "garlic",
       "mozzarella",
@@ -2855,7 +2855,7 @@
       "vinegar",
       "beef",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "onion",
       "bell pepper",
       "parsley lettuce",
@@ -3282,7 +3282,7 @@
     "title": "Crispy Cheese Cauliflower",
     "ingredients": [
       "olive oil",
-      "parmesan cheese",
+      "cheese",
       "cumin",
       "pepper",
       "salt",
@@ -3352,7 +3352,7 @@
       "zucchini",
       "butter",
       "oregano",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Slice zucchini in 1/8 to 1/4 inch slices.",
@@ -3410,7 +3410,7 @@
       "salt",
       "pepper",
       "oregano",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Saute onions&bell pepper in margarine for 5 minutes,add squash that has been sliced and cubed.",
@@ -3428,7 +3428,7 @@
       "zucchini",
       "olive oil",
       "salt",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat the oven to 350 degrees F.",
@@ -3468,7 +3468,7 @@
       "butter",
       "olive oil",
       "garlic",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Melt butter and olive oil in a medium skillet (over medium-high heat) until butter is foamy.",
@@ -3532,7 +3532,7 @@
       "olive oil",
       "salt",
       "pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oil and garlic in a small saucepan over low heat until garlic becomes golden- several minutes (do not burn garlic); allow oil to cool.",
@@ -3595,7 +3595,7 @@
       "water",
       "garlic",
       "rosemary",
-      "parmesan cheese",
+      "cheese",
       "chicken powder",
       "salt",
       "black pepper",
@@ -3674,7 +3674,7 @@
       "spinach",
       "cream cheese",
       "garlic",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Thaw and cook spinach til most water is gone.",
@@ -3745,7 +3745,7 @@
       "garlic",
       "olive oil",
       "cauliflower",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -3829,7 +3829,7 @@
       "oregano",
       "spaghetti squash",
       "cheddar cheese",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350 degrees.",
@@ -3864,7 +3864,7 @@
       "black olive",
       "mozzarella",
       "cheddar cheese",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Brown meats with Italian Seasonings and drain off fat. Add onions, peppers, garlic and mushrooms and saute until tender. Remove from heat and add pizza sauce and most of the pepperoni, mix well.",
@@ -4107,7 +4107,7 @@
       "thyme",
       "chicken broth",
       "heavy cream",
-      "Fontina cheese",
+      "cheese",
       "cheddar cheese",
       "olive oil"
     ],
@@ -4134,7 +4134,7 @@
       "garlic powder",
       "oregano",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Saute the sausage until brown.",
@@ -4152,7 +4152,7 @@
       "chicken",
       "olive oil",
       "garlic",
-      "parmesan cheese",
+      "cheese",
       "parsley",
       "olive oil",
       "tomato sauce",
@@ -5273,7 +5273,7 @@
       "clove",
       "broccoli",
       "lemon",
-      "parmesan cheese",
+      "cheese",
       "black pepper"
     ],
     "direction": [
@@ -5373,7 +5373,7 @@
       "mozzarella",
       "tomato sauce",
       "pasta",
-      "parmesan cheese",
+      "cheese",
       "olive oil",
       "salt",
       "pepper"
@@ -5810,7 +5810,7 @@
       "onion",
       "pepper",
       "eggplant",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Drain tomatoes, reserve juice, and set aside.",
@@ -5836,7 +5836,7 @@
       "broccoli",
       "carrot",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Pre-heat oven to 350\u00b0F In a medium saucepan, heat the oil and add the onions and garlic. Cook for one to two minutes. Add gravy, tomatoes, and italian seasoning.",
@@ -5861,7 +5861,7 @@
       "salt",
       "chicken",
       "pasta",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Saut\u00e9 onions in olive oil until translucent.",
@@ -6144,7 +6144,7 @@
     "ingredients": [
       "egg",
       "milk",
-      "parmesan cheese",
+      "cheese",
       "flour",
       "paprika",
       "salt",
@@ -6190,7 +6190,7 @@
       "olive oil",
       "thyme",
       "chicken",
-      "parmesan cheese",
+      "cheese",
       "water",
       "arugula",
       "tomato"
@@ -6333,7 +6333,7 @@
       "basil",
       "oregano",
       "pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Cook pasta according to pkg directions and drain.",
@@ -6675,7 +6675,7 @@
     "title": "Air Fryer Chicken Parm",
     "ingredients": [
       "panko breadcrumbs",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "oregano",
       "olive oil",
@@ -7521,7 +7521,7 @@
       "sugar",
       "lentils",
       "egg",
-      "cottage cheese",
+      "paneer cheese",
       "mozzarella"
     ],
     "direction": [
@@ -7935,7 +7935,7 @@
     "id": 318,
     "title": "Broccoli Stuffed Vidalia Onions",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "mayonnaise",
       "lemon",
       "butter",
@@ -8149,7 +8149,7 @@
       "water",
       "pepper",
       "egg",
-      "cottage cheese",
+      "paneer cheese",
       "mozzarella",
       "flour"
     ],
@@ -8328,7 +8328,7 @@
     "ingredients": [
       "rice",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "black pepper"
     ],
@@ -8503,7 +8503,7 @@
       "clove",
       "chicken broth",
       "cream cheese",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper",
       "pepper",
@@ -8576,7 +8576,7 @@
     "ingredients": [
       "eggplant",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "onion powder",
       "black pepper",
@@ -8692,7 +8692,7 @@
       "olive oil",
       "salt",
       "black pepper",
-      "parmesan cheese",
+      "cheese",
       "zucchini"
     ],
     "direction": [
@@ -8786,7 +8786,7 @@
       "salt",
       "cauliflower",
       "milk",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "olive oil",
       "onion",
@@ -8866,7 +8866,7 @@
     "id": 357,
     "title": "Weight Watchers Parmesan Chicken Cutlets",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "paprika",
       "parsley",
       "garlic powder",
@@ -11418,7 +11418,7 @@
       "rice",
       "wine",
       "tomato",
-      "parmesan cheese",
+      "cheese",
       "basil leaf",
       "salt",
       "black pepper"
@@ -11458,7 +11458,7 @@
       "cannellini beans",
       "pasta",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat olive oil in a large heavy pot over medium high heat.",
@@ -11482,7 +11482,7 @@
     "ingredients": [
       "top round steak",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "olive oil"
     ],
@@ -11535,7 +11535,7 @@
       "egg",
       "rice",
       "butter",
-      "parmesan cheese",
+      "cheese",
       "garlic",
       "parsley",
       "salt",
@@ -11567,7 +11567,7 @@
       "egg",
       "margarine",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -11631,7 +11631,7 @@
       "oregano",
       "cheese",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In large heavy pan lightly brown beef and onion in oil.",
@@ -11669,7 +11669,7 @@
     "id": 455,
     "title": "Vannisa's Chicken Parmesan Pizza",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "garlic powder"
     ],
     "direction": [
@@ -11692,7 +11692,7 @@
       "olive oil",
       "chicken broth",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "pasta"
     ],
     "direction": [
@@ -11748,7 +11748,7 @@
     "ingredients": [
       "spaghetti",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "pancetta",
       "ground pepper",
       "butter"
@@ -11773,7 +11773,7 @@
       "mayonnaise",
       "sour cream",
       "tomato",
-      "parmesan cheese",
+      "cheese",
       "chili",
       "onion",
       "garlic",
@@ -11821,7 +11821,7 @@
     "title": "Chicken Pizza Crust",
     "ingredients": [
       "chicken",
-      "parmesan cheese",
+      "cheese",
       "egg"
     ],
     "direction": [
@@ -11869,7 +11869,7 @@
     "ingredients": [
       "flour",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "oregano",
       "tomato sauce",
       "egg"
@@ -11891,7 +11891,7 @@
     "ingredients": [
       "chicken",
       "flour",
-      "parmesan cheese",
+      "cheese",
       "egg",
       "mozzarella"
     ],
@@ -11917,13 +11917,13 @@
       "chicken",
       "cheese",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "basil",
       "thyme",
       "oregano",
       "butter",
       "shortening",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Wash chicken breasts, do not dry, and slit lengthwise, almost through -- to make a pocket.",
@@ -12030,7 +12030,7 @@
     "id": 469,
     "title": "Mozzato Salad (Aka Caprese)",
     "ingredients": [
-      " mozzarella",
+      "mozzarella",
       "tomato",
       "basil",
       "olive oil",
@@ -12079,7 +12079,7 @@
       "peas",
       "butter",
       "heavy cream",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Set Rice Cooker for the quick cook or regular cycle.",
@@ -12577,7 +12577,7 @@
     "ingredients": [
       "basil",
       "pine nuts",
-      "parmesan cheese",
+      "cheese",
       "garlic",
       "olive oil"
     ],
@@ -12703,7 +12703,7 @@
       "black pepper",
       "chives",
       "butter",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat the broth over low heat.",
@@ -12918,9 +12918,9 @@
       "creme fraiche",
       "milk",
       "cheese",
-      "parmesan cheese",
       "cheese",
-      "fettuccine pasta",
+      "cheese",
+      "pasta",
       "basil leaf"
     ],
     "direction": [
@@ -13164,7 +13164,7 @@
       "wine",
       "salt",
       "pasta",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Chop 1 garlic clove.",
@@ -13206,7 +13206,7 @@
       "oregano",
       "pepper",
       "pasta",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oil in Dutch oven over medium heat.  Cook garlic and onion in oil about 2 minutes, stirring occasionally, until onion is tender.",
@@ -13289,7 +13289,7 @@
       "basil",
       "clams",
       "parsley",
-      "parmesan cheese",
+      "cheese",
       "linguine"
     ],
     "direction": [
@@ -13461,11 +13461,11 @@
       "beans",
       "spinach",
       "zucchini",
-      "parmesan cheese",
+      "cheese",
       "clove",
       "onion",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "black pepper"
     ],
@@ -13514,11 +13514,11 @@
       "sausage",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "pepper",
       "clove",
       "olive oil",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven and pizza stone (if available) to 450 degrees Fahrenheit.",
@@ -13645,7 +13645,7 @@
       "wine",
       "basil",
       "pasta",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a large skillet heat oil over medium heat.",
@@ -15480,7 +15480,7 @@
       "clove",
       "oregano",
       "corn tortillas",
-      "manchego cheese",
+      "cheese",
       "sour cream"
     ],
     "direction": [
@@ -16357,7 +16357,7 @@
       "olive oil",
       "lemon",
       "red wine vinegar",
-      "parmesan cheese",
+      "cheese",
       "romaine lettuce",
       "seasoned croutons"
     ],
@@ -16665,7 +16665,7 @@
       "ancho chile powder",
       "garlic",
       "salt",
-      "Cotija cheese",
+      "cheese",
       "cilantro",
       "lemon"
     ],
@@ -17401,7 +17401,7 @@
       "pepper",
       "mozzarella",
       "cheese",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In large bowl, mix first 4 ingredients.",
@@ -19597,7 +19597,7 @@
       "black pepper",
       "pepper",
       "gruyere",
-      "parmesan cheese",
+      "cheese",
       "mustard",
       "ham"
     ],
@@ -19903,7 +19903,7 @@
       "flour",
       "wine",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "onion",
       "cognac",
       "olive oil"
@@ -19976,7 +19976,7 @@
       "tomato",
       "white beans",
       "basil leaf",
-      "parmesan cheese",
+      "cheese",
       "olive oil",
       "garlic"
     ],
@@ -20013,7 +20013,7 @@
       "tomato",
       "heavy cream",
       "cornmeal",
-      "manchego cheese",
+      "cheese",
       "olive oil"
     ],
     "direction": [
@@ -21245,7 +21245,7 @@
       "butter",
       "flour",
       "serrano ham",
-      "manchego cheese",
+      "cheese",
       "pepper",
       "salt",
       "egg",
@@ -21855,7 +21855,7 @@
       "black pepper",
       "salt",
       "tomato",
-      "manchego cheese",
+      "cheese",
       "parsley sprig"
     ],
     "direction": [
@@ -22012,7 +22012,7 @@
       "cauliflower",
       "egg",
       "parsley",
-      "parmesan cheese",
+      "cheese",
       "butter",
       "salt",
       "butter",
@@ -22092,7 +22092,7 @@
     "title": "Ensalada De Manzanas Con Manchego",
     "ingredients": [
       "granny smith apple",
-      "manchego cheese",
+      "cheese",
       " chives",
       "walnut",
       "olive oil",
@@ -22274,7 +22274,7 @@
     "id": 853,
     "title": "Manchego Con Tomates Y Romero",
     "ingredients": [
-      "manchego cheese",
+      "cheese",
       "walnut",
       "tomato",
       "olive oil",
@@ -23739,7 +23739,7 @@
       "chicken broth",
       "mild paprika",
       "Hellmann's mayonnaise",
-      "parmesan cheese",
+      "cheese",
       "cheese"
     ],
     "direction": [
@@ -25507,7 +25507,7 @@
     "ingredients": [
       "chicken",
       "cream cheese",
-      "parmesan cheese",
+      "cheese",
       "sour cream",
       "mayonnaise",
       "artichoke heart",
@@ -25668,7 +25668,7 @@
       "salt",
       "pepper",
       "panko breadcrumbs",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "flour",
       "egg"
@@ -25719,7 +25719,7 @@
       "baguette",
       "garlic",
       "olive oil",
-      "parmesan cheese",
+      "cheese",
       "tomato",
       "basil leaf",
       "salt",
@@ -25781,7 +25781,7 @@
       "flour",
       "egg",
       "panko breadcrumbs",
-      "manchego cheese",
+      "cheese",
       "canola oil",
       "honey"
     ],
@@ -25803,12 +25803,12 @@
       "salt",
       "ground pepper",
       "garlic",
-      "parmesan cheese",
+      "cheese",
       "onion",
       "green leaf lettuce",
       "tomato",
       "queso ranchero",
-      "shells",
+      "pasta",
       "salt",
       "water"
     ],
@@ -25872,7 +25872,7 @@
     "title": "Parmesan crisps",
     "ingredients": [
       "butter",
-      "parmesan cheese",
+      "cheese",
       " chives"
     ],
     "direction": [
@@ -25899,7 +25899,7 @@
       "mayonnaise",
       "clove",
       "black pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 375*F.",
@@ -25963,21 +25963,6 @@
       "For easy peeling, peel the eggs under cold running water over a colander to collect all the bits of shell. The water stops the shell from sticking to your fingers and the egg."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/35/56/87/BD76HiyAThu1d0jV1lT9_EggSandwich2.jpg"
-  },
-  {
-    "id": 993,
-    "title": "Pizza Bouquet",
-    "ingredients": [
-      "parmesan cheese",
-      "mozzarella",
-      "basil"
-    ],
-    "direction": [
-      "Preheat oven to 400 degrees F. Unroll pizza dough onto work surface with the long side parallel to the edge of the counter. Cut into 12 equal strips, about 1 \u00bd-2 inches wide. Spread pizza sauce over dough, then sprinkle over parmesan cheese, mozzarella cheese and Italian seasoning.",
-      "Working with one strip at a time, place 7-8 slices pepperoni down each strip of dough, overlapping slightly. The top of the pepperoni should stick out over the top of the dough. Roll the dough into a cylinder to look like a rose bud and transfer to a 12-well muffin tin with the pepperoni edge up.",
-      "Bake for 15-20 minutes until golden and and crisp. To serve, place a skewer in the bottom of each pizza rose and tie together."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/53/75/03/llLJfNGDTIONuC6CZMSy_0S9A2874.jpg"
   },
   {
     "id": 994,
@@ -26055,7 +26040,7 @@
       "olive oil",
       "onion",
       "clove",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Pour the stock into a large saucepan. Bring to the boil. Add the rice, cover and simmer for 15-20 minutes, until the rice is cooked through and the liquid has been absorbed.",
@@ -26461,7 +26446,7 @@
       "butter",
       "onion",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "pepper"
     ],
@@ -26588,7 +26573,7 @@
     "id": 1019,
     "title": "Wonderful Parmesan Zucchini Strips",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "zucchini",
       "egg"
     ],
@@ -26866,7 +26851,7 @@
     "title": "Toasted Ravioli",
     "ingredients": [
       "egg",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Cook ravioli in boiling salted water until they float to the top; remove from water and drain.",
@@ -26887,7 +26872,7 @@
       "clove",
       "butter",
       "cream cheese",
-      "parmesan cheese",
+      "cheese",
       "dill",
       "marjoram",
       "basil",
@@ -27141,7 +27126,7 @@
     "ingredients": [
       "cucumber",
       "bacon fat",
-      "manchego cheese",
+      "cheese",
       "pepper"
     ],
     "direction": [
@@ -27178,7 +27163,7 @@
       "mixed  herbs",
       "black pepper",
       "cheese",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a small bowl mix together mascarpone, one tablespoon herbs and pepper till well blended.",
@@ -27470,7 +27455,7 @@
     "title": "Yummy Baked Potato Skins",
     "ingredients": [
       "potato",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "garlic powder",
       "paprika",
@@ -27626,7 +27611,7 @@
       "olive oil",
       "salt",
       "pepper",
-      "manchego cheese",
+      "cheese",
       "parsley lettuce"
     ],
     "direction": [
@@ -27976,7 +27961,7 @@
       "garlic",
       "paprika",
       "parsley flakes",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat wine, olive oil, butter, margarine, and garlic in a large skillet on medium heat until it just starts to boil.",
@@ -28561,7 +28546,7 @@
       "salmon fillet",
       "mayonnaise",
       "lemon pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00b0F.",
@@ -28842,7 +28827,7 @@
       "onion",
       "dill weed",
       "mayonnaise",
-      "parmesan cheese",
+      "cheese",
       "cheddar cheese",
       "paprika"
     ],
@@ -29168,7 +29153,7 @@
     "ingredients": [
       "mayonnaise",
       "sour cream",
-      "parmesan cheese",
+      "cheese",
       "lemon",
       "artichoke hearts",
       "clove",
@@ -29187,7 +29172,7 @@
     "title": "Parmesan-Herb Baked Flounder",
     "ingredients": [
       "flounder fillets",
-      "parmesan cheese",
+      "cheese",
       "mayonnaise",
       "onion",
       "basil",
@@ -29402,7 +29387,7 @@
       "lemon",
       "clove",
       "mustard",
-      "parmesan cheese",
+      "cheese",
       "onion",
       "Tabasco sauce",
       "halibut fillet",
@@ -29429,7 +29414,7 @@
       "jumbo shrimp",
       "olive oil",
       "garlic",
-      "parmesan cheese",
+      "cheese",
       "butter",
       "lemon"
     ],
@@ -29471,7 +29456,7 @@
     "title": "MaMa's Supper Club Tilapia Parmesan",
     "ingredients": [
       "lemon",
-      "parmesan cheese",
+      "cheese",
       "butter",
       "mayonnaise",
       "onion",
@@ -29583,7 +29568,7 @@
       "shrimp",
       "scallops",
       "cheese",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Cook pasta in a large pot of boiling salted water until al dente.",
@@ -29902,7 +29887,7 @@
     "id": 1156,
     "title": "Linda's Seafood Pasta Salad",
     "ingredients": [
-      "shell pasta",
+      "pasta",
       "lemon",
       "celery",
       "onion",
@@ -29970,7 +29955,7 @@
       "heavy cream",
       "cheddar cheese",
       "cream cheese",
-      "parmesan cheese",
+      "cheese",
       "cheese",
       "lobster meat",
       "clove",
@@ -30081,7 +30066,7 @@
       "mustard",
       "salt",
       "ground pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 450\u00b0F.",
@@ -30350,7 +30335,7 @@
     "ingredients": [
       "eggplant",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 375\u00ba. Spray 1 large baking sheet w/ fat-free cooking spray.",
@@ -30464,7 +30449,7 @@
       "salt",
       "pepper",
       "panko breadcrumbs",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "flour",
       "egg"
@@ -30535,7 +30520,7 @@
       "onion",
       "clove",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "parsley",
       "mozzarella",
       "basil",
@@ -30809,7 +30794,7 @@
     "ingredients": [
       "romaine lettuce",
       "Kittencal's Famous Caesar Salad",
-      "parmesan cheese",
+      "cheese",
       "tomato",
       "caesar-flavor croutons",
       "black pepper",
@@ -30906,7 +30891,7 @@
       "oregano",
       "cheese",
       "spinach",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -31082,7 +31067,7 @@
       "egg",
       "pepper",
       "parsley",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -31158,7 +31143,7 @@
       "tomato",
       "scallions",
       "cilantro",
-      "Cotija cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat the oven to 425 degrees F.",
@@ -31367,7 +31352,7 @@
     "ingredients": [
       "barley",
       "basil",
-      "parmesan cheese",
+      "cheese",
       "olive oil",
       "clove",
       "tomato",
@@ -31761,10 +31746,10 @@
     "id": 1232,
     "title": "Pepperoni Pizza Casserole",
     "ingredients": [
-      "spiral shaped pasta",
+      "pasta",
       "sausage",
       "mushroom",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -31938,8 +31923,8 @@
       "tomato",
       "tomato",
       "tomato",
-      " mozzarella balls",
-      " mozzarella balls",
+      "mozzarella",
+      "mozzarella",
       "basil pesto",
       "basil",
       "flaked salt"
@@ -31987,7 +31972,7 @@
     "title": "Creamy Italian Pasta Salad",
     "ingredients": [
       "pasta",
-      "parmesan cheese",
+      "cheese",
       "tomato",
       "cucumber",
       "bell pepper"
@@ -32063,13 +32048,13 @@
     "id": 1243,
     "title": "Deliciously Cheesy Baked Ziti",
     "ingredients": [
-      "ziti pasta",
+      "pasta",
       "sausage",
       "cheese",
       "egg",
       "parsley",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350 degrees fahrenheit.",
@@ -32462,7 +32447,7 @@
     "id": 1259,
     "title": "Pizza Bouquet",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "mozzarella",
       "basil"
     ],
@@ -32612,7 +32597,7 @@
       "olive oil",
       "salt",
       "pepper",
-      "manchego cheese",
+      "cheese",
       "parsley lettuce"
     ],
     "direction": [
@@ -32663,7 +32648,7 @@
       "cornmeal",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "thyme",
       "chives",
       "tomato"
@@ -32765,7 +32750,7 @@
       "lean turkey",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "egg"
     ],
     "direction": [
@@ -32791,7 +32776,7 @@
       "tomato",
       "onion",
       "mayonnaise",
-      "1% milk",
+      "milk",
       "horseradish",
       "salt"
     ],
@@ -32840,7 +32825,7 @@
       "oregano",
       "pepper",
       "onion",
-      "1% milk",
+      "milk",
       "salt",
       "pepper"
     ],
@@ -32965,9 +32950,9 @@
       "salt",
       "macaroni",
       "flour",
-      "1% milk",
-      "Fontina cheese",
-      "parmesan cheese",
+      "milk",
+      "cheese",
+      "cheese",
       "cheddar cheese",
       "cheese"
     ],
@@ -33055,7 +33040,7 @@
       "cheese",
       "mozzarella",
       "bulk sausage",
-      "parmesan cheese",
+      "cheese",
       "oregano",
       "garlic powder",
       "black pepper"
@@ -33120,7 +33105,7 @@
       "salt",
       "flour",
       "milk",
-      "cottage mozzarella",
+      "mozzarella",
       "cheese"
     ],
     "direction": [
@@ -33220,7 +33205,7 @@
     "id": 1290,
     "title": "Healthy Meatballs",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "egg"
     ],
@@ -33451,7 +33436,7 @@
     "id": 1300,
     "title": "Easy Parmesan Garlic Chicken",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "chicken",
       "garlic powder"
     ],
@@ -33523,9 +33508,9 @@
     "id": 1303,
     "title": "Low-Fat Alfredo Sauce",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "white pepper",
-      "parmesan cheese",
+      "cheese",
       "scallion",
       "parsley"
     ],
@@ -33594,7 +33579,7 @@
       "oregano",
       "basil",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "pepper"
     ],
     "direction": [
@@ -33613,7 +33598,7 @@
     "title": "Ww Cheese Fries",
     "ingredients": [
       "potato",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper",
       "paprika"
@@ -33759,9 +33744,9 @@
     "ingredients": [
       "pasta",
       "cheese",
-      "cottage cheese",
+      "paneer cheese",
       "clove",
-      "parmesan cheese",
+      "cheese",
       "black pepper",
       "zucchini",
       "onion",
@@ -34523,7 +34508,7 @@
       "salt",
       "sugar",
       "vegetable shortening",
-      "1% milk",
+      "milk",
       "marshmallow"
     ],
     "direction": [
@@ -34577,7 +34562,7 @@
       "clove",
       "parsley",
       "rubbed sage",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper"
     ],
@@ -34740,7 +34725,7 @@
       "bell pepper",
       "onion",
       "chicken",
-      "cottage mozzarella"
+      "mozzarella"
     ],
     "direction": [
       "Pre-heat oven to 360\u00b0F.",
@@ -35031,7 +35016,7 @@
     "title": "Baked Chicken Tenders",
     "ingredients": [
       "mayonnaise",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat Oven to 425\u00b0F.",
@@ -35222,7 +35207,7 @@
     "title": "Zesty Oven Baked Fries",
     "ingredients": [
       "potato",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "garlic powder",
       "paprika",
@@ -35333,7 +35318,7 @@
     "id": 1385,
     "title": "Crispy Parmesan-Ranch Chicken Breasts (Strips or Tenders)",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "black pepper",
       "chicken",
@@ -36138,23 +36123,6 @@
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/34/92/4/USE2RMB8TEGKxRsBDANs_chicken%2520quesadilla%2520SITE-2.jpg"
   },
   {
-    "id": 1435,
-    "title": "Air Fryer Buffalo Wings",
-    "ingredients": [
-      "chicken",
-      "butter"
-    ],
-    "direction": [
-      "Set air fryer to 350-degrees F.",
-      "Add chicken wings to air fryer basket and cook for 10 to 12 minutes, pause the machine halfway through cooking and shake the basket to make sure the wings aren\u2019t sticking. Continue to cook until wings are golden and crispy*.",
-      "While the chicken is cooking combine melted butter and hot sauce in a large bowl.",
-      "When is chicken is done immediately add to bowl and toss with sauce. Serve hot.",
-      "*Make sure chicken is cooked to proper internal temperature of 160-degrees F.",
-      "Serves: 4; Calories: 181; Total Fat: 6 grams; Saturated Fat: 2 grams; Total Carbohydrate: 0 grams; Sugars: 0 grams; Protein: 29 grams; Sodium: 385 milligrams; Cholesterol: 79 milligrams; Fiber: 0 gram."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/53/86/87/qMNyd5dR0SuVMYj7hKjX_0S9A3637.jpg"
-  },
-  {
     "id": 1436,
     "title": "Crock Pot Buffalo Chicken Dip",
     "ingredients": [
@@ -36866,7 +36834,7 @@
     "id": 1466,
     "title": "Mika's Buffalo Chicken Alfredo Pizza",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "mozzarella",
       "chicken",
       "mushroom",
@@ -38410,7 +38378,7 @@
       "cheese",
       "cheese",
       "cheese",
-      "processed cheese",
+      "cheese",
       "baguette"
     ],
     "direction": [
@@ -38536,7 +38504,7 @@
     "id": 1533,
     "title": "Jambalaya Pot Pies",
     "ingredients": [
-      "puff pastry shells",
+      "pasta",
       "olive oil",
       "andouille sausages",
       "onion",
@@ -38575,7 +38543,7 @@
     "id": 1534,
     "title": "Chi-Chi's Chile Con Queso",
     "ingredients": [
-      "processed cheese",
+      "cheese",
       "chili",
       "pepper"
     ],
@@ -39454,7 +39422,7 @@
     "ingredients": [
       "chicken",
       "butter",
-      "parmesan cheese",
+      "cheese",
       "garlic"
     ],
     "direction": [
@@ -39756,23 +39724,6 @@
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/13/42/87/piceMvChM.jpg"
   },
   {
-    "id": 1587,
-    "title": "Grilled Parmesan Potatoes",
-    "ingredients": [
-      "potato",
-      "onion",
-      "parmesan cheese",
-      "oregano",
-      "pepper"
-    ],
-    "direction": [
-      "Cut potatoes into 1/2-in. cubes; place in a large bowl. Add onions and oil; toss to coat. Spoon into the center of a large piece of heavy-duty foil (about 18 inches x 12 in.) that has been sprayed with pam or use non-stick foil.",
-      "Combine the Parmesan cheese, oregano, garlic salt and pepper; sprinkle over potato mixture. Fold foil into a pouch and seal tightly.",
-      "Grill, uncovered, over medium-hot heat for 20-30 minutes or until potatoes are tender. Open foil carefully to allow steam to escape."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/36/31/22/XGgn6xMkSqAWNkKyaW7P_potatos%20SITE-2.jpg"
-  },
-  {
     "id": 1588,
     "title": "Chicken and Sausage Gumbo",
     "ingredients": [
@@ -39895,7 +39846,7 @@
       "scallions",
       "salt",
       "pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Blend cream cheese and mayo until creamy.",
@@ -41493,7 +41444,7 @@
       "pepper",
       "white kidney beans",
       "cilantro",
-      "jalapeno jack cheese"
+      "cheese"
     ],
     "direction": [
       "In a large saucepan over medium heat combine the oil, onions and celery.",
@@ -42903,7 +42854,7 @@
     "title": "Caesar Chicken Wings",
     "ingredients": [
       "chicken",
-      "parmesan cheese",
+      "cheese",
       "pepper"
     ],
     "direction": [
@@ -43421,7 +43372,7 @@
       "butter",
       "garlic powder",
       "black pepper",
-      "parmesan cheese",
+      "cheese",
       "chicken"
     ],
     "direction": [
@@ -43646,7 +43597,7 @@
       "butter",
       "salt",
       "pepper",
-      "parmesan cheese",
+      "cheese",
       "oregano"
     ],
     "direction": [
@@ -44109,7 +44060,7 @@
     "ingredients": [
       "cream cheese",
       "cheddar cheese",
-      "parmesan cheese",
+      "cheese",
       "mayonnaise",
       "onion",
       "pepper",
@@ -44131,7 +44082,7 @@
     "ingredients": [
       "cheddar cheese",
       "cheddar cheese",
-      "shells",
+      "pasta",
       "butter",
       "flour",
       "salt",
@@ -44164,7 +44115,7 @@
       "chicken",
       "macaroni",
       "milk",
-      "processed cheese",
+      "cheese",
       "butter",
       "pepper",
       "garlic powder",
@@ -44224,8 +44175,8 @@
       "cheddar cheese",
       "cheddar cheese",
       "cheese",
-      "parmesan cheese",
-      "medium pasta",
+      "cheese",
+      "pasta",
       "butter",
       "flour",
       "salt",
@@ -44489,7 +44440,7 @@
       "cheese",
       "cheddar cheese",
       "cream cheese",
-      "parmesan cheese",
+      "cheese",
       "panko breadcrumbs"
     ],
     "direction": [
@@ -44563,7 +44514,7 @@
       "pepper",
       "cheddar cheese",
       "cheese",
-      "Fontina cheese",
+      "cheese",
       "pasta",
       "panko breadcrumbs"
     ],
@@ -44622,7 +44573,7 @@
     "ingredients": [
       "mozzarella",
       "butter",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oven to 425 degrees Fahrenheit.",
@@ -47441,7 +47392,7 @@
     "ingredients": [
       "potato",
       "onion",
-      "parmesan cheese",
+      "cheese",
       "oregano",
       "pepper"
     ],
@@ -47459,7 +47410,7 @@
       "prosciutto",
       "tomato",
       " asparagus",
-      "parmesan cheese",
+      "cheese",
       "onion",
       "herbs",
       "olive oil",
@@ -47518,7 +47469,7 @@
       "garlic powder",
       "salt",
       "paprika",
-      "parmesan cheese",
+      "cheese",
       "butter"
     ],
     "direction": [
@@ -47599,7 +47550,6 @@
       "wine",
       "clove",
       "cheese",
-      "cheese",
       "flour",
       "kirsch",
       "ground pepper"
@@ -47610,24 +47560,6 @@
       "Let cook on high for 2 hours, sprinkle with nutmeg and cook for another 2 hours on low."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/gk-static/gk/img/recipe-default-images/image-00.svg"
-  },
-  {
-    "id": 1913,
-    "title": "Grilled Chicken Flatbread Pizzas",
-    "ingredients": [
-      "tomato",
-      "basil",
-      "mozzarella",
-      "salt",
-      "black pepper",
-      "pepper"
-    ],
-    "direction": [
-      "Heat the grill. Mix all the ingredients together (except the bread) in a bowl. Use your hands. It's easier.",
-      "Turn the heat to low on your grill. Lay the flat breads on (high rack if you have one). Mound the mixture on the flat bread, spreading to the edges. Close the grill and give it a minute or two, When it is melted, it's done. (If you leave it on too long, the bread will burn).",
-      "Put it on a bread board and cut it with a pizza cutter."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/30/95/38/7lUNeFfPRkqX0rEAOGgA_DSC_0480.jpg"
   },
   {
     "id": 1914,
@@ -47681,7 +47613,7 @@
       "eggplant",
       "canola oil",
       "bell pepper",
-      " mozzarella",
+      "mozzarella",
       "basil leaf",
       "baby arugula"
     ],
@@ -48575,7 +48507,7 @@
     "ingredients": [
       "chicken",
       "zucchini",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -48761,7 +48693,7 @@
       "black pepper",
       "rosemary",
       "butter",
-      "parmesan cheese",
+      "cheese",
       "paprika",
       "mustard",
       "Worcestershire sauce",
@@ -48946,7 +48878,7 @@
       "onion",
       "sugar",
       "butter",
-      "manchego cheese"
+      "cheese"
     ],
     "direction": [
       "In a large bowl, mix together the ground sirloin and chorizo using your hands.",
@@ -49299,7 +49231,7 @@
       "butter",
       "garlic powder",
       "paprika",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -49411,7 +49343,7 @@
       "butter",
       "potato",
       "onion",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "paprika",
       "pepper",
@@ -49615,25 +49547,6 @@
       "Place on medium hot grill and cook about 5 minutes on each side, basting frequently with the sauce."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/12/46/13/KnrcdxsT96fexQ9mewxw_0S9A6830.jpg"
-  },
-  {
-    "id": 1997,
-    "title": "Cowboy Burgers",
-    "ingredients": [
-      "olive oil",
-      "onion",
-      "tomato",
-      "cheddar cheese"
-    ],
-    "direction": [
-      "Preheat grill to medium heat.",
-      "Meanwhile, heat oil in large nonstick skillet on medium-high heat.",
-      "Add onions; cook 5 minutes, stirring frequently.",
-      "Cover with lid. Simmer 20 minute or until onions are golden brown, stirring frequently.",
-      "Meanwhile, grill patties 5 minute on each side or until medium doneness (160\u00baF). Stir steak sauce into onion mixture.",
-      "Place 1 tomato slice and burger on bottom half of each bun; cover with 1 slice cheese, 3 tablespoons of the onion mixture and top of bun."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/30/42/07/AjcCcOcBQKiKda47MKwn_Cowboy%2520Burgers_final%25203.jpg"
   },
   {
     "id": 1998,
@@ -50034,7 +49947,7 @@
       "onion",
       "garlic",
       "parsley",
-      "parmesan cheese",
+      "cheese",
       "butter",
       "salt",
       "pepper"
@@ -50275,7 +50188,7 @@
       "mozzarella",
       "butter",
       "clove",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Lightly grease a large baking sheet.",
@@ -50466,7 +50379,7 @@
     "ingredients": [
       "salsa",
       "sour cream",
-      "jalapeno jack cheese",
+      "cheese",
       "chili",
       "lettuce",
       "tomato"
@@ -51461,7 +51374,7 @@
       "lemon",
       "lemon",
       "butter",
-      " parmesan cheese",
+      "cheese",
       "basil",
       "butter",
       "clove",
@@ -51540,7 +51453,7 @@
       "olive oil",
       "garlic powder",
       "lemon",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "black pepper"
     ],
@@ -51713,7 +51626,7 @@
       "clove",
       "tomato",
       "chicken",
-      " mozzarella",
+      "mozzarella",
       "basil"
     ],
     "direction": [
@@ -53121,7 +53034,7 @@
     "ingredients": [
       "egg",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "With a meat mallet, pound pork into thin patties.",
@@ -53236,7 +53149,7 @@
     "ingredients": [
       "olive oil",
       "clove",
-      "cottage cheese",
+      "paneer cheese",
       "onion",
       "mozzarella",
       "basil leaf"
@@ -53255,7 +53168,7 @@
     "ingredients": [
       "chicken",
       "cream cheese",
-      "parmesan cheese",
+      "cheese",
       "sour cream",
       "mayonnaise",
       "artichoke heart",
@@ -53359,7 +53272,7 @@
       "olive oil",
       "onion",
       "clove",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Pour the stock into a large saucepan. Bring to the boil. Add the rice, cover and simmer for 15-20 minutes, until the rice is cooked through and the liquid has been absorbed.",
@@ -53464,7 +53377,7 @@
       "onion powder",
       "yeast",
       "vegan margarine",
-      "fettuccine pasta"
+      "pasta"
     ],
     "direction": [
       "Cook pasta per package directions.",
@@ -53472,21 +53385,6 @@
       "Pour over hot pasta and mix well."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/50/06/4/7LRFzdm3SJ2RIXMS8oro_p1.jpg"
-  },
-  {
-    "id": 2160,
-    "title": "Pizza Bouquet",
-    "ingredients": [
-      "parmesan cheese",
-      "mozzarella",
-      "basil"
-    ],
-    "direction": [
-      "Preheat oven to 400 degrees F. Unroll pizza dough onto work surface with the long side parallel to the edge of the counter. Cut into 12 equal strips, about 1 \u00bd-2 inches wide. Spread pizza sauce over dough, then sprinkle over parmesan cheese, mozzarella cheese and Italian seasoning.",
-      "Working with one strip at a time, place 7-8 slices pepperoni down each strip of dough, overlapping slightly. The top of the pepperoni should stick out over the top of the dough. Roll the dough into a cylinder to look like a rose bud and transfer to a 12-well muffin tin with the pepperoni edge up.",
-      "Bake for 15-20 minutes until golden and and crisp. To serve, place a skewer in the bottom of each pizza rose and tie together."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/53/75/03/llLJfNGDTIONuC6CZMSy_0S9A2874.jpg"
   },
   {
     "id": 2161,
@@ -53528,7 +53426,7 @@
       "salt",
       "pepper",
       "panko breadcrumbs",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "flour",
       "egg"
@@ -53956,7 +53854,7 @@
       "flour",
       "egg",
       "panko breadcrumbs",
-      "manchego cheese",
+      "cheese",
       "canola oil",
       "honey"
     ],
@@ -54029,7 +53927,7 @@
       "egg",
       "garlic powder",
       "parsley flakes",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "black pepper",
       "olive oil"
@@ -54215,7 +54113,7 @@
       "onion",
       "clove",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "parsley",
       "mozzarella",
       "basil",
@@ -54288,7 +54186,7 @@
       "olive oil",
       "salt",
       "pepper",
-      "manchego cheese",
+      "cheese",
       "parsley lettuce"
     ],
     "direction": [
@@ -54631,7 +54529,7 @@
       "onion",
       "parsley",
       "clove",
-      " parmesan cheese",
+      "cheese",
       "cheese",
       "egg",
       "butter",
@@ -54810,7 +54708,7 @@
       "butter",
       "onion",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "pepper"
     ],
@@ -54859,7 +54757,7 @@
     "ingredients": [
       "cream cheese",
       "cheddar cheese",
-      "parmesan cheese",
+      "cheese",
       "mayonnaise",
       "onion",
       "pepper",
@@ -54879,7 +54777,7 @@
     "id": 2223,
     "title": "Mini Pigs-In-A-Blanket",
     "ingredients": [
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven according to directions on crescent roll package.",
@@ -54927,7 +54825,7 @@
     "title": "Yummy Baked Potato Skins",
     "ingredients": [
       "potato",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "garlic powder",
       "paprika",
@@ -55283,7 +55181,7 @@
     "ingredients": [
       "butter",
       "garlic",
-      "parmesan cheese",
+      "cheese",
       "oregano",
       "mozzarella",
       "cheese",
@@ -55416,7 +55314,7 @@
     "title": "Extra Cheesy Grilled Cheese",
     "ingredients": [
       "butter",
-      "parmesan cheese",
+      "cheese",
       "cheese",
       "mozzarella"
     ],
@@ -56227,13 +56125,13 @@
       "mushroom",
       "onion",
       "mustard",
-      "parmesan cheese",
+      "cheese",
       "parsley",
       "black pepper",
       "egg",
       "mayonnaise",
       "butter",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Spray a 9x12-inch glass baking dish with cooking spray.",
@@ -56311,7 +56209,7 @@
       "egg",
       "flour",
       "salt",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a large skillet over medium-high heat, brown ground beef and onions.",
@@ -56361,7 +56259,7 @@
     "id": 2285,
     "title": "Jambalaya Pot Pies",
     "ingredients": [
-      "puff pastry shells",
+      "pasta",
       "olive oil",
       "andouille sausages",
       "onion",
@@ -56708,10 +56606,10 @@
       "olive oil",
       "clove",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "parsley",
       "oregano",
-      "cottage cheese"
+      "paneer cheese"
     ],
     "direction": [
       "Heat olive oil, add garlic and cook until golden.",
@@ -56740,7 +56638,7 @@
       "pepper",
       "mozzarella",
       "cheese",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In large bowl, mix first 4 ingredients.",
@@ -57634,7 +57532,7 @@
     "title": "Simple Jello Salad",
     "ingredients": [
       "Jello gelatin",
-      "cottage cheese",
+      "paneer cheese",
       "pineapple"
     ],
     "direction": [
@@ -61773,7 +61671,7 @@
       "cream cheese",
       "heavy cream",
       "garlic powder",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a medium to large saucepan melt the butter over medium heat.",
@@ -61855,7 +61753,7 @@
     "id": 2495,
     "title": "Baked Pork Chops",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper",
       "egg",
@@ -61910,7 +61808,7 @@
       "salt",
       "grits",
       "cheddar cheese",
-      "parmesan cheese",
+      "cheese",
       "butter",
       "Tabasco sauce",
       "white pepper",
@@ -62030,7 +61928,7 @@
       "salt",
       "white pepper",
       "basil",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a pot of salted water, cook macaroni until tender, about 8 - 10 minutes.",
@@ -62135,7 +62033,7 @@
     "id": 2506,
     "title": "Chicken Tetrazzini Casserole",
     "ingredients": [
-      "parmesan cheese",
+      "cheese",
       "alfredo sauce",
       "chicken broth",
       "sherry",
@@ -62153,13 +62051,13 @@
     "id": 2507,
     "title": "Tangy Baked Ziti",
     "ingredients": [
-      "ziti pasta",
+      "pasta",
       "onion",
       "beef",
       "cheese",
       "sour cream",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Bring a large pot of lightly salted water to a boil; Add ziti pasta, and cook until al dente, about 8 minutes; drain.",
@@ -62268,9 +62166,9 @@
       "onion",
       "clove",
       "whipping cream",
-      "parmesan cheese",
+      "cheese",
       "parsley",
-      "fettuccine pasta",
+      "pasta",
       "water"
     ],
     "direction": [
@@ -62421,7 +62319,7 @@
       "egg",
       "olive oil",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Arrange a layer of eggplant slices in a colander. Sprinkle generously with salt. Continue layering and salting all eggplant slices. Let stand 30 minutes. Rinse and pat dry. Dip each eggplant slice in beaten egg, and dredge with breadcrumbs.",
@@ -62555,7 +62453,7 @@
       "spinach",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "basil",
       "mozzarella"
     ],
@@ -62616,7 +62514,7 @@
       "egg",
       "butter",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -62827,7 +62725,7 @@
     "ingredients": [
       "macaroni",
       "cream cheese",
-      "cottage cheese",
+      "paneer cheese",
       "hamburger",
       "tomato sauce",
       "oregano",
@@ -63070,7 +62968,7 @@
     "id": 2544,
     "title": "Gouda Grilled Cheese With Tahini Black Bean Hummus",
     "ingredients": [
-      "gouda cheese",
+      "cheese",
       "black beans",
       "lemon",
       "cumin",
@@ -63124,7 +63022,7 @@
       "pimentos",
       "serrano ham",
       "cheese",
-      "manchego cheese",
+      "cheese",
       "chili"
     ],
     "direction": [
@@ -63341,7 +63239,7 @@
     "title": "The Best Yummy, Low-Fat Grilled Cheese Sandwich Ever!!",
     "ingredients": [
       "cheese",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "For this sandwich, I used the George Foreman Grill, but any panini grill will work also.",
@@ -63388,7 +63286,7 @@
     "id": 2560,
     "title": "Italian Grilled Cheese",
     "ingredients": [
-      " mozzarella",
+      "mozzarella",
       "olive oil",
       "clove"
     ],
@@ -63758,7 +63656,7 @@
     "title": "Air Fryer Breakfast Bake",
     "ingredients": [
       "egg",
-      "1% milk",
+      "milk",
       "salt",
       "bell pepper"
     ],
@@ -63908,7 +63806,7 @@
       "milk",
       "egg",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -63946,7 +63844,7 @@
       "salt",
       "black pepper",
       "yeast",
-      "parmesan cheese",
+      "cheese",
       "flour",
       "olive oil",
       "cream cheese",
@@ -64120,7 +64018,7 @@
       "salt",
       "black pepper",
       "panko breadcrumbs",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Spray a 32-ounce (6-inch) souffl\u00e9 dish with nonstick cooking spray; set aside.",
@@ -64751,7 +64649,7 @@
       "flour",
       "milk",
       "sugar",
-      "cottage cheese",
+      "paneer cheese",
       "sugar",
       "sugar",
       "orange zest",
@@ -64853,7 +64751,7 @@
       "onion",
       "zucchini",
       "chives",
-      "cottage cheese",
+      "paneer cheese",
       "baking powder",
       "egg",
       "avocado",
@@ -65068,7 +64966,7 @@
     "ingredients": [
       "ham",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "onion",
       "salt",
       "pepper"
@@ -65296,10 +65194,10 @@
     "id": 2641,
     "title": "Baked Ziti",
     "ingredients": [
-      "ziti pasta",
+      "pasta",
       "cheese",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350.",
@@ -65460,7 +65358,7 @@
       "egg",
       "pepper",
       "parsley",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -65578,7 +65476,7 @@
       "salt",
       "black pepper",
       "rice",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Melt 3 tablespoons of butter in a saucepan over medium heat, whisk in flour and thyme and cook for 1 minute.",
@@ -65596,7 +65494,7 @@
     "title": "Meatball Sub Casserole",
     "ingredients": [
       "onion",
-      "parmesan cheese",
+      "cheese",
       "beef",
       "cream cheese",
       "mayonnaise",
@@ -65705,7 +65603,7 @@
       "thyme",
       "peas",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -65775,7 +65673,7 @@
       "tomato sauce",
       "macaroni",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Cook noodles until al dente, 8-10 minutes, and drain.",
@@ -65987,7 +65885,7 @@
       "onion",
       "mozzarella",
       "sour cream",
-      "parmesan cheese",
+      "cheese",
       "butter"
     ],
     "direction": [
@@ -66041,7 +65939,7 @@
       "potato",
       "onion",
       "sour cream",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "salt",
       "black pepper"
@@ -66100,7 +65998,7 @@
       "pepper",
       "shrimp",
       "dill weed",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00b0F.",
@@ -66128,7 +66026,7 @@
       "onion",
       "ham",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "oregano"
     ],
@@ -66184,9 +66082,9 @@
       "clove",
       "chicken broth",
       "oregano",
-      "ziti pasta",
+      "pasta",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350 degrees F.",
@@ -66348,7 +66246,7 @@
       "salt",
       "paprika",
       "chives",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Wash zucchini; boil whole for 5 to 10 minutes--no more.",
@@ -66370,7 +66268,7 @@
       "garlic",
       "mushroom",
       "sour cream",
-      "parmesan cheese",
+      "cheese",
       "cheddar cheese",
       "black pepper"
     ],
@@ -66400,7 +66298,7 @@
       "salt",
       "pepper",
       "oregano",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Saute onions&bell pepper in margarine for 5 minutes,add squash that has been sliced and cubed.",
@@ -66417,7 +66315,7 @@
     "ingredients": [
       "butter",
       "garlic powder",
-      "parmesan cheese",
+      "cheese",
       "milk",
       "sour cream",
       "salt",
@@ -66706,7 +66604,7 @@
     "ingredients": [
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "sugar",
       "egg",
       "pepper",
@@ -66952,7 +66850,7 @@
       "mushroom",
       "rice",
       "pumpkin",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "black pepper",
       "parsley"
@@ -67080,7 +66978,7 @@
       "thyme",
       "flour",
       "heavy cream",
-      "parmesan cheese",
+      "cheese",
       "parsley"
     ],
     "direction": [
@@ -67171,7 +67069,7 @@
       "flour",
       "milk",
       "fontina",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 400 degrees.",
@@ -67381,7 +67279,7 @@
       "chestnuts",
       "cabbage",
       "butter",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Pour the chicken stock into a saucepan and bring to a boil.",
@@ -67410,7 +67308,7 @@
       "pepper",
       "olive oil",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a skillet melt 2 tbsp Butter.",
@@ -67525,7 +67423,7 @@
       "cheese",
       "pepper",
       "black pepper",
-      "parmesan cheese",
+      "cheese",
       "pine nuts"
     ],
     "direction": [
@@ -67791,7 +67689,7 @@
       "garlic",
       "vegetable broth",
       "pasta",
-      "parmesan cheese",
+      "cheese",
       "basil"
     ],
     "direction": [
@@ -67848,7 +67746,7 @@
       "butter",
       " sage lettuce",
       "pepper",
-      "parmesan cheese",
+      "cheese",
       "amaretti cookies",
       "hazelnuts"
     ],
@@ -68404,7 +68302,7 @@
       "onion",
       "dill weed",
       "mayonnaise",
-      "parmesan cheese",
+      "cheese",
       "cheddar cheese",
       "paprika"
     ],
@@ -68690,7 +68588,7 @@
       "salmon fillets",
       "olive oil",
       "butter",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Cook spinach in large pot of boiling water just until wilted, about 1 minute.  Drain and rinse with cold water.  Squeeze out as much water as possible, then finely chop.  Place in small bowl. Mix in cream cheese, mascarpone cheese and nutmeg.  Season to taste with salt and pepper.",
@@ -68906,7 +68804,7 @@
       "milk",
       "pepper",
       "salt",
-      "parmesan cheese",
+      "cheese",
       "olive oil"
     ],
     "direction": [
@@ -68973,7 +68871,7 @@
     "ingredients": [
       "mayonnaise",
       "garlic powder",
-      "parmesan cheese",
+      "cheese",
       " chives",
       "lemon",
       "salmon fillet"
@@ -69525,7 +69423,7 @@
       "shallot",
       "cheese",
       "flour",
-      "parmesan cheese",
+      "cheese",
       "milk",
       "egg",
       "pepper",
@@ -69574,7 +69472,7 @@
       "salmon fillet",
       "mayonnaise",
       "lemon pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00b0F.",
@@ -69841,7 +69739,7 @@
       "halibut steaks",
       "egg",
       "lemon",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "dill weed",
       "parsley flakes",
@@ -69868,7 +69766,7 @@
       "mustard",
       "salt",
       "ground pepper",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 450\u00b0F.",
@@ -69999,7 +69897,7 @@
       "mustard",
       "Worcestershire sauce",
       "onion",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "preheat oven to 350 degrees.",
@@ -70036,7 +69934,7 @@
     "ingredients": [
       "halibut fillets",
       "mayonnaise",
-      "parmesan cheese",
+      "cheese",
       "chives"
     ],
     "direction": [
@@ -70351,7 +70249,7 @@
     "id": 2842,
     "title": "Chocolate Cottage Cheese",
     "ingredients": [
-      "cottage cheese",
+      "paneer cheese",
       "sugar"
     ],
     "direction": [
@@ -70370,7 +70268,7 @@
       "egg",
       "tomato",
       "chives",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 180C (350F).",
@@ -70419,7 +70317,7 @@
       "butter",
       "onion",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "pepper"
     ],
@@ -70504,13 +70402,13 @@
       "mushroom",
       "onion",
       "mustard",
-      "parmesan cheese",
+      "cheese",
       "parsley",
       "black pepper",
       "egg",
       "mayonnaise",
       "butter",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Spray a 9x12-inch glass baking dish with cooking spray.",
@@ -70534,7 +70432,7 @@
     "title": "Oatmeal Cottage Cheese Pancakes",
     "ingredients": [
       "oatmeal",
-      "cottage cheese",
+      "paneer cheese",
       "vanilla"
     ],
     "direction": [
@@ -72996,7 +72894,7 @@
     "id": 2946,
     "title": "Green Goddess Taco Salad",
     "ingredients": [
-      "nacho cheese flavored tortilla chips",
+      "nachocheese flavored tortilla chips",
       "iceberg lettuce",
       "kidney beans",
       "tomato",
@@ -74067,21 +73965,6 @@
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/22/09/09/9P0TT20cS8qeKKKA9HxU_DSC05715-2.jpg"
   },
   {
-    "id": 3001,
-    "title": "Chocolate Lined Cones",
-    "ingredients": [
-      "milk"
-    ],
-    "direction": [
-      "Melt chocolate in a heatproof bowl over pan if simmering water.",
-      "Stir til smooth.",
-      "Spoon chcocolate inside cones, swirl to coat the inside.",
-      "Pour out excess, leave thin layer in cone.",
-      "Place in fridge to set."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/41/10/15/pic0OyUp7.jpg"
-  },
-  {
     "id": 3002,
     "title": "Lavender and Vanilla Ice Cream",
     "ingredients": [
@@ -74133,9 +74016,9 @@
       "onion",
       "basil",
       "black pepper",
-      "cream-style cottage cheese",
+      "paneer cheese",
       "shrimp",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00b0F.",
@@ -74179,7 +74062,7 @@
       "egg",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "beef",
       "parsley"
     ],
@@ -74205,10 +74088,10 @@
     "title": "Jo Mama's World Famous Lasagna",
     "ingredients": [
       "Jo Mama's World Famous Spaghetti",
-      "cottage cheese",
+      "paneer cheese",
       "oregano",
       "salt",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -74230,7 +74113,7 @@
       "olive oil",
       "eggplant",
       "panko breadcrumbs",
-      "parmesan cheese",
+      "cheese",
       "egg",
       "flour",
       "salt",
@@ -74266,7 +74149,7 @@
       "parsley",
       "cheese",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "cheese",
       "mozzarella"
     ],
@@ -74346,7 +74229,7 @@
     "ingredients": [
       "spinach",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oven to 350 degrees F.",
@@ -74369,7 +74252,7 @@
       "onion",
       "tomato sauce",
       "salsa",
-      "cottage cheese",
+      "paneer cheese",
       "egg",
       "corn tortillas",
       "cheese",
@@ -74435,7 +74318,7 @@
       "parsley flakes",
       "black olive",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "tomato",
       "hunts tomato paste",
       "tomato",
@@ -74489,8 +74372,8 @@
       "mushroom",
       "potato",
       "spinach",
-      "cottage cheese",
-      "parmesan cheese",
+      "paneer cheese",
+      "cheese",
       "egg",
       "onion",
       "clove",
@@ -74568,7 +74451,7 @@
       "pepper",
       "black pepper",
       "red wine",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In large, heavy stockpot, brown Italian sausage, breaking up as you stir.",
@@ -74604,7 +74487,7 @@
       "egg",
       "salt",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned.",
@@ -74632,7 +74515,7 @@
     "id": 3020,
     "title": "Cottage Cheese Spinach Lasagna",
     "ingredients": [
-      "cottage mozzarella",
+      "mozzarella",
       "egg",
       "cheese",
       "spinach",
@@ -74671,7 +74554,7 @@
       "basil",
       "mozzarella",
       "onion",
-      "cottage cheese",
+      "paneer cheese",
       "shrimp",
       "bay scallop",
       "wine"
@@ -74703,7 +74586,7 @@
       "spinach",
       "artichokes",
       "tomato",
-      " parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350 degrees.",
@@ -74792,12 +74675,12 @@
       "tomato",
       "tomato paste",
       "lasagna noodles",
-      "cottage cheese",
+      "paneer cheese",
       "egg",
       "salt",
       "pepper",
       "parsley",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -74828,8 +74711,8 @@
       "garlic powder",
       "tomato sauce",
       "zucchini",
-      "cottage cheese",
-      "parmesan cheese",
+      "paneer cheese",
+      "cheese",
       "egg",
       "mozzarella"
     ],
@@ -74850,7 +74733,7 @@
       "clove",
       "cheese",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Boil the noodles as the directions say on the box. Brown the beef and strain the grease, set aside. In the same skillet saut\u00e9 the onion and garlic until it's limp, set aside. Mix the onion,garlic and ground beef in a bowl.",
@@ -74878,7 +74761,7 @@
       "egg",
       "salt",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Remove sausage from casings, chop the meat.",
@@ -74917,7 +74800,7 @@
       "clove",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "egg",
       "parsley",
       "black pepper"
@@ -74960,7 +74843,7 @@
       "zucchini",
       "spinach",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Brown the meat and sausage in a large frying pan.",
@@ -74995,9 +74878,9 @@
       "spinach",
       "cheese",
       "cheese",
-      " parmesan cheese",
+      "cheese",
       "cheddar cheese",
-      " parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Place the vegetables in a roasting dish, cover in the olive oil and brown sugar and season well with salt and pepper. Tear the basil over the top of the vegies.",
@@ -75021,7 +74904,7 @@
       "salt",
       "water",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "black pepper",
       "cheese",
       "basil"
@@ -75056,7 +74939,7 @@
       "cheese",
       "cheese",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "black pepper",
       "lasagna noodles",
@@ -75088,7 +74971,7 @@
       "beef",
       "pasta",
       "egg",
-      "cottage cheese",
+      "paneer cheese",
       "cheese"
     ],
     "direction": [
@@ -75108,8 +74991,8 @@
     "ingredients": [
       "cheese",
       "spinach",
-      "parmesan cheese",
-      "parmesan cheese",
+      "cheese",
+      "cheese",
       "prosciutto",
       "egg",
       "salt",
@@ -75144,7 +75027,7 @@
       "butter",
       "flour",
       "milk",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -75174,8 +75057,8 @@
       "tomato sauce",
       "tomato paste",
       "red wine",
-      "cottage cheese",
-      "parmesan cheese",
+      "paneer cheese",
+      "cheese",
       "parsley flakes",
       "egg",
       "pepper",
@@ -75269,7 +75152,7 @@
       "tomato",
       "mozzarella",
       "ham",
-      "parmesan cheese",
+      "cheese",
       "oregano",
       "salt"
     ],
@@ -75337,7 +75220,7 @@
       "chicken broth",
       "milk",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "basil",
       "oregano",
       "black pepper",
@@ -75345,7 +75228,7 @@
       "chicken",
       "spinach",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Melt the butter in a large sauce pan over medium heat, and saute the onion and garlic until tender.",
@@ -75378,7 +75261,7 @@
       "chili",
       "Bulk Taco Seasoning Mix",
       "cumin",
-      "cream-style cottage cheese",
+      "paneer cheese",
       "egg",
       "cheddar cheese",
       "cheese",
@@ -75487,7 +75370,7 @@
       "olive oil",
       "cheese",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -75507,7 +75390,7 @@
     "ingredients": [
       "beef",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "water",
       "garlic",
       "pepper"
@@ -75531,7 +75414,7 @@
       "shrimp",
       " Italian parsley",
       "cheese",
-      "parmesan cheese",
+      "cheese",
       "egg",
       "mozzarella",
       "salt",
@@ -75594,7 +75477,7 @@
       "chicken broth",
       "mozzarella",
       "lemon",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Cook lasagna noodles and drain.",
@@ -75658,7 +75541,7 @@
       "parsley",
       "cream cheese",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Fry together ground beef and Italian sausage until no longer pink; drain.",
@@ -75884,7 +75767,7 @@
       "garlic",
       "thyme",
       "chicken broth",
-      " parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a large pot, heat the butter until melted.",
@@ -76261,12 +76144,12 @@
       "olive oil",
       "water",
       " oregano",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "chicken broth",
       "carrot",
       "parsley sprig",
-      "parmesan cheese",
+      "cheese",
       "pepper",
       "salt"
     ],
@@ -76287,14 +76170,14 @@
     "ingredients": [
       "beef",
       "egg",
-      "parmesan cheese",
+      "cheese",
       "basil",
       "onion powder",
       "chicken broth",
       "escarole",
       "pasta",
       "carrot",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In medium bowl combine, meat, egg,bread crumbs, parmesan cheese, basil& onion powder; shape into 3/4\" balls.",
@@ -76703,7 +76586,7 @@
       "macaroni",
       "borlotti beans",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat the oil in a large saucepan over medium-high heat.  Add the onion and prociutto, and cook, stirring occasionally for 5 minutes or until the onion softens and is light golden. Add the potatoes, carrots, zucchini and celery, and cook stirring for 1 minute.",
@@ -77053,7 +76936,7 @@
       "salt",
       "black pepper",
       "spinach",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a soup pot, heat olive oil over medium high heat.",
@@ -77549,7 +77432,7 @@
       "salt",
       "pepper",
       "chicken",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Pre-heat oven to 375 degrees.",
@@ -77801,9 +77684,9 @@
       "onion",
       "bell pepper",
       "clove",
-      "ziti pasta",
+      "pasta",
       "mozzarella",
-      " parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00baF. Lightly grease a 9x13\" baking dish; set aside.",
@@ -77818,9 +77701,9 @@
     "id": 3135,
     "title": "Easy Lasagna Rolls",
     "ingredients": [
-      "cottage cheese",
+      "paneer cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "egg",
       "parsley",
       "mozzarella"
@@ -77867,7 +77750,7 @@
     "title": "Macaroni With Fontina and Gorgonzola Cheeses",
     "ingredients": [
       "macaroni",
-      "Fontina cheese",
+      "cheese",
       "gorgonzola",
       "butter",
       "half-and-half",
@@ -77894,7 +77777,7 @@
       "salt",
       "pasta",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oil in heavy large skillet over medium heat. Add sausage and pepper flakes. Cook until sausage is no longer pink, stirring frequently, about 7 minutes.",
@@ -77938,7 +77821,7 @@
       "spaghetti",
       "cheddar cheese",
       "water",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In lg skillet, saute onion and green pepper in butter.",
@@ -77980,7 +77863,7 @@
     "ingredients": [
       "pasta",
       "butter",
-      "parmesan cheese",
+      "cheese",
       "garlic powder",
       "black pepper"
     ],
@@ -78007,7 +77890,7 @@
       "salt",
       "pasta",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oil in a heavy skillet over medium heat.",
@@ -78078,7 +77961,7 @@
       "chicken",
       "milk",
       "parsley flakes",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Melt butter and add garlic in a medium sauce pan.",
@@ -78171,7 +78054,7 @@
       "tomato sauce",
       "broccoli",
       "mushroom",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Cook pasta until half done (about 4 minutes); drain.  Return pasta to the pot.",
@@ -78188,7 +78071,7 @@
     "ingredients": [
       "beef",
       "pasta",
-      "parmesan cheese",
+      "cheese",
       "mozzarella"
     ],
     "direction": [
@@ -78234,7 +78117,7 @@
       "salt",
       "basil",
       "garlic powder",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Place chopped chicken and cajun seasoning in a bowl and toss until evenly coated.",
@@ -78371,7 +78254,7 @@
       "olive",
       "tomato",
       "basil",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Combine the lemon zest, lemon juice, Extra Virgin Olive Oil, garlic cloves, Kalamata olives and cherry tomatoes.",
@@ -78395,7 +78278,7 @@
       "pepper",
       "olive oil",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a skillet melt 2 tbsp Butter.",
@@ -78491,27 +78374,6 @@
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/52/75/49/a5LhUW7MRpechi3G2Zrh_Devour-49.jpg"
   },
   {
-    "id": 3167,
-    "title": "Smoked Turkey Sausage With Pasta",
-    "ingredients": [
-      "pasta",
-      "garlic",
-      "basil",
-      "olive oil",
-      "tomato",
-      "salt",
-      "pepper"
-    ],
-    "direction": [
-      "Cook pasta.",
-      "On another burner, in a large non-stick skillet saute the sausage, mushrooms, garlic, and basil in oil until mushrooms are tender.",
-      "Drain pasta and add to the sausage mixture.",
-      "Add tomatoes, salt, and pepper.",
-      "Toss gently and heat through."
-    ],
-    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/53/19/2/AlSPHmp8Q8mbxinFZamI_turkey-sausage-pasta-4.jpg"
-  },
-  {
     "id": 3168,
     "title": "Simple Spaghetti",
     "ingredients": [
@@ -78566,7 +78428,7 @@
     "ingredients": [
       "butter",
       "heavy cream",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper"
     ],
@@ -78645,7 +78507,7 @@
     "ingredients": [
       "pasta",
       "butter",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper",
       "parsley"
@@ -78667,7 +78529,7 @@
       "pasta",
       "spinach",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "garlic",
       "onion",
       "egg",
@@ -78717,7 +78579,7 @@
       "parsley",
       "egg",
       "tomato sauce",
-      "parmesan cheese",
+      "cheese",
       "pasta",
       "red wine"
     ],
@@ -78772,7 +78634,7 @@
       "garlic",
       "pasta",
       "mozzarella",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Preheat oven to 350\u00baF. Lightly grease a 9x13\" baking dish; set aside.",
@@ -78795,7 +78657,7 @@
       "salt",
       "pasta",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oil in heavy large skillet over medium heat. Add sausage and pepper flakes. Cook until sausage is no longer pink, stirring frequently, about 7 minutes.",
@@ -78837,7 +78699,7 @@
       "salt",
       "pasta",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Heat oil in a heavy skillet over medium heat.",
@@ -78881,7 +78743,7 @@
     "title": "Easy Lasagna Rolls",
     "ingredients": [
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "egg",
       "parsley",
       "mozzarella"
@@ -78913,7 +78775,7 @@
       "spaghetti",
       "cheddar cheese",
       "water",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In lg skillet, saute onion and green pepper in butter.",
@@ -79156,7 +79018,7 @@
       "salt",
       "basil",
       "garlic powder",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Place chopped chicken and cajun seasoning in a bowl and toss until evenly coated.",
@@ -79217,7 +79079,7 @@
       "chicken",
       "milk",
       "parsley flakes",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Melt butter and add garlic in a medium sauce pan.",
@@ -79430,7 +79292,7 @@
       "olive",
       "tomato",
       "basil",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "Combine the lemon zest, lemon juice, Extra Virgin Olive Oil, garlic cloves, Kalamata olives and cherry tomatoes.",
@@ -79447,7 +79309,7 @@
     "ingredients": [
       "pasta",
       "butter",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper",
       "parsley"
@@ -79552,7 +79414,7 @@
       "pepper",
       "olive oil",
       "parsley",
-      "parmesan cheese"
+      "cheese"
     ],
     "direction": [
       "In a skillet melt 2 tbsp Butter.",
@@ -79654,7 +79516,7 @@
     "ingredients": [
       "butter",
       "heavy cream",
-      "parmesan cheese",
+      "cheese",
       "salt",
       "pepper"
     ],
@@ -79693,11 +79555,11 @@
     "title": "Stuffed Pasta Shells for Meat-Lovers",
     "ingredients": [
       "beef",
-      "shells",
+      "pasta",
       "spinach",
       "cheese",
       "mozzarella",
-      "parmesan cheese",
+      "cheese",
       "garlic",
       "onion",
       "egg",
@@ -79755,7 +79617,8 @@
     "ingredients": [
       "water",
       "butter",
-      "milk"
+      "milk",
+      "noodles"
     ],
     "direction": [
       "Bring water to boil in a small sauce pan.",
@@ -79779,8 +79642,8 @@
       "parsley",
       "egg",
       "tomato sauce",
-      "parmesan cheese",
-      "shells",
+      "cheese",
+      "pasta",
       "wine"
     ],
     "direction": [
@@ -79819,5 +79682,25 @@
       "Note:  Can substitute rice for pasta."
     ],
     "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/22/23/10/67tKd25fRXWRYXzODZFB_IMG_0637.jpg"
+  },
+  {
+    "id": 3229,
+    "title": "Bhel Puri",
+    "ingredients": [
+      "potato",
+      "onion",
+      "tomatoes",
+      "green mango",
+      "coriander leaves",
+      "lemon juice"
+    ],
+    "direction": [
+      "Take a Bowl.",
+      "Add Puffed Rice, both the chutneys, 3/4 of onions, 3/4 of tomatoes, puri's, Half Portion of sev, Lemon Juice.",
+      "Mix well.",
+      "Serve in 2 Plates",
+      "Add the topping of coriander leaves, sev, green mangoes, balance onions, tomatoes & Sev."
+    ],
+    "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/gk-static/gk/img/recipe-default-images/image-02.svg"
   }
 ]
