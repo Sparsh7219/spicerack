@@ -1,8 +1,13 @@
 from flask import Flask, render_template, session, redirect, url_for
-from flask_restful import Api
+from routes.search_routes import bp as search_bp
 
 app = Flask(__name__)
-api = Api(app)
+
+app.register_blueprint(search_bp)
+
+@app.route('/')
+def search():
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
