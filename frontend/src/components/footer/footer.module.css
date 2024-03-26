@@ -2,13 +2,16 @@
 .footer {
     display: flex;
     justify-content: center;
-    background-color: lightgrey;
+    background-color: #4e4b4b;
     padding: 24px 0;
     max-width: 100%;
     margin: 0 auto;
-    border-top-left-radius: 50px;
+    border-radius: 20px;
     position: relative;
-    overflow: hidden; /* To clip the shadow that goes beyond the borders */
+    overflow: hidden; 
+    box-shadow: #f6f6f6;
+    margin-top: 20px;
+    /* To clip the shadow that goes beyond the borders */
   }
   
   .footer::before {
