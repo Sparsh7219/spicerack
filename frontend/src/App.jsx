@@ -10,6 +10,8 @@ import SignUp from "./pages/signup/signup"
 
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Like from './components/like/like'
+import Card from './components/card/card'
 
 function App() {
   
@@ -26,6 +28,8 @@ function App() {
           <Route path="/RecipeSelector" element={<RecipeSelector/>}/>
           <Route path="/Search" element={<Search/>}/>
           <Route path="/SignUp" element={<SignUp/>}/>
+          <Route path="/like" element={<Like/>}></Route>
+          <Route path="/card" element={<Card/>}></Route>
         </Routes>
       </Router>
     </>

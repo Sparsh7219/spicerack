@@ -1,9 +1,164 @@
+/* Base styles */
 .active {
-    background: #9749d4;
-    color: #fff;
-    border-radius: 2rem;
-    display: inline-block;
+  background: #9749d4;
+  color: #fff;
+  border-radius: 2rem;
+  display: inline-block;
 }
-*, *::before, *::after {
-    box-sizing: border-box
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
+body {
+  background: #282c34;
+}
+.mySwiper {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 550px;
+  border-radius: 10px; /* Adjust the height as per your design */
+}
+
+.mySwiper .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background-image: linear-gradient(
+    to left,
+    rgb(1, 1, 1),
+    rgba(14, 14, 14, 0),
+    rgba(14, 14, 14, 0)
+  );
+}
+
+.mySwiper .swiper-pagination-bullet {
+  background: #007bff; /* Pagination bullet color */
+}
+
+.mySwiper .swiper-button-next,
+.mySwiper .swiper-button-prev {
+  color: #007bff; /* Navigation arrow color */
+}
+
+.mySwiper .swiper-button-next:after,
+.mySwiper .swiper-button-prev:after {
+  font-size: 24px; /* Size of navigation arrows */
+}
+
+/* Slider container */
+.slider-container {
+  position: relative;
+  /* Dark background for contrast */
+  border-radius: 20px; /* Increase border radius for a softer look */
+  padding: 20px; /* Increase padding for better spacing */
+  box-shadow: #222; /* Add box shadow for depth */
+}
+
+/* Slide content */
+.slide-content {
+  position: relative;
+}
+
+/* Image style */
+.imgslid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 10px;
+  width: 100%;
+}
+
+/* Overlay */
+.overlay {
+  margin-top: 300px;
+  display: flex; /* Use flexbox for alignment */
+  flex-direction: column; /* Align items in a column */
+  justify-content: center; /* Center content vertically */
+  align-items: center; /* Center content horizontally */
+  position: absolute;
+  top: 50%; /* Position the overlay at the vertical center */
+  left: 50%; /* Position the overlay at the horizontal center */
+  transform: translate(-50%, -50%); /* Center the overlay using translate */
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px; /* Increase padding for better spacing */
+  color: #fff;
+  border-radius: 20px; /* Increase border radius for a softer look */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+  max-width: 80%; /* Limit the width of the overlay */
+  text-align: center; /* Center text horizontally */
+  z-index: 1; /* Ensure overlay appears above bullets */
+}
+
+.overlay ul {
+  text-align: center;
+  margin-bottom: 30px; /* Increase margin between bullets and overlay content */
+  padding-left: 0; /* Remove default padding */
+  margin-right: 10px;
+  margin-left: 20px;
+  display: flex; /* Use flexbox to display ingredients as bullets next to each other */
+  flex-wrap: wrap; /* Allow wrapping of ingredients */
+}
+
+.overlay li {
+  margin-right: 10px; /* Add margin between ingredients */
+  list-style: none; /* Set list style to bullet */
+  margin-bottom: 10px; /* Add margin-bottom to separate bullets */
+}
+
+
+.overlay button {
+  background: #6c63ff; /* Adjust button color for premium feel */
+  border-radius: 30px; /* Increase border radius for a softer look */
+  padding: 10px 20px; /* Increase padding for better appearance */
+  font-size: 18px; /* Increase font size for better readability */
+  font-weight: bold; /* Emphasize the button text */
+  text-transform: uppercase; /* Convert text to uppercase */
+  letter-spacing: 1px; /* Add letter spacing for elegance */
+  cursor: pointer;
+  transition: background 0.3s ease; /* Add smooth transition effect */
+}
+.overlay button:hover {
+  background: #5633ff; /* Adjust button color on hover for interaction */
+}
+.overlay h2 {
+  font-size: 40px; /* Increase font size for a premium look */
+  font-weight: bold; /* Emphasize the title */
+  text-transform: uppercase; /* Convert text to uppercase */
+  letter-spacing: 2px; /* Add letter spacing for elegance */
+  margin-bottom: 20px; /* Increase margin for better separation */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Add text shadow for depth */
+  color: #fff; /* Ensure text color is white for visibility */
+}
+.box {
+  background-color: #b9b9c13b;
+  text-align: center;
+  padding: 60px;
+  border-radius: 1.5rem;
+  margin: 1.5rem; /* Add margin property */
+}
+.boxContainer {
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+}
+
+
+/* Updated CSS for aligning boxes horizontally */
+.box-container {
+    display: flex; /* Use flexbox to arrange boxes */
+    justify-content: space-between; /* Distribute space between boxes */
+    flex-wrap: wrap; /* Allow wrapping of boxes */
+  }
+  
+  .box {
+    background-color: #b9b9c13b;
+    text-align: center;
+    padding: 60px;
+    border-radius: 1.5rem;
+    margin: 1.5rem; /* Add margin property */
+    flex: 1; /* Allow boxes to grow and shrink equally */
+    max-width: calc(33.33% - 3rem); /* Set maximum width for each box */
+  }
+  
