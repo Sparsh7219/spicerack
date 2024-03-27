@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Search</title>
+    <style>
+        /* Style for the dropdown menu */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+
+        .tag {
+            display: inline-block;
+            background-color: #f0f0f0;
+            color: #333;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            cursor: pointer;
+        }
+
+        .tag:hover {
+            background-color: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Recipe Search</h1>
+    <form id="recipeForm">
+        <label for="ingredient">Select an ingredient:</label><br>
+        <input type="text" id="ingredient" name="ingredient">
+        <div id="ingredientDropdown" class="dropdown-content"></div>
+        <button type="button" id="addIngredient">Add Ingredient</button><br><br>
+        <div id="ingredientsContainer"></div>
+    </form>
+    <hr>
+    <div id="recipeCount"></div>
+    <div id="recipes">
+        <!-- Recipes will be displayed here -->
+    </div>
+    <script>
+        const ingredientInput = document.getElementById('ingredient');
+        const ingredientDropdown = document.getElementById('ingredientDropdown');
+        const addIngredientButton = document.getElementById('addIngredient');
+        const ingredients = [
+            {% for ingredient in ingredients %}
+                "{{ ingredient }}",
+            {% endfor %}
+        ];
+    
+        const ingredientsContainer = document.getElementById('ingredientsContainer');
+        const recipeForm = document.getElementById('recipeForm');
+        const recipesDiv = document.getElementById('recipes');
+        const recipeCountDiv = document.getElementById('recipeCount');
+    
+        // Function to update the dropdown menu with suggested ingredients
+        function updateDropdown(suggestions) {
+            ingredientDropdown.innerHTML = '';
+            
+            // Separate exact matches and partial matches
+            const exactMatches = suggestions.filter(suggestion => suggestion.toLowerCase() === ingredientInput.value.trim().toLowerCase());
+            const partialMatches = suggestions.filter(suggestion => !exactMatches.includes(suggestion));
+
+            // Display exact matches first, followed by partial matches
+            [...exactMatches, ...partialMatches].forEach(suggestion => {
+                const option = document.createElement('a');
+                option.textContent = suggestion;
+                option.addEventListener('click', function() {
+                    ingredientInput.value = suggestion;
+                    ingredientDropdown.style.display = 'none';
+                });
+                ingredientDropdown.appendChild(option);
+            });
+
+            if (suggestions.length > 0) {
+                ingredientDropdown.style.display = 'block';
+            } else {
+                ingredientDropdown.style.display = 'none';
+            }
+        }
+
+        // Function to remove ingredient tag
+        function removeIngredientTag(tag) {
+            tag.parentNode.removeChild(tag);
+            searchRecipes(); // Trigger recipe search after removing ingredient
+        }
+
+        // Event listener to fetch suggestions while typing
+        ingredientInput.addEventListener('input', function() {
+            const inputValue = ingredientInput.value.trim().toLowerCase();
+            const suggestions = ingredients.filter(ingredient =>
+                ingredient.toLowerCase().includes(inputValue)
+            );
+            updateDropdown(suggestions);
+        });
+
+        // Event listener to add ingredient as tag
+        addIngredientButton.addEventListener('click', function() {
+            const ingredientValue = ingredientInput.value.trim();
+            if (ingredientValue !== '') {
+                const tag = document.createElement('div');
+                tag.textContent = ingredientValue;
+                tag.classList.add('tag');
+                tag.addEventListener('click', function() {
+                    removeIngredientTag(tag);
+                });
+                ingredientsContainer.appendChild(tag);
+                ingredientInput.value = '';
+                searchRecipes(); // Trigger recipe search after adding ingredient
+            }
+        });
+
+        // Event listener for form submission (search) - disabled as no button is needed
+        // recipeForm.addEventListener('submit', async function(event) {
+        //     event.preventDefault();
+        //     await searchRecipes();
+        // });
+
+        // Function to trigger recipe search
+        async function searchRecipes() {
+            const ingredientItems = ingredientsContainer.querySelectorAll('.tag');
+            const ingredientList = Array.from(ingredientItems).map(item => item.textContent);
+            const ingredients = ingredientList.join(',');
+
+            try {
+                const response = await fetch(`/search?ingredients=${ingredients}`);
+                const data = await response.json();
+
+                if (response.ok) {
+                    recipesDiv.innerHTML = ''; // Clear previous recipes
+                    if (data.count > 0) {
+                        recipeCountDiv.textContent = `Number of recipes found: ${data.count}`;
+
+                        // Sort recipes based on the number of common ingredients
+                        data.recipes.sort((a, b) => {
+                            const commonIngredientsA = a.ingredients.filter(ingredient => ingredientList.includes(ingredient));
+                            const commonIngredientsB = b.ingredients.filter(ingredient => ingredientList.includes(ingredient));
+                            return commonIngredientsB.length - commonIngredientsA.length;
+                        });
+
+                        data.recipes.forEach(recipe => {
+                            const title = document.createElement('h3');
+                            title.textContent = recipe.title;
+
+                            const ingredientsList = document.createElement('p');
+                            ingredientsList.textContent = 'Ingredients: ' + recipe.ingredients.join(', ');
+
+                            const directions = document.createElement('p');
+                            directions.textContent = 'Directions: ' + recipe.direction;
+
+                            const image = document.createElement('img');
+                            image.src = recipe.image_url;
+                            image.alt = recipe.title;
+
+                            recipesDiv.appendChild(title);
+                            recipesDiv.appendChild(ingredientsList);
+                            recipesDiv.appendChild(directions);
+                            recipesDiv.appendChild(image);
+                        });
+                    } else {
+                        recipeCountDiv.textContent = 'No recipes found containing those ingredients.';
+                    }
+                } else {
+                    recipesDiv.innerHTML = 'Error: ' + data.message;
+                }
+            } catch (error) {
+                recipesDiv.innerHTML = 'An error occurred while fetching recipes.';
+                console.error('Error:', error);
+            }
+        }
+    </script>
+    
+</body>
+</html>

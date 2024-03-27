@@ -1,0 +1,17 @@
+import json
+
+# Load the JSON data
+with open(r'tool/recipes.json', 'r') as f:
+    recipes_data = json.load(f)
+
+# Extract ingredients from recipes
+all_ingredients = []
+for recipe in recipes_data:
+    all_ingredients.extend(recipe['ingredients'])
+
+# Remove duplicates
+unique_ingredients = list(set(all_ingredients))
+
+# Write unique ingredients to a new JSON file
+with open('unique_ingredients.json', 'w') as f:
+    json.dump(unique_ingredients, f, indent=4)
