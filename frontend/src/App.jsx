@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       
-      <Router>
+      <Router classname="background">
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/Favorites" element={<Favoraterec/>}/>

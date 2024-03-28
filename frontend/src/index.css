@@ -11,9 +11,13 @@
 *::after {
   box-sizing: border-box;
 }
-body {
-  background: #282c34;
+
+body{
+  background-image: url(../src/assets/blurrr.png);
+  height: auto;
+  width: auto;
 }
+
 .mySwiper {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -161,4 +165,3 @@ body {
     flex: 1; /* Allow boxes to grow and shrink equally */
     max-width: calc(33.33% - 3rem); /* Set maximum width for each box */
   }
-  

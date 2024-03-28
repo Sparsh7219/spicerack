@@ -14,7 +14,7 @@ const SearchHome = () => {
     setLoading(true);
     setError(null);
     // Fetch or import the recipe data
-    import('../../../../tool/recipes.json')
+    import('../../../../Backend/app/recipes/recipes.json')
       .then((data) => {
         if (!Array.isArray(data)) {
           throw new Error("Data is not in the expected format.");

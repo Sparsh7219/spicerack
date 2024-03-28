@@ -2,7 +2,7 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation } from "swiper/modules";
 import "swiper/css";
-import recipes from "../../../../tool/recipes.json";
+import recipes from "../../../../Backend/app/recipes/recipes.json";
 
 import "swiper/css";
 import "swiper/css/navigation";
