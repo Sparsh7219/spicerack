@@ -14,6 +14,14 @@ def search_recipes_by_ingredients(recipes, user_ingredients):
             matching_recipes.append(recipe)
     return matching_recipes
 
+# Function to search recipes by name
+def search_recipes_by_name(recipes, recipe_name):
+    matching_recipes = []
+    for recipe in recipes:
+        if recipe_name.lower() in recipe['title'].lower():
+            matching_recipes.append(recipe)
+    return matching_recipes
+
 # Extract unique ingredients from recipes
 def get_unique_ingredients(recipes):
     ingredients = set()
