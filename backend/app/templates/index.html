@@ -212,8 +212,18 @@
                                 image.src = recipe.image_url;
                                 image.alt = recipe.title;
 
+                                const userIngredients = ingredientsContainer.querySelectorAll('.tag');
+                                const userIngredientList = Array.from(userIngredients).map(item => item.textContent.toLowerCase());
+
+                                const recipeIngredients = recipe.ingredients.map(ingredient => ingredient.toLowerCase());
+                                const missingIngredients = recipeIngredients.filter(ingredient => !userIngredientList.includes(ingredient));
+
+                                const missingIngredientsText = document.createElement('p');
+                                missingIngredientsText.textContent = `Missing ingredients: ${missingIngredients.join(', ')}`;
+
                                 recipesDiv.appendChild(title);
                                 recipesDiv.appendChild(ingredientsList);
+                                recipesDiv.appendChild(missingIngredientsText);
                                 recipesDiv.appendChild(directions);
                                 recipesDiv.appendChild(image);
                             });
