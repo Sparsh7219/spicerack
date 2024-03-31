@@ -52,7 +52,19 @@
         const recipeNameInput = document.getElementById('recipeName');
         const recipeDropdown = document.getElementById('recipeDropdown');
         const addIngredientButton = document.getElementById('addIngredient');
+        const ingredients = [
+            {% for ingredient in ingredients %}
+                "{{ ingredient }}",
+            {% endfor %}
+        ];
+        const recipeNames = [
+            {% for recipe in recipes %}
+                "{{ recipe.title }}",
+            {% endfor %}
+        ];
+
         const ingredientsContainer = document.getElementById('ingredientsContainer');
+        const recipeForm = document.getElementById('recipeForm');
         const recipesDiv = document.getElementById('recipes');
         const recipeCountDiv = document.getElementById('recipeCount');
         const searchByNameButton = document.getElementById('searchByName');
