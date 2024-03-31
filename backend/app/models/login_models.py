@@ -1,4 +1,4 @@
-from flask import current_app
+from flask import current_app, session
 import mysql.connector
 import hashlib
 import os
@@ -39,3 +39,7 @@ def load_favorites(username):
 def save_favorites(username, favorites):
     with open(f'static/{username}_favorites.json', 'w') as file:
         json.dump(favorites, file)
+
+
+def get_current_user_id():
+    return session.get('user_id')

@@ -57,17 +57,19 @@ def login():
 
         db = get_db()
         cursor = db.cursor(dictionary=True)
-        cursor.execute("SELECT * FROM users WHERE username = %s AND password_hash = %s",
+        cursor.execute("SELECT id, username FROM users WHERE username = %s AND password_hash = %s",
                        (username, encrypted_password))
         user = cursor.fetchone()
 
         if user:
-            # If login successful, set the username in the session
+            # If login successful, set the username and user_id in the session
             session['username'] = user['username']
+            session['user_id'] = user['id']
             # Redirect to the previous page or items page after login
             return redirect(session.get('next') or '/api/items')
         else:
             return "Invalid username or password"
+
 
 @bp.route('/api/add_to_favorites/<int:item_id>', methods=['POST'])
 def add_to_favorites(item_id):
@@ -133,3 +135,8 @@ def favorites():
     favorite_items = load_favorites(username)
 
     return render_template('favorites.html', favorite_items=favorite_items)
+
+@bp.route('/api/get_current_user_id')
+def get_current_user_id_route():
+    user_id = get_current_user_id()
+    return jsonify({'user_id': user_id})
