@@ -8,19 +8,19 @@ bp = Blueprint("search_routes", __name__)
 def index():
     return render_template('index.html', ingredients=unique_ingredients, recipes=recipes)
 
-@bp.route('/api/search', methods=['POST'])
+@bp.route('/api/search', methods=['GET'])
 def search_recipes():
-    data = request.get_json()
-    user_ingredients = data.get('ingredients')
-
     user_ingredients = request.args.get('ingredients')
     recipe_name = request.args.get('recipe_name')
 
     if user_ingredients:
+        user_ingredients = user_ingredients.split(',')
+        user_ingredients.extend(DEFAULT_INGREDIENTS)  # Add default ingredients
+
         matching_recipes = search_recipes_by_ingredients(recipes, user_ingredients)
 
         if matching_recipes:
-            return jsonify({'count': len(matching_recipes), 'recipes': matching_recipes}), 200
+            return jsonify({'count': len(matching_recipes), 'recipes': matching_recipes})
         else:
             return jsonify({'message': 'No recipes found containing those ingredients.'}), 404
     elif recipe_name:

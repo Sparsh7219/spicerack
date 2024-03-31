@@ -52,19 +52,7 @@
         const recipeNameInput = document.getElementById('recipeName');
         const recipeDropdown = document.getElementById('recipeDropdown');
         const addIngredientButton = document.getElementById('addIngredient');
-        const ingredients = [
-            {% for ingredient in ingredients %}
-                "{{ ingredient }}",
-            {% endfor %}
-        ];
-        const recipeNames = [
-            {% for recipe in recipes %}
-                "{{ recipe.title }}",
-            {% endfor %}
-        ];
-
         const ingredientsContainer = document.getElementById('ingredientsContainer');
-        const recipeForm = document.getElementById('recipeForm');
         const recipesDiv = document.getElementById('recipes');
         const recipeCountDiv = document.getElementById('recipeCount');
         const searchByNameButton = document.getElementById('searchByName');
@@ -145,7 +133,7 @@
             const ingredients = ingredientList.join(',');
 
             try {
-                const response = await fetch(`/search?ingredients=${ingredients}`);
+                const response = await fetch(`/api/search?ingredients=${ingredients}`);
                 const data = await response.json();
 
                 if (response.ok) {
@@ -190,7 +178,7 @@
 
             if (recipeName !== '') {
                 try {
-                    const response = await fetch(`/search?recipe_name=${recipeName}`);
+                    const response = await fetch(`/api/search?recipe_name=${recipeName}`);
                     const data = await response.json();
 
                     if (response.ok) {
