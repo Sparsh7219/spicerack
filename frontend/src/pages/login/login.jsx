@@ -1,5 +1,5 @@
 // login.js
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import style from "./login.module.css";
 import Navbar from '../../components/navbar/navbar';
 import Footer from '../../components/footer/footer';
@@ -24,6 +24,7 @@ const Login = () => {
   });
   
   const svg = avatar.toString();
+
 
   return (
     <>

@@ -1,129 +1,78 @@
+/* searchHome.module.css */
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-  }
-  
-  .searchContainer {
-    width: 60%;
-    margin-bottom: 20px;
-  }
-  
-  .searchInput {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  .suggestions {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 5px;
-  }
-  
-  .tag {
-    background-color: #eee;
-    padding: 5px 10px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .selectedIngredients {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .selectedTag {
-    background-color: #007bff;
-    color: #fff;
-    padding: 5px 10px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .closeIcon {
-    margin-left: 5px;
-  }
-  .container {
-    display: flex;
-    justify-content: center;
-    padding: 20px;
-    margin-top: 50px; /* Separating from background */
-    overflow-x: hidden; /* Hide horizontal overflow */
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 20px;
-        border: 2px solid #ccc; /* Adding border */
-        border-radius: 10px;
-        margin-top: 50px; /* Separating from background */
-        overflow-y: auto; /* Enable vertical scrolling */
-        max-height: 300px; /* Limit height for scrolling */
-        margin-bottom: 500px;
-  }
-  
-  .tagsContainer {
-    display: flex;
-    flex-wrap: wrap; /* Enable wrapping */
-    justify-content: center;
-    max-width: 800px; /* Limit the width of the container */
-    border: 2px solid #ccc; /* Adding border */
-    border-radius: 10px;
-    padding: 10px;
-    background-color: #f9f9f9; /* Background color */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding shadow */
-  }
-  
-  .tag {
-    background-color: #eee;
-    padding: 5px 10px;
-    margin: 5px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  
-  /* Rest of the CSS remains the same */
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    margin-top: 50px; /* Separating from background */
-    overflow-x: hidden; /* Hide horizontal overflow */
-  }
-  
-  .tagsContainer {
-    display: flex;
-    flex-wrap: wrap; /* Enable wrapping */
-    justify-content: center;
-    max-width: 800px; /* Limit the width of the container */
-    padding: 10px;
-    background-color: #f9f9f9; /* Background color */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding shadow */
-  }
-  
-  .tag {
-    background-color: #eee;
-    padding: 5px 10px;
-    margin: 5px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .borderContainer {
-    border: 2px solid #ccc; /* Adding border */
-    border-radius: 10px;
-    margin-top: 50px; /* Separating from background */
-    overflow-y: auto; /* Enable vertical scrolling */
-    max-height: 300px; /* Limit height for scrolling */
-    margin-bottom: 500px;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.searchContainer {
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5px;
+}
+
+.tag {
+  background-color: #eee;
+  padding: 5px 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.selectedIngredients {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.selectedTag {
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.closeIcon {
+  margin-left: 5px;
+}
+
+.toggleButton {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.searchButton {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.borderContainer {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 20px;
+  max-height: 300px;
+  overflow-y: auto;
+}

@@ -13,7 +13,10 @@ app.register_blueprint(login_bp)
 
 @app.route('/api/home')
 def search():
-    return render_template('index.html')
+    if not request.args:
+        return jsonify({'recipes': [], 'count':0})
+
+    # return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
