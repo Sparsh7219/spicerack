@@ -10,14 +10,11 @@ def index():
 
 @bp.route('/search', methods=['POST'])
 def search_recipes():
-<<<<<<< HEAD
-    data = request.get_json()
-    user_ingredients = data.get('ingredients')
-=======
+
     user_ingredients = request.args.get('ingredients')
     recipe_name = request.args.get('recipe_name')
 
->>>>>>> b0c16979ddbbca0debb29b93eed43699fdb8b798
+
     if user_ingredients:
         matching_recipes = search_recipes_by_ingredients(recipes, user_ingredients)
 

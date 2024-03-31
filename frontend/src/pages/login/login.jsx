@@ -48,7 +48,7 @@ const Login = () => {
             <input type='password' placeholder='Password' />
           </div>
           <button className={style.btn}>Login</button>
-          <Link to="/signup"> {/* Link to signup page */}
+          <Link to="/SignUp"> {/* Link to signup page */}
             <button className={`${style.btn} ${style.premiumBtn}`}>Sign Up</button>
           </Link>
         </div>
