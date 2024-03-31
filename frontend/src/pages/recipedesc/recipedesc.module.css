@@ -1,0 +1,23 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .box {
+    height: auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #f7fafa40 !important;
+     /* Change background color */
+    
+  }
+  
+  .rectangle {
+    width: 100%;
+    height: auto;
+    background: #f7fafa40;
+    margin-top: 10px;
+    border-radius: 20px;
+    text-align: center;
+  }
+  

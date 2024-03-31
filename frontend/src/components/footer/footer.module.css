@@ -59,3 +59,10 @@
     transition: color 0.3s ease-in-out; /* Add a smooth color transition on hover */
   }
   
+  .logo {
+    
+    padding-left: 20px;
+    width: 180px;
+    height: auto;
+  }
+  
