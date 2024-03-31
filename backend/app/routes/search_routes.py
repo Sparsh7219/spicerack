@@ -4,16 +4,17 @@ from models.search_models import unique_ingredients, DEFAULT_INGREDIENTS, search
 
 bp = Blueprint("search_routes", __name__)
 
-@bp.route('/')
+@bp.route('/api/home')
 def index():
     return render_template('index.html', ingredients=unique_ingredients, recipes=recipes)
 
-@bp.route('/search', methods=['POST'])
+@bp.route('/api/search', methods=['POST'])
 def search_recipes():
+    data = request.get_json()
+    user_ingredients = data.get('ingredients')
 
     user_ingredients = request.args.get('ingredients')
     recipe_name = request.args.get('recipe_name')
-
 
     if user_ingredients:
         matching_recipes = search_recipes_by_ingredients(recipes, user_ingredients)

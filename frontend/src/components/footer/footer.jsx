@@ -28,7 +28,7 @@ const Footer = () => {
             <p className={style.sectionText}>Abhishek Harldankar</p>
             </Link>
             <Link href="https://www.linkedin.com/in/mohammed-fayeez-234a7126b/" className="social-icon">
-          <p className={style.sectionText}>no no  just write Mohammed Fayeez </p>
+          <p className={style.sectionText}>Fayeez </p>
           </Link>
           <Link href="https://www.linkedin.com/in/sparshmanohar/" className="social-icon">
           <p className={style.sectionText}>Sparsh Manohar</p>
