@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorites</title>
+</head>
+<body>
+    <h2>Favorites</h2>
+    <ul>
+        {% for item in favorite_items %}
+            <li>
+                <strong>ID:</strong> {{ item.id }}<br>
+                <strong>Title:</strong> {{ item.title }}<br>
+                <strong>Description:</strong> {{ item.description }}<br>
+                <img src="{{ item.image_url }}" alt="{{ item.title }}" style="max-width: 100px;"><br>
+                <!-- Remove button -->
+                <form action="/remove_from_favorites/{{ item.id }}" method="post" style="display: inline;">
+                    <button type="submit">Remove from Favorites</button>
+                </form>
+            </li>
+        {% endfor %}
+    </ul>
+    <!-- Button to go back to items page -->
+    <form action="/items" method="get">
+        <button type="submit">Back to Items</button>
+    </form>
+</body>
+</html>

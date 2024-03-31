@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <style>
+        .overlay {
+            display: none;
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            z-index: 9999;
+        }
+
+        #password:focus + .overlay {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h2>Signup</h2>
+    <form id="signupForm" action="/signup" method="post">
+        <input type="email" name="email" placeholder="Email" required><br>
+        <input type="text" name="username" placeholder="Username" required><br>
+        <input type="password" name="password" id="password" placeholder="Password" required><br>
+        <div class="overlay">Password criteria: Minimum 8 characters, at least one uppercase letter, one lowercase letter, one digit, and one special character</div>
+        <button type="submit">Signup</button>
+    </form>
+
+    <script>
+        document.getElementById('signupForm').addEventListener('submit', function(event) {
+            var password = document.getElementById('password').value;
+            if (!isPasswordValid(password)) {
+                event.preventDefault(); // Prevent form submission
+                alert('Password does not meet the password policy criteria');
+            }
+        });
+
+        function isPasswordValid(password) {
+            // Define password policy criteria
+            var min_length = 8;
+            var has_uppercase = /[A-Z]/.test(password);
+            var has_lowercase = /[a-z]/.test(password);
+            var has_digit = /\d/.test(password);
+            var has_special = /[!@#$%^&*()\-_=+{};:,<.>]/.test(password);
+
+            // Check if password meets all criteria
+            return (
+                password.length >= min_length &&
+                has_uppercase &&
+                has_lowercase &&
+                has_digit &&
+                has_special
+            );
+        }
+    </script>
+</body>
+</html>
