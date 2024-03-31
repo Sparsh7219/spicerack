@@ -6,12 +6,12 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)  # Change this to your own secret key
-CORS(app,resources={r"/*":{"origins":"*"}})
+CORS(app,resources={r"/api/*":{"origins":"*"}})
 
 app.register_blueprint(search_bp)
 app.register_blueprint(login_bp)
 
-@app.route('/')
+@app.route('/api/home')
 def search():
     return render_template('index.html')
 

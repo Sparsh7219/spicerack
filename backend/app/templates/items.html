@@ -14,14 +14,14 @@
                 <strong>Title:</strong> {{ item.title }}<br>
                 <strong>Description:</strong> {{ item.description }}<br>
                 <img src="{{ item.image_url }}" alt="{{ item.title }}" style="max-width: 100px;"><br>
-                <form action="/add_to_favorites/{{ item.id }}" method="post" style="display: inline;">
+                <form action="/api/add_to_favorites/{{ item.id }}" method="post" style="display: inline;">
                     <button type="submit">Add to Favorites</button>
                 </form>
             </li>
         {% endfor %}
     </ul>
     <!-- Button to view favorites -->
-    <form action="/favorites" method="get">
+    <form action="/api/favorites" method="get">
         <button type="submit">View Favorites</button>
     </form>
 </body>

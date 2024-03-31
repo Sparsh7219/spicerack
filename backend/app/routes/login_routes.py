@@ -4,12 +4,12 @@ from models.login_models import *
 bp = Blueprint('routes', __name__)
 
 
-@bp.route('/items')
+@bp.route('/api/items')
 def display_items():
     items = load_items()
     return render_template('items.html', items=items)
 
-@bp.route('/signup', methods=['GET', 'POST'])
+@bp.route('/api/signup', methods=['GET', 'POST'])
 def signup():
     if request.method == 'POST':
         # Extract username, email, and password from the form
@@ -39,12 +39,12 @@ def signup():
         db.commit()
 
         # Redirect to login page after successful signup
-        return redirect('/login')
+        return redirect('/api/login')
     else:
         # If it's a GET request, render the signup page
         return render_template('signup.html')
 
-@bp.route('/login', methods=['GET', 'POST'])
+@bp.route('/api/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'GET':
         # If it's a GET request, render the login page
@@ -65,15 +65,15 @@ def login():
             # If login successful, set the username in the session
             session['username'] = user['username']
             # Redirect to the previous page or items page after login
-            return redirect(session.get('next') or '/items')
+            return redirect(session.get('next') or '/api/items')
         else:
             return "Invalid username or password"
 
-@bp.route('/add_to_favorites/<int:item_id>', methods=['POST'])
+@bp.route('/api/add_to_favorites/<int:item_id>', methods=['POST'])
 def add_to_favorites(item_id):
     if 'username' not in session:
         # If user is not logged in, redirect to login page
-        return redirect('/login')
+        return redirect('/api/login')
 
     username = session['username']
 
@@ -96,15 +96,15 @@ def add_to_favorites(item_id):
         # Save the updated favorites for the current user
         save_favorites(username, favorites)
 
-        return redirect('/favorites')
+        return redirect('/api/favorites')
     else:
         return "Item not found"
 
-@bp.route('/remove_from_favorites/<int:item_id>', methods=['POST'])
+@bp.route('/api/remove_from_favorites/<int:item_id>', methods=['POST'])
 def remove_from_favorites(item_id):
     if 'username' not in session:
         # If user is not logged in, redirect to login page
-        return redirect('/login')
+        return redirect('/api/login')
 
     username = session['username']
 
@@ -118,14 +118,14 @@ def remove_from_favorites(item_id):
             favorites.remove(item)
             # Save the updated favorites for the current user
             save_favorites(username, favorites)
-            return redirect('/favorites')
+            return redirect('/api/favorites')
 
     return "Item not found in favorites"
 
-@bp.route('/favorites')
+@bp.route('/api/favorites')
 def favorites():
     if 'username' not in session:
-        return redirect('/login')
+        return redirect('/api/login')
 
     username = session['username']
 
