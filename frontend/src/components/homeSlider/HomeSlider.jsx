@@ -1,6 +1,7 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation } from "swiper/modules";
+import { Link } from "react-router-dom"; // Import Link from react-router-dom
 import "swiper/css";
 import recipes from "../../../../Backend/app/recipes/recipes.json";
 
@@ -10,6 +11,11 @@ import "swiper/css/navigation";
 const HomeSlider = () => {
   // Filter recipes starting from ID 361
   const filteredRecipes = recipes.filter((recipe) => recipe.id >= 361);
+
+  const handleClick = (recipeId) => {
+    // Store the recipe ID in local storage
+    localStorage.setItem("recipeId", recipeId);
+  };
 
   return (
     <div className="slider-container">
@@ -41,7 +47,10 @@ const HomeSlider = () => {
                     <li key={index}>{ingredient}</li>
                   ))}
                 </ul>
-                <button>View Recipe</button>
+                {/* Use onClick to trigger handleClick and store recipeId */}
+                <Link to="/RecipeDesc">
+                  <button onClick={() => handleClick(recipe.id)}>View Recipe</button>
+                </Link>
               </div>
             </div>
           </SwiperSlide>
