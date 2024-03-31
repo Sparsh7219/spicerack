@@ -114,14 +114,17 @@ body{
 
 
 .overlay button {
-  background: #6c63ff; /* Adjust button color for premium feel */
-  border-radius: 30px; /* Increase border radius for a softer look */
+  color: thistle;
+  background: #d3d3dd1c; /* Adjust button color for premium feel */
+  border-radius: 10px; /* Increase border radius for a softer look */
   padding: 10px 20px; /* Increase padding for better appearance */
   font-size: 18px; /* Increase font size for better readability */
   font-weight: bold; /* Emphasize the button text */
   text-transform: uppercase; /* Convert text to uppercase */
   letter-spacing: 1px; /* Add letter spacing for elegance */
+  text-decoration: #fff;
   cursor: pointer;
+  border-color: #ffffff; /* Hide the outline around
   transition: background 0.3s ease; /* Add smooth transition effect */
 }
 .overlay button:hover {
