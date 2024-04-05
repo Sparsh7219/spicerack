@@ -41,9 +41,9 @@ const Navbar = () => {
           </NavLink>
         </li>
         <li className={styles.navItem}>
-          <NavLink to="/Setting" onClick={() => handleTabClick('Setting')} className={`${styles.navLink} ${activeTab === 'Setting' ? styles.active : ''}`}>
+          <NavLink to="/login" onClick={() => handleTabClick('Login')} className={`${styles.navLink} ${activeTab === 'Login' ? styles.active : ''}`}>
             <PersonIcon />
-            <span className={`${styles.tabName} ${activeTab === 'Setting' ? styles.visible : ''}`}>Setting</span>
+            <span className={`${styles.tabName} ${activeTab === 'Login' ? styles.visible : ''}`}>Login</span>
           </NavLink>
         </li>
       </ul>

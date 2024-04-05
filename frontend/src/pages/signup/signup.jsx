@@ -1,23 +1,85 @@
-import React from 'react'
-import Navbar from '../../components/navbar/navbar'
-import Footer from '../../components/footer/footer'
+import React, { useState } from 'react';
+import style from "./signup.module.css"; // Import your CSS file for styling
+import Navbar from '../../components/navbar/navbar';
+import Footer from '../../components/footer/footer';
+import { Link } from 'react-router-dom'; 
+import { createAvatar } from '@dicebear/core';
+import { adventurer } from '@dicebear/collection';
 
-const signup = () => {
+const Signup = () => {
+  const [email, setEmail] = useState('');
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
+
+  const handleEmailChange = (event) => {
+    setEmail(event.target.value);
+  };
+
+  const handleUsernameChange = (event) => {
+    setUsername(event.target.value);
+  };
+
+  const handlePasswordChange = (event) => {
+    setPassword(event.target.value);
+  };
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    // Handle form submission logic here
+  };
+
+  const avatar = createAvatar(adventurer, {
+    seed: username.trim() // Using the trimmed username as seed
+  });
+
+  const svg = avatar.toString();
+
   return (
-    <div>
-      <Navbar/>
-      <h2>Signup</h2>
-    <form id="signupForm" action="/signup" method="post">
-        <input type="email" name="email" placeholder="Email" required/><br/>
-        <input type="text" name="username" placeholder="Username" required/><br/>
-        <input type="password" name="password" id="password" placeholder="Password" required/><br/>
-        <div class="overlay">Password criteria: Minimum 8 characters, at least one uppercase letter, one lowercase letter, one digit, and one special character</div>
-        <button type="submit">Signup</button>
-    </form>
+    <>
+      <Navbar />
+      <div className={style.container}>
+        <div className={style.card}>
+          <div className={style.avatar} dangerouslySetInnerHTML={{ __html: svg }} />
+          <h2 className={style.title}>Sign Up</h2>
+          <form onSubmit={handleSubmit} className={style.form}>
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="Email" 
+              value={email} 
+              onChange={handleEmailChange} 
+              required 
+              className={style.input} 
+            />
+            <input 
+              type="text" 
+              name="username" 
+              placeholder="Username" 
+              value={username} 
+              onChange={handleUsernameChange} 
+              required 
+              className={style.input} 
+            />
+            <input 
+              type="password" 
+              name="password" 
+              placeholder="Password" 
+              value={password} 
+              onChange={handlePasswordChange} 
+              required 
+              className={style.input} 
+            />
+            <button type="submit" className={`${style.btn} ${style.signupBtn}`}>Sign Up</button>
+          </form>
+          <div className={style.overlay}>Password criteria: Minimum 8 characters, at least one uppercase letter, one lowercase letter, one digit, and one special character</div>
+          <Link to="/login"> {/* Link to login page */}
+            <button className={`${style.btn} ${style.premiumBtn}`}>Login</button>
+          </Link>
+        </div>
+      </div>
       <Footer />
-
-    </div>
-  )
+    </>
+  );
 }
 
-export default signup
+export default Signup;

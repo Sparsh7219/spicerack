@@ -4,7 +4,7 @@ import Navbar from '../../components/navbar/navbar';
 import Footer from '../../components/footer/footer';
 import styles from './searchHome.module.css';
 
-const BASE_URL = 'http://localhost:5000/api/search'; // Define base URL for API endpoints
+const BASE_URL = 'http://localhost:5000/api/'; // Define base URL for API endpoints
 
 const SearchHome = () => {
   const [searchQuery, setSearchQuery] = useState('');

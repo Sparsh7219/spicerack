@@ -4,6 +4,7 @@ from models.search_models import unique_ingredients, DEFAULT_INGREDIENTS, search
 
 bp = Blueprint("search_routes", __name__)
 
+
 @bp.route('/api/home')
 def index():
     return render_template('index.html', ingredients=unique_ingredients, recipes=recipes)

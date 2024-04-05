@@ -56,6 +56,14 @@ const HomeSlider = () => {
           </SwiperSlide>
         ))}
       </Swiper>
+      <div className="tags-container">
+        <button className="tag gluten-free">Gluten-Free</button>
+        <button className="tag healthy">Healthy</button>
+        <button className="tag low-carb">Low Carb</button>
+        <button className="tag low-calorie">Low Calorie</button>
+        <button className="tag vegan">Vegan</button>
+        <button className="tag vegetarian">Vegetarian</button>
+      </div>
     </div>
   );
 };

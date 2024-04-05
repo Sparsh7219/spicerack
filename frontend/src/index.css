@@ -168,3 +168,43 @@ body{
     flex: 1; /* Allow boxes to grow and shrink equally */
     max-width: calc(33.33% - 3rem); /* Set maximum width for each box */
   }
+  .tags-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .tag {
+    padding: 8px 16px;
+    margin: 0 5px;
+    background-color: #5633ff;
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .gluten-free {
+    background-color: #47cf73;
+  }
+  
+  .healthy {
+    background-color: #ffc107;
+  }
+  
+  .low-carb {
+    background-color: #007bff;
+  }
+  
+  .low-calorie {
+    background-color: #28a745;
+  }
+  
+  .vegan {
+    background-color: #ff6f61;
+  }
+  
+  .vegetarian {
+    background-color: #ffcf44;
+  }
+  

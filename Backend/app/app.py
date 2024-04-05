@@ -6,7 +6,8 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)  # Change this to your own secret key
-CORS(app,resources={r"/api/*":{"origins":"*"}})
+CORS(app)
+CORS(app,resources={r"/api/*":{"origin":"http://localhost:5173"}})
 
 app.register_blueprint(search_bp)
 app.register_blueprint(login_bp)
