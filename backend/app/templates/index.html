@@ -25,10 +25,31 @@
         .dropdown-content a:hover {
             background-color: #f1f1f1;
         }
+
+        /* Style for the ingredients container */
+        #ingredientsContainer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tag {
+            background-color: #f0f0f0;
+            padding: 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            border: 1px solid #ccc; /* Add border */
+        }
+
+        .tag:hover {
+            background-color: #e0e0e0;
+        }
     </style>
 </head>
 <body>
     <h1>Recipe Search</h1>
+    <p><b>Default ingredients are: </b> salt, pepper, oil, butter, sugar , water , garam masala ,<br>
+         pepper , black pepper , turmeric , chili powder , chili pepper , turmeric powder, ghee</p><br>
     <form id="recipeForm">
         <label for="ingredient">Select an ingredient:</label><br>
         <input type="text" id="ingredient" name="ingredient">
@@ -36,7 +57,7 @@
         <button type="button" id="addIngredient">Add Ingredient</button><br><br>
         <div id="ingredientsContainer"></div>
         <br>
-        <label for="recipeName">Search by recipe name:</label><br>
+        <label for="recipeName" margin-right="20px">Search by recipe name:</label><br>
         <input type="text" id="recipeName" name="recipe_name">
         <div id="recipeDropdown" class="dropdown-content"></div>
         <button type="button" id="searchByName">Search</button>
@@ -220,6 +241,7 @@
 
                                 const missingIngredientsText = document.createElement('p');
                                 missingIngredientsText.textContent = `Missing ingredients: ${missingIngredients.join(', ')}`;
+                                missingIngredientsText.style.color = 'red'; // Set font color to red
 
                                 recipesDiv.appendChild(title);
                                 recipesDiv.appendChild(ingredientsList);
@@ -241,6 +263,7 @@
                 recipesDiv.innerHTML = 'Please provide a recipe name to search for recipes.';
             }
         }
+
     </script>
 </body>
 </html>

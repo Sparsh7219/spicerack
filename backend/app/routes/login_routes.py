@@ -1,7 +1,7 @@
 from flask import Blueprint, render_template, request, redirect, session, jsonify, current_app
 from models.login_models import *
 
-bp = Blueprint('routes', __name__)
+bp = Blueprint('login_routes', __name__)
 
 
 @bp.route('/api/items')
