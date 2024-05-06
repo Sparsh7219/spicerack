@@ -1,4 +1,5 @@
 import json
+import re
 
 # Function to load recipes from a JSON file
 def load_recipes_from_file(file_path):
@@ -17,8 +18,9 @@ def search_recipes_by_ingredients(recipes, user_ingredients):
 # Function to search recipes by name
 def search_recipes_by_name(recipes, recipe_name):
     matching_recipes = []
+    pattern = re.compile(r'\b{}\b'.format(re.escape(recipe_name.lower())))
     for recipe in recipes:
-        if recipe_name.lower() in recipe['title'].lower():
+        if pattern.search(recipe['title'].lower()):
             matching_recipes.append(recipe)
     return matching_recipes
 
