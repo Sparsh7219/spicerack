@@ -1,4 +1,4 @@
-from flask import Flask, render_template, session, redirect, url_for,request,jsonify
+from flask import Flask, render_template, session, redirect, url_for
 from routes.search_routes import bp as search_bp
 from routes.login_routes import bp as login_bp
 import os
@@ -10,15 +10,12 @@ CORS(app)
 CORS(search_bp)
 CORS(login_bp)
 
-app.register_blueprint(search_bp, url_prefix='/api')
-app.register_blueprint(login_bp, url_prefix='/api')
+app.register_blueprint(search_bp)
+app.register_blueprint(login_bp)
 
 @app.route('/api/home')
 def search():
-    if not request.args:
-        return jsonify({'recipes': [], 'count':0})
-
-    # return render_template('index.html')
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
