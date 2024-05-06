@@ -1,10 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation } from "swiper/modules";
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
+import { Link } from "react-router-dom";
 import "swiper/css";
-import recipes from "../../../../Backend/app/recipes/recipes.json";
-
+import recipes from "../../../../Backend/app/recipes/recipes.json"; // Adjust path if needed
 import "swiper/css";
 import "swiper/css/navigation";
 
@@ -13,8 +12,16 @@ const HomeSlider = () => {
   const filteredRecipes = recipes.filter((recipe) => recipe.id >= 361);
 
   const handleClick = (recipeId) => {
-    // Store the recipe ID in local storage
+    // Store the recipe ID in local storage (optional for future use)
     localStorage.setItem("recipeId", recipeId);
+  };
+
+  const [selectedRecipeType, setSelectedRecipeType] = useState(null); // Store clicked button text
+
+  const handlebtnClick = (recipeType) => {
+    setSelectedRecipeType(recipeType);
+    // Navigate only after storing the type
+    window.location.href = `/recipeselect/${recipeType}`;
   };
 
   return (
@@ -47,9 +54,10 @@ const HomeSlider = () => {
                     <li key={index}>{ingredient}</li>
                   ))}
                 </ul>
-                {/* Use onClick to trigger handleClick and store recipeId */}
                 <Link to="/RecipeDesc">
-                  <button onClick={() => handleClick(recipe.id)}>View Recipe</button>
+                  <button onClick={() => handleClick(recipe.id)}>
+                    View Recipe
+                  </button>
                 </Link>
               </div>
             </div>
@@ -57,12 +65,24 @@ const HomeSlider = () => {
         ))}
       </Swiper>
       <div className="tags-container">
-        <button className="tag gluten-free">Gluten-Free</button>
-        <button className="tag healthy">Healthy</button>
-        <button className="tag low-carb">Low Carb</button>
-        <button className="tag low-calorie">Low Calorie</button>
-        <button className="tag vegan">Vegan</button>
-        <button className="tag vegetarian">Vegetarian</button>
+        <button className="tag" onClick={() => handlebtnClick("gluten_free")}>
+          Gluten-Free
+        </button>
+        <button className="tag" onClick={() => handlebtnClick("healthy")}>
+          Healthy
+        </button>
+        <button className="tag" onClick={() => handlebtnClick("low_carb")}>
+          Low Carb
+        </button>
+        <button className="tag" onClick={() => handlebtnClick("low_calorie")}>
+          Low Calorie
+        </button>
+        <button className="tag" onClick={() => handlebtnClick("vegan")}>
+          Vegan
+        </button>
+        <button className="tag" onClick={() => handlebtnClick("vegetarian")}>
+          Vegetarian
+        </button>
       </div>
     </div>
   );

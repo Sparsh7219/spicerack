@@ -5,10 +5,7 @@ import Footer from '../../components/footer/footer'; // Assuming you have a Foot
 import { createAvatar } from '@dicebear/core';
 import { adventurer } from '@dicebear/collection';
 import food1 from '../../assets/Images/bg1.jpeg';
-import food2 from '../../assets/Images/food2.png';
-import food3 from '../../assets/Images/food3.png';
-import food4 from '../../assets/Images/food4.png';
-import food5 from '../../assets/Images/food5.png';
+
 import { Link } from 'react-router-dom'; 
 import Axios from 'axios';
 
