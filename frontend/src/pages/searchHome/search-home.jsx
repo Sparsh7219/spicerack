@@ -1,180 +1,183 @@
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
-import Navbar from '../../components/navbar/navbar';
-import Footer from '../../components/footer/footer';
-import styles from './searchHome.module.css';
+import React, { useState, useEffect } from "react";
+import axios from "axios";
+import Navbar from "../../components/navbar/navbar";
+import Footer from "../../components/footer/footer";
+import styles from "./searchHome.module.css";
+import uniqueIngredients from "../../../../Backend/app/recipes/unique_ingredients.json";
+import Card from "../../components/card/card"; // Import Card component
+import { Link } from "react-router-dom"; // Import Link from react-router-dom
 
-const BASE_URL = 'http://localhost:5000/api/'; // Define base URL for API endpoints
+const BACKEND_URL = "http://localhost:5000/";
 
 const SearchHome = () => {
-  const [searchQuery, setSearchQuery] = useState('');
   const [selectedIngredients, setSelectedIngredients] = useState([]);
+  const [recipeName, setRecipeName] = useState("");
   const [recipes, setRecipes] = useState([]);
-  const [recipeCount, setRecipeCount] = useState(0);
-  const [activeSearchBar, setActiveSearchBar] = useState('ingredient');
-  const [isLoading, setIsLoading] = useState(false); // Track loading state for better UX
-  const [error, setError] = useState(null); // Store any errors encountered
+  const [errorMessage, setErrorMessage] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
+  const [searchByIngredients, setSearchByIngredients] = useState(true);
+  const [searchTerm, setSearchTerm] = useState("");
 
-  const ingredients = [
-    "Tomato", "Onion", "Garlic", "Potato", "Carrot", "Broccoli", "Spinach", "Bell Pepper"
-    // Add more ingredient suggestions here
-  ];
+  const handleIngredientChange = (event) => {
+    setSelectedIngredients([...selectedIngredients, event.target.value]);
+    setSearchTerm("");
+  };
 
-  // Fetch suggested recipes on initial render (optional)
+  const handleIngredientRemoval = (ingredient) => {
+    setSelectedIngredients(selectedIngredients.filter((item) => item !== ingredient));
+  };
+
+  const handleRecipeNameChange = (event) => {
+    setRecipeName(event.target.value);
+  };
+
+  const handleSearch = async () => {
+    setIsLoading(true);
+    setErrorMessage("");
+
+    try {
+      const params = {};
+      if (selectedIngredients.length > 0 && searchByIngredients) {
+        params.ingredients = selectedIngredients.join(",");
+      } else if (recipeName) {
+        params.recipe_name = recipeName;
+      } else {
+        setErrorMessage("Please provide ingredients or a recipe name to search.");
+        return;
+      }
+
+      const response = await axios.get(`${BACKEND_URL}/api/search`, { params });
+
+      if (response.status === 200) {
+        setRecipes(response.data.recipes);
+      } else {
+        setErrorMessage(response.data.message);
+      }
+    } catch (error) {
+      console.error(error);
+      setErrorMessage("An error occurred while fetching recipes.");
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
   useEffect(() => {
-    const fetchInitialRecipes = async () => {
-      setIsLoading(true);
+    const fetchDefaultRecipes = async () => {
       try {
-        const response = await axios.get(BASE_URL);
-        const data = response.data;
+        const response = await axios.get(`${BACKEND_URL}/default`);
         if (response.status === 200) {
-          setRecipes(data.recipes);
-          setRecipeCount(data.count);
-        } else {
-          setError('Error fetching initial recipes');
+          setRecipes(response.data.recipes);
         }
       } catch (error) {
-        console.error('Error:', error);
-        setError('An error occurred while fetching recipes.');
-      } finally {
-        setIsLoading(false);
+        console.error(error);
       }
     };
-    fetchInitialRecipes();
+    fetchDefaultRecipes();
   }, []);
 
-  const handleTagClick = (ingredient) => {
-    setSearchQuery('');
-    setSelectedIngredients([...selectedIngredients, ingredient]);
-  };
-
-  const handleRemoveIngredient = (index) => {
-    const updatedIngredients = [...selectedIngredients];
-    updatedIngredients.splice(index, 1);
-    setSelectedIngredients(updatedIngredients);
-  };
-
-  const searchRecipes = async () => {
-    const ingredients = selectedIngredients.join(',');
-
-    if (!ingredients) {
-      setError('Please select or enter ingredients to search.');
-      return;
-    }
-
-    setIsLoading(true);
-    try {
-      const response = await axios.get(`<span class="math-inline">\{BASE\_URL\}?ingredients\=</span>{ingredients}`);
-      const data = response.data;
-
-      if (response.status === 200) {
-        setRecipes(data.recipes);
-        setRecipeCount(data.count);
-        setError(null); // Clear any previous errors
-      } else {
-        setError(data.message || 'Error fetching recipes.');
-      }
-    } catch (error) {
-      console.error('Error:', error);
-      setError('An error occurred while fetching recipes.');
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
-  const searchByName = async () => {
-    const recipeName = searchQuery.trim();
-
-    if (!recipeName) {
-      setError('Please enter a recipe name to search.');
-      return;
-    }
-
-    setIsLoading(true);
-    try {
-      const response = await axios.get(`<span class="math-inline">\{BASE\_URL\}?recipe\_name\=</span>{recipeName}`);
-      const data = response.data;
-
-      if (response.status === 200) {
-        setRecipes(data.recipes);
-        setRecipeCount(data.count);
-        setError(null); // Clear any previous errors
-      } else {
-        setError(data.message || 'Error fetching recipes.');
-      }
-    } catch (error) {
-      console.error('Error:', error);
-      setError('An error occurred while fetching recipes.');
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
-  const toggleSearchBar = () => {
-    setActiveSearchBar(activeSearchBar === 'ingredient' ? 'recipeName' : 'ingredient');
-  };
+  // Filter ingredients based on search term
+  const filteredIngredients = uniqueIngredients.filter((ingredient) =>
+    ingredient.toLowerCase().includes(searchTerm.toLowerCase())
+  );
 
   return (
     <>
       <Navbar />
       <div className={styles.container}>
-        {activeSearchBar === 'ingredient' ? (
+        <h1>Recipe Search</h1>
+        <p><b>Default ingredients are:</b></p>
+        <p>salt, pepper, oil, butter, sugar, water, garam masala, pepper, black pepper, turmeric, chili powder, chili pepper, turmeric powder, ghee</p>
+        <div>
+        <br/>
+            <br/>
+          <label>
+            Search by:
+            <br/>
+            <br/>
+            <select
+              value={searchByIngredients}
+              onChange={() => setSearchByIngredients(!searchByIngredients)}
+            >
+              <option value={true}>Ingredients</option>
+              <option value={false}>Recipe Name</option>
+            </select>
+          </label>
+        </div>
+        {searchByIngredients ? (
           <div className={styles.searchContainer}>
+            <label htmlFor="ingredient">Select an ingredient:</label>
+            <br />
             <input
               type="text"
+              id="ingredient"
+              name="ingredient"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Search for ingredients"
               className={styles.searchInput}
-              placeholder="Search for ingredients..."
-              value={searchQuery}
-                            onChange={(e) => setSearchQuery(e.target.value)}
-              onKeyDown={(e) => {
-                if (e.key === 'Enter' && searchQuery.trim() !== '') {
-                  setSelectedIngredients([...selectedIngredients, searchQuery.trim()]);
-                  setSearchQuery('');
-                }
-              }}
             />
-            <ul className={styles.ingredientList}>
-              {ingredients.map((ingredient, index) => (
-                <li key={index} className={styles.ingredientItem}>
-                  <button onClick={() => handleTagClick(ingredient)}>{ingredient}</button>
-                </li>
-              ))}
-            </ul>
-            <div className={styles.selectedIngredients}>
-              {selectedIngredients.map((ingredient, index) => (
-                <span key={index} className={styles.selectedIngredient}>
+            <select
+              multiple
+              className={styles.searchInput}
+              size={6}
+              onChange={handleIngredientChange}
+            >
+              {filteredIngredients.map((ingredient) => (
+                <option key={ingredient} value={ingredient}>
                   {ingredient}
-                  <button onClick={() => handleRemoveIngredient(index)} className={styles.removeButton}>&times;</button>
+                </option>
+              ))}
+            </select>
+            <div className={styles.tagContainer}>
+              {selectedIngredients.map((ingredient) => (
+                <span key={ingredient} className={styles.tag}>
+                  {ingredient}
+                  <button
+                    onClick={() => handleIngredientRemoval(ingredient)}
+                    className={styles.closeIcon}
+                  >
+                    &times;
+                  </button>
                 </span>
               ))}
             </div>
           </div>
         ) : (
           <div className={styles.searchContainer}>
+            <label htmlFor="recipeName">Search by recipe name:</label>
+            <br />
             <input
               type="text"
+              id="recipeName"
+              name="recipe_name"
+              value={recipeName}
+              onChange={handleRecipeNameChange}
               className={styles.searchInput}
-              placeholder="Search for recipes by name..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
             />
           </div>
         )}
-        <div className={styles.searchButtonContainer}>
-          <button className={styles.searchButton} onClick={activeSearchBar === 'ingredient' ? searchRecipes : searchByName}>
-            {isLoading ? 'Searching...' : 'Search'}
-          </button>
-          <button className={styles.toggleButton} onClick={toggleSearchBar}>
-            Search by {activeSearchBar === 'ingredient' ? 'Recipe Name' : 'Ingredients'}
-          </button>
+        <button
+          type="button"
+          onClick={handleSearch}
+          className={styles.searchButton}
+        >
+          Search
+        </button>
+        <hr />
+        <div className={styles.gridContainer}>
+          {recipes.map((recipe) => (
+            <Link to={`/recipe/${recipe.id}`} key={recipe.title} className={styles.cardLink}>
+              <Card
+                title={recipe.title}
+                ingredients={recipe.ingredients}
+                image={recipe.image_url}
+                recipeId={recipe.id}
+              />
+            </Link>
+          ))}
         </div>
-        {error && <div className={styles.errorMessage}>{error}</div>}
-        {recipes.length > 0 && (
-          <div className={styles.searchResults}>
-            <h2>Found {recipeCount} recipes</h2>
-            {/* Display retrieved recipes here (implementation depends on your recipe data structure) */}
-          </div>
-        )}
+        {errorMessage && <p style={{ color: "red" }}>{errorMessage}</p>}
+        {isLoading && <p>Searching...</p>}
       </div>
       <Footer />
     </>

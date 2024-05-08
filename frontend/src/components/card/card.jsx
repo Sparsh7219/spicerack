@@ -1,27 +1,55 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import Heart from "react-animated-heart";
 import styles from "./card.module.css";
-import fire from "../../assets/fire-flame.gif";
-import food from "./../../assets/Images/food1.png";
 
-const Card = () => {
+const Card = ({ title, ingredients, image, recipeId }) => {
   const [isLiked, setIsLiked] = useState(false);
 
+  const handleLikeClick = (e) => {
+    e.stopPropagation(); // Prevent event propagation to parent elements
+    setIsLiked(!isLiked); // Toggle the like state
+  };
+
+  // Option 1: Separate Click Targets
+  const handleCardClick = () => {
+    // Store the recipe ID in localStorage
+    localStorage.setItem("recipeId", recipeId); // Assuming the recipe title is unique
+  };
+
+  // Option 2: Event Delegation (modify handleCardClick)
+  /* const handleCardClick = (e) => {
+    if (e.target.classList.contains("like-button")) {
+      // Don't store recipe ID and redirect if like button clicked
+      e.stopPropagation();
+      return;
+    }
+    // Store the recipe ID and redirect (original logic)
+    localStorage.setItem("recipeId", recipeId);
+  }; */
+
   return (
-    <div className={styles["recipe-card"]}>
-      <img src={food} alt="Recipe" />
-      <div className={styles["card-content"]}>
-        <h2>Recipe Title</h2>
-        <p>Recipe Description</p>
-        <div className={styles["calories"]}>
-          <img src={fire} alt="Calories" />
-          300 calories
-        </div>
-        <div className={styles["like-button"]}>
-          <Heart isClick={isLiked} onClick={() => setIsLiked(!isLiked)} />
+    <Link to="/RecipeDesc" onClick={handleCardClick} className={styles.cardLink}>
+      <div className={styles["recipe-card"]}>
+        <img src={image} alt="Recipe" />
+        <div className={styles["card-content"]}>
+          <Link to="/RecipeDesc">
+            <h2>{title}</h2>
+          </Link>
+          <p>Ingredients: {ingredients.join(", ")}</p>
+
+          {/* Option 1: Separate Click Target
+          <div className={styles["like-button"]} onClick={handleLikeClick}>
+            <Heart isClick={isLiked} onClick={handleLikeClick} />
+          </div> */}
+
+          {/* Option 2: Event Delegation (remove this section if using Option 1) */}
+          {/**/} <div className={styles["like-button"]} onClick={handleLikeClick}>
+            <Heart isClick={isLiked} onClick={handleLikeClick} />
+          </div> 
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 

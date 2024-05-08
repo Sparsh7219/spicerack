@@ -1,78 +1,213 @@
-/* searchHome.module.css */
+
 .container {
+  max-width: 1200px;
+  width: 100%; /* Add this line to ensure the container occupies the full width */
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #b0a4a46f;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding: 20px;
+  align-items: center; /* Align children in the center horizontally */
+  justify-content: center;
+   /* Align children in the center vertically */
 }
 
-.searchContainer {
-  width: 60%;
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 36px;
   margin-bottom: 20px;
 }
 
-.searchInput {
+p {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+/* Form Styles */
+label {
+  font-size: 20px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+input[type="text"], select {
   width: 100%;
-  padding: 10px;
+  padding: 12px;
   font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 5px;
+  margin-bottom: 15px;
 }
 
-.suggestions {
-  display: flex;
-  flex-wrap: wrap;
-  margin-top: 5px;
+select[multiple] {
+  height: auto;
 }
 
-.tag {
-  background-color: #eee;
-  padding: 5px 10px;
-  margin-right: 5px;
-  margin-bottom: 5px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.selectedIngredients {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.selectedTag {
-  background-color: #007bff;
-  color: #fff;
-  padding: 5px 10px;
-  margin-right: 5px;
-  margin-bottom: 5px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.closeIcon {
-  margin-left: 5px;
-}
-
-.toggleButton {
-  margin-top: 10px;
-  cursor: pointer;
-}
-
-.searchButton {
-  margin-top: 10px;
-  padding: 10px;
-  background-color: #007bff;
-  color: #fff;
+/* Button Styles */
+button {
+  padding: 12px 20px;
+  font-size: 18px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
-.borderContainer {
-  border: 2px solid #ccc;
+.searchButton {
+  background-color: #007bff;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.searchButton:hover {
+  background-color: #0056b3;
+}
+
+/* Tag Styles */
+.tagContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.tag {
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+
+.tag button {
+  background: none;
+  border: none;
+  color: inherit;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.tag button:hover {
+  color: #f00;
+}
+
+/* Recipe Card Styles */
+.recipeCard {
+  border: 1px solid #ccc;
   border-radius: 10px;
-  margin-top: 20px;
   padding: 20px;
-  max-height: 300px;
-  overflow-y: auto;
+  margin-top: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+}
+
+.recipeCard h3 {
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+
+.recipeCard p {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.recipeCard img {
+  max-width: 100%;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.recipeCard ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.recipeCard ul li {
+  margin-bottom: 5px;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.searchContainer {
+  margin-bottom: 20px;
+}
+
+.tagContainer {
+  margin-top: 10px;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 5px 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.closeIcon {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 5px;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.searchButton {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.recipe-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.card-content {
+  padding: 10px;
+}
+
+.card-content h2 {
+  margin-top: 0;
+}
+
+.card-content p {
+  margin-bottom: 10px;
+}
+
+.like-button {
+  text-align: right;
 }
