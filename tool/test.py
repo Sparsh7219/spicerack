@@ -1,22 +1,15 @@
 import json
 
-def add_ids_to_json_file(json_file, start_id):
-    # Read JSON file
-    with open(r'tool\vegetarian.json', 'r', encoding='utf-8') as f:
-        data = json.load(f)
+# Load recipes from input JSON file
+with open(r'tool\recipes.json', 'r') as file:
+    recipes = json.load(file)
 
-    # Add id starting from the specified start_id
-    for i, obj in enumerate(data):
-        obj_with_id = {'id': start_id + i}  # Adding IDs starting from start_id
-        obj_with_id.update(obj)  # Merge the original object with the id field added
-        data[i] = obj_with_id  # Replace the original object with the new one
+# Extract titles from recipes
+titles = [recipe['title'] for recipe in recipes]
 
-    # Write the updated JSON back to the file
-    with open(json_file, 'w') as f:
-        json.dump(data, f, indent=4)
+# Create a dictionary to store titles
+titles_dict = {'titles': titles}
 
-# Example usage:
-if __name__ == "__main__":
-    json_file = 'vegetarian.json'  # Change this to your JSON file path
-    start_id = 3536
-    add_ids_to_json_file(json_file, start_id)
+# Write titles to output JSON file
+with open('recipe_titles.json', 'w') as file:
+    json.dump(titles_dict, file, indent=4)
