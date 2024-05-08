@@ -27,7 +27,7 @@ const Login = () => {
     event.preventDefault(); // Prevent default form submission behavior
 
     try {
-      const response = await Axios.post('http:localhost/api/login', {
+      const response = await Axios.get('http:localhost/api/login', {
         username,
         password,
       });

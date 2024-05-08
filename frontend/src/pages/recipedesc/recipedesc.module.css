@@ -8,7 +8,7 @@
   text-align: center;
   padding: 20px;
   border-radius: 20px;
-  background-color: #f7fafa40 !important;
+  background-color: #f7fafaa1 !important;
   /* Change background color */
 }
 
@@ -21,7 +21,7 @@
 .rectangle {
   width: 100%;
   height: auto;
-  background: #f7fafa40;
+  background: #f7fafaa1;
   margin-top: 10px;
   border-radius: 20px;
   text-align: center;
