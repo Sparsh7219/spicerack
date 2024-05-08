@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify, render_template
 from models.search_models import unique_ingredients, DEFAULT_INGREDIENTS, search_recipes_by_ingredients, \
-    search_recipes_by_name, recipes
+    search_recipes_by_name, recipes, find_missing_ingredients
 
 bp = Blueprint("search_routes", __name__)
 
@@ -33,3 +33,15 @@ def search_recipes():
             return jsonify({'message': 'No recipes found with that name.'}), 404
     else:
         return jsonify({'message': 'Please provide ingredients or a recipe name to search for recipes.'}), 400
+
+@bp.route('/api/missing-ingredients', methods=['POST'])
+def get_missing_ingredients():
+    data = request.get_json()
+    user_ingredients = data.get('user_ingredients', [])
+    recipe_ingredients = data.get('recipe_ingredients', [])
+
+    if not user_ingredients or not recipe_ingredients:
+        return jsonify({'error': 'Please provide user ingredients and recipe ingredients.'}), 400
+
+    missing_ingredients = find_missing_ingredients(user_ingredients, recipe_ingredients)
+    return jsonify({'missing_ingredients': missing_ingredients})

@@ -41,3 +41,10 @@ recipes = load_recipes_from_file(r'recipes\recipes.json')
 
 # Get unique ingredients for dropdown
 unique_ingredients = get_unique_ingredients(recipes)
+
+def find_missing_ingredients(user_ingredients, recipe_ingredients):
+    missing_ingredients = []
+    for ingredient in recipe_ingredients:
+        if ingredient.lower() not in user_ingredients:
+            missing_ingredients.append(ingredient)
+    return missing_ingredients
