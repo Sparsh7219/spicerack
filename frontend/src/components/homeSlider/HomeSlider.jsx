@@ -20,7 +20,7 @@ const HomeSlider = () => {
 
   const handlebtnClick = (recipeType) => {
     setSelectedRecipeType(recipeType);
-    // Navigate only after storing the type
+    // Navigate to RecipeSelector page with the selected recipe type
     window.location.href = `/recipeselect/${recipeType}`;
   };
 

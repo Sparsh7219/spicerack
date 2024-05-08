@@ -5,6 +5,7 @@ import Footer from '../../components/footer/footer';
 import { Link } from 'react-router-dom'; 
 import { createAvatar } from '@dicebear/core';
 import { adventurer } from '@dicebear/collection';
+import Axios from 'axios'; // Import Axios
 
 const Signup = () => {
   const [email, setEmail] = useState('');
@@ -23,10 +24,22 @@ const Signup = () => {
     setPassword(event.target.value);
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     event.preventDefault();
-    // Handle form submission logic here
+    
+    try {
+      const response = await Axios.post('http://localhost:5000/api/signup', {
+        email,
+        username,
+        password,
+      });
+  
+      console.log(response.data); // Log the response from the backend
+    } catch (error) {
+      console.error('Error:', error); // Handle errors during the API request
+    }
   };
+  
 
   const avatar = createAvatar(adventurer, {
     seed: username.trim() // Using the trimmed username as seed
