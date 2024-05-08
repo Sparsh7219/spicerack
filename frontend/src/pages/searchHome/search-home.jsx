@@ -4,6 +4,7 @@ import Navbar from "../../components/navbar/navbar";
 import Footer from "../../components/footer/footer";
 import styles from "./searchHome.module.css";
 import uniqueIngredients from "../../../../Backend/app/recipes/unique_ingredients.json";
+import recipetitle from "../../../../Backend/app/recipes/recipe_titles.json";
 import Card from "../../components/card/card"; // Import Card component
 import { Link } from "react-router-dom"; // Import Link from react-router-dom
 
@@ -24,7 +25,9 @@ const SearchHome = () => {
   };
 
   const handleIngredientRemoval = (ingredient) => {
-    setSelectedIngredients(selectedIngredients.filter((item) => item !== ingredient));
+    setSelectedIngredients(
+      selectedIngredients.filter((item) => item !== ingredient)
+    );
   };
 
   const handleRecipeNameChange = (event) => {
@@ -42,7 +45,9 @@ const SearchHome = () => {
       } else if (recipeName) {
         params.recipe_name = recipeName;
       } else {
-        setErrorMessage("Please provide ingredients or a recipe name to search.");
+        setErrorMessage(
+          "Please provide ingredients or a recipe name to search."
+        );
         return;
       }
 
@@ -85,15 +90,20 @@ const SearchHome = () => {
       <Navbar />
       <div className={styles.container}>
         <h1>Recipe Search</h1>
-        <p><b>Default ingredients are:</b></p>
-        <p>salt, pepper, oil, butter, sugar, water, garam masala, pepper, black pepper, turmeric, chili powder, chili pepper, turmeric powder, ghee</p>
+        <p>
+          <b>Default ingredients are:</b>
+        </p>
+        <p>
+          salt, pepper, oil, butter, sugar, water, garam masala, pepper, black
+          pepper, turmeric, chili powder, chili pepper, turmeric powder, ghee
+        </p>
         <div>
-        <br/>
-            <br/>
+          <br />
+          <br />
           <label>
             Search by:
-            <br/>
-            <br/>
+            <br />
+            <br />
             <select
               value={searchByIngredients}
               onChange={() => setSearchByIngredients(!searchByIngredients)}
@@ -166,12 +176,17 @@ const SearchHome = () => {
         <hr />
         <div className={styles.gridContainer}>
           {recipes.map((recipe) => (
-            <Link to={`/recipe/${recipe.id}`} key={recipe.title} className={styles.cardLink}>
+            <Link
+              to={`/recipe/${recipe.id}`}
+              key={recipe.title}
+              className={styles.cardLink}
+            >
               <Card
                 title={recipe.title}
                 ingredients={recipe.ingredients}
                 image={recipe.image_url}
                 recipeId={recipe.id}
+                selectedIngredients={selectedIngredients} // Pass selectedIngredients here
               />
             </Link>
           ))}

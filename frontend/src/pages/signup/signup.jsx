@@ -7,6 +7,10 @@ import { createAvatar } from '@dicebear/core';
 import { adventurer } from '@dicebear/collection';
 import Axios from 'axios'; // Import Axios
 
+
+const BACKEND_URL = "http://localhost:5000/";
+
+
 const Signup = () => {
   const [email, setEmail] = useState('');
   const [username, setUsername] = useState('');

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Heart from "react-animated-heart";
 import styles from "./card.module.css";
 
-const Card = ({ title, ingredients, image, recipeId }) => {
+const Card = ({ title, ingredients, image, recipeId, selectedIngredients }) => {
   const [isLiked, setIsLiked] = useState(false);
 
   const handleLikeClick = (e) => {
@@ -16,6 +16,10 @@ const Card = ({ title, ingredients, image, recipeId }) => {
     // Store the recipe ID in localStorage
     localStorage.setItem("recipeId", recipeId); // Assuming the recipe title is unique
   };
+  const missingIngredients = ingredients.filter(
+    (ingredient) => !selectedIngredients.includes(ingredient)
+  );
+
 
   // Option 2: Event Delegation (modify handleCardClick)
   /* const handleCardClick = (e) => {
@@ -37,7 +41,11 @@ const Card = ({ title, ingredients, image, recipeId }) => {
             <h2>{title}</h2>
           </Link>
           <p>Ingredients: {ingredients.join(", ")}</p>
-
+          {missingIngredients.length > 0 && (
+            <p style={{ color: "red" }}>
+              Missing Ingredients: {missingIngredients.join(", ")}
+            </p>
+          )}
           {/* Option 1: Separate Click Target
           <div className={styles["like-button"]} onClick={handleLikeClick}>
             <Heart isClick={isLiked} onClick={handleLikeClick} />
