@@ -1,0 +1,127 @@
+
+
+.recipe-card {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    background: rgba(125, 122, 122, 0.8); /* Semi-transparent white background */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    position: relative; /* Position relative for pseudo-element */
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    height: 100%; /* Take up full height */
+    object-fit: cover; /* Ensure the image covers the entire space */
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    position: relative; /* Position relative for absolute positioning */
+  }
+  
+  .like-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-content h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .card-content p {
+    color: #555;
+  }
+  
+  .calories {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    color: #777;
+    font-size: 0.9rem;
+  }
+  
+  .calories img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  /* Glass effect background */
+  .recipe-card:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.2));
+    pointer-events: none;
+    z-index: -1;
+  }
+  .recipe-select {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px;
+  }
+  
+  .recipe-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+  }
+  
+  .recipe-card {
+    background-color: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .recipe-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+  }
+  
+  .card-content {
+    padding: 20px;
+  }
+  
+  .card-content h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .card-content p {
+    margin: 10px 0;
+    color: #777;
+  }
+  
+  .card-content p:first-of-type {
+    font-weight: bold;
+  }
+  .recipe-title {
+    text-transform: uppercase;
+    color: #ede7e7; /* Change the color to your desired color */
+  }
+    

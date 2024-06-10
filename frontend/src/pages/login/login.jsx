@@ -8,12 +8,10 @@ import food1 from '../../assets/Images/bg1.jpeg';
 import { Link } from 'react-router-dom'; 
 import Axios from 'axios';
 
-const BACKEND_URL = "http://localhost:5000/";
-
-
 const Login = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
 
   const handleUsernameChange = (event) => {
     setUsername(event.target.value);
@@ -33,15 +31,16 @@ const Login = () => {
         username,
         password,
       });
-  
-      if (response.data.success) {
-        localStorage.setItem('userId', response.data.user_id);
-        window.location.href = '/';
+
+      if (response.data.message === 'Login successful') {
+        localStorage.setItem('username', username);
+        window.location.href = '/'; // Redirect to home page after successful login
       } else {
-        console.error('Login failed:', response.data.message);
+        setError(response.data.message); // Display error message to the user
       }
     } catch (error) {
       console.error('Error:', error);
+      setError('An error occurred. Please try again later.');
     }
   };
   
@@ -66,6 +65,7 @@ const Login = () => {
           <div className={style.input}>
             <input type='password' placeholder='Password' onChange={(e) => setPassword(e.target.value)} />
           </div>
+          {error && <p className={style.error}>{error}</p>} {/* Display error message if present */}
           <button className={`${style.btn} ${style.premiumBtn}`} onClick={handleLogin}>Login</button>
           <Link to="/SignUp">
             <button className={`${style.btn} ${style.premiumBtn}`}>Sign Up</button>

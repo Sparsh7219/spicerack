@@ -12,8 +12,8 @@ const BACKEND_URL = "http://localhost:5000/";
 
 
 const Signup = () => {
-  const [email, setEmail] = useState('');
   const [username, setUsername] = useState('');
+  const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
   const handleEmailChange = (event) => {
@@ -32,6 +32,7 @@ const Signup = () => {
     event.preventDefault();
     
     try {
+      console.log(email,password,username)
       const response = await Axios.post('http://localhost:5000/api/signup', {
         email,
         username,

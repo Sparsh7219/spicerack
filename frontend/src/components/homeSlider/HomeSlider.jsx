@@ -6,6 +6,7 @@ import "swiper/css";
 import recipes from "../../../../Backend/app/recipes/recipes.json"; // Adjust path if needed
 import "swiper/css";
 import "swiper/css/navigation";
+import "./HomeSlider.css"; // Import CSS file for styling
 
 const HomeSlider = () => {
   // Filter recipes starting from ID 361
@@ -65,22 +66,22 @@ const HomeSlider = () => {
         ))}
       </Swiper>
       <div className="tags-container">
-        <button className="tag" onClick={() => handlebtnClick("gluten_free")}>
+        <button className="tag tag-gluten-free" onClick={() => handlebtnClick("gluten_free")}>
           Gluten-Free
         </button>
-        <button className="tag" onClick={() => handlebtnClick("healthy")}>
+        <button className="tag tag-healthy" onClick={() => handlebtnClick("healthy")}>
           Healthy
         </button>
-        <button className="tag" onClick={() => handlebtnClick("low_carb")}>
+        <button className="tag tag-low-carb" onClick={() => handlebtnClick("low_carb")}>
           Low Carb
         </button>
-        <button className="tag" onClick={() => handlebtnClick("low_calorie")}>
+        <button className="tag tag-low-calorie" onClick={() => handlebtnClick("low_calorie")}>
           Low Calorie
         </button>
-        <button className="tag" onClick={() => handlebtnClick("vegan")}>
+        <button className="tag tag-vegan" onClick={() => handlebtnClick("vegan")}>
           Vegan
         </button>
-        <button className="tag" onClick={() => handlebtnClick("vegetarian")}>
+        <button className="tag tag-vegetarian" onClick={() => handlebtnClick("vegetarian")}>
           Vegetarian
         </button>
       </div>

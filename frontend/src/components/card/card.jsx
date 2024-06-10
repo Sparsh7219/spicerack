@@ -1,24 +1,43 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Heart from "react-animated-heart";
+// import Heart from "react-animated-heart";
 import styles from "./card.module.css";
 
 const Card = ({ title, ingredients, image, recipeId, selectedIngredients }) => {
   const [isLiked, setIsLiked] = useState(false);
 
-  const handleLikeClick = (e) => {
-    e.stopPropagation(); // Prevent event propagation to parent elements
-    setIsLiked(!isLiked); // Toggle the like state
-  };
+  // const handleLikeClick = (e) => {
+  //   e.stopPropagation(); // Prevent event propagation to parent elements
+  //   setIsLiked(!isLiked); // Toggle the like state
+  // };
 
   // Option 1: Separate Click Targets
   const handleCardClick = () => {
     // Store the recipe ID in localStorage
     localStorage.setItem("recipeId", recipeId); // Assuming the recipe title is unique
   };
+  const defaultIngredients = [
+    "salt",
+    "pepper",
+    "oil",
+    "butter",
+    "sugar",
+    "water",
+    "garam masala",
+    "black pepper",
+    "turmeric",
+    "chili powder",
+    "chili pepper",
+    "turmeric powder",
+    "ghee"
+  ];
+  
   const missingIngredients = ingredients.filter(
-    (ingredient) => !selectedIngredients.includes(ingredient)
+    (ingredient) =>
+      !selectedIngredients.includes(ingredient) &&
+      !defaultIngredients.includes(ingredient)
   );
+  
 
 
   // Option 2: Event Delegation (modify handleCardClick)
@@ -52,9 +71,9 @@ const Card = ({ title, ingredients, image, recipeId, selectedIngredients }) => {
           </div> */}
 
           {/* Option 2: Event Delegation (remove this section if using Option 1) */}
-          {/**/} <div className={styles["like-button"]} onClick={handleLikeClick}>
+           {/* <div className={styles["like-button"]} onClick={handleLikeClick}>
             <Heart isClick={isLiked} onClick={handleLikeClick} />
-          </div> 
+          </div>  */}
         </div>
       </div>
     </Link>
